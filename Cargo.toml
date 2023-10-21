@@ -1,0 +1,16 @@
+[package]
+name = "api-gibtalk"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+axum = "0.6.20"
+axum-macros = "0.3.8"
+http = "0.2.9"
+rust_search = "2.0.0"
+serde =  { version = "1.0.189", features = ["derive"] }
+tokio = { version = "1.33.0", features = ["full"] }
+tower-http = { version = "0.4.4", features = ["fs"] }
+url = "2.4.1"
