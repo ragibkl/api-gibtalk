@@ -26,9 +26,9 @@ async fn symbols_search(
     let mut search: Vec<String> = SearchBuilder::default()
         .location("./media")
         .search_input(&query.q)
-        .limit(50) // results to return
+        .limit(100) // results to return
         .ext(".png")
-        .depth(2)
+        .depth(3)
         .ignore_case()
         .hidden()
         .build()
