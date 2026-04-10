@@ -20,6 +20,64 @@ struct SymbolEntry {
     tags: Vec<String>,
 }
 
+impl Symbol {
+    fn score(&self, query: &str, terms: &[&str]) -> i32 {
+        let name_lower = self.name.to_lowercase();
+
+        // Exact name match
+        if name_lower == *query {
+            return 100;
+        }
+
+        // Name starts with query
+        if name_lower.starts_with(query) {
+            return 80;
+        }
+
+        // Name contains query
+        if name_lower.contains(query) {
+            return 60;
+        }
+
+        // Exact tag match
+        for tag in &self.tags {
+            let tag_lower = tag.to_lowercase();
+            if tag_lower == *query {
+                return 50;
+            }
+        }
+
+        // Tag contains query
+        for tag in &self.tags {
+            let tag_lower = tag.to_lowercase();
+            if tag_lower.contains(query) {
+                return 30;
+            }
+        }
+
+        // Partial: any search term matches name or tags
+        let mut matched_terms = 0;
+        for term in terms {
+            if name_lower.contains(term) {
+                matched_terms += 1;
+                continue;
+            }
+            for tag in &self.tags {
+                if tag.to_lowercase().contains(term) {
+                    matched_terms += 1;
+                    break;
+                }
+            }
+        }
+
+        if matched_terms > 0 {
+            return 10 * matched_terms as i32;
+        }
+
+        0
+    }
+}
+
 impl SymbolIndex {
     pub fn load(media_dir: &str) -> Self {
         let mut symbols = Vec::new();
@@ -66,7 +124,7 @@ impl SymbolIndex {
             .symbols
             .iter()
             .filter_map(|symbol| {
-                let score = self.score(symbol, &query_lower, &terms);
+                let score = symbol.score(&query_lower, &terms);
                 if score > 0 {
                     Some((symbol, score))
                 } else {
@@ -77,61 +135,5 @@ impl SymbolIndex {
 
         scored.sort_by(|a, b| b.1.cmp(&a.1));
         scored.into_iter().take(limit).map(|(s, _)| s).collect()
-    }
-
-    fn score(&self, symbol: &Symbol, query: &str, terms: &[&str]) -> i32 {
-        let name_lower = symbol.name.to_lowercase();
-
-        // Exact name match
-        if name_lower == *query {
-            return 100;
-        }
-
-        // Name starts with query
-        if name_lower.starts_with(query) {
-            return 80;
-        }
-
-        // Name contains query
-        if name_lower.contains(query) {
-            return 60;
-        }
-
-        // Exact tag match
-        for tag in &symbol.tags {
-            let tag_lower = tag.to_lowercase();
-            if tag_lower == *query {
-                return 50;
-            }
-        }
-
-        // Tag contains query
-        for tag in &symbol.tags {
-            let tag_lower = tag.to_lowercase();
-            if tag_lower.contains(query) {
-                return 30;
-            }
-        }
-
-        // Partial: any search term matches name or tags
-        let mut matched_terms = 0;
-        for term in terms {
-            if name_lower.contains(term) {
-                matched_terms += 1;
-                continue;
-            }
-            for tag in &symbol.tags {
-                if tag.to_lowercase().contains(term) {
-                    matched_terms += 1;
-                    break;
-                }
-            }
-        }
-
-        if matched_terms > 0 {
-            return 10 * matched_terms as i32;
-        }
-
-        0
     }
 }
