@@ -1,7 +1,14 @@
-use axum::{extract::Query, routing::get, Json, Router};
+mod index;
+
+use axum::{
+    extract::{Query, State},
+    routing::get,
+    Json, Router,
+};
 use http::Method;
-use rust_search::{similarity_sort, SearchBuilder};
+use index::SymbolIndex;
 use serde::{Deserialize, Serialize};
+use std::sync::Arc;
 use tower_http::{
     cors::{Any, CorsLayer},
     services::ServeDir,
@@ -19,27 +26,19 @@ struct SymbolOutput {
     url: String,
 }
 
-#[axum_macros::debug_handler]
-async fn symbols_search(Query(query): Query<SymbolsSearchQuery>) -> Json<Vec<SymbolOutput>> {
-    let mut search: Vec<String> = SearchBuilder::default()
-        .location("./media")
-        .search_input(&query.q)
-        .limit(100) // results to return
-        .ext(".png")
-        .depth(3)
-        .ignore_case()
-        .hidden()
-        .build()
-        .collect();
-    similarity_sort(&mut search, &query.q);
-
+async fn symbols_search(
+    State(index): State<Arc<SymbolIndex>>,
+    Query(query): Query<SymbolsSearchQuery>,
+) -> Json<Vec<SymbolOutput>> {
     let base_url = std::env::var("BASE_URL").unwrap_or("http://localhost:3000/".to_string());
     let base_url = Url::parse(&base_url).unwrap();
 
-    let result = search
+    let results = index.search(&query.q, 100);
+
+    let result = results
         .into_iter()
-        .filter_map(|s| {
-            let url = base_url.join(&s).ok()?.to_string();
+        .filter_map(|symbol| {
+            let url = base_url.join(&symbol.file).ok()?.to_string();
             Some(SymbolOutput { url })
         })
         .collect();
@@ -52,6 +51,8 @@ async fn health() -> &'static str {
 }
 
 fn build_router() -> Router {
+    let index = Arc::new(SymbolIndex::load("./media"));
+
     let cors = CorsLayer::new()
         .allow_methods(vec![Method::GET, Method::POST])
         .allow_origin(Any);
@@ -60,6 +61,7 @@ fn build_router() -> Router {
         .route("/health", get(health))
         .route("/api/symbols/search/", get(symbols_search))
         .nest_service("/media/", ServeDir::new("media"))
+        .with_state(index)
         .layer(cors)
         .layer(TraceLayer::new_for_http())
 }
@@ -111,7 +113,7 @@ mod tests {
         let response = app
             .oneshot(
                 Request::builder()
-                    .uri("/api/symbols/search/?q=apple")
+                    .uri("/api/symbols/search/?q=ketupat")
                     .body(Body::empty())
                     .unwrap(),
             )
@@ -123,7 +125,29 @@ mod tests {
         let body = hyper::body::to_bytes(response.into_body()).await.unwrap();
         let results: Vec<SymbolOutput> = serde_json::from_slice(&body).unwrap();
         assert!(!results.is_empty());
-        assert!(results[0].url.contains("apple"));
+        assert!(results[0].url.contains("ketupat"));
+    }
+
+    #[tokio::test]
+    async fn test_search_by_tag() {
+        let app = build_router();
+
+        let response = app
+            .oneshot(
+                Request::builder()
+                    .uri("/api/symbols/search/?q=cookies")
+                    .body(Body::empty())
+                    .unwrap(),
+            )
+            .await
+            .unwrap();
+
+        assert_eq!(response.status(), StatusCode::OK);
+
+        let body = hyper::body::to_bytes(response.into_body()).await.unwrap();
+        let results: Vec<SymbolOutput> = serde_json::from_slice(&body).unwrap();
+        assert!(!results.is_empty());
+        assert!(results[0].url.contains("kuih-raya"));
     }
 
     #[tokio::test]

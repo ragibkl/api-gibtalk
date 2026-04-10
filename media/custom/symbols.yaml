@@ -1,0 +1,19 @@
+- name: baju-raya
+  file: hari-raya/baju-raya.png
+  tags: [clothes, clothing, outfit, traditional, malay, hijab, boy, girl, celebration, festival, hari raya, eid]
+
+- name: ketupat
+  file: hari-raya/ketupat.png
+  tags: [food, rice, dumpling, green, traditional, malay, celebration, festival, hari raya, eid]
+
+- name: kuih-raya
+  file: hari-raya/kuih-raya.png
+  tags: [food, cookies, snack, sweets, dessert, traditional, malay, celebration, festival, hari raya, eid]
+
+- name: my-turn
+  file: play/my-turn.png
+  tags: [turn, my turn, me, play, game, sharing, take turns]
+
+- name: your-turn
+  file: play/your-turn.png
+  tags: [turn, your turn, you, play, game, sharing, take turns]
