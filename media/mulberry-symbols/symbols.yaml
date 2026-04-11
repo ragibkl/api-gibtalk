@@ -3178,3 +3178,927 @@
 - name: dysphagia-cup
   file: dysphagia_cup.png
   tags: [dysphagia, cup, mug, handle, drinking, adaptive, special-needs, medical, swallowing, drink, therapy, feeding, green]
+- name: ear-muffs
+  file: ear_muffs.png
+  tags: [ear muffs, earmuffs, headphones, hearing protection, cold weather, winter, noise, warmth, accessories, head, ears, sound protection, wearable]
+- name: ear
+  file: ear.png
+  tags: [ear, hearing, listen, body part, head, sound, sense, human, anatomy, lobe, auditory, deaf, noise]
+- name: earrings
+  file: earrings.png
+  tags: [earrings, jewellery, jewelry, accessories, fashion, dangly, piercing, decoration, dress up, green, red, beads, wear]
+- name: earth-crust
+  file: Earth_crust.png
+  tags: [earth crust, geology, layers, planet, earth, science, cross section, outer layer, rock, tectonic, surface, geography, diagram]
+- name: earth-inner-core
+  file: Earth_inner_core.png
+  tags: [inner core, earth, geology, planet, layers, science, cross section, centre, iron, solid, diagram, geography, deep]
+- name: earth-mantle
+  file: Earth_mantle.png
+  tags: [mantle, earth, geology, layers, planet, science, cross section, rock, molten, diagram, geography, middle layer, magma]
+- name: earth-outer-core
+  file: Earth_outer_core.png
+  tags: [outer core, earth, geology, layers, planet, science, cross section, liquid, iron, diagram, geography, deep, interior]
+- name: earth
+  file: Earth.png
+  tags: [earth, planet, world, globe, continents, oceans, space, geography, blue, green, environment, nature, map]
+- name: earths-atmosphere
+  file: Earths_atmosphere.png
+  tags: [atmosphere, earth, planet, air, sky, layers, science, environment, ozone, space, globe, geography, gases]
+- name: earthworm
+  file: earthworm.png
+  tags: [earthworm, worm, invertebrate, animal, soil, garden, nature, segmented, pink, creature, underground, biology, pest]
+- name: earwig
+  file: earwig.png
+  tags: [earwig, insect, bug, invertebrate, creature, antenna, pincer, brown, nature, garden, pest, biology, arthropod]
+- name: easter-egg-hunt
+  file: Easter_egg_hunt.png
+  tags: [Easter egg hunt, Easter, eggs, basket, holiday, celebration, spring, activity, colourful, children, tradition, search, decorated]
+- name: easter-egg
+  file: Easter_egg.png
+  tags: [Easter egg, Easter, egg, holiday, celebration, spring, decorated, colourful, bow, tradition, festive, yellow, pattern]
+- name: east
+  file: east.png
+  tags: [east, direction, compass, arrow, right, navigate, map, orientation, cardinal, geography, point, bearing, symbol]
+- name: eat-1-to
+  file: eat_1_to.png
+  tags: [eat, spoon, food, feeding, meal, mouth, person, action, hunger, utensil, breakfast, consume, self-care]
+- name: eat-2-to
+  file: eat_2_to.png
+  tags: [eat, food, hand, finger food, person, action, mouth, meal, consume, hunger, snack, feeding, berry]
+- name: eat-to
+  file: eat_to.png
+  tags: [eat, food, burger, meal, person, action, mouth, hungry, consume, lunch, dinner, sandwich, feeding]
+- name: egg-boiled
+  file: egg_boiled.png
+  tags: [boiled egg, egg, egg cup, breakfast, food, cooked, meal, soft boiled, yellow, protein, morning, cook, healthy]
+- name: egg-cup
+  file: egg_cup.png
+  tags: [egg cup, cup, egg, chicken, breakfast, kitchenware, holder, blue, food, tableware, morning, cook, crockery]
+- name: egg-fried
+  file: egg_fried.png
+  tags: [fried egg, egg, food, breakfast, cooked, yolk, white, fry, meal, protein, sunny side up, cook, morning]
+- name: egg-on-toast
+  file: egg_on_toast.png
+  tags: [egg, toast, bread, fried-egg, breakfast, food, meal, yolk, egg-white, sunny-side-up, snack, cooking, brunch]
+- name: egg
+  file: egg.png
+  tags: [egg, chicken, hen, food, oval, breakfast, cooking, ingredient, poultry, farm, single-egg, yellow]
+- name: eggs
+  file: eggs.png
+  tags: [eggs, carton, egg-carton, chicken, dozen, grocery, food, shopping, poultry, farm, multiple, breakfast, ingredient]
+- name: eggs-scrambled
+  file: eggs_scrambled.png
+  tags: [scrambled-eggs, eggs, cooked, breakfast, food, plate, chicken, meal, cooking, fried, yellow, soft]
+- name: egg-white
+  file: egg_white.png
+  tags: [egg-white, albumen, fried-egg, egg, cooking, food, breakfast, ingredient, yolk, sunny-side-up, protein, arrow, label]
+- name: egg-yolk
+  file: egg_yolk.png
+  tags: [egg-yolk, yolk, fried-egg, egg, cooking, food, breakfast, ingredient, yellow, sunny-side-up, protein, arrow, label]
+- name: eight-dots
+  file: eight_dots.png
+  tags: [eight, dots, circles, counting, quantity, number, eight-items, purple, pattern, visual-counting, AAC, mathematics]
+- name: eighteen
+  file: eighteen.png
+  tags: [eighteen, 18, number, digit, counting, mathematics, quantity, numeral, teen, purple, text]
+- name: eighth
+  file: eighth.png
+  tags: [eighth, one-eighth, fraction, pie-chart, mathematics, part, portion, quantity, ordinal, division, circle]
+- name: eight
+  file: eight.png
+  tags: [eight, 8, number, digit, counting, mathematics, quantity, numeral, purple, text, single-digit]
+- name: eighty
+  file: eighty.png
+  tags: [eighty, 80, number, digit, counting, mathematics, quantity, numeral, purple, text, double-digit]
+- name: either
+  file: either.png
+  tags: [either, choice, choose, option, decision, question, two-options, arrows, boxes, alternative, or, selection]
+- name: elbow
+  file: elbow.png
+  tags: [elbow, arm, joint, body-part, anatomy, bent-arm, human-body, pain, pointing, arrow, skin, limb]
+- name: elearning
+  file: elearning.png
+  tags: [elearning, online-learning, education, computer, study, school, person, document, writing, internet, technology, training, digital-learning]
+- name: elephant
+  file: elephant.png
+  tags: [elephant, animal, wildlife, mammal, tusk, trunk, grey, large, zoo, safari, Africa, nature]
+- name: eleven
+  file: eleven.png
+  tags: [eleven, 11, number, digit, counting, mathematics, quantity, numeral, purple, text, double-digit, teen]
+- name: elf
+  file: elf.png
+  tags: [elf, Christmas, Santa, festive, holiday, costume, green, red, hat, fantasy, character, decoration, winter]
+- name: e-lower-case
+  file: e_-_lower_case.png
+  tags: [e, letter, lowercase, alphabet, vowel, literacy, writing, phonics, language, symbol, character, purple]
+- name: emagazine
+  file: emagazine.png
+  tags: [emagazine, magazine, digital, online, reading, computer, monitor, publication, book, media, screen, articles, technology]
+- name: email-attachment
+  file: email_attachment.png
+  tags: [email-attachment, attachment, email, send, file, document, computer, monitor, transfer, paperclip, digital, communication, internet]
+- name: email
+  file: email.png
+  tags: [email, computer, message, communication, send, receive, at-sign, internet, digital, technology, monitor, arrow]
+- name: email-send-to
+  file: email_send_to.png
+  tags: [email, send, computer, message, communication, at-sign, arrow, internet, digital, technology, transmit]
+- name: emery-board
+  file: emery_board.png
+  tags: [emery board, nail file, manicure, grooming, nails, beauty, personal care, hands, filing, hygiene]
+- name: empty
+  file: empty.png
+  tags: [empty, glass, cup, nothing, none, zero, container, measure, level, quantity, drink]
+- name: energy-monitor
+  file: energy_monitor.png
+  tags: [energy monitor, electricity, power, plug, socket, meter, measurement, device, consumption, electrical, utility, display]
+- name: engine
+  file: engine.png
+  tags: [engine, motor, machine, mechanical, vehicle, car, power, cylinder, technology, transport, machinery]
+- name: english-class
+  file: english_class.png
+  tags: [english class, lesson, school, education, learning, reading, writing, book, pen, students, podium, classroom, language]
+- name: english
+  file: english.png
+  tags: [english, language, book, writing, pen, reading, education, school, subject, notebook, learning]
+- name: enough
+  file: enough.png
+  tags: [enough, sufficient, full, glass, drink, quantity, level, measure, adequate, tick, check, satisfied]
+- name: enter-door-to
+  file: enter_door_to.png
+  tags: [enter, door, inside, go in, walk in, person, room, building, arrival, access, open door]
+- name: enter-to
+  file: enter_to.png
+  tags: [enter, go in, arrow, inside, box, move, navigation, direction, symbol, access, import]
+- name: envelope
+  file: envelope.png
+  tags: [envelope, letter, mail, post, message, send, communication, sealed, paper, correspondence]
+- name: letter-E
+  file: E.png
+  tags: [letter E, alphabet, uppercase, capital, literacy, reading, writing, phonics, symbol, language]
+- name: escalator
+  file: escalator.png
+  tags: [escalator, stairs, moving, building, shopping mall, transport, up, mechanical, steps, public, access]
+- name: escape-to
+  file: escape_to.png
+  tags: [escape, run, flee, door, exit, person, leave, hurry, emergency, fast, open door, safety]
+- name: even
+  file: even.png
+  tags: [even, equal, same, balanced, symmetry, arrows, both ways, level, flat, concept, match]
+- name: every
+  file: every.png
+  tags: [every, all, each, multiple, boxes, arrows, selection, quantity, concept, repeat, include]
+- name: excited-lady
+  file: excited_lady.png
+  tags: [excited, happy, woman, lady, smile, emotion, face, joy, expression, female, pleased]
+- name: excited-man
+  file: excited_man.png
+  tags: [excited, happy, man, male, smile, emotion, face, joy, expression, pleased, cheerful]
+- name: exercise-to
+  file: exercise_to.png
+  tags: [exercise, stretch, fitness, person, workout, active, sport, physical, body, health, movement, hands on hips]
+- name: exit-door-to
+  file: exit_door_to.png
+  tags: [exit, door, leave, go out, walking, person, open door, building, departure, outside, go through door]
+- name: exit-to
+  file: exit_to.png
+  tags: [exit, leave, go out, arrow, direction, out, navigate, room, space, departure, move]
+- name: extension-lead
+  file: extension_lead.png
+  tags: [extension lead, power strip, plug, electricity, electrical, cable, socket, outlet, cord, power, household]
+- name: extra-2
+  file: extra_2.png
+  tags: [extra, more, additional, quantity, add, increase, top up, portion, serving, bar chart, amount]
+- name: extra-large
+  file: extra_large.png
+  tags: [extra large, XL, size, big, large, biggest, compare, sizing, clothing, shape, selection]
+- name: extra
+  file: extra.png
+  tags: [extra, more, additional, top up, drink, cup, glass, quantity, refill, add more, portion]
+- name: eyebrow-bushy
+  file: eyebrow_bushy.png
+  tags: [eyebrow, bushy eyebrow, thick eyebrow, face, eye, brow, hair, grooming, facial feature, ungroomed, hairy]
+- name: eyebrow-pencil
+  file: eyebrow_pencil.png
+  tags: [eyebrow pencil, makeup, cosmetics, beauty, brow, drawing, pencil, eye, grooming, eyeliner, apply makeup]
+- name: eyebrow
+  file: eyebrow.png
+  tags: [eyebrow, brow, face, eye, facial feature, grooming, hair, skin, forehead, arch, body part]
+- name: eye-drops
+  file: eye_drops.png
+  tags: [eye drops, medicine, medication, eye care, drops, health, treatment, bottle, dropper, vision, pharmacy]
+- name: eyelash-curler
+  file: eyelash_curler.png
+  tags: [eyelash curler, beauty tool, cosmetics, makeup, eyelash, curling, grooming, beauty, tool, implement, lash]
+- name: eyelash
+  file: eyelash.png
+  tags: [eyelash, lash, eye, face, beauty, facial feature, fringe, body part, blink, makeup, eyelid]
+- name: eye
+  file: eye.png
+  tags: [eye, face, see, look, vision, sight, body part, eyebrow, eyelash, iris, facial feature]
+- name: eyes-blue
+  file: eyes_blue.png
+  tags: [eyes, blue eyes, eye color, face, look, see, vision, pair of eyes, eyebrows, eyelashes, blue]
+- name: eyes-brown
+  file: eyes_brown.png
+  tags: [eyes, brown eyes, eye color, face, look, see, vision, pair of eyes, eyebrows, eyelashes, brown]
+- name: eyes-closed
+  file: eyes_closed.png
+  tags: [eyes closed, closed eyes, sleep, tired, blink, face, rest, shut, eyelashes, eyebrows, calm]
+- name: eyes-green
+  file: eyes_green.png
+  tags: [eyes, green eyes, eye color, face, look, see, vision, pair of eyes, eyebrows, eyelashes, green]
+- name: eye-shadow
+  file: eye_shadow.png
+  tags: [eye shadow, makeup, cosmetics, beauty, compact, eyeshadow, colour, apply, eyelid, palette, grooming]
+- name: eyes
+  file: eyes.png
+  tags: [eyes, face, look, see, vision, pair of eyes, eyebrows, eyelashes, sight, watching, body part]
+- name: garage
+  file: garage.png
+  tags: [garage, car, building, parking, vehicle, house, storage, shelter, drive, home, structure]
+- name: garden-chair-folding
+  file: garden_chair_folding.png
+  tags: [chair, folding chair, garden, outdoor, furniture, seat, patio, camping, deck, foldable, relax, outside]
+- name: garden-clippers
+  file: garden_clippers.png
+  tags: [clippers, pruners, secateurs, garden, tool, cut, trim, prune, shears, plant, gardening]
+- name: gardener-1a
+  file: gardener_1a.png
+  tags: [gardener, person, man, garden, shears, hedge clippers, worker, outdoor, job, occupation, trimming]
+- name: gardener-1b
+  file: gardener_1b.png
+  tags: [gardener, person, man, dark skin, garden, shears, hedge clippers, worker, outdoor, job, occupation, trimming]
+- name: gardener-2a
+  file: gardener_2a.png
+  tags: [gardener, person, woman, garden, shears, hedge clippers, worker, outdoor, job, occupation, trimming]
+- name: gardener-2b
+  file: gardener_2b.png
+  tags: [gardener, person, woman, dark skin, garden, shears, hedge clippers, worker, outdoor, job, occupation, trimming]
+- name: garlic-bread
+  file: garlic_bread.png
+  tags: [garlic bread, bread, garlic, food, baguette, loaf, baked, eat, snack, Italian, side dish, cooking]
+- name: garlic-crusher
+  file: garlic_crusher.png
+  tags: [garlic crusher, garlic press, kitchen tool, utensil, cooking, crush, press, gadget, metal, food preparation]
+- name: garlic
+  file: garlic.png
+  tags: [garlic, bulb, clove, vegetable, food, ingredient, cooking, flavour, spice, plant, herb, kitchen]
+- name: geography-class
+  file: geography_class.png
+  tags: [geography class, classroom, lesson, school, students, globe, book, learning, education, subject, teacher, world]
+- name: geography
+  file: geography.png
+  tags: [geography, globe, book, subject, school, world, map, earth, education, learning, study]
+- name: get-dressed-to
+  file: get_dressed_to.png
+  tags: [get dressed, dress, clothes, clothing, put on, shirt, dressing, morning routine, action, daily living, self-care]
+- name: get-off-bus-to
+  file: get_off_bus_to.png
+  tags: [get off bus, bus, exit, disembark, transport, public transport, travel, action, person, stop, leave, vehicle]
+- name: get-on-bus-to
+  file: get_on_bus_to.png
+  tags: [get on bus, bus, board, embark, transport, public transport, travel, action, person, stop, vehicle, ride]
+- name: get-out-of-chair-to
+  file: get_out_of_chair_to.png
+  tags: [get out of chair, chair, stand up, rise, action, movement, sitting, mobility, daily living, person, stand]
+- name: get-to
+  file: get_to.png
+  tags: [get, fetch, reach, hand, grab, take, action, object, receive, obtain, touch, ball]
+- name: get-up-2-to
+  file: get_up_2_to.png
+  tags: [get up, stand up, rise, sitting, action, person, movement, upward, arrow, daily living, mobility, chair]
+- name: get-up-to
+  file: get_up_to.png
+  tags: [get up, rise, floor, lying down, action, person, movement, morning, daily living, mobility, stand, arrow]
+- name: ghost
+  file: ghost.png
+  tags: [ghost, spooky, halloween, scary, spirit, phantom, monster, supernatural, fantasy, white, haunt, pretend]
+- name: giraffe
+  file: giraffe.png
+  tags: [giraffe, animal, wildlife, tall, neck, savanna, zoo, mammal, spots, yellow, brown, Africa]
+- name: give-to
+  file: give_to.png
+  tags: [give, share, hand, transfer, offer, pass, apple, fruit, generosity, action, verb, receive]
+- name: give-up-cake-to
+  file: give_up_cake_to.png
+  tags: [give up, no cake, stop, forbidden, cake, dessert, sweet, diet, restriction, no, refuse, avoid]
+- name: give-up-foods-to
+  file: give_up_foods_to.png
+  tags: [give up, no food, forbidden, diet, restriction, cheese, bread, meat, stop eating, avoid, refuse, no]
+- name: glass-drinking
+  file: glass_drinking.png
+  tags: [glass, drink, cup, empty, water, beverage, tumbler, vessel, transparent, tall glass, container]
+- name: glasses
+  file: glasses.png
+  tags: [glasses, spectacles, eyewear, vision, see, eyes, frames, lenses, reading glasses, accessories, optician]
+- name: glass
+  file: glass.png
+  tags: [glass, broken, shatter, fragments, cup, accident, smash, pieces, danger, careful, spill, sharp]
+- name: glitter
+  file: glitter.png
+  tags: [glitter, sparkle, craft, art, tube, pour, stars, hexagons, colourful, decoration, shiny, creative, party]
+- name: globe
+  file: globe.png
+  tags: [globe, world, earth, map, geography, countries, planet, stand, education, travel, international, continents]
+- name: gloves
+  file: gloves.png
+  tags: [gloves, hands, winter, warm, clothing, brown, pair, fingers, protection, wear, cold, accessories]
+- name: g-lower-case
+  file: g_-_lower_case.png
+  tags: [letter g, lowercase, alphabet, literacy, phonics, letter, written, purple, reading, spelling, language]
+- name: glue
+  file: glue.png
+  tags: [glue, bottle, craft, stick, adhesive, art, brush, attach, bond, school supplies, white glue, PVA]
+- name: glue-stick
+  file: glue_stick.png
+  tags: [glue stick, adhesive, craft, school, art, cap, tube, stick, attach, bond, stationery, supplies]
+- name: gnat
+  file: gnat.png
+  tags: [gnat, insect, bug, fly, wings, tiny, pest, nature, small, antenna, flying, creature]
+- name: goal
+  file: goal.png
+  tags: [goal, football, net, soccer, sport, post, score, game, play, aim, target, kick]
+- name: go-in-to
+  file: go_in_to.png
+  tags: [go in, enter, inside, room, building, person, arrow, direction, door, action, movement, indoors]
+- name: gold-bar
+  file: gold_bar.png
+  tags: [gold bar, gold, treasure, wealth, money, valuable, bullion, yellow, metal, rich, finance, ingot]
+- name: goldfish-bowl
+  file: goldfish_bowl.png
+  tags: [goldfish bowl, fish tank, aquarium, pet, goldfish, water, bowl, fish, seaweed, home, round, care]
+- name: goldfish
+  file: goldfish.png
+  tags: [goldfish, fish, orange, pet, aquatic, fins, tail, pond, water, animal, swimming, bright]
+- name: golf-club
+  file: golf_club.png
+  tags: [golf club, golf, sport, swing, player, iron, ball, outdoor, leisure, person, club, game]
+- name: golf
+  file: golf.png
+  tags: [golf, sport, club, swing, ball, outdoor, leisure, activity, game, player]
+- name: good-person
+  file: good_person.png
+  tags: [good, person, thumbs-up, approve, kind, positive, nice, friendly, well-behaved, praise, compliment]
+- name: good
+  file: good.png
+  tags: [good, thumbs-up, yes, approve, positive, like, great, okay, well-done, agree]
+- name: good-to-drink
+  file: good_to_drink.png
+  tags: [good, drink, safe, beverage, cup, thumbs-up, drinkable, okay, swallow, thirst]
+- name: good-to-eat-2
+  file: good_to_eat_2.png
+  tags: [good, eat, food, safe, edible, thumbs-up, taste, mouth, bite, okay, snack]
+- name: good-to-eat
+  file: good_to_eat.png
+  tags: [good, eat, food, safe, edible, thumbs-up, spoon, taste, mouth, meal, okay]
+- name: gooseberry
+  file: gooseberry.png
+  tags: [gooseberry, fruit, berry, green, food, plant, garden, sour, snack, produce]
+- name: goose
+  file: goose.png
+  tags: [goose, bird, animal, white, wings, farm, waterfowl, wildlife, feathers, beak, nature]
+- name: goose-roast
+  file: goose_roast.png
+  tags: [goose, roast, food, cooked, meat, poultry, meal, dinner, roasted, eat]
+- name: go-out-2-to
+  file: go_out_2_to.png
+  tags: [go out, leave, exit, room, building, indoors, arrow, direction, person, movement, action]
+- name: go-outside-to
+  file: go_outside_to.png
+  tags: [go outside, outdoors, nature, tree, sun, movement, action, person, direction, arrow, fresh-air]
+- name: gorilla
+  file: gorilla.png
+  tags: [gorilla, animal, ape, primate, wildlife, zoo, mammal, strong, large, nature]
+- name: go-through-door-to
+  file: go_through_door_to.png
+  tags: [go through, door, enter, walk, movement, action, person, room, open, passage, transition]
+- name: go-to
+  file: go_to.png
+  tags: [go, move, travel, direction, arrow, person, action, walk, navigate, forward]
+- name: letter-G
+  file: G.png
+  tags: [G, letter, alphabet, literacy, uppercase, symbol, language, writing, capital, ABC]
+- name: grab-1-to
+  file: grab_1_to.png
+  tags: [grab, hold, hand, ball, grasp, pick up, reach, action, take, touch, grip]
+- name: grab-to
+  file: grab_to.png
+  tags: [grab, hold, wrist, hand, grasp, catch, action, reach, take, hold on, restrain]
+- name: grains
+  file: grains.png
+  tags: [grains, wheat, bread, pasta, carbohydrate, food, cereal, flour, staple, nutrition, crop]
+- name: grandfather
+  file: grandfather.png
+  tags: [grandfather, grandpa, family, elder, old man, relative, parent, generation, grandparent, grandchild]
+- name: grandmother
+  file: grandmother.png
+  tags: [grandmother, grandma, family, elder, old woman, relative, parent, generation, grandparent, grandchild]
+- name: grandparents
+  file: grandparents.png
+  tags: [grandparents, family, relatives, grandmother, grandfather, people, faces, circles, elderly, ancestors, generations, kinship]
+- name: grapefruit-juice
+  file: grapefruit_juice.png
+  tags: [grapefruit juice, juice, drink, beverage, glass, citrus, yellow, fruit juice, grapefruit, refreshment, liquid, cup]
+- name: grapefruit
+  file: grapefruit.png
+  tags: [grapefruit, fruit, citrus, yellow, pink, sliced, halved, food, tropical fruit, bitter, breakfast]
+- name: grape-juice
+  file: grape_juice.png
+  tags: [grape juice, juice, drink, beverage, purple, grapes, glass, fruit juice, liquid, refreshment, cup]
+- name: grapes
+  file: grapes.png
+  tags: [grapes, fruit, green, bunch, vine, cluster, food, produce, fresh fruit, berries, snack]
+- name: graph-column
+  file: graph_column.png
+  tags: [bar graph, chart, column chart, data, statistics, graph, bars, colourful, maths, information, compare, visual data]
+- name: grass
+  file: grass.png
+  tags: [grass, plant, green, lawn, garden, nature, outdoor, blades, ground cover, yard, vegetation, leaves]
+- name: grater
+  file: grater.png
+  tags: [grater, kitchen, utensil, cooking, cheese grater, tool, metal, shred, box grater, food preparation, kitchenware]
+- name: grate-to
+  file: grate_to.png
+  tags: [grate, grating, action, cooking, hands, grater, shred, food preparation, cheese, kitchen, verb, scrape]
+- name: gravity
+  file: gravity.png
+  tags: [gravity, earth, planet, orbit, force, science, physics, moon, pull, space, attraction, rotation, arrow]
+- name: gravy-boat
+  file: gravy_boat.png
+  tags: [gravy boat, gravy, sauce, jug, kitchenware, pourer, serving, yellow, tableware, condiment, dinner, vessel]
+- name: gravy-pour-to
+  file: gravy_pour_to.png
+  tags: [pour gravy, pouring, gravy, sauce, action, verb, gravy boat, liquid, flow, cooking, serving, brown]
+- name: great
+  file: great.png
+  tags: [great, thumbs up, excellent, good, approve, praise, positive, hands, gesture, well done, fantastic, success]
+- name: green-beans
+  file: green_beans.png
+  tags: [green beans, beans, vegetable, green, food, produce, fresh, pods, healthy, cooking, garden, string beans]
+- name: green-dark
+  file: green_dark.png
+  tags: [dark green, colour, paint, green, shade, dark, colour swatch, paint bucket, rainbow, hue, pigment, tone]
+- name: greengrocer-1a
+  file: greengrocer_1a.png
+  tags: [greengrocer, person, shopkeeper, vegetables, fruit, market, shop, occupation, worker, produce, pepper, apron, light skin]
+- name: greengrocer-1b
+  file: greengrocer_1b.png
+  tags: [greengrocer, person, shopkeeper, vegetables, fruit, market, shop, occupation, worker, produce, pepper, apron, dark skin]
+- name: greengrocer-2a
+  file: greengrocer_2a.png
+  tags: [greengrocer, woman, shopkeeper, vegetables, fruit, market, shop, occupation, worker, produce, pepper, apron, light skin]
+- name: greengrocer-2b
+  file: greengrocer_2b.png
+  tags: [greengrocer, woman, shopkeeper, vegetables, fruit, market, shop, occupation, worker, produce, pepper, apron, dark skin]
+- name: green-light
+  file: green_light.png
+  tags: [light green, colour, paint, green, shade, pale, colour swatch, paint bucket, rainbow, hue, pigment, tone]
+- name: green
+  file: green.png
+  tags: [green, colour, color, paint, bucket, rainbow, splash, blob, bright, lime]
+- name: grey-dark
+  file: grey_dark.png
+  tags: [grey, dark grey, colour, color, paint, bucket, rainbow, charcoal, shade, dark]
+- name: grey-light
+  file: grey_light.png
+  tags: [grey, light grey, colour, color, paint, bucket, rainbow, pale, shade, silver]
+- name: grill-pan
+  file: grill_pan.png
+  tags: [grill, grill pan, pan, cookware, kitchen, cooking, barbeque, bbq, griddle, equipment]
+- name: grill-to
+  file: grill_to.png
+  tags: [grill, cook, cooking, barbeque, bbq, meat, steak, chops, griddle, pan, food, kitchen]
+- name: ground
+  file: ground.png
+  tags: [ground, soil, earth, land, tree, nature, outdoors, below, surface, down, arrow]
+- name: group-work
+  file: group_work.png
+  tags: [group work, team, collaboration, meeting, table, people, together, cooperative, class, school, work]
+- name: grow-2-to
+  file: grow_2_to.png
+  tags: [grow, plant, seedling, sun, sunlight, nature, garden, sprout, photosynthesis, growing]
+- name: grow-hair-2-to
+  file: grow_hair_2_to.png
+  tags: [grow hair, hair, stubble, bald, head, face, regrowth, short hair, man, grooming]
+- name: grow-hair-to
+  file: grow_hair_to.png
+  tags: [grow hair, hair, long hair, woman, profile, blonde, growing, length, arrow, change, hairstyle]
+- name: grow-to
+  file: grow_to.png
+  tags: [grow up, grow, development, baby, child, adult, stages, age, maturity, life, person]
+- name: guess-to
+  file: guess_to.png
+  tags: [guess, think, question, wonder, unsure, uncertain, thought bubble, question mark, person, pondering]
+- name: guinea-pig
+  file: guinea_pig.png
+  tags: [guinea pig, animal, pet, rodent, small animal, cavy, furry, cute, mammal, yellow]
+- name: guitar
+  file: guitar.png
+  tags: [guitar, acoustic guitar, music, instrument, strings, musical instrument, play, strum, band, song]
+- name: gum
+  file: gum.png
+  tags: [gum, gums, mouth, teeth, dental, oral health, lips, smile, dentist, body part]
+- name: Guy-Fawkes
+  file: Guy_Fawkes.png
+  tags: [Guy Fawkes, historical figure, parliament, bonfire night, November 5, history, England, hat, gunpowder plot, London]
+- name: guy
+  file: guy.png
+  tags: [guy, effigy, bonfire, fire, fireworks night, November 5, Guy Fawkes, straw man, flames, tradition]
+- name: gym-1
+  file: gym_1.png
+  tags: [gym, gymnasium, exercise, PE, physical education, climbing frame, ball, vault, school, sport, equipment]
+- name: hairbrush
+  file: hairbrush.png
+  tags: [hairbrush, brush, hair, grooming, tool, bristles, handle, self-care, hygiene, styling, personal-care]
+- name: hair-bunches
+  file: hair_bunches.png
+  tags: [hair, bunches, pigtails, girl, hairstyle, blonde, face, styling, self-care, appearance, hair-tie]
+- name: hair-conditioner
+  file: hair_conditioner.png
+  tags: [conditioner, hair, bottle, shampoo, grooming, bathroom, self-care, hygiene, hair-care, leave-in, product]
+- name: hair-curler
+  file: hair_curler.png
+  tags: [hair-curler, roller, curls, styling, hair, grooming, beauty, self-care, cylinder, hairstyle, tool]
+- name: hair-curlers-electric
+  file: hair_curlers_electric.png
+  tags: [electric-curlers, hair-rollers, heated-rollers, styling, curls, electric, beauty, grooming, hair, appliance, self-care]
+- name: hair-curling-tongs
+  file: hair_curling_tongs.png
+  tags: [curling-tongs, curling-iron, hair, styling, curls, heat, tool, beauty, grooming, appliance, self-care]
+- name: haircut
+  file: haircut.png
+  tags: [haircut, scissors, hair, cutting, trim, salon, barber, grooming, styling, self-care, hairdresser]
+- name: hairdryer
+  file: hairdryer.png
+  tags: [hairdryer, blow-dryer, hair, drying, appliance, electric, grooming, styling, heat, bathroom, self-care]
+- name: hair-dye-1
+  file: hair_dye_1.png
+  tags: [hair-dye, colour, dark, black, hair, box, bottle, beauty, grooming, colouring, self-care, salon]
+- name: hair-dye
+  file: hair_dye.png
+  tags: [hair-dye, colour, brown, hair, box, bottle, beauty, grooming, colouring, self-care, salon, woman]
+- name: hair-plaits
+  file: hair_plaits.png
+  tags: [plaits, braids, hair, girl, hairstyle, blonde, face, styling, self-care, appearance, pigtails]
+- name: hair-ponytail
+  file: hair_ponytail.png
+  tags: [ponytail, hair, hairstyle, blonde, girl, face, styling, self-care, tied-hair, appearance, hair-tie]
+- name: hairspray
+  file: hairspray.png
+  tags: [hairspray, spray, bottle, hair, styling, grooming, beauty, self-care, hold, aerosol, product]
+- name: half
+  file: half.png
+  tags: [half, fraction, one-half, maths, quantity, divide, number, circle, proportion, split]
+- name: Halloween
+  file: Halloween.png
+  tags: [Halloween, witch, pumpkin, jack-o-lantern, broomstick, October, holiday, costume, spooky, scary, celebration]
+- name: hamburger-carton
+  file: hamburger_carton.png
+  tags: [hamburger-carton, takeaway-box, food-container, packaging, fast-food, carton, box, lunch, meal, container, restaurant]
+- name: hamburger
+  file: hamburger.png
+  tags: [hamburger, burger, bun, lettuce, patty, fast-food, food, meal, eat, lunch, snack]
+- name: hammer
+  file: hammer.png
+  tags: [hammer, claw-hammer, tool, building, DIY, construction, nail, hit, carpentry, hardware, repair]
+- name: ham-packet
+  file: ham_packet.png
+  tags: [ham, packet, sliced-ham, meat, food, pork, deli, supermarket, packaging, cold-meat, lunch]
+- name: ham
+  file: ham.png
+  tags: [ham, pork, pig, meat, sliced, food, deli, cold-meat, pink, animal, lunch]
+- name: hamster-food
+  file: hamster_food.png
+  tags: [hamster, food, seeds, pellets, pet, rodent, feeding, eating, pet care, animal, small animal, snack]
+- name: hamster-maze
+  file: hamster_maze.png
+  tags: [hamster, maze, puzzle, toy, pet, play, activity, enrichment, labyrinth, rodent, game, small animal]
+- name: hamster
+  file: hamster.png
+  tags: [hamster, animal, pet, rodent, small animal, furry, yellow, cute, whiskers, sitting, mammal]
+- name: hand-bag
+  file: hand_bag.png
+  tags: [handbag, bag, purse, accessory, fashion, carry, shoulder bag, women, pink, pocket, shopping]
+- name: hand-cream
+  file: hand_cream.png
+  tags: [hand cream, lotion, moisturiser, tube, skin care, beauty, hygiene, hands, cream, grooming, personal care]
+- name: handcuffs
+  file: handcuffs.png
+  tags: [handcuffs, police, arrest, restraint, crime, law, security, key, metal, lock, criminal justice]
+- name: handle-bars
+  file: handle_bars.png
+  tags: [handlebars, bicycle, bike, steering, cycling, grips, transport, ride, sport, BMX, control]
+- name: hand-mixer
+  file: hand_mixer.png
+  tags: [hand mixer, blender, immersion blender, kitchen, cooking, appliance, food preparation, electric, green, mixing, baking]
+- name: hand-punch
+  file: hand_punch.png
+  tags: [hole punch, pliers, tool, craft, paper, office, stationery, metal, cutting, hand tool, DIY]
+- name: handsome
+  file: handsome.png
+  tags: [handsome, man, face, attractive, blonde, good looking, appearance, person, male, head, expression]
+- name: hangar
+  file: hangar.png
+  tags: [hangar, airport, aircraft, aeroplane, building, aviation, storage, plane, transport, large building, flying]
+- name: hang-coat-to
+  file: hang_coat_to.png
+  tags: [coat hook, hang, coat, jacket, hook, clothing, wall hook, blue, storage, hallway, tidy]
+- name: hang-to
+  file: hang_to.png
+  tags: [hang, bar, grip, hold, gymnastics, exercise, fitness, pull-up bar, arms, sport, physical activity, body weight]
+- name: hankerchief
+  file: hankerchief.png
+  tags: [handkerchief, cloth, fabric, square, pocket square, tissue, nose, wipe, textile, accessory, hygiene]
+- name: happy-lady
+  file: happy_lady.png
+  tags: [happy, woman, lady, smile, face, smiling, expression, emotion, cheerful, joyful, female, person]
+- name: happy-man
+  file: happy_man.png
+  tags: [happy, man, smile, face, smiling, expression, emotion, cheerful, joyful, male, person, content]
+- name: hard-hat
+  file: hard_hat.png
+  tags: [hard hat, helmet, safety, construction, builder, protection, head gear, yellow, worker, building site, PPE]
+- name: hard
+  file: hard.png
+  tags: [hard, impact, force, press, push down, arrow, surface, solid, resistance, concept, symbol, difficult]
+- name: hare
+  file: hare.png
+  tags: [hare, rabbit, animal, wild, mammal, ears, brown, long ears, running, nature, wildlife, fast]
+- name: Harvest-Festival
+  file: Harvest_Festival.png
+  tags: [harvest festival, celebration, food, vegetables, fruit, basket, man, autumn, produce, abundance, community, seasonal]
+- name: harvest
+  file: harvest.png
+  tags: [harvest, basket, vegetables, fruit, food, apple, cabbage, wheat, farming, crops, produce, wicker, autumn]
+- name: hat-Christmas
+  file: hat_Christmas.png
+  tags: [hat, christmas, santa, santa hat, red hat, winter, festive, holiday, christmas hat, decoration, seasonal, bobble]
+- name: hatch-to
+  file: hatch_to.png
+  tags: [hatch, egg, chick, duckling, bird, baby animal, born, birth, breaking, shell, yellow, spring, emerge]
+- name: hat-ladies
+  file: hat_-_ladies.png
+  tags: [hat, ladies hat, women, fashion, sun hat, brim, bow, blue, summer, clothing, accessories, wide brim]
+- name: hat-mans
+  file: hat_-_mans.png
+  tags: [hat, mans hat, fedora, trilby, brown, men, fashion, clothing, accessories, brim, felt hat]
+- name: hat-too-big
+  file: hat_too_big.png
+  tags: [hat, too big, winter hat, bobble hat, beanie, oversized, ill-fitting, cold, child, funny, blue hat, face covered]
+- name: haunted-house
+  file: haunted_house.png
+  tags: [haunted house, ghost, spooky, halloween, scary, house, building, spirit, horror, dark, frightening, supernatural]
+- name: hazelnut
+  file: hazelnut.png
+  tags: [hazelnut, nut, food, snack, shelled, kernel, brown, yellow, tree nut, filbert, ingredient, healthy]
+- name: headache
+  file: headache.png
+  tags: [headache, pain, head pain, migraine, sick, illness, person, holding head, lightning bolt, hurt, unwell, symptom, health]
+- name: headband
+  file: headband.png
+  tags: [headband, hair accessory, woman, girl, hair, pink, fashion, accessory, face, hair band, clothing]
+- name: headboard
+  file: headboard.png
+  tags: [headboard, bed, bedroom, furniture, sleep, rest, quilted, pink, bedframe, home, interior]
+- name: headlamp
+  file: headlamp.png
+  tags: [headlamp, lamp, light, car light, vehicle, yellow, bright, circular, front light, headlight, illumination]
+- name: headmouse
+  file: headmouse.png
+  tags: [headmouse, computer, accessibility, assistive technology, eye tracking, gaze control, disability, AAC, computer access, camera, head control, technology]
+- name: headphones
+  file: headphones.png
+  tags: [headphones, music, audio, listen, earphones, sound, stereo, cable, wired, black, media, equipment]
+- name: head
+  file: head.png
+  tags: [head, face, profile, side view, person, human, body part, silhouette, bald, neck, anatomy]
+- name: headpointer-2
+  file: headpointer_2.png
+  tags: [headpointer, computer, accessibility, assistive technology, eye tracking, gaze control, disability, AAC, computer access, camera, head control, female, technology]
+- name: head-teacher-1a
+  file: head_teacher_1a.png
+  tags: [head teacher, principal, school, teacher, man, suit, education, authority, staff, building, leadership, male]
+- name: head-teacher-1b
+  file: head_teacher_1b.png
+  tags: [head teacher, principal, school, teacher, man, suit, education, authority, staff, building, leadership, dark skin, diversity]
+- name: head-teacher-2a
+  file: head_teacher_2a.png
+  tags: [head teacher, principal, school, teacher, woman, pink, education, authority, staff, building, leadership, female]
+- name: head-teacher-2b
+  file: head_teacher_2b.png
+  tags: [head teacher, principal, school, teacher, woman, pink, education, authority, staff, building, leadership, female, dark skin, diversity]
+- name: healthy
+  file: healthy.png
+  tags: [healthy, health, fitness, exercise, running, fruit, banana, apple, wellbeing, active, lifestyle, nutrition, food]
+- name: hearing-aid-1
+  file: hearing_aid_1.png
+  tags: [hearing aid, ear, hearing, deaf, hearing loss, disability, device, behind the ear, BTE, assistive technology, hearing impairment]
+- name: hearing-aid-2
+  file: hearing_aid_2.png
+  tags: [hearing aid, ear, hearing, deaf, in the ear, ITE, hearing loss, disability, device, assistive technology, hearing impairment]
+- name: hear-to
+  file: hear_to.png
+  tags: [hear, listening, ear, hand, cupping ear, sound, attention, hearing, listen carefully, action, verb]
+- name: heart
+  file: heart.png
+  tags: [heart, organ, anatomy, body, cardiac, cardiology, circulatory system, medical, human body, veins, arteries, chest]
+- name: heart-shape
+  file: heart_shape.png
+  tags: [heart shape, love, romance, symbol, valentines, affection, like, care, emotion, feeling, pink, purple]
+- name: heat-to
+  file: heat_to.png
+  tags: [heat, cooking, boiling, pot, saucepan, stove, hot, steam, warm up, kitchen, cook, action, verb]
+- name: heavy
+  file: heavy.png
+  tags: [heavy, weight, scales, balance, kilogram, kg, mass, comparison, heavy object, measuring, concept, adjective]
+- name: hedge-cutters
+  file: hedge_cutters.png
+  tags: [hedge cutters, shears, garden shears, gardening, pruning, trimming, tool, scissors, blades, garden, outdoor, cutting]
+- name: hedgehog
+  file: hedgehog.png
+  tags: [hedgehog, animal, spines, spiky, mammal, wildlife, nature, small animal, pet, yellow, brown, creature]
+- name: hedge
+  file: hedge.png
+  tags: [hedge, bush, shrub, garden, green, flowers, boundary, plants, outdoor, nature, gardening, trimmed, landscape]
+- name: heel-of-shoe
+  file: heel_of_shoe.png
+  tags: [heel, shoe, heel of shoe, footwear, high heel, pump, foot, ankle, shoe heel, clothing, fashion, body part]
+- name: heel
+  file: heel.png
+  tags: [heel, foot, ankle, body part, anatomy, barefoot, toes, leg, human body, skin]
+- name: helicopter
+  file: helicopter.png
+  tags: [helicopter, aircraft, aviation, rotor, transport, vehicle, fly, air travel, green, rotor blades, chopper, sky]
+- name: hello
+  file: hello.png
+  tags: [hello, wave, greeting, hi, person, hand, gesture, salute, goodbye, social, communication, waving]
+- name: helmet-pilot
+  file: helmet_pilot.png
+  tags: [helmet, pilot helmet, flight helmet, oxygen mask, aviator, pilot, safety gear, protective equipment, military, air force, cockpit]
+- name: helmet
+  file: helmet.png
+  tags: [helmet, bike helmet, cycling helmet, safety, protective gear, head protection, sport, blue, bicycle, skateboard, equipment]
+- name: help-to
+  file: help_to.png
+  tags: [help, assist, support, hands, reaching out, cooperation, together, aid, caring, action, verb, handshake, teamwork]
+- name: heptagon
+  file: heptagon.png
+  tags: [heptagon, seven sides, polygon, shape, geometry, mathematics, seven, septagon, 2D shape, maths, purple, irregular polygon]
+- name: heron
+  file: heron.png
+  tags: [heron, bird, wading bird, grey heron, wildlife, nature, animal, long legs, long beak, waterbird, feathers, grey]
+- name: hexagon
+  file: hexagon.png
+  tags: [hexagon, shape, geometry, six-sided, polygon, purple, outline, mathematics, flat-shape, regular-polygon]
+- name: high-chair
+  file: high_chair.png
+  tags: [high chair, baby, infant, feeding, seat, furniture, tray, toddler, mealtime, nursery, child]
+- name: highest
+  file: highest.png
+  tags: [highest, superlative, top, ranking, level, most, squares, comparison, order, position, first]
+- name: high
+  file: high.png
+  tags: [high, tall, building, height, ruler, measure, floors, storey, elevation, architecture, scale]
+- name: hike-2-to
+  file: hike_2_to.png
+  tags: [hike, walking, outdoors, backpack, trail, signpost, sun, nature, trekking, adventure, daytime]
+- name: hike-to
+  file: hike_to.png
+  tags: [hike, walking, backpack, trekking, outdoors, trail, stick, nature, adventure, travel, side-view]
+- name: hip
+  file: hip.png
+  tags: [hip, body, waist, torso, anatomy, side, human-body, arrow, pointing, figure, lower-body]
+- name: hippopotamus
+  file: hippopotamus.png
+  tags: [hippopotamus, hippo, animal, wildlife, mammal, zoo, Africa, large, grey, side-view, nature]
+- name: hips
+  file: hips.png
+  tags: [hips, body, waist, torso, anatomy, arrows, both-sides, figure, human-body, width, lower-body]
+- name: history-class
+  file: history_class.png
+  tags: [history class, school, lesson, students, castle, clock, education, learning, medieval, classroom, past]
+- name: history
+  file: history.png
+  tags: [history, past, castle, clock, time, medieval, fortress, subject, heritage, education, ancient]
+- name: hit-something-to
+  file: hit_something_to.png
+  tags: [hit, punch, strike, fist, action, person, arm, motion, impact, movement, aggression]
+- name: hit-to
+  file: hit_to.png
+  tags: [hit, hammer, strike, smash, impact, sledgehammer, tool, crack, force, action, damage]
+- name: h-lower-case
+  file: h_-_lower_case.png
+  tags: [letter h, lowercase, alphabet, literacy, writing, character, font, purple, consonant, letter, abc]
+- name: hoe
+  file: hoe.png
+  tags: [hoe, garden tool, gardening, farming, digging, soil, handle, agriculture, outdoor, implement, weed]
+- name: hoist
+  file: hoist.png
+  tags: [hoist, patient lift, mobility, disability, care, sling, medical equipment, wheelchair, transfer, assistance, healthcare]
+- name: holdall
+  file: holdall.png
+  tags: [holdall, bag, duffel bag, travel, luggage, carry, sports bag, green, handle, packing, gear]
+- name: hold-hands-to
+  file: hold_hands_to.png
+  tags: [hold hands, hands, touch, connection, care, comfort, together, friendship, support, gesture, love]
+- name: hold-sledge-hammer-to
+  file: hold_sledge_hammer_to.png
+  tags: [sledgehammer, hold, grip, tool, heavy, construction, demolition, hand, hammer, strength, work]
+- name: hold-to
+  file: hold_to.png
+  tags: [hold, cup, glass, hand, drink, grasp, grip, water, beverage, carry, action]
+- name: hole-punch-2
+  file: hole_punch_2.png
+  tags: [hole punch, punching, paper, office, stationery, tool, hand, holes, craft, binder, green]
+- name: hole-punch
+  file: hole_punch.png
+  tags: [hole punch, paper, office, stationery, tool, holes, binder, craft, green, desk]
+- name: hollow
+  file: hollow.png
+  tags: [hollow, tube, cylinder, empty, inside, pipe, open, cross-section, shape, round]
+- name: holly
+  file: holly.png
+  tags: [holly, Christmas, plant, leaf, berries, decoration, festive, green, red, seasonal, winter]
+- name: homepage
+  file: homepage.png
+  tags: [homepage, website, internet, computer, monitor, screen, house, home, browser, online, technology]
+- name: honey
+  file: honey.png
+  tags: [honey, jar, bee, food, sweet, spread, golden, yellow, condiment, beekeeper]
+- name: hooded-top
+  file: hooded_top.png
+  tags: [hoodie, hooded top, clothing, jumper, sweatshirt, hood, casual, pullover, grey, fashion, wear]
+- name: hood-hoodie
+  file: hood_hoodie.png
+  tags: [hood, hoodie, person, wearing, clothing, anonymous, covered, casual, grey, sweatshirt, head]
+- name: hoof
+  file: hoof.png
+  tags: [hoof, animal, horse, foot, leg, brown, cattle, farm, ungulate, body part]
+- name: hoover-to
+  file: hoover_to.png
+  tags: [hoover, vacuum, cleaning, chores, housework, vacuum cleaner, tidy, floor, sweep, person, domestic]
+- name: hop-2-to
+  file: hop_2_to.png
+  tags: [hop, jump, stepping, movement, stepping stones, balance, activity, exercise, person, motion, physical]
+- name: hop-to
+  file: hop_to.png
+  tags: [hop, jump, one leg, balance, movement, activity, exercise, physical, person, motion, action]
+- name: horns
+  file: horns.png
+  tags: [horns, bull, buffalo, animal, head, curved, yellow, cattle, body part, anatomy, farm]
+- name: horse
+  file: horse.png
+  tags: [horse, animal, brown, mane, tail, farm, equine, mammal, pet, riding, four legs]
+- name: hose
+  file: hose.png
+  tags: [hose, garden, water, pipe, coiled, nozzle, outdoor, watering, green, gardening, equipment]
+- name: hot-air-balloon
+  file: hot_air_balloon.png
+  tags: [hot air balloon, balloon, sky, flying, travel, adventure, red, yellow, basket, aerial, transport]
+- name: hot-brush
+  file: hot_brush.png
+  tags: [hot brush, hair styling, curling, beauty, grooming, electric, hair tool, personal care, brush, heated]
+- name: hot-chocolate
+  file: hot_chocolate.png
+  tags: [hot chocolate, drink, beverage, warm, cup, saucer, cream, cocoa, sweet, mug, winter]
+- name: hot-dog
+  file: hot_dog.png
+  tags: [hot dog, food, sausage, bun, mustard, snack, fast food, lunch, meal, American, street food]
+- name: hot-person
+  file: hot_person.png
+  tags: [hot, fever, temperature, forehead, person, sick, illness, checking temperature, health, unwell, sweating]
+- name: hot
+  file: hot.png
+  tags: [hot, heat, warm, temperature, steam, warmth, burning, boiling, feeling, sensation, weather, fire, sweat]
+- name: house
+  file: house.png
+  tags: [house, home, building, residence, dwelling, roof, door, windows, chimney, family, shelter, property, live, stay]
+- name: Houses-of-Parliament
+  file: Houses_of_Parliament.png
+  tags: [Houses of Parliament, parliament, Big Ben, London, government, UK, England, politics, landmark, clock tower, Westminster, building, Britain]
+- name: how-many
+  file: how_many.png
+  tags: [how many, quantity, count, number, amount, question, how much, total, lots, few, many, asking, query, boxes]
+- name: how
+  file: how.png
+  tags: [how, question, query, asking, way, manner, method, question mark, wonder, inquiry, unknown, wh-question]
+- name: letter-H
+  file: H.png
+  tags: [H, letter, alphabet, letter H, uppercase, capital, literacy, spelling, phonics, ABC, written language]
+- name: hug-to
+  file: hug_to.png
+  tags: [hug, embrace, cuddle, hold, arms, people, affection, love, comfort, close, together, squeeze, care, warmth, touching]
+- name: hundred
+  file: hundred.png
+  tags: [hundred, 100, number, one hundred, counting, maths, quantity, numerals, digits, amount, large number, century]
+- name: hungry
+  file: hungry.png
+  tags: [hungry, hunger, food, want food, thinking, eat, feeling, need, stomach, bread, appetite, craving, person, emotion]
+- name: hunt-to
+  file: hunt_to.png
+  tags: [hunt, hunting, hunter, animal, deer, spear, chase, catch, wild, nature, action, prey, track, outdoors]
+- name: husband
+  file: husband.png
+  tags: [husband, man, male, partner, married, marriage, spouse, family, adult, wedding, relationship, sign language, hand]
