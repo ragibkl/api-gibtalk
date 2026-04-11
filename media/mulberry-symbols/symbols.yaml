@@ -2719,3 +2719,462 @@
 - name: cymbals-hand
   file: cymbals_hand.png
   tags: [cymbals, music, instrument, percussion, hand cymbals, play, sound, gold, musical, rhythm, band, noise maker]
+- name: dad-parent
+  file: dad_parent.png
+  tags: [dad, father, parent, man, male, family, person, adult, figure, portrait, face]
+- name: daffodil
+  file: daffodil.png
+  tags: [daffodil, flower, plant, yellow, spring, nature, garden, bloom, petal, narcissus, floral]
+- name: dairy-products
+  file: dairy_products.png
+  tags: [dairy, milk, cheese, butter, food, products, yellow, nutrition, farm, grocery, calcium]
+- name: daisy
+  file: daisy.png
+  tags: [daisy, flower, plant, white, yellow, spring, nature, garden, bloom, petal, floral]
+- name: dance-2-to
+  file: dance_2_to.png
+  tags: [dance, dancing, couple, ballroom, partner, waltz, formal, movement, activity, music, leisure]
+- name: dance-3-to
+  file: dance_3_to.png
+  tags: [dance, dancing, pair, partner, swing, casual, movement, activity, music, leisure, together]
+- name: dance-to
+  file: dance_to.png
+  tags: [dance, dancing, movement, action, body, arms, legs, music, activity, express, solo, jump]
+- name: danish-pastry
+  file: danish_pastry.png
+  tags: [danish, pastry, food, baked, sweet, bread, breakfast, snack, spiral, dessert, bakery]
+- name: darts
+  file: darts.png
+  tags: [darts, dartboard, game, sport, leisure, target, aim, throw, pub, activity, hobby, arrows]
+- name: date
+  file: date.png
+  tags: [date, day, sun, calendar, time, schedule, sunshine, daytime, appointment, planner, yellow]
+- name: dates
+  file: dates.png
+  tags: [dates, fruit, food, sweet, brown, dried, tropical, snack, palm, nutrition, natural]
+- name: daughter
+  file: daughter.png
+  tags: [daughter, child, family, girl, female, parent, relationship, connection, offspring, young, people]
+- name: daydream-to
+  file: daydream_to.png
+  tags: [daydream, imagine, think, dream, thought, bubble, fantasy, person, mind, wonder, relax]
+- name: day
+  file: day.png
+  tags: [day, sun, sunshine, daytime, bright, light, morning, sky, time, weather, yellow, outdoor]
+- name: dead-plant
+  file: dead_plant.png
+  tags: [dead, plant, wilted, dry, brown, leaves, dying, garden, nature, autumn, withered, stem]
+- name: dead
+  file: dead.png
+  tags: [dead, death, grave, gravestone, cemetery, tombstone, cross, loss, memorial, funeral, end]
+- name: decorate-cake-to
+  file: decorate_cake_to.png
+  tags: [decorate, cake, icing, piping, baking, food, birthday, celebration, dessert, sweet, cooking, hands]
+- name: decorate-to
+  file: decorate_to.png
+  tags: [decorate, paint, roller, wall, home, activity, renovate, colour, interior, diy, person, action]
+- name: decorate-tree-to
+  file: decorate_tree_to.png
+  tags: [decorate, tree, christmas, star, ornament, holiday, festive, hand, celebration, seasonal, green]
+- name: deep-fat-fryer
+  file: deep_fat_fryer.png
+  tags: [deep-fat-fryer, fryer, cooking, kitchen, appliance, frying, oil, food, equipment, chips, basket]
+- name: deep
+  file: deep.png
+  tags: [deep, depth, water, pool, shallow, level, measurement, down, arrow, container, swimming, volume, descend, below, surface]
+- name: deer
+  file: deer.png
+  tags: [deer, animal, wildlife, mammal, brown, four-legged, hooves, nature, forest, wild, fawn, standing, creature, herbivore, doe]
+- name: delicious-drink
+  file: delicious_drink.png
+  tags: [delicious, drink, beverage, enjoy, love, heart, tasty, yummy, cup, sipping, favourite, pleasure, happy, want, like]
+- name: delicious-food
+  file: delicious_food.png
+  tags: [delicious, food, eat, enjoy, love, heart, tasty, yummy, spoon, feeding, favourite, pleasure, happy, want, like]
+- name: deliver-2-to
+  file: deliver_2_to.png
+  tags: [deliver, give, hand, box, package, parcel, transfer, pass, person, carrying, sending, action, put, place, receive]
+- name: deliver-to
+  file: deliver_to.png
+  tags: [deliver, delivery, door, package, parcel, box, drop-off, bring, home, entrance, leave, doorstep, courier, send, arrive]
+- name: delivery-person-1a
+  file: delivery_person_1a.png
+  tags: [delivery, person, courier, worker, man, light-skin, trolley, hand-truck, job, occupation, carrier, male, green, service, transport]
+- name: delivery-person-1b
+  file: delivery_person_1b.png
+  tags: [delivery, person, courier, worker, man, dark-skin, trolley, hand-truck, job, occupation, carrier, male, green, service, transport]
+- name: delivery-person-2a
+  file: delivery_person_2a.png
+  tags: [delivery, person, courier, worker, woman, light-skin, trolley, hand-truck, job, occupation, carrier, female, green, service, transport]
+- name: delivery-person-2b
+  file: delivery_person_2b.png
+  tags: [delivery, person, courier, worker, woman, dark-skin, trolley, hand-truck, job, occupation, carrier, female, green, service, transport]
+- name: delivery-trolley
+  file: delivery_trolley.png
+  tags: [trolley, hand-truck, cart, dolly, wheels, transport, carry, move, equipment, delivery, tool, load, warehouse, luggage, wheeled]
+- name: dental-floss
+  file: dental_floss.png
+  tags: [dental-floss, floss, teeth, oral-hygiene, mouth, clean, dental, hygiene, gums, string, hands, container, health, care, tooth]
+- name: dentist-1a
+  file: dentist_1a.png
+  tags: [dentist, doctor, man, light-skin, scrubs, mask, teeth, mouth, dental, oral, health, professional, medical, male, clinic]
+- name: dentist-1b
+  file: dentist_1b.png
+  tags: [dentist, doctor, man, dark-skin, scrubs, mask, teeth, mouth, dental, oral, health, professional, medical, male, clinic]
+- name: dentist-2a
+  file: dentist_2a.png
+  tags: [dentist, doctor, woman, light-skin, scrubs, mask, teeth, mouth, dental, oral, health, professional, medical, female, clinic]
+- name: dentist-2b
+  file: dentist_2b.png
+  tags: [dentist, doctor, woman, dark-skin, scrubs, mask, teeth, mouth, dental, oral, health, professional, medical, female, clinic]
+- name: deodorant
+  file: deodorant.png
+  tags: [deodorant, roll-on, armpit, underarm, hygiene, body, smell, fresh, apply, grooming, personal-care, antiperspirant, blue, bottle, spray]
+- name: deodorant-spray
+  file: deodorant_spray.png
+  tags: [deodorant, spray, aerosol, can, antiperspirant, hygiene, body, fresh, smell, grooming, personal-care, bottle, cap, purple, fragrance]
+- name: desiring-lady
+  file: desiring_lady.png
+  tags: [desire, want, lady, woman, female, face, expression, longing, wish, emotion, feeling, person, hair, smile, adult]
+- name: desiring-man
+  file: desiring_man.png
+  tags: [desire, want, man, male, face, expression, longing, wish, emotion, feeling, person, short-hair, smile, adult, look]
+- name: desk
+  file: desk.png
+  tags: [desk, furniture, table, office, school, work, study, classroom, writing, surface, wood, yellow]
+- name: dessert-menu
+  file: dessert_menu.png
+  tags: [dessert, menu, list, ice cream, sundae, spoon, food, sweet, restaurant, document, paper, order, treat]
+- name: dessert
+  file: dessert.png
+  tags: [dessert, sweet, ice cream, sundae, food, meal, after meal, treat, eating, plate, fork, next course]
+- name: dial-to
+  file: dial_to.png
+  tags: [dial, telephone, phone, keypad, numbers, call, press, finger, button, communication, touch, number pad]
+- name: diamond
+  file: diamond.png
+  tags: [diamond, shape, rhombus, geometry, purple, pink, maths, pattern, four sides, quadrilateral, flat shape]
+- name: dice-to
+  file: dice_to.png
+  tags: [dice, chop, cut, cube, knife, cooking, food preparation, kitchen, hands, slice, small pieces, vegetable]
+- name: dictionary
+  file: dictionary.png
+  tags: [dictionary, book, alphabet, ABC, words, reading, language, education, school, blue, reference, spelling, learn]
+- name: die-to
+  file: die_to.png
+  tags: [die, death, dead, lying down, person, body, flat, still, end of life, unconscious, deceased, human]
+- name: dig-2-to
+  file: dig_2_to.png
+  tags: [dig, trowel, garden, gardening, hand, tool, soil, plant, outdoor, small shovel, digging, earth]
+- name: dig-to
+  file: dig_to.png
+  tags: [dig, shovel, spade, garden, gardening, person, ground, earth, soil, outdoor, work, physical activity, digging]
+- name: dining-table
+  file: dining_table.png
+  tags: [dining table, table, chairs, furniture, eating, kitchen, dining room, family, meal, sit, four chairs, wood]
+- name: dinner-2-people
+  file: dinner_2_people.png
+  tags: [dinner, two people, couple, eating together, table, meal, food, plates, social, family, sitting, man, woman]
+- name: dinner-3-people
+  file: dinner_3_people.png
+  tags: [dinner, three people, family, eating together, table, meal, food, plates, social, group, sitting, sharing]
+- name: dinner-cold
+  file: dinner_cold.png
+  tags: [dinner, cold, food, plate, meal, fork, knife, snowflake, chicken, vegetables, cold meal, temperature]
+- name: dinner-hot
+  file: dinner_hot.png
+  tags: [dinner, hot, food, plate, meal, fork, knife, steam, chicken, vegetables, hot meal, warm, temperature]
+- name: dinner-lady-1a
+  file: dinner_lady_1a.png
+  tags: [dinner lady, school dinner, canteen, food server, apron, hairnet, worker, school, meal, lunch, serving, staff]
+- name: dinner-lady-1b
+  file: dinner_lady_1b.png
+  tags: [dinner lady, school dinner, canteen, food server, apron, hairnet, worker, school, meal, lunch, serving, staff]
+- name: dinner
+  file: dinner.png
+  tags: [dinner, food, plate, meal, fork, knife, chicken, vegetables, eating, evening meal, lunch, supper, cutlery]
+- name: dinner-time-1
+  file: dinner_time_1.png
+  tags: [dinner time, time, clock, plate, fork, knife, drink, glass, mealtime, empty plate, schedule, eating time]
+- name: dinner-time
+  file: dinner_time.png
+  tags: [dinner time, time, clock, plate, fork, knife, drink, glass, food, chicken, meal, mealtime, schedule, eating]
+- name: dinosaur
+  file: dinosaur.png
+  tags: [dinosaur, animal, prehistoric, reptile, t-rex, tyrannosaurus, green, teeth, claws, extinct, fossil, creature, wild, scary, jurassic]
+- name: dip-food-to
+  file: dip_food_to.png
+  tags: [dip, food, sauce, bowl, hand, eating, action, dunking, snack, cooking, dipping, condiment, verb, meal, kitchen]
+- name: dirty-dishes
+  file: dirty_dishes.png
+  tags: [dirty, dishes, sink, washing, kitchen, chores, cleaning, pot, tap, faucet, messy, household, cookware, plates, task]
+- name: dirty
+  file: dirty.png
+  tags: [dirty, stain, clothes, shirt, messy, unclean, laundry, soiled, mark, clothing, smudge, wash, t-shirt, grubby, hygiene]
+- name: disabled-sign
+  file: disabled_sign.png
+  tags: [disabled, wheelchair, accessibility, symbol, sign, handicap, mobility, access, person, disability, inclusive, public, icon, impaired, support]
+- name: disabled-toilet
+  file: disabled_toilet.png
+  tags: [disabled, toilet, wheelchair, accessible, bathroom, accessibility, handicap, restroom, facility, mobility, WC, public, support, inclusion, lavatory]
+- name: disgusted-lady
+  file: disgusted_lady.png
+  tags: [disgusted, woman, lady, female, face, emotion, expression, feeling, disgust, unhappy, frown, reaction, person, adult, revulsion]
+- name: disgusted-man
+  file: disgusted_man.png
+  tags: [disgusted, man, male, face, emotion, expression, feeling, disgust, unhappy, frown, reaction, person, adult, revulsion, grimace]
+- name: dish-cloth
+  file: dish_cloth.png
+  tags: [dish cloth, cloth, cleaning, kitchen, wipe, towel, fabric, washing, chores, household, blue, textile, drying, clean, hygiene]
+- name: dishes
+  file: dishes.png
+  tags: [dishes, plates, cutlery, drying rack, kitchen, fork, knife, utensils, clean, household, tableware, drainer, chores, washing up, meal]
+- name: dish-partitioned
+  file: dish_partitioned.png
+  tags: [dish, plate, partitioned, divided, sections, food, mealtime, bowl, eating, kitchen, tableware, separate, portions, round, lunch]
+- name: dish
+  file: dish.png
+  tags: [dish, baking dish, tray, container, kitchen, cookware, oven, food, rectangular, casserole, cooking, bake, meal, roasting, pan]
+- name: dishwasher
+  file: dishwasher.png
+  tags: [dishwasher, appliance, kitchen, machine, clean, plates, washing, household, electric, chores, dishes, open, rack, domestic, white goods]
+- name: dishwasher-powder
+  file: dishwasher_powder.png
+  tags: [dishwasher powder, detergent, cleaning, powder, box, kitchen, washing, product, household, soap, cleaner, yellow, cup, dishes, supplies]
+- name: dive-2-to
+  file: dive_2_to.png
+  tags: [dive, diving, jump, swimmer, sport, action, water, pool, somersault, tuck, athlete, swimwear, acrobatic, leap, recreation]
+- name: dive-to
+  file: dive_to.png
+  tags: [dive, diving, jump, pool, swimming, sport, action, water, board, springboard, athlete, plunge, recreation, swimwear, leap]
+- name: divide
+  file: divide.png
+  tags: [divide, division, maths, arithmetic, symbol, operator, calculate, number, education, sign, obelus, split, fraction, school, numeracy]
+- name: d-lower-case
+  file: d_-_lower_case.png
+  tags: [letter d, lowercase, alphabet, letter, d, literacy, reading, writing, phonics, symbol, text, font, character, language, education]
+- name: doctor-1a
+  file: doctor_1a.png
+  tags: [doctor, physician, medical, health, stethoscope, white coat, professional, healthcare, person, male, GP, clinic, hospital, medicine, practitioner]
+- name: doctor-1b
+  file: doctor_1b.png
+  tags: [doctor, physician, medical, health, stethoscope, white coat, professional, healthcare, person, dark skin, GP, clinic, hospital, medicine, practitioner]
+- name: doctor-2a
+  file: doctor_2a.png
+  tags: [doctor, medical, health, professional, stethoscope, white coat, female, woman, healthcare, physician, clinic, hospital, GP, person]
+- name: doctor-2b
+  file: doctor_2b.png
+  tags: [doctor, medical, health, professional, stethoscope, white coat, female, woman, healthcare, physician, clinic, hospital, GP, person]
+- name: dog-basket
+  file: dog_basket.png
+  tags: [dog, basket, pet, bed, sleep, rest, animal, canine, home, comfort, yellow, furniture, dog bed, pet supplies, lying]
+- name: dog-bed
+  file: dog_bed.png
+  tags: [dog, bed, pet, sleep, rest, animal, canine, home, comfort, green, cushion, furniture, dog bed, pet supplies, lying]
+- name: dog-biscuits
+  file: dog_biscuits.png
+  tags: [dog, biscuits, treat, bone, food, pet, snack, animal, canine, reward, training, feed, dog food, pet supplies, yellow]
+- name: dog-chew
+  file: dog_chew.png
+  tags: [dog, chew, bone, rawhide, treat, pet, toy, animal, canine, chewing, gnaw, pet supplies, snack, reward, beige]
+- name: dog-coat
+  file: dog_coat.png
+  tags: [dog, coat, jacket, clothing, pet, warm, animal, canine, green, outfit, winter, apparel, pet supplies, dressed, weather]
+- name: dog-food
+  file: dog_food.png
+  tags: [dog, food, tin, can, feed, pet, meal, animal, canine, wet food, pet supplies, tin can, feeding, nutrition, blue]
+- name: dog-kennel
+  file: dog_kennel.png
+  tags: [dog, kennel, house, shelter, home, pet, animal, canine, hutch, outdoor, wood, hut, pet supplies, sleeping, outside]
+- name: dog
+  file: dog.png
+  tags: [dog, animal, pet, canine, brown, labrador, mammal, domestic, companion, four legs, tail, fur, walking, standing, retriever]
+- name: doidy-cup
+  file: doidy_cup.png
+  tags: [doidy cup, cup, drinking, baby, toddler, learning, beaker, handles, blue, mug, drink, sippy cup, infant, feeding, two handles]
+- name: doll
+  file: doll.png
+  tags: [doll, toy, play, girl, baby doll, pink, sitting, pretend, imaginative play, child, clothing, soft toy, face, figure, plaything]
+- name: dolphin
+  file: dolphin.png
+  tags: [dolphin, animal, sea, ocean, marine, mammal, jumping, leaping, grey, water, aquatic, fin, tail, flipper, swim]
+- name: donkey
+  file: donkey.png
+  tags: [donkey, animal, farm, mammal, brown, ears, four legs, standing, livestock, ass, mule, working animal, rural, field, tail]
+- name: door-2
+  file: door_2.png
+  tags: [door, entrance, exit, yellow, room, building, house, open, close, doorknob, frame, indoor, home, go in, go out]
+- name: door
+  file: door.png
+  tags: [door, entrance, exit, green, room, building, house, open, close, doorknob, frame, indoor, home, go in, go out]
+- name: double-bed
+  file: double_bed.png
+  tags: [double bed, bed, sleep, bedroom, furniture, mattress, pillow, rest, couple, large bed, home, night, tired, comfortable, pink]
+- name: doughnut
+  file: doughnut.png
+  tags: [doughnut, donut, food, snack, sweet, dessert, baked, ring, yellow, sugary, treat, bakery, fried, cake, round]
+- name: dove
+  file: dove.png
+  tags: [dove, bird, white, flying, wings, peace, symbol, animal, feathers, flying bird, freedom, sky, gentle, religious]
+- name: download
+  file: download.png
+  tags: [download, computer, internet, arrow, transfer, data, technology, PC, desktop, keyboard, screen, save, file, digital, receive]
+- name: download-to
+  file: download_to.png
+  tags: [download, computer, arrow, internet, save, file, transfer, technology, digital, desktop, keyboard, monitor, data]
+- name: down
+  file: down.png
+  tags: [down, arrow, below, direction, descend, lower, pointing, navigate, scroll, movement, bottom, symbol]
+- name: letter-D
+  file: D.png
+  tags: [letter, D, alphabet, capital, uppercase, purple, literacy, reading, writing, phonics, learning]
+- name: dragonfly
+  file: dragonfly.png
+  tags: [dragonfly, insect, bug, wings, fly, nature, animal, pond, creature, yellow, blue, garden, wildlife]
+- name: draining-board
+  file: draining_board.png
+  tags: [draining board, sink, kitchen, dishes, washing up, tap, drain, drying, worktop, utensils, clean, domestic]
+- name: drama-class
+  file: drama_class.png
+  tags: [drama class, theatre, school, stage, performance, acting, audience, lesson, students, curtains, education, perform, play]
+- name: drama
+  file: drama.png
+  tags: [drama, theatre, stage, performance, acting, curtains, play, performer, show, arts, entertainment, audience, person]
+- name: drawer
+  file: drawer.png
+  tags: [drawer, storage, furniture, open, box, yellow, container, bedroom, pull, chest, organise, tidy]
+- name: drawing-pin
+  file: drawing_pin.png
+  tags: [drawing pin, thumbtack, pin, stationery, attach, board, office, school, metal, pointed, noticeboard, fasten]
+- name: draw-to
+  file: draw_to.png
+  tags: [draw, drawing, pencil, hand, sketch, art, create, paper, write, illustrate, doodle, mark, picture]
+- name: dream-to
+  file: dream_to.png
+  tags: [dream, sleep, bed, night, thought bubble, imagination, rest, sleeping, bedroom, fantasy, pillow, blanket, think]
+- name: dresser
+  file: dresser.png
+  tags: [dresser, furniture, drawers, chest of drawers, bedroom, storage, wood, brown, cabinet, organise, clothes, shelves]
+- name: dressing-gown
+  file: dressing_gown.png
+  tags: [dressing gown, robe, bathrobe, clothing, red, morning, comfortable, relaxing, loungewear, bedroom, warm, wrap, belt]
+- name: dressing-table
+  file: dressing_table.png
+  tags: [dressing table, vanity, mirror, furniture, drawers, bedroom, yellow, makeup, reflection, storage, cabinet, getting ready]
+- name: dress
+  file: dress.png
+  tags: [dress, clothing, blue, skirt, fashion, wear, garment, female, outfit, short sleeve, casual, clothes, apparel]
+- name: dribble-football-to
+  file: dribble_football_to.png
+  tags: [dribble, football, soccer, sport, running, player, ball, kick, activity, exercise, skills, movement, game]
+- name: drill-bit
+  file: drill_bit.png
+  tags: [drill bit, tool, spiral, metal, sharp, pointed, bore, DIY, hardware, construction, hole, twist, workshop]
+- name: drill-electric
+  file: drill_electric.png
+  tags: [electric drill, power tool, drill, green, tool, DIY, construction, bore, hardware, workshop, building, corded, machine]
+- name: drink-2-to
+  file: drink_2_to.png
+  tags: [drink, cup, sipping, beverage, thirsty, person, face, glass, action, swallow, consume, liquid, hydrate]
+- name: drink-3-to
+  file: drink_3_to.png
+  tags: [drink, cup, sipping, beverage, thirsty, person, tilting, glass, swallow, consume, liquid, hydrate, action]
+- name: drink-cold-2
+  file: drink_cold_2.png
+  tags: [drink, cold, beverage, glass, orange juice, juice, snowflake, chilled, cold drink, refreshment, thirst, fluid]
+- name: drink-cold
+  file: drink_cold.png
+  tags: [drink, cold, beverage, cup, saucer, tea, snowflake, chilled, cold drink, refreshment, teacup, cool]
+- name: drink-consistency-firm-spoon
+  file: drink_consistency_firm_spoon.png
+  tags: [drink, consistency, firm, spoon, texture, food texture, thick, solid, dysphagia, glass, beverage, eating]
+- name: drink-consistency-honey-cup
+  file: drink_consistency_honey_cup.png
+  tags: [drink, consistency, honey, viscous, thick, spoon, glass, beverage, texture, dysphagia, drops, fluid, nectar]
+- name: drink-consistency-juice-straw
+  file: drink_consistency_juice_straw.png
+  tags: [drink, consistency, juice, thin, liquid, spoon, glass, beverage, texture, dysphagia, fluid, runny, dripping]
+- name: drink-hot-2
+  file: drink_hot_2.png
+  tags: [drink, hot, beverage, mug, steam, warm, coffee, tea, hot drink, cup, handle, purple, warmth]
+- name: drink-hot
+  file: drink_hot.png
+  tags: [drink, hot, beverage, cup, saucer, tea, steam, warm, hot drink, teacup, warmth, green cup]
+- name: drink-large
+  file: drink_large.png
+  tags: [drink, large, size, big, glass, beverage, juice, tall, portion, quantity, arrow, comparison]
+- name: drink-medium
+  file: drink_medium.png
+  tags: [drink, medium, size, glass, beverage, juice, portion, quantity, arrow, comparison, middle, regular]
+- name: drink
+  file: drink.png
+  tags: [drink, beverage, glass, juice, cup, orange, fluid, liquid, thirst, refreshment, water, vessel]
+- name: drink-small
+  file: drink_small.png
+  tags: [drink, small, size, little, glass, beverage, juice, portion, quantity, arrow, comparison, short]
+- name: drinks
+  file: drinks.png
+  tags: [drinks, beverages, variety, glass, wine glass, coffee cup, juice, tea, collection, multiple, alcohol, refreshment]
+- name: drink-to
+  file: drink_to.png
+  tags: [drink, action, sip, swallow, beverage, glass, person, mouth, thirst, hydration, verb, consuming]
+- name: drip-to
+  file: drip_to.png
+  tags: [drip, drops, water, liquid, falling, rain, wet, droplets, blue, splash, fluid, leak, moisture]
+- name: drive-to
+  file: drive_to.png
+  tags: [drive, car, vehicle, steering wheel, person, seatbelt, transportation, travel, road, driver, action, automobile]
+- name: dropper-pipette
+  file: dropper_pipette.png
+  tags: [dropper, pipette, medicine, laboratory, liquid, tool, science, drops, medical, squeeze, equipment, eyedropper]
+- name: drown-to
+  file: drown_to.png
+  tags: [drown, water, swimming, danger, waves, person, emergency, help, safety, ocean, struggling, swim, distress]
+- name: drum
+  file: drum.png
+  tags: [drum, music, instrument, percussion, drumsticks, snare, beat, rhythm, play, band, sound, musical instrument]
+- name: drumsticks
+  file: drumsticks.png
+  tags: [drumsticks, drum, music, percussion, sticks, instrument, beat, rhythm, play, band, arrow, snare]
+- name: dry-face-to
+  file: dry_face_to.png
+  tags: [dry, face, towel, wash, wipe, hygiene, hands, clean, grooming, bathroom, routine, drying, personal care]
+- name: dry-hair-2-to
+  file: dry_hair_2_to.png
+  tags: [dry, hair, hairdryer, blow-dry, grooming, personal-care, hygiene, woman, face, blonde, beauty, styling, hair-care]
+- name: dry-hair-to
+  file: dry_hair_to.png
+  tags: [dry, hair, hairdryer, blow-dry, grooming, personal-care, hygiene, face, beauty, styling, hair-care, morning-routine]
+- name: dry-hands-2-to
+  file: dry_hands_2_to.png
+  tags: [dry, hands, hand-dryer, machine, bathroom, hygiene, personal-care, clean, electric, air, public-toilet, washing]
+- name: dry-hands-to
+  file: dry_hands_to.png
+  tags: [dry, hands, towel, wipe, hygiene, personal-care, bathroom, clean, paper-towel, hand-drying, washing]
+- name: dry
+  file: dry.png
+  tags: [dry, clothes, washing-line, hang, t-shirt, laundry, clothing, air-dry, washing, chores, housework, line-drying]
+- name: duck
+  file: duck.png
+  tags: [duck, mallard, bird, animal, nature, water-bird, pond, feathers, wildlife, green-head, farm, outdoors]
+- name: dumper-truck
+  file: dumper_truck.png
+  tags: [dumper-truck, truck, vehicle, construction, transport, lorry, yellow, heavy-vehicle, building-site, tipper, machinery, road]
+- name: dust-to
+  file: dust_to.png
+  tags: [dust, cleaning, housework, chores, feather-duster, lamp, tidy, wipe, household, clean, person, activity]
+- name: DVD-player
+  file: DVD_player.png
+  tags: [DVD, player, electronics, disc, media, entertainment, television, home-entertainment, movie, video, device, technology]
+- name: DVD-player-portable
+  file: DVD_player_portable.png
+  tags: [DVD, player, portable, electronics, disc, screen, media, entertainment, movie, video, device, travel, technology]
+- name: dysphagia-cup-2
+  file: dysphagia_cup_2.png
+  tags: [dysphagia, cup, mug, lid, handle, drinking, adaptive, special-needs, medical, swallowing, drink, therapy, feeding]
+- name: dysphagia-cup-3
+  file: dysphagia_cup_3.png
+  tags: [dysphagia, cup, mug, handle, drinking, adaptive, special-needs, medical, swallowing, drink, therapy, feeding, yellow]
+- name: dysphagia-cup
+  file: dysphagia_cup.png
+  tags: [dysphagia, cup, mug, handle, drinking, adaptive, special-needs, medical, swallowing, drink, therapy, feeding, green]
