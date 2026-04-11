@@ -997,3 +997,1725 @@
 - name: button
   file: button.png
   tags: [button, sewing, clothing, blue, round, craft, fastener, fabric, stitch, hole, garment, accessory]
+- name: cabbage
+  file: cabbage.png
+  tags: [cabbage, vegetable, green, food, leaf, round, leafy, plant, produce, healthy, salad, garden, brassica]
+- name: cable-tv
+  file: cable_tv.png
+  tags: [cable tv, television, monitor, screen, set-top box, cable box, technology, electronics, entertainment, media, wire, cable, watch, broadcast]
+- name: cactus
+  file: cactus.png
+  tags: [cactus, plant, desert, spiky, green, succulent, nature, thorns, prickly, arid, dry, garden, outdoor]
+- name: cafe-2
+  file: cafe_2.png
+  tags: [cafe, coffee shop, restaurant, people, waiter, table, chairs, sitting, social, drink, coffee, meeting, group, service, eat out]
+- name: cafe
+  file: cafe.png
+  tags: [cafe, coffee shop, waiter, table, chair, sitting, drink, coffee, cup, service, restaurant, relax, eat out, social]
+- name: cage
+  file: cage.png
+  tags: [cage, enclosure, animal, pet, trap, box, wire, bars, confined, lock, container, green, structure]
+- name: cake-bar
+  file: cake_bar.png
+  tags: [cake bar, wrapped cake, snack, chocolate cake, packaged, food, sweet, treat, confectionery, dessert, brown, yellow, baked]
+- name: cake-case
+  file: cake_case.png
+  tags: [cake case, cupcake liner, baking cup, paper cup, muffin case, baking, pastry, container, cream, food, yellow, bake, kitchen]
+- name: cake-cup-cake
+  file: cake_cup_cake.png
+  tags: [cupcake, cake, muffin, dessert, sweet, frosting, icing, yellow, baked, treat, food, birthday, party, snack]
+- name: cake-mix
+  file: cake_mix.png
+  tags: [cake mix, packet, box, baking, ingredient, chocolate cake, spoon, food, cooking, kitchen, dessert, sweet, dry mix, recipe]
+- name: cake
+  file: cake.png
+  tags: [cake, round cake, chocolate cake, dessert, slice, baked, sweet, food, treat, birthday, layered, brown, party]
+- name: cake-slice-2
+  file: cake_slice_2.png
+  tags: [cake slice, piece of cake, dessert, layered cake, sponge, yellow, chocolate top, food, sweet, baked, portion, treat, serve]
+- name: cake-slice
+  file: cake_slice.png
+  tags: [cake slice, piece of cake, chocolate cake, pink icing, dessert, layered, food, sweet, baked, treat, serve, portion, brown]
+- name: cake-sponge
+  file: cake_sponge.png
+  tags: [sponge cake, victoria sponge, round cake, jam, dessert, baked, yellow, food, sweet, layered, treat, birthday, baking, soft]
+- name: cake-tin
+  file: cake_tin.png
+  tags: [cake tin, baking tin, round tin, bakeware, kitchen, baking, metal, container, mould, red, cooking, cake pan, equipment]
+- name: calculator
+  file: calculator.png
+  tags: [calculator, maths, numbers, buttons, screen, device, technology, arithmetic, count, calculate, school, office, add, subtract]
+- name: calendar-month
+  file: calendar_month.png
+  tags: [calendar, month, schedule, grid, date, planner, red, days, weeks, time, organise, appointment, wall calendar]
+- name: calendar
+  file: calendar.png
+  tags: [calendar, week, schedule, days, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday, planner, date, time, organise, appointment]
+- name: calf
+  file: calf.png
+  tags: [calf, leg, lower leg, body part, foot, ankle, knee, anatomy, human, arrow, point, muscle, skin]
+- name: call-out-to
+  file: call_out_to.png
+  tags: [call out, shout, call, voice, speak, person, mouth, hand, communicate, gesture, yell, attention, talking, face]
+- name: camel
+  file: camel.png
+  tags: [animal, camel, desert, hump, mammal, wildlife, zoo, safari, yellow, four-legged, nature, dromedary]
+- name: camera-compact
+  file: camera_compact.png
+  tags: [camera, compact, photography, photo, picture, digital, device, electronic, gadget, grey, lens, shoot]
+- name: camera
+  file: camera.png
+  tags: [camera, photography, photo, picture, digital, blue, compact, lens, device, electronic, shoot, snapshot]
+- name: camera-SLR
+  file: camera_SLR.png
+  tags: [camera, SLR, DSLR, photography, professional, photo, picture, lens, device, electronic, shoot, snapshot]
+- name: camp
+  file: camp_to.png
+  tags: [camping, camp, tent, outdoors, fire, campfire, nature, activity, person, adventure, holiday, forest, outdoor]
+- name: candle-2
+  file: candle_2.png
+  tags: [candle, flame, fire, light, wax, yellow, pillar, birthday, decoration, glow, burn, celebration]
+- name: candy-cane
+  file: candy_cane.png
+  tags: [candy, cane, sweet, Christmas, striped, red, white, peppermint, treat, food, festive, holiday, sugar]
+- name: candy-floss
+  file: candy_floss.png
+  tags: [candy floss, cotton candy, sweet, pink, fairground, carnival, stick, fluffy, treat, food, sugar, fun]
+- name: candy-hearts
+  file: candy_hearts.png
+  tags: [candy, hearts, Valentine, sweet, love, heart, message, colourful, treat, food, sugar, romantic, confectionery]
+- name: canoe
+  file: canoe.png
+  tags: [canoe, boat, paddle, water, sport, kayak, outdoor, activity, river, lake, recreation, oar, wooden]
+- name: can-opener-electric
+  file: can_opener_electric.png
+  tags: [can opener, electric, kitchen, tool, appliance, hand, tin, open, gadget, cooking, utensil, device]
+- name: can-opener
+  file: can_opener.png
+  tags: [can opener, manual, kitchen, tool, metal, tin, open, gadget, cooking, utensil, device, grey, handle]
+- name: cap
+  file: cap.png
+  tags: [cap, hat, baseball cap, clothing, headwear, orange, yellow, wear, accessory, sport, fashion, sun]
+- name: car-2
+  file: car_2.png
+  tags: [car, vehicle, automobile, transport, green, sedan, drive, road, wheel, travel, motor, side view]
+- name: caravan
+  file: caravan.png
+  tags: [caravan, trailer, camper, travel, holiday, vehicle, yellow, home, camping, road trip, tow, mobile home]
+- name: carbohydrates
+  file: carbohydrates.png
+  tags: [carbohydrates, food, bread, pasta, pie, nutrition, diet, starchy, energy, eating, baking, meal, grain]
+- name: car-boot
+  file: car_boot.png
+  tags: [car boot, trunk, car, vehicle, open, storage, green, hatchback, transport, luggage, rear, loading]
+- name: car-bumper
+  file: car_bumper.png
+  tags: [car bumper, bumper, car, vehicle, rear, green, transport, repair, crash, body part, automobile, tow bar]
+- name: cardboard
+  file: cardboard.png
+  tags: [cardboard, material, corrugated, brown, sheet, packaging, box, recycle, paper, texture, flat, craft]
+- name: card
+  file: card.png
+  tags: [card, greeting card, yellow, folded, paper, envelope, birthday, celebration, message, stationery, gift, send]
+- name: care-assistant-1a
+  file: care_assistant_1a.png
+  tags: [care assistant, carer, support worker, helping, assistance, disability support, two people, embrace, green uniform, light skin, male carer, male client]
+- name: care-assistant-1b
+  file: care_assistant_1b.png
+  tags: [care assistant, carer, support worker, helping, assistance, disability support, two people, embrace, green uniform, light skin, female carer, male client]
+- name: care-assistant-2a
+  file: care_assistant_2a.png
+  tags: [care assistant, carer, support worker, wheelchair, disability, green uniform, light skin, male, standing, healthcare, mobility aid]
+- name: care-assistant-2b
+  file: care_assistant_2b.png
+  tags: [care assistant, carer, support worker, wheelchair, disability, green uniform, light skin, female, standing, healthcare, mobility aid]
+- name: care-assistant-3a
+  file: care_assistant_3a.png
+  tags: [care assistant, carer, support worker, helping, assistance, disability support, two people, embrace, green uniform, dark skin, male carer, light skin client]
+- name: care-assistant-3b
+  file: care_assistant_3b.png
+  tags: [care assistant, carer, support worker, helping, assistance, disability support, two people, embrace, green uniform, dark skin, female carer, light skin client]
+- name: care-assistant-4a
+  file: care_assistant_4a.png
+  tags: [care assistant, carer, support worker, wheelchair, disability, green uniform, dark skin, male, standing, healthcare, mobility aid]
+- name: care-assistant-4b
+  file: care_assistant_4b.png
+  tags: [care assistant, carer, support worker, wheelchair, disability, green uniform, dark skin, female, standing, healthcare, mobility aid]
+- name: care-assistant-5a
+  file: care_assistant_5a.png
+  tags: [care assistant, carer, support worker, helping, assistance, disability support, two people, embrace, green uniform, light skin carer, dark skin client, male carer]
+- name: care-assistant-5b
+  file: care_assistant_5b.png
+  tags: [care assistant, carer, support worker, helping, assistance, disability support, two people, embrace, green uniform, light skin carer, dark skin client, female carer]
+- name: care-assistant-6a
+  file: care_assistant_6a.png
+  tags: [care assistant, carer, support worker, helping, assistance, disability support, two people, embrace, green uniform, dark skin, male carer, male client]
+- name: care-assistant-6b
+  file: care_assistant_6b.png
+  tags: [care assistant, carer, support worker, helping, assistance, disability support, two people, embrace, green uniform, dark skin, female carer, male client]
+- name: caretaker-1a
+  file: caretaker_1a.png
+  tags: [caretaker, janitor, custodian, building manager, green coat, keys, keyring, light skin, male, facility, maintenance, groundskeeper]
+- name: caretaker-1b
+  file: caretaker_1b.png
+  tags: [caretaker, janitor, custodian, building manager, green coat, keys, keyring, dark skin, male, facility, maintenance, groundskeeper]
+- name: caretaker-2a
+  file: caretaker_2a.png
+  tags: [caretaker, janitor, custodian, building manager, green coat, keys, keyring, light skin, female, facility, maintenance, groundskeeper]
+- name: caretaker-2b
+  file: caretaker_2b.png
+  tags: [caretaker, janitor, custodian, building manager, green coat, keys, keyring, dark skin, female, facility, maintenance, groundskeeper]
+- name: car-mechanic-1a
+  file: car_mechanic_1a.png
+  tags: [car mechanic, mechanic, garage, automobile, repair, wrench, spanner, car, light skin, male, green jumper, workshop, vehicle]
+- name: car-mechanic-1b
+  file: car_mechanic_1b.png
+  tags: [car mechanic, mechanic, garage, automobile, repair, wrench, spanner, car, dark skin, male, green jumper, workshop, vehicle]
+- name: car-mechanic-2a
+  file: car_mechanic_2a.png
+  tags: [car mechanic, mechanic, garage, automobile, repair, wrench, spanner, car, light skin, female, green jumper, workshop, vehicle]
+- name: car-mechanic-2b
+  file: car_mechanic_2b.png
+  tags: [car mechanic, mechanic, garage, automobile, repair, wrench, spanner, car, dark skin, female, green jumper, workshop, vehicle]
+- name: carol-singer
+  file: carol_singer.png
+  tags: [carol, singer, singing, christmas, music, song, festive, holiday, santa-hat, notes, book, performance, winter, celebration, person]
+- name: carpenter-1a
+  file: carpenter_1a.png
+  tags: [carpenter, woodworker, tradesperson, job, occupation, profession, wood, saw, lumber, building, construction, tool, worker, light-skin, man]
+- name: carpenter-1b
+  file: carpenter_1b.png
+  tags: [carpenter, woodworker, tradesperson, job, occupation, profession, wood, saw, lumber, building, construction, tool, worker, dark-skin, man]
+- name: carpenter-2a
+  file: carpenter_2a.png
+  tags: [carpenter, woodworker, tradesperson, job, occupation, profession, wood, saw, lumber, building, construction, tool, worker, light-skin, woman]
+- name: carpenter-2b
+  file: carpenter_2b.png
+  tags: [carpenter, woodworker, tradesperson, job, occupation, profession, wood, saw, lumber, building, construction, tool, worker, dark-skin, woman]
+- name: car
+  file: car.png
+  tags: [car, vehicle, automobile, transport, drive, road, blue, sedan, wheels, travel, motor, traffic, journey, machine, passenger]
+- name: carrot
+  file: carrot.png
+  tags: [carrot, vegetable, food, orange, healthy, root, garden, produce, nutrition, cook, eat, ingredient, plant, vitamin]
+- name: carry-books-to
+  file: carry_books_to.png
+  tags: [carry, books, hold, transport, action, reading, library, school, education, arms, stack, bring, move, person, learning]
+- name: carry-to
+  file: carry_to.png
+  tags: [carry, hold, bag, hand, grip, transport, action, bring, move, object, take, lift, shopping, handle, verb]
+- name: carton-1
+  file: carton_1.png
+  tags: [carton, milk, juice, box, container, packaging, drink, tall, food, liquid, store, grocery, paper, sealed, beverage]
+- name: carton-2
+  file: carton_2.png
+  tags: [carton, milk, juice, box, container, packaging, drink, small, food, liquid, store, grocery, paper, sealed, beverage]
+- name: car-toy
+  file: car_toy.png
+  tags: [toy, car, play, vehicle, red, children, game, model, automobile, fun, small, wheels, kids, transport, plaything]
+- name: cart
+  file: cart.png
+  tags: [cart, wagon, trolley, wheel, pull, transport, garden, green, yellow, toy, carry, haul, load, outdoor, vehicle]
+- name: car-transporter
+  file: car_transporter.png
+  tags: [car-transporter, truck, lorry, vehicle, transport, ramp, delivery, flatbed, large, green, road, haul, automobile, heavy, freight]
+- name: carve-meat-to
+  file: carve_meat_to.png
+  tags: [carve, meat, chicken, knife, cut, cooking, action, food, poultry, slice, prepare, kitchen, roast, hand, verb]
+- name: carve-wood-to
+  file: carve_wood_to.png
+  tags: [carve, wood, chisel, sculpt, craft, tool, action, hand, woodworking, art, shape, create, hobby, shavings, verb]
+- name: cashew
+  file: cashew.png
+  tags: [cashew, nut, food, snack, fruit, tropical, seed, yellow, crescent, healthy, eat, plant, ingredient, nutrition, tree-nut]
+- name: cash-point
+  file: cash_point.png
+  tags: [cash-point, ATM, bank, money, machine, withdraw, finance, screen, keypad, green, outdoor, card, transaction, currency, banking]
+- name: casserole-1
+  file: casserole_1.png
+  tags: [casserole, pot, cooking, food, stew, vegetables, pepper, mushroom, potato, green, kitchen, meal, recipe, cook, dinner]
+- name: casserole-2
+  file: casserole_2.png
+  tags: [casserole, pot, cooking, food, stew, chicken, mushroom, potato, red, kitchen, meal, recipe, cook, dinner, meat]
+- name: casserole
+  file: casserole.png
+  tags: [casserole, pot, cooking, kitchen, cookware, dish, lid, handles, bake, stew, oven, food, meal, yellow]
+- name: cassette-tape
+  file: cassette_tape.png
+  tags: [cassette, tape, music, audio, recording, retro, vintage, media, sound, play, rewind, analog, technology]
+- name: castle
+  file: castle.png
+  tags: [castle, fortress, medieval, building, tower, battlements, stone, gate, history, architecture, landmark, turrets]
+- name: castor-sugar
+  file: castor_sugar.png
+  tags: [castor sugar, sugar, baking, ingredient, packet, bag, sweet, white, fine sugar, cooking, food, kitchen, powder]
+- name: cat-bed
+  file: cat_bed.png
+  tags: [cat bed, cat, pet, sleeping, bed, igloo, shelter, animal, rest, cosy, dome, blue, feline, pet care]
+- name: cat-biscuits
+  file: cat_biscuits.png
+  tags: [cat biscuits, cat, pet food, dry food, kibble, treats, feeding, animal, feline, snack, brown, pet care]
+- name: catch-2-to
+  file: catch_2_to.png
+  tags: [catch, ball, sport, action, jump, reach, person, movement, play, game, physical, activity, verb, arms up]
+- name: catch-to
+  file: catch_to.png
+  tags: [catch, hand, ball, receive, grab, hold, action, verb, throw, sport, movement, play, reaching, yellow ball]
+- name: caterpillar
+  file: caterpillar.png
+  tags: [caterpillar, insect, bug, larva, green, nature, garden, worm, butterfly, metamorphosis, animal, crawl, wildlife]
+- name: cat-food
+  file: cat_food.png
+  tags: [cat food, cat, pet food, tin, can, feeding, animal, feline, meal, wet food, pet care, green, nutrition]
+- name: catherine-wheel
+  file: catherine_wheel.png
+  tags: [catherine wheel, firework, spinning, pinwheel, fireworks, bonfire night, celebration, sparkle, rotation, fire, party, pyrotechnic]
+- name: cat
+  file: cat.png
+  tags: [cat, feline, animal, pet, sitting, whiskers, yellow, domestic, kitty, fur, tail, ears, mammal]
+- name: cauliflower
+  file: cauliflower.png
+  tags: [cauliflower, vegetable, food, white, green, healthy, brassica, produce, cooking, nutrition, plant, garden, florets]
+- name: cctv
+  file: cctv.png
+  tags: [cctv, camera, security, surveillance, monitoring, safety, technology, recording, wall mounted, grey, watch, public safety]
+- name: cd-player-personal
+  file: CD_player_personal.png
+  tags: [CD player, personal CD player, discman, music, audio, portable, headphones, earphones, listening, technology, disc, retro, media]
+- name: ceiling-light
+  file: ceiling_light.png
+  tags: [ceiling light, light, lamp, room, indoor, hanging, pendant, illuminate, electricity, home, interior, lighting, purple, fixture]
+- name: ceiling
+  file: ceiling.png
+  tags: [ceiling, room, interior, above, overhead, top, house, indoor, perspective, wall, floor, architecture, upward, arrow]
+- name: celebrate-1
+  file: celebrate_1_to.png
+  tags: [celebrate, party, balloon, gift, present, box, cake, birthday, occasion, festive, joy, happy, event]
+- name: celebrate-2
+  file: celebrate_2_to.png
+  tags: [celebrate, cheer, people, arms raised, joy, victory, happy, excitement, crowd, fists, triumph, action, verb, success]
+- name: celebrate-3
+  file: celebrate_3_to.png
+  tags: [celebrate, champagne, bottle, pop, cork, balloon, party, festive, toast, cheers, event, pink, bubbles, birthday]
+- name: celebrate-birthday
+  file: celebrate_birthday.png
+  tags: [birthday, celebrate, party, cake, candles, hat, party-hat, person, face, happy, special-occasion, event, anniversary]
+- name: celebration
+  file: celebration.png
+  tags: [celebrate, cheer, happy, excited, people, arms-raised, victory, joy, party, success, winning, enthusiasm, team, group]
+- name: celeriac
+  file: celeriac.png
+  tags: [celeriac, vegetable, root-vegetable, celery-root, food, produce, bulb, plant, cooking, ingredient, healthy, cream-yellow]
+- name: celery
+  file: celery.png
+  tags: [celery, vegetable, green, stalks, food, produce, plant, crunchy, healthy, snack, cooking, ingredient, salad]
+- name: cement-mixer
+  file: cement_mixer.png
+  tags: [cement-mixer, construction, building, concrete, mixer, machine, tool, equipment, wheels, drum, orange, work, builder]
+- name: centipede
+  file: centipede.png
+  tags: [centipede, insect, bug, creature, legs, many-legs, red, black, animal, crawling, arthropod, pest, scary]
+- name: cereal-bowl
+  file: cereal_bowl.png
+  tags: [cereal-bowl, bowl, empty, green, kitchenware, dish, container, breakfast, food, tableware, round, eating]
+- name: cereal-box-bran
+  file: cereal_box_bran.png
+  tags: [cereal, bran, box, breakfast, food, packaging, grain, wheat, healthy, fibre, morning, carton, spoon]
+- name: cereal-box-muesli
+  file: cereal_box_museli.png
+  tags: [muesli, cereal, box, breakfast, food, packaging, oats, nuts, grains, healthy, morning, carton, spoon]
+- name: cereal-bran
+  file: cereal_bran.png
+  tags: [bran, cereal, bowl, breakfast, food, spoon, grain, fibre, healthy, morning, eating, milk, dark]
+- name: cereal-muesli
+  file: cereal_museli.png
+  tags: [muesli, cereal, bowl, breakfast, food, spoon, oats, nuts, grains, healthy, morning, eating, milk]
+- name: cereal
+  file: cereal.png
+  tags: [cereal, bowl, breakfast, food, spoon, milk, morning, eating, grain, loops, blue, healthy, kids]
+- name: certificate
+  file: certificate.png
+  tags: [certificate, award, achievement, document, diploma, medal, ribbon, official, paper, qualification, school, graduation, honour]
+- name: chair-computer
+  file: chair_computer.png
+  tags: [chair, computer-chair, office-chair, desk-chair, swivel, wheels, adjustable, blue, furniture, seat, work, ergonomic, armrests]
+- name: chair-dining
+  file: chair_dining.png
+  tags: [chair, dining-chair, furniture, seat, yellow, sitting, dining-room, home, table, legs, back, upholstered, indoors]
+- name: chair
+  file: chair.png
+  tags: [chair, furniture, seat, yellow, sitting, legs, back, simple, home, school, indoor, basic, everyday]
+- name: chair-wing-back
+  file: chair_wing_back.png
+  tags: [wing-back-chair, armchair, furniture, seat, yellow, comfortable, living-room, lounge, upholstered, arms, traditional, home, relax]
+- name: chaise-lounge
+  file: chaise_lounge.png
+  tags: [chaise-lounge, furniture, sofa, couch, reclining, pink, lounge, rest, lying-down, elegant, living-room, comfort, decorative]
+- name: chalk
+  file: chalk.png
+  tags: [chalk, blackboard, chalkboard, writing, school, letters, ABC, classroom, learning, teacher, education, drawing, board]
+- name: chameleon
+  file: chameleon.png
+  tags: [chameleon, lizard, reptile, animal, green, camouflage, tail, branch, scales, exotic, wildlife, creature, colour-change]
+- name: champagne
+  file: champagne.png
+  tags: [champagne, bottle, drink, alcohol, sparkling-wine, celebration, party, green-bottle, beverage, fizzy, wine, toast, new-year, special-occasion]
+- name: chandelier
+  file: chandelier.png
+  tags: [chandelier, light, lighting, ceiling-light, candles, lamp, decoration, elegant, interior, home, fixture, ornate, hanging-light, candelabra]
+- name: change-clothes-to
+  file: change_clothes_to.png
+  tags: [change-clothes, get-dressed, undress, clothing, shirt, t-shirt, person, action, dressing, outfit, clothes, routine, daily-living, change]
+- name: change-mind-to
+  file: change_mind_to.png
+  tags: [change-mind, think, thought, decision, reconsider, face, person, thinking, rethink, opinion, mental, idea, swap, update, mind]
+- name: change-nappy-to
+  file: change_nappy_to.png
+  tags: [change-nappy, nappy, diaper, baby, infant, care, hygiene, change, lying-down, routine, parent, toddler, clean, nappy-change]
+- name: change-to
+  file: change_to.png
+  tags: [change, swap, transform, switch, convert, shapes, square, circle, transition, arrow, action, different, alter, modify]
+- name: change-tv-channel-to
+  file: change_tv_channel_to.png
+  tags: [change-channel, television, tv, remote-control, remote, channel, switch, watch, hand, screen, entertainment, button, control]
+- name: change-weather-to
+  file: change_weather_to.png
+  tags: [change-weather, weather, rain, sun, cloud, sunny, rainy, forecast, transition, arrow, sunshine, sky, outdoor, climate, change]
+- name: channel-bbc-1
+  file: channel_bbc_1.png
+  tags: [BBC1, BBC, television, tv, channel, screen, broadcast, UK, media, watch, programme, entertainment, network]
+- name: chapatti
+  file: chapatti.png
+  tags: [chapatti, flatbread, bread, food, Indian, South-Asian, roti, cooked, meal, flour, dough, baked, ethnic-food, unleavened]
+- name: charge
+  file: charge.png
+  tags: [charge, positive, negative, electricity, battery, plus, minus, polarity, electric, power, symbol, red, green, terminals]
+- name: charger-electric
+  file: charger_electric.png
+  tags: [charger, electric-charger, plug, cable, wire, power, electricity, adapter, device, charging, phone-charger, mains, connector, lead]
+- name: chase-to
+  file: chase_to.png
+  tags: [chase, run, running, follow, pursue, people, action, fast, movement, sport, exercise, figures, two-people, catch]
+- name: cheat-to
+  file: cheat_to.png
+  tags: [cheat, copying, exam, school, dishonest, two-people, paper, desk, looking, behaviour, wrong, sneaky, test, classroom]
+- name: cheek
+  file: cheek.png
+  tags: [cheek, face, body-part, skin, arrow, pointing, head, anatomy, facial, person, expression, side, feature]
+- name: cheese-brie
+  file: cheese_brie.png
+  tags: [brie, cheese, soft-cheese, dairy, food, French-cheese, wedge, triangle, white-rind, snack, ingredient, milk, eat]
+- name: cheese-burger
+  file: cheese_burger.png
+  tags: [cheeseburger, burger, hamburger, fast-food, food, bun, cheese, lettuce, meat, patty, meal, lunch, junk-food, eat]
+- name: cheese-grated
+  file: cheese_grated.png
+  tags: [grated-cheese, cheese, dairy, food, shredded, cooking, ingredient, topping, yellow, wedge, sprinkle, meal, grate]
+- name: cheese-on-toast-melted
+  file: cheese_on_toast_melted.png
+  tags: [cheese-on-toast, toast, melted-cheese, food, snack, bread, cooked, meal, plate, hot, lunch, dairy, Welsh-rarebit, eat]
+- name: cheese
+  file: cheese.png
+  tags: [cheese, dairy, food, wedge, yellow, holes, block, ingredient, snack, eat, milk, triangle, Swiss-cheese, cheddar]
+- name: cheese-slices
+  file: cheese_slices.png
+  tags: [cheese, sliced-cheese, food, dairy, yellow, processed-cheese, snack, sandwich, eating, rectangular, cheese-slices, meal]
+- name: cheese-stilton
+  file: cheese_stilton.png
+  tags: [cheese, stilton, blue-cheese, dairy, food, wedge, mould, british, strong-cheese, crumbly, snack, eating]
+- name: cheetah
+  file: cheetah.png
+  tags: [cheetah, animal, wild-animal, big-cat, spotted, fast, predator, safari, Africa, wildlife, cat, mammal, yellow]
+- name: cheque-book
+  file: cheque_book.png
+  tags: [cheque-book, bank, money, payment, finance, writing, pen, document, booklet, paying, banking, transaction]
+- name: cherry
+  file: cherry.png
+  tags: [cherry, fruit, red, food, sweet, small, stem, eating, healthy, snack, summer-fruit, produce]
+- name: chest-female
+  file: chest_female.png
+  tags: [chest, female, body, torso, breast, anatomy, woman, girl, body-part, health, medical, human-body]
+- name: chest-male
+  file: chest_male.png
+  tags: [chest, male, body, torso, anatomy, man, boy, body-part, health, medical, human-body, flat-chest]
+- name: chestnuts
+  file: chestnuts.png
+  tags: [chestnuts, nuts, food, brown, autumn, roasted, edible, seed, seasonal, snack, eating, tree-nut]
+- name: chest-of-drawers
+  file: chest_of_drawers.png
+  tags: [chest-of-drawers, furniture, drawers, bedroom, storage, dresser, wooden, home, clothes, organise, cabinet, household]
+- name: chewing-gum
+  file: chewing_gum.png
+  tags: [chewing-gum, gum, sweet, candy, packet, blue, mint, chewy, snack, mouth, food, wrapper]
+- name: chew-to
+  file: chew_to.png
+  tags: [chew, mouth, eating, jaw, face, side-profile, action, food, bite, teeth, masticate, verb]
+- name: chewy-tube
+  file: chewy_tube.png
+  tags: [chewy-tube, oral-motor, sensory, chew, tool, mouth, lips, therapy, special-needs, AAC, biting, oral-sensory]
+- name: chicken-breast
+  file: chicken_breast.png
+  tags: [chicken-breast, chicken, food, meat, raw, poultry, cooking, protein, white-meat, fillet, eating, uncooked]
+- name: chicken-deep-fried
+  file: chicken_deep_fried.png
+  tags: [chicken, deep-fried, fried-chicken, food, cooking, fast-food, crispy, hot, fryer, meal, poultry, eating]
+- name: chicken-house
+  file: chicken_house.png
+  tags: [chicken-house, coop, hen-house, farm, chicken, hen, poultry, animal, shelter, farming, rural, enclosure]
+- name: chicken-leg
+  file: chicken_leg.png
+  tags: [chicken-leg, drumstick, food, chicken, meat, cooked, poultry, eating, meal, protein, roasted, yellow]
+- name: chicken-live
+  file: chicken_live.png
+  tags: [chicken, hen, live, bird, animal, farm, poultry, brown, feathers, comb, farmyard, living]
+- name: chicken-nuggets
+  file: chicken_nuggets.png
+  tags: [chicken-nuggets, nuggets, food, chicken, fast-food, fried, snack, meal, children, eating, yellow, poultry]
+- name: chicken-pieces
+  file: chicken_pieces.png
+  tags: [chicken-pieces, chicken, food, meat, pieces, cooked, poultry, meal, eating, drumstick, wing, yellow]
+- name: chicken
+  file: chicken.png
+  tags: [chicken, whole-chicken, food, poultry, raw, meat, cooking, roast, yellow, protein, meal, uncooked]
+- name: chicken-run
+  file: chicken_run.png
+  tags: [chicken, hen, farm, enclosure, coop, poultry, bird, animal, fence, run, farmyard, brown, livestock]
+- name: chick
+  file: chick.png
+  tags: [chick, baby-bird, young, chicken, poultry, yellow, bird, animal, farm, cute, hatchling, small, Easter]
+- name: childrens-tv
+  file: childrens_tv.png
+  tags: [television, TV, children, kids, screen, boy, girl, programme, watch, entertainment, broadcast, media, presenters]
+- name: chilli-pepper
+  file: chilli_pepper.png
+  tags: [chilli, pepper, spicy, hot, red, vegetable, food, ingredient, cooking, seasoning, spice, plant, chili]
+- name: chimney
+  file: chimney.png
+  tags: [chimney, brick, house, roof, smoke, stack, building, red, fire, ventilation, pot, architecture, home]
+- name: chimpanzee
+  file: chimpanzee.png
+  tags: [chimpanzee, chimp, ape, monkey, primate, animal, brown, wildlife, zoo, Africa, mammal, endangered]
+- name: chinese-cabbage
+  file: chinese_cabbage.png
+  tags: [chinese-cabbage, bok-choy, vegetable, green, leafy, food, Asian, plant, ingredient, cooking, healthy, produce, cabbage]
+- name: chinese-food
+  file: chinese_food.png
+  tags: [chinese-food, noodles, rice, bowl, chopsticks, Asian, cuisine, meal, food, restaurant, shrimp, cooking, eat]
+- name: chin
+  file: chin.png
+  tags: [chin, face, body-part, jaw, anatomy, head, person, arrow, pointing, skin, features, human, facial]
+- name: chip-and-pin-device
+  file: chip_and_pin_device.png
+  tags: [chip-and-pin, card-reader, payment, machine, terminal, keypad, bank, credit-card, debit-card, shopping, finance, electronic, POS]
+- name: chipmunk-2
+  file: chipmunk_2.png
+  tags: [chipmunk, rodent, animal, brown, stripes, wild, squirrel, small, mammal, nature, forest, furry, tail]
+- name: chipmunk-3
+  file: chipmunk_3.png
+  tags: [chipmunk, rodent, animal, golden, yellow, stripes, wild, squirrel, small, mammal, nature, forest, furry]
+- name: chipmunk
+  file: chipmunk.png
+  tags: [chipmunk, rodent, animal, grey, stripes, wild, squirrel, small, mammal, nature, forest, furry, tail]
+- name: chips-packet
+  file: chips_packet.png
+  tags: [chips, fries, french-fries, fast-food, packet, carton, snack, food, potato, fried, takeaway, red, yellow]
+- name: chips
+  file: chips.png
+  tags: [chips, french-fries, fries, potato, food, fried, snack, fast-food, yellow, takeaway, side-dish, unhealthy, eat]
+- name: chisel
+  file: chisel.png
+  tags: [chisel, tool, woodwork, carving, blade, handle, craft, metalwork, DIY, sharp, workshop, hand-tool, cutting]
+- name: chocolate-bar
+  file: chocolate_bar.png
+  tags: [chocolate, bar, sweet, snack, food, wrapper, purple, brown, squares, treat, confectionery, dessert, candy]
+- name: chocolate-box
+  file: chocolate_box.png
+  tags: [chocolate, box, gift, assorted, sweets, confectionery, treat, present, truffles, luxury, open, purple, dessert]
+- name: chocolate-chips
+  file: chocolate_chips.png
+  tags: [chocolate-chips, baking, packet, brown, sweet, ingredient, cooking, confectionery, snack, small, food, bag, treat]
+- name: chocolate-egg
+  file: chocolate_egg.png
+  tags: [chocolate-egg, Easter, egg, decorated, colourful, sweet, treat, celebration, holiday, candy, gift, seasonal, festive]
+- name: chocolate-log
+  file: chocolate_log.png
+  tags: [chocolate, log, yule-log, Christmas, cake, dessert, food, baking, holly, festive, sweet, treat, decoration, winter]
+- name: chocolate
+  file: chocolate.png
+  tags: [chocolate, bar, sweet, food, snack, treat, brown, confectionery, candy, dessert, squares, cocoa]
+- name: choke-to
+  file: choke_to.png
+  tags: [choke, choking, throat, neck, breathing, difficulty, emergency, first-aid, health, danger, suffocate, cough, airway, person]
+- name: chopping-board
+  file: chopping_board.png
+  tags: [chopping-board, cutting-board, knife, kitchen, cooking, food-preparation, board, utensil, wood, tool, surface, meal-prep]
+- name: chop-to
+  file: chop_to.png
+  tags: [chop, cut, knife, hands, cutting, food-preparation, kitchen, slice, action, cooking, blade, verb]
+- name: chop-wood-to
+  file: chop_wood_to.png
+  tags: [chop-wood, axe, log, wood, woodcutting, action, outdoor, labour, person, tree, firewood, verb, chopping]
+- name: Christian
+  file: Christian.png
+  tags: [Christian, cross, religion, faith, Christianity, church, symbol, belief, God, worship, holy, religious, yellow, cross-symbol]
+- name: Christmas-bauble
+  file: Christmas_bauble.png
+  tags: [Christmas, bauble, ornament, decoration, red, ball, festive, tree-decoration, holiday, winter, hanging, round]
+- name: Christmas-bell
+  file: Christmas_bell.png
+  tags: [Christmas, bell, decoration, gold, yellow, red, bow, ribbon, festive, holiday, hanging, jingle, ornament, winter]
+- name: Christmas-cake
+  file: Christmas_cake.png
+  tags: [Christmas, cake, dessert, food, holly, festive, baking, sweet, treat, celebration, icing, holiday, winter]
+- name: Christmas-Day
+  file: Christmas_Day.png
+  tags: [Christmas-Day, day, sun, Santa, Father-Christmas, tree, celebration, holiday, festive, December, winter, daytime, seasonal]
+- name: Christmas-decorations
+  file: Christmas_decorations.png
+  tags: [Christmas, decorations, baubles, bell, ornaments, garland, red, gold, festive, holiday, hanging, seasonal, winter, string]
+- name: Christmas-Eve
+  file: Christmas_Eve.png
+  tags: [Christmas-Eve, evening, before, Santa, tree, sun, day, festive, holiday, December, countdown, seasonal, winter, time]
+- name: Christmas-lights
+  file: Christmas_lights.png
+  tags: [Christmas, lights, fairy-lights, bulbs, colourful, red, yellow, green, string-lights, festive, decoration, holiday, winter, bright]
+- name: Christmas
+  file: Christmas.png
+  tags: [Christmas, Santa, Father-Christmas, tree, festive, holiday, celebration, December, seasonal, winter, symbol, red, green]
+- name: Christmas-pudding
+  file: Christmas_pudding.png
+  tags: [Christmas, pudding, dessert, food, holly, festive, sweet, treat, traditional, baking, cake, holiday, winter, fruit-cake]
+- name: Christmas-sock
+  file: Christmas_sock.png
+  tags: [Christmas, stocking, sock, red, white, hanging, gift, present, festive, holiday, Santa, tradition, seasonal, decoration]
+- name: Christmas-tree
+  file: Christmas_tree.png
+  tags: [Christmas, tree, evergreen, pine, fir, green, festive, decoration, holiday, symbol, seasonal, winter, traditional, plant]
+- name: Christmas-wreath
+  file: Christmas_wreath.png
+  tags: [Christmas, wreath, decoration, holly, bow, red, gold, festive, hanging, door, holiday, circular, seasonal, ornament]
+- name: church
+  file: church.png
+  tags: [church, building, religion, steeple, tower, stained-glass, worship, faith, Christianity, architecture, spire, prayer, community, religious]
+- name: cigarette
+  file: cigarette.png
+  tags: [cigarette, smoke, smoking, tobacco, nicotine, habit, addiction, health, filter, burning, adult, no-smoking]
+- name: circle
+  file: circle.png
+  tags: [circle, shape, round, oval, geometry, outline, purple, form, mathematics, symbol]
+- name: circle-time
+  file: circle_time.png
+  tags: [circle-time, group, gathering, meeting, people, clock, time, school, assembly, routine, together, schedule, activity]
+- name: circuit
+  file: circuit.png
+  tags: [circuit, electricity, electrical, battery, resistor, current, wire, science, physics, diagram, energy, technology, electronics]
+- name: clamp
+  file: clamp.png
+  tags: [clamp, c-clamp, tool, grip, hold, woodwork, craft, hardware, workshop, blue, squeeze, fasten, fix]
+- name: clap-hands-to
+  file: clap_hands_to.png
+  tags: [clap, hands, applause, praise, celebrate, well-done, cheer, action, body-language, gesture, congratulate, bravo]
+- name: class-room
+  file: class_room.png
+  tags: [classroom, school, learning, education, students, desks, door, room, lesson, class, study, teach, building]
+- name: claw
+  file: claw.png
+  tags: [claw, talon, bird, animal, foot, sharp, scratch, grip, predator, nature, yellow, creature]
+- name: clay
+  file: clay.png
+  tags: [clay, pottery, sculpt, mold, hands, craft, art, ceramics, creative, shape, wheel, material, activity]
+- name: clean-dishes
+  file: clean_dishes.png
+  tags: [clean, dishes, plate, cutlery, fork, knife, cup, drying-rack, tidy, kitchen, wash, sparkle, chores]
+- name: cleaner-1a
+  file: cleaner_1a.png
+  tags: [cleaner, janitor, person, man, apron, gloves, bucket, mop, broom, work, uniform, clean, job, occupation]
+- name: cleaner-1b
+  file: cleaner_1b.png
+  tags: [cleaner, janitor, person, man, dark-skin, apron, gloves, bucket, mop, broom, work, uniform, job, occupation]
+- name: cleaner-2a
+  file: cleaner_2a.png
+  tags: [cleaner, janitor, person, woman, apron, gloves, bucket, mop, broom, work, uniform, clean, job, occupation]
+- name: cleaner-2b
+  file: cleaner_2b.png
+  tags: [cleaner, janitor, person, woman, dark-skin, apron, gloves, bucket, mop, broom, work, uniform, job, occupation]
+- name: cleaner-spray
+  file: cleaner_spray.png
+  tags: [spray, bottle, cleaner, cleaning, liquid, household, hygiene, disinfect, surface, trigger, squirt, product, green]
+- name: clean-hands
+  file: clean_hands.png
+  tags: [clean, hands, hygiene, wash, sparkle, tidy, health, germs, sanitize, palm, fingers, care, routine]
+- name: cleaning-box
+  file: cleaning_box.png
+  tags: [cleaning, box, supplies, spray, bottle, detergent, household, organise, storage, products, hygiene, chores, tray]
+- name: clean-room
+  file: clean_room.png
+  tags: [clean, room, tidy, sparkle, house, interior, floor, window, lamp, light, chores, home, empty]
+- name: clean-shoes-to
+  file: clean_shoes_to.png
+  tags: [clean, shoes, polish, brush, footwear, person, shine, care, chores, leather, action, tidy, maintain]
+- name: clean-window-to
+  file: clean_window_to.png
+  tags: [clean, window, wipe, person, cloth, sponge, chores, household, action, wash, glass, tidy, polish]
+- name: climb-down-to
+  file: climb_down_to.png
+  tags: [climb, descend, ladder, down, movement, action, person, rung, going-down, direction, activity, gross-motor, verb]
+- name: climbing-rock
+  file: climbing_rock.png
+  tags: [climb, rock-climbing, outdoor, sport, rope, helmet, activity, adventure, wall, vertical, harness, exercise, action, person]
+- name: climbing-wall
+  file: climbing_wall.png
+  tags: [climbing-wall, indoor-climbing, sport, activity, exercise, gym, holds, person, green, action, recreation, physical, wall]
+- name: climb-tree-to
+  file: climb_tree_to.png
+  tags: [climb, tree, action, movement, person, ascend, trunk, outdoor, activity, verb, up, gross-motor, nature]
+- name: climb-up-to
+  file: climb_up_to.png
+  tags: [climb, ascend, ladder, up, movement, action, person, rung, going-up, direction, activity, gross-motor, verb]
+- name: clingfilm
+  file: clingfilm.png
+  tags: [clingfilm, plastic-wrap, food-wrap, kitchen, wrap, hands, roll, cooking, food, cover, household, transparent, sheet]
+- name: clipboard
+  file: clipboard.png
+  tags: [clipboard, stationery, paper, clip, writing, notes, office, school, board, yellow, document, list, task]
+- name: clip-nails-to
+  file: clip_nails_to.png
+  tags: [clip-nails, nail-clippers, grooming, hygiene, hand, fingernails, personal-care, trim, cut, beauty, self-care, action, verb]
+- name: clock
+  file: clock.png
+  tags: [clock, time, watch, hour, minute, round, face, wall-clock, numbers, schedule, tell-time, analog, blue]
+- name: clock-radio
+  file: clock_radio.png
+  tags: [clock-radio, alarm-clock, radio, digital-clock, bedroom, time, alarm, music, electronics, appliance, display, wake-up, pink]
+- name: close-door-to
+  file: close_door_to.png
+  tags: [close-door, shut, door, action, person, movement, arrow, verb, home, entrance, push, gesture, indoors]
+- name: closed
+  file: closed.png
+  tags: [closed, shut, concept, abstract, border, dots, square, down, arrow, boundary, spatial, concept-word]
+- name: closed-shop
+  file: closed_shop.png
+  tags: [closed, shop, store, sign, not-open, business, retail, awning, door, community, shopping, unavailable, closed-sign]
+- name: close-it
+  file: close_it.png
+  tags: [close, shut, box, lid, hand, action, verb, container, cover, push-down, gesture, instruction, object]
+- name: close-to
+  file: close_to.png
+  tags: [close, near, proximity, spatial, concept, beside, next-to, position, abstract, dots, square, preposition]
+- name: clothes-extra-large
+  file: clothes_extra_large.png
+  tags: [clothes, extra-large, XL, size, jumper, sweater, person, clothing, fashion, garment, fit, big, wear]
+- name: clothes-female
+  file: clothes_female.png
+  tags: [clothes, female, women, skirt, blouse, socks, outfit, fashion, pink, dressing, garment, girl, clothing]
+- name: clothes-generic
+  file: clothes_generic.png
+  tags: [clothes, clothing, generic, dress, t-shirt, shorts, outfit, fashion, garment, wear, assorted, wardrobe, apparel]
+- name: clothes-hanger
+  file: clothes_hanger.png
+  tags: [hanger, clothes-hanger, wardrobe, hang, clothing, storage, closet, laundry, orange, hook, tidy, organise, drying]
+- name: clothes-large
+  file: clothes_large.png
+  tags: [clothes, large, size, L, sweater, jumper, clothing, sizing, comparison, garment, fashion, fit, wear]
+- name: clothes-male
+  file: clothes_male.png
+  tags: [clothes, clothing, male, shirt, trousers, pants, socks, getting dressed, outfit, man, blue shirt, jeans, dressing]
+- name: clothes-medium
+  file: clothes_medium.png
+  tags: [clothes, clothing, size, medium, sweater, jumper, top, shrink, resize, three sizes, arrow, compare, size chart]
+- name: clothes-neat
+  file: clothes_neat.png
+  tags: [clothes, clothing, neat, tidy, clean, dress, t-shirt, shorts, outfit, getting dressed, organised, laundry, wardrobe]
+- name: clothes-peg
+  file: clothes_peg.png
+  tags: [clothes peg, peg, clothespin, clip, laundry, washing, hanging, red, pin, fastener, drying clothes]
+- name: clothes-small
+  file: clothes_small.png
+  tags: [clothes, clothing, size, small, sweater, jumper, top, shrink, resize, three sizes, arrow, compare, size chart]
+- name: cloudy
+  file: cloudy.png
+  tags: [cloudy, clouds, weather, overcast, sky, grey, forecast, outdoor, climate, no sun, dull, rain clouds]
+- name: clover
+  file: clover.png
+  tags: [clover, four-leaf clover, plant, green, luck, lucky, nature, leaf, shamrock, outdoor, garden, symbol]
+- name: c-lower-case
+  file: c_-_lower_case.png
+  tags: [letter c, alphabet, lowercase, letter, c, writing, literacy, phonics, reading, symbol, character, purple]
+- name: coach
+  file: coach.png
+  tags: [coach, bus, vehicle, transport, travel, long distance, green, motor coach, road, journey, passengers, trip]
+- name: coated-spoon
+  file: coated_spoon.png
+  tags: [spoon, coated spoon, cutlery, eating, utensil, kitchen, yellow, medicine, feeding, tablespoon, dessert spoon]
+- name: coat
+  file: coat.png
+  tags: [coat, jacket, clothing, outerwear, red, winter, warm, buttons, pockets, getting dressed, fashion, cold weather]
+- name: cockatiel
+  file: cockatiel.png
+  tags: [cockatiel, bird, parrot, pet, animal, crest, feathers, yellow, cage bird, avian, tropical, companion animal]
+- name: cockerel
+  file: cockerel.png
+  tags: [cockerel, rooster, chicken, bird, farm, animal, male chicken, comb, wattle, feathers, poultry, farmyard]
+- name: coconut
+  file: coconut.png
+  tags: [coconut, fruit, tropical, food, brown, shell, white flesh, palm tree fruit, exotic, halved, ingredient, drink]
+- name: coffee-instant
+  file: coffee_instant.png
+  tags: [coffee, instant coffee, jar, cup, saucer, hot drink, beverage, caffeine, drink, brown, powder, kitchen]
+- name: coffee-maker
+  file: coffee_maker.png
+  tags: [coffee maker, coffee machine, appliance, kitchen, brewing, drip coffee, hot drink, cafetiere, electric, beverage, morning routine]
+- name: coffee
+  file: coffee.png
+  tags: [coffee, hot drink, cup, saucer, beverage, caffeine, mug, drink, brown, warm, morning, cafe]
+- name: coffee-table
+  file: coffee_table.png
+  tags: [coffee table, table, furniture, living room, round, low table, yellow, lounge, home, interior, sitting room]
+- name: colander
+  file: colander.png
+  tags: [colander, strainer, sieve, kitchen, cooking, draining, pasta, vegetables, holes, utensil, food preparation, bowl]
+- name: collar-1
+  file: collar_1.png
+  tags: [collar, neck, clothing, shirt collar, neckline, getting dressed, person, orange, jacket, body part, fashion, dressing]
+- name: collar-pet
+  file: collar_pet.png
+  tags: [collar, pet, dog, cat, animal, buckle, leather, yellow, strap, pet-care, accessory, dog-collar, pet-supplies]
+- name: collect-to
+  file: collect_to.png
+  tags: [collect, receive, give, handover, people, person, exchange, desk, box, action, transfer, pick-up, interaction]
+- name: coloured-paper
+  file: coloured_paper.png
+  tags: [coloured-paper, paper, colour, craft, art, red, blue, yellow, sheets, stationery, materials, school, stack]
+- name: colouring-book
+  file: colouring_book.png
+  tags: [colouring-book, book, crayon, drawing, art, colour, activity, open, creative, children, pen, pages, hobby]
+- name: colour
+  file: colour.png
+  tags: [colour, rainbow, paint, bucket, red, yellow, green, blue, orange, spectrum, art, creative, spill]
+- name: comb-animal-to
+  file: comb_animal_to.png
+  tags: [comb, groom, animal, cat, pet, brush, grooming, pet-care, hands, action, fur, care, touch]
+- name: comb
+  file: comb.png
+  tags: [comb, hair, grooming, green, hygiene, teeth, personal-care, brush, hair-care, tool, self-care]
+- name: comedy-tv
+  file: comedy_tv.png
+  tags: [comedy, television, tv, funny, laugh, show, screen, face, speech-bubble, entertainment, program, watch, humour]
+- name: come-to
+  file: come_to.png
+  tags: [come, gesture, hand, beckon, invite, fingers, signal, action, movement, direction, approach, here, body-language]
+- name: comet
+  file: comet.png
+  tags: [comet, space, sky, stars, astronomy, shooting-star, trail, yellow, orbit, night, science, meteor, celestial]
+- name: communicate-to
+  file: communicate_to.png
+  tags: [communicate, speech, mouth, lips, hands, sign, gesture, talking, language, AAC, expression, message, speaking]
+- name: communication-aid-2
+  file: communication_aid_2.png
+  tags: [communication-aid, AAC, device, buttons, grid, blue, handle, portable, speech, assistive-technology, symbols, disability, augmentative]
+- name: communication-aid-chat-2
+  file: communication_aid_chat_2.png
+  tags: [communication-aid, AAC, device, handheld, grid, buttons, speech, assistive-technology, portable, symbols, augmentative, chat, disability]
+- name: communication-aid-gotalk-9p
+  file: communication_aid_gotalk_9p.png
+  tags: [communication-aid, gotalk, AAC, device, green, grid, 9-buttons, speech, assistive-technology, symbols, augmentative, portable, disability]
+- name: communication-aid-listen-to-me
+  file: communication_aid_listen_to_me.png
+  tags: [communication-aid, listen-to-me, AAC, device, buttons, grid, speech, assistive-technology, symbols, augmentative, disability, handheld, portable]
+- name: communication-aid
+  file: communication_aid.png
+  tags: [communication-aid, AAC, device, buttons, grid, pink, handle, portable, speech, assistive-technology, symbols, disability, augmentative]
+- name: communication-aid-scan4
+  file: communication_aid_scan4.png
+  tags: [communication-aid, scan, AAC, device, four-buttons, scanning, speech, assistive-technology, symbols, augmentative, disability, colour-coded, switch-access]
+- name: communication-aid-techspeak-32
+  file: communication_aid_techspeak_32.png
+  tags: [communication-aid, techspeak, AAC, device, 32-buttons, grid, speech, assistive-technology, symbols, augmentative, disability, colour-coded, large]
+- name: communication-board
+  file: communication_board.png
+  tags: [communication-board, AAC, board, grid, symbols, colour-coded, paper, low-tech, speech, disability, augmentative, hello, name]
+- name: communication-book
+  file: communication_book.png
+  tags: [communication-book, AAC, book, grid, symbols, colour-coded, pages, low-tech, speech, disability, augmentative, portable, open]
+- name: communication-book-portable
+  file: communication_book_portable.png
+  tags: [communication, AAC, book, portable, symbols, binder, grid, picture-communication, augmentative, open-book, travel, cards, pages, folder]
+- name: communication-device
+  file: communication_device.png
+  tags: [communication, AAC, device, SGD, speech-generating-device, grid, buttons, screen, augmentative, technology, assistive-technology, wired, gadget]
+- name: computer-1
+  file: computer_1.png
+  tags: [computer, desktop, PC, monitor, keyboard, screen, technology, retro, old, beige, tower, floppy-drive, workstation]
+- name: computer-2
+  file: computer_2.png
+  tags: [computer, desktop, PC, monitor, keyboard, tower, screen, technology, modern, workstation, hardware, flatscreen]
+- name: computer-art
+  file: computer_art.png
+  tags: [computer, art, drawing, painting, creative, design, palette, paintbrush, digital-art, graphics, software, technology, colours]
+- name: computer-cable
+  file: computer_cable.png
+  tags: [cable, wire, connector, computer, hardware, lead, plug, connection, accessory, cord, technology, peripheral]
+- name: computer-folder-open
+  file: computer_folder_open.png
+  tags: [folder, open, file, directory, storage, organise, documents, yellow, computer, files, access]
+- name: computer-folder-open-to
+  file: computer_folder_open_to.png
+  tags: [folder, open, navigate, arrow, go-to, directory, file, computer, move, save-to, transfer, destination, blue]
+- name: computer-folder
+  file: computer_folder.png
+  tags: [folder, file, directory, computer, storage, documents, organise, desktop, PC, hardware, closed]
+- name: computer-game-2
+  file: computer_game_2.png
+  tags: [computer-game, console, gaming, video-game, controller, gamepad, game-box, PlayStation, play, entertainment, leisure, fun, games]
+- name: computer-game
+  file: computer_game.png
+  tags: [computer-game, console, gaming, video-game, controller, gamepad, television, screen, play, entertainment, leisure, fun, games]
+- name: computer-keyboard
+  file: computer_keyboard.png
+  tags: [keyboard, keys, typing, computer, hardware, input, peripheral, accessory, technology, type, letters]
+- name: computer-monitor
+  file: computer_monitor.png
+  tags: [monitor, screen, display, computer, hardware, flatscreen, technology, desktop, television, view, cyan]
+- name: computer-mouse-1
+  file: computer_mouse_1.png
+  tags: [mouse, computer, hardware, input, click, cursor, pointer, wired, peripheral, accessory, technology, button]
+- name: computer-mouse-2
+  file: computer_mouse_2.png
+  tags: [mouse, computer, hardware, input, click, cursor, pointer, wired, scroll-wheel, peripheral, accessory, technology]
+- name: computer-programme
+  file: computer_programme.png
+  tags: [programme, software, application, computer, screen, window, interface, cursor, monitor, technology, desktop, menu-bar]
+- name: computer-speaker
+  file: computer_speaker.png
+  tags: [speaker, audio, sound, computer, hardware, music, stereo, pair, peripheral, accessory, technology, volume, listen]
+- name: concentrating-lady
+  file: concentrating_lady.png
+  tags: [concentrating, focus, thinking, woman, lady, face, expression, serious, attentive, emotion, female, frown, determined]
+- name: concentrating-man
+  file: concentrating_man.png
+  tags: [concentrating, focus, thinking, man, male, face, expression, serious, attentive, emotion, frown, determined]
+- name: confused-lady
+  file: confused_lady.png
+  tags: [confused, puzzled, uncertain, woman, lady, face, expression, emotion, female, lost, unsure, bewildered, feeling]
+- name: confused-man
+  file: confused_man.png
+  tags: [confused, man, person, face, expression, puzzled, uncertain, worried, emotion, feeling, male, head, portrait]
+- name: conical-flask
+  file: conical_flask.png
+  tags: [flask, conical flask, erlenmeyer, science, chemistry, laboratory, experiment, equipment, beaker, measure, school, lesson]
+- name: connection
+  file: connection.png
+  tags: [connection, circuit, electrical, electricity, battery, light bulb, wire, power, energy, science, physics, lamp, current]
+- name: cook-chef-1a
+  file: cook_chef_1a.png
+  tags: [chef, cook, man, person, hat, uniform, bowl, spoon, cooking, kitchen, food, profession, job, male]
+- name: cook-chef-1b
+  file: cook_chef_1b.png
+  tags: [chef, cook, man, person, hat, uniform, bowl, spoon, cooking, kitchen, food, profession, job, dark skin]
+- name: cook-chef-2a
+  file: cook_chef_2a.png
+  tags: [chef, cook, woman, person, hat, uniform, bowl, spoon, cooking, kitchen, food, profession, job, female]
+- name: cook-chef-2b
+  file: cook_chef_2b.png
+  tags: [chef, cook, woman, person, hat, uniform, bowl, spoon, cooking, kitchen, food, profession, job, dark skin, female]
+- name: cooker
+  file: cooker.png
+  tags: [cooker, oven, stove, kitchen, appliance, cooking, baking, hob, heat, electric, open door, home, equipment]
+- name: cooking-oil
+  file: cooking_oil.png
+  tags: [cooking oil, oil, bottle, liquid, yellow, food, ingredient, kitchen, frying, pour, cook, fat, vegetable oil]
+- name: cook-school-1a
+  file: cook_school_1a.png
+  tags: [cook, student, school, apron, hat, bowl, spoon, cooking lesson, food technology, lesson, uniform, boy, male]
+- name: cook-school-1b
+  file: cook_school_1b.png
+  tags: [cook, student, school, apron, hat, bowl, spoon, cooking lesson, food technology, lesson, uniform, boy, dark skin]
+- name: cook-to
+  file: cook_to.png
+  tags: [cook, cooking, stove, hob, pot, pan, person, kitchen, heat, food, action, prepare, meal]
+- name: copy
+  file: copy.png
+  tags: [copy, duplicate, documents, paper, files, text, pages, replicate, office, writing, two, print]
+- name: copy-to
+  file: copy_to.png
+  tags: [copy, write, duplicate, pencil, paper, documents, two, writing, notes, transcribe, replicate, schoolwork]
+- name: corned-beef
+  file: corned_beef.png
+  tags: [corned beef, tin, can, beef, cow, meat, food, red, canned food, grocery, preserved, cattle]
+- name: corner-cabinet-2
+  file: corner_cabinet_2.png
+  tags: [corner cabinet, cabinet, furniture, storage, drawer, door, yellow, home, bedroom, living room, corner, unit]
+- name: corner-cabinet
+  file: corner_cabinet.png
+  tags: [corner cabinet, cabinet, furniture, storage, drawer, door, yellow, brown, home, bedroom, living room, corner, unit]
+- name: cornet
+  file: cornet.png
+  tags: [cornet, ice cream, cone, soft serve, dessert, sweet, food, treat, pink, wafer, snack, summer]
+- name: cornflakes
+  file: cornflakes.png
+  tags: [cornflakes, cereal, breakfast, box, food, grain, bowl, spoon, morning, packet, corn, kids]
+- name: correct
+  file: correct.png
+  tags: [correct, tick, checkmark, right, yes, agree, true, confirm, done, approve, answer, positive]
+- name: correct-thought
+  file: correct_thought.png
+  tags: [correct, right, think, thought, idea, good, agree, yes, true, approve, positive, understand, mind, brain, tick]
+- name: cot
+  file: cot.png
+  tags: [cot, baby, bed, crib, infant, sleep, nursery, cradle, toddler, newborn, furniture, rest, bedroom, child, bars]
+- name: cottage-cheese
+  file: cottage_cheese.png
+  tags: [cottage cheese, cheese, dairy, food, eat, tub, container, soft cheese, snack, protein, milk, white, fresh, creamy, pot]
+- name: cotton-bud
+  file: cotton_bud.png
+  tags: [cotton bud, q-tip, swab, ear, clean, hygiene, cotton, stick, personal care, grooming, health, bathroom, tip, cleaning, soft]
+- name: count-2-to
+  file: count_2_to.png
+  tags: [count, numbers, counting, one, two, three, four, sequence, maths, number, order, learn, circle, quantity, numeracy]
+- name: counters
+  file: counters.png
+  tags: [counters, tokens, chips, game, coloured, red, green, yellow, board game, pieces, counting, maths, play, circles, tally]
+- name: country-Afghanistan
+  file: country_Afghanistan.png
+  tags: [Afghanistan, Afghan, flag, country, nation, Asia, Central Asia, Kabul, geography, map, Islamic, territory, world]
+- name: country-Alaska
+  file: country_Alaska.png
+  tags: [Alaska, flag, state, USA, America, United States, North America, Arctic, geography, map, stars, territory, Juneau, polar]
+- name: country-Albania
+  file: country_Albania.png
+  tags: [Albania, Albanian, flag, country, nation, Europe, Balkans, Tirana, geography, map, red, eagle, double-headed eagle, territory, world]
+- name: country-Alderney
+  file: country_Alderney.png
+  tags: [Alderney, flag, island, Channel Islands, British Crown dependency, UK, geography, map, territory, Europe, lion, cross, small island, English Channel, world]
+- name: country-Algeria
+  file: country_Algeria.png
+  tags: [Algeria, Algerian, flag, country, nation, Africa, North Africa, Algiers, geography, map, green white, crescent, star, Sahara, world]
+- name: country-American-Samoa
+  file: country_American_Samoa.png
+  tags: [American Samoa, Samoa, flag, territory, USA, America, Pacific, Oceania, island, geography, map, blue red, eagle, world, Pago Pago]
+- name: country-Andorra
+  file: country_Andorra.png
+  tags: [Andorra, Andorran, flag, country, nation, Europe, Pyrenees, Andorra la Vella, geography, map, blue yellow red, coat of arms, microstate, Spain, France]
+- name: country-Angola
+  file: country_Angola.png
+  tags: [Angola, Angolan, flag, country, nation, Africa, southern Africa, Luanda, geography, map, red black, star, machete, territory, world]
+- name: country-Anguilla
+  file: country_Anguilla.png
+  tags: [Anguilla, flag, island, Caribbean, British territory, UK, geography, map, blue, Union Jack, dolphins, territory, world, West Indies, coral]
+- name: country-Antarctica
+  file: country_Antartica.png
+  tags: [Antarctica, Antarctic, flag, continent, polar, south pole, ice, geography, map, cold, frozen, research, world, southern ocean, territory]
+- name: country-Antigua-Barbuda
+  file: country_Antigua_Barbuda.png
+  tags: [Antigua, Barbuda, flag, country, nation, Caribbean, island, West Indies, geography, map, sun, black red blue white, Saint John's, world, twin islands]
+- name: country-Argentina
+  file: country_Argentina.png
+  tags: [Argentina, Argentine, Argentinian, flag, country, nation, South America, Latin America, Buenos Aires, geography, map, blue white, sun, territory, world]
+- name: country-Armenia
+  file: country_Armenia.png
+  tags: [Armenia, Armenian, flag, country, nation, Asia, Caucasus, Yerevan, geography, map, red blue orange, tricolour, territory, world, Eastern Europe]
+- name: country-Aruba
+  file: country_Aruba.png
+  tags: [Aruba, flag, island, Caribbean, Netherlands, Dutch, geography, map, blue yellow, star, territory, world, West Indies, Oranjestad, tropical]
+- name: country-Austria
+  file: country_Austria.png
+  tags: [austria, flag, nation, country, geography, europe, central-europe, vienna, austrian]
+- name: country-Azerbaijan
+  file: country_Azerbaijan.png
+  tags: [azerbaijan, flag, nation, country, geography, europe, asia, caucasus, baku, azerbaijani]
+- name: country-Bahrain
+  file: country_Bahrain.png
+  tags: [bahrain, flag, nation, country, geography, asia, middle-east, manama, bahraini, gulf]
+- name: country-Bangladesh
+  file: country_Bangladesh.png
+  tags: [bangladesh, flag, nation, country, geography, asia, south-asia, dhaka, bangladeshi, bengal]
+- name: country-Barbados
+  file: country_Barbados.png
+  tags: [barbados, flag, nation, country, geography, caribbean, north-america, bridgetown, barbadian, island]
+- name: country-Belarus
+  file: country_Belarus.png
+  tags: [belarus, flag, nation, country, geography, europe, eastern-europe, minsk, belarusian]
+- name: country-Belgium
+  file: country_Belgium.png
+  tags: [belgium, flag, nation, country, geography, europe, western-europe, brussels, belgian]
+- name: country-Belize
+  file: country_Belize.png
+  tags: [belize, flag, nation, country, geography, central-america, north-america, belmopan, belizean]
+- name: country-Benin
+  file: country_Benin.png
+  tags: [benin, flag, nation, country, geography, africa, west-africa, porto-novo, beninese]
+- name: country-Bermuda
+  file: country_Bermuda.png
+  tags: [bermuda, flag, nation, country, geography, north-america, atlantic, hamilton, bermudian, island, territory]
+- name: country-Bhutan
+  file: country_Bhutan.png
+  tags: [bhutan, flag, nation, country, geography, asia, south-asia, thimphu, bhutanese, himalaya]
+- name: country-blank
+  file: country_blank.png
+  tags: [blank, flag, country, placeholder, empty, generic, unknown]
+- name: country-Bonaire
+  file: country_Bonaire.png
+  tags: [bonaire, flag, nation, country, geography, caribbean, north-america, island, netherlands, territory]
+- name: country-Bosnia-Herzegovina
+  file: country_Bosnia_Herzegovina.png
+  tags: [bosnia, herzegovina, flag, nation, country, geography, europe, eastern-europe, balkans, sarajevo, bosnian]
+- name: country-Botswana
+  file: country_Botswana.png
+  tags: [botswana, flag, nation, country, geography, africa, southern-africa, gaborone, botswanan]
+- name: country-Bulgaria
+  file: country_Bulgaria.png
+  tags: [bulgaria, flag, nation, country, geography, europe, eastern-europe, balkans, sofia, bulgarian]
+- name: country-Burkina-Faso
+  file: country_Burkina_Faso.png
+  tags: [burkina-faso, flag, nation, country, geography, africa, west-africa, ouagadougou, burkinabe]
+- name: country-Burundi
+  file: country_Burundi.png
+  tags: [burundi, flag, nation, country, geography, africa, east-africa, gitega, burundian]
+- name: country-Cambodia
+  file: country_Cambodia.png
+  tags: [cambodia, flag, nation, country, geography, asia, southeast-asia, phnom-penh, cambodian, khmer]
+- name: country-Cameroon
+  file: country_Cameroon.png
+  tags: [cameroon, flag, nation, country, geography, africa, central-africa, west-africa, yaounde, cameroonian]
+- name: country-Canada
+  file: country_Canada.png
+  tags: [Canada, flag, nation, country, geography, North America, Americas, maple leaf, Canadian]
+- name: country-Canary-Islands
+  file: country_Canary_Islands.png
+  tags: [Canary Islands, flag, nation, country, geography, Europe, Spain, Atlantic Ocean, archipelago, island]
+- name: country-Cape-Verde
+  file: country_Cape_Verde.png
+  tags: [Cape Verde, flag, nation, country, geography, Africa, Atlantic Ocean, archipelago, island, West Africa]
+- name: country-Cayman-Islands
+  file: country_Cayman_Islands.png
+  tags: [Cayman Islands, flag, nation, country, geography, Caribbean, Americas, island, British Overseas Territory, Atlantic Ocean]
+- name: country-Chad
+  file: country_Chad.png
+  tags: [Chad, flag, nation, country, geography, Africa, Central Africa, Sahara, landlocked, Sahel]
+- name: country-Chile
+  file: country_Chile.png
+  tags: [Chile, flag, nation, country, geography, South America, Americas, Andes, Pacific Ocean, Latin America]
+- name: country-China
+  file: country_China.png
+  tags: [China, flag, nation, country, geography, Asia, East Asia, Chinese, red flag, star]
+- name: country-Colombia
+  file: country_Colombia.png
+  tags: [Colombia, flag, nation, country, geography, South America, Americas, Latin America, Pacific Ocean, Caribbean]
+- name: country-Comoros
+  file: country_Comoros.png
+  tags: [Comoros, flag, nation, country, geography, Africa, Indian Ocean, archipelago, island, East Africa]
+- name: country-Congo-Brazzaville
+  file: country_Congo_Brazzaville.png
+  tags: [Congo, Republic of the Congo, Brazzaville, flag, nation, country, geography, Africa, Central Africa, equatorial]
+- name: country-Congo-Kinshasa
+  file: country_Congo_Kinshasa.png
+  tags: [Congo, Democratic Republic of the Congo, Kinshasa, flag, nation, country, geography, Africa, Central Africa, equatorial]
+- name: country-Costa-Rica
+  file: country_Costa_Rica.png
+  tags: [Costa Rica, flag, nation, country, geography, Central America, Americas, Latin America, Caribbean, Pacific Ocean]
+- name: country-Croatia
+  file: country_Croatia.png
+  tags: [Croatia, flag, nation, country, geography, Europe, Eastern Europe, Balkans, Adriatic Sea, Mediterranean]
+- name: country-Cuba
+  file: country_Cuba.png
+  tags: [Cuba, flag, nation, country, geography, Caribbean, Americas, island, Latin America, Atlantic Ocean]
+- name: country-Cyprus
+  file: country_Cyprus.png
+  tags: [Cyprus, flag, nation, country, geography, Europe, Mediterranean, island, Middle East, Asia]
+- name: country-Denmark
+  file: country_Denmark.png
+  tags: [Denmark, flag, nation, country, geography, Europe, Northern Europe, Scandinavia, Nordic, Baltic Sea]
+- name: country-Djbouti
+  file: country_Djbouti.png
+  tags: [Djibouti, flag, nation, country, geography, Africa, East Africa, Horn of Africa, Red Sea, Gulf of Aden]
+- name: country-Dominican-Republic
+  file: country_Dominican_Republic.png
+  tags: [Dominican Republic, flag, nation, country, geography, Caribbean, Americas, island, Latin America, Hispaniola]
+- name: country-Ecuador
+  file: country_Ecuador.png
+  tags: [Ecuador, flag, nation, country, geography, South America, Americas, Latin America, Andes, Pacific Ocean]
+- name: country-England
+  file: country_England.png
+  tags: [England, flag, nation, country, geography, Europe, United Kingdom, British Isles, St George, cross]
+- name: country-Eritrea
+  file: country_Eritrea.png
+  tags: [eritrea, africa, east africa, horn of africa, flag, country, asmara, nation]
+- name: country-Estonia
+  file: country_Estonia.png
+  tags: [estonia, europe, northern europe, baltic, flag, country, tallinn, nation, eu]
+- name: country-Ethiopia
+  file: country_Ethiopia.png
+  tags: [ethiopia, africa, east africa, horn of africa, flag, country, addis ababa, nation]
+- name: country-Falkland-Islands
+  file: country_Falkland_Islands.png
+  tags: [falkland islands, south america, south atlantic, british territory, flag, island, malvinas, territory]
+- name: country-Finland
+  file: country_Finland.png
+  tags: [finland, europe, northern europe, nordic, scandinavian, flag, country, helsinki, nation, eu]
+- name: country-France
+  file: country_France.png
+  tags: [france, europe, western europe, flag, country, paris, nation, eu, french, tricolour]
+- name: country-Gabon
+  file: country_Gabon.png
+  tags: [gabon, africa, central africa, flag, country, libreville, nation]
+- name: country-Georgia
+  file: country_Georgia.png
+  tags: [georgia, europe, asia, caucasus, flag, country, tbilisi, nation]
+- name: country-Germany
+  file: country_Germany.png
+  tags: [germany, europe, central europe, flag, country, berlin, nation, eu, german]
+- name: country-Ghana
+  file: country_Ghana.png
+  tags: [ghana, africa, west africa, flag, country, accra, nation]
+- name: country-Gibraltar
+  file: country_Gibraltar.png
+  tags: [gibraltar, europe, british territory, iberian peninsula, flag, territory, mediterranean]
+- name: country-Greece
+  file: country_Greece.png
+  tags: [greece, europe, southern europe, mediterranean, flag, country, athens, nation, eu, greek]
+- name: country-Greenland
+  file: country_Greenland.png
+  tags: [greenland, north america, arctic, danish territory, flag, island, territory, nuuk, nordic]
+- name: country-Grenada
+  file: country_Grenada.png
+  tags: [grenada, caribbean, north america, island, flag, country, saint george, nation]
+- name: country-Guernsey
+  file: country_Guernsey.png
+  tags: [guernsey, europe, channel islands, british crown dependency, flag, island, territory]
+- name: country-Guinea-Bissau
+  file: country_Guinea_Bissau.png
+  tags: [guinea-bissau, africa, west africa, flag, country, bissau, nation]
+- name: country-Guinea
+  file: country_Guinea.png
+  tags: [guinea, africa, west africa, flag, country, conakry, nation]
+- name: country-Guyana
+  file: country_Guyana.png
+  tags: [guyana, south america, flag, country, georgetown, nation, caribbean]
+- name: country-Haiti
+  file: country_Haiti.png
+  tags: [haiti, caribbean, north america, island, flag, country, port-au-prince, nation, hispaniola]
+- name: country-Hawaii
+  file: country_Hawaii.png
+  tags: [hawaii, north america, united states, pacific, island, flag, state, honolulu, us state]
+- name: country-Honduras
+  file: country_Honduras.png
+  tags: [Honduras, flag, Central America, Latin America, country, nation, blue, white, stars]
+- name: country-Hong-Kong
+  file: country_Hong_Kong.png
+  tags: [Hong Kong, flag, Asia, East Asia, China, SAR, country, territory, bauhinia, red]
+- name: country-Hungary
+  file: country_Hungary.png
+  tags: [Hungary, flag, Europe, Central Europe, country, nation, red, white, green, tricolor]
+- name: country-Iceland
+  file: country_Iceland.png
+  tags: [Iceland, flag, Europe, Nordic, Scandinavia, country, nation, blue, white, red, cross]
+- name: country-India
+  file: country_India.png
+  tags: [India, flag, Asia, South Asia, country, nation, orange, white, green, chakra, Ashoka]
+- name: country-Indonesia
+  file: country_Indonesia.png
+  tags: [Indonesia, flag, Asia, Southeast Asia, country, nation, red, white, bicolor]
+- name: country-Iran
+  file: country_Iran.png
+  tags: [Iran, flag, Middle East, Asia, Persia, country, nation, green, white, red, emblem]
+- name: country-Iraq
+  file: country_Iraq.png
+  tags: [Iraq, flag, Middle East, Arab, country, nation, red, white, black, Arabic, text]
+- name: country-Ireland
+  file: country_Ireland.png
+  tags: [Ireland, flag, Europe, Western Europe, Celtic, country, nation, green, white, orange, tricolor]
+- name: country-Isle-of-Man
+  file: country_Isle_of_Man.png
+  tags: [Isle of Man, flag, Europe, British Isles, crown dependency, territory, red, triskelion, legs]
+- name: country-Israel
+  file: country_Israel.png
+  tags: [Israel, flag, Middle East, country, nation, blue, white, Star of David, Jewish, Magen David]
+- name: country-Italy
+  file: country_Italy.png
+  tags: [Italy, flag, Europe, Southern Europe, Mediterranean, country, nation, green, white, red, tricolor]
+- name: country-Ivory-Coast
+  file: country_Ivory_Coast.png
+  tags: [Ivory Coast, Cote d'Ivoire, flag, Africa, West Africa, country, nation, orange, white, green, tricolor]
+- name: country-Jamaica
+  file: country_Jamaica.png
+  tags: [Jamaica, flag, Caribbean, Americas, country, nation, black, gold, green, cross, saltire]
+- name: country-Japan
+  file: country_Japan.png
+  tags: [Japan, flag, Asia, East Asia, country, nation, white, red, circle, sun, Hinomaru]
+- name: country-Jersey
+  file: country_Jersey.png
+  tags: [Jersey, flag, Europe, British Isles, crown dependency, territory, white, red, cross, shield]
+- name: country-Jordan
+  file: country_Jordan.png
+  tags: [Jordan, flag, Middle East, Arab, country, nation, black, white, green, red, star]
+- name: country-Kazakhstan
+  file: country_Kazakhstan.png
+  tags: [Kazakhstan, flag, Central Asia, country, nation, blue, yellow, gold, sun, eagle, steppe]
+- name: country-Kenya
+  file: country_Kenya.png
+  tags: [Kenya, flag, Africa, East Africa, country, nation, black, red, green, white, Maasai, shield]
+- name: country-Kosovo
+  file: country_Kosovo.png
+  tags: [Kosovo, flag, Europe, Balkans, country, nation, blue, gold, yellow, stars, map]
+- name: country-Kuwait
+  file: country_Kuwait.png
+  tags: [Kuwait, flag, country, Middle East, Asia, Arab, Gulf, nation, national flag]
+- name: country-Kyrgyzstan
+  file: country_Kyrgyzstan.png
+  tags: [Kyrgyzstan, flag, country, Central Asia, Asia, nation, national flag, Bishkek]
+- name: country-Laos
+  file: country_Laos.png
+  tags: [Laos, flag, country, Southeast Asia, Asia, nation, national flag, Vientiane]
+- name: country-Latvia
+  file: country_Latvia.png
+  tags: [Latvia, flag, country, Europe, Baltic, nation, national flag, Riga]
+- name: country-Lebanon
+  file: country_Lebanon.png
+  tags: [Lebanon, flag, country, Middle East, Asia, Arab, Mediterranean, nation, national flag]
+- name: country-Lesotho
+  file: country_Lesotho.png
+  tags: [Lesotho, flag, country, Africa, Southern Africa, nation, national flag, Maseru]
+- name: country-Liberia
+  file: country_Liberia.png
+  tags: [Liberia, flag, country, Africa, West Africa, nation, national flag, Monrovia]
+- name: country-Libya
+  file: country_Libya.png
+  tags: [Libya, flag, country, Africa, North Africa, Arab, nation, national flag, Tripoli]
+- name: country-Liechtenstein
+  file: country_Liechtenstein.png
+  tags: [Liechtenstein, flag, country, Europe, Central Europe, nation, national flag, Vaduz]
+- name: country-Lithuania
+  file: country_Lithuania.png
+  tags: [Lithuania, flag, country, Europe, Baltic, nation, national flag, Vilnius]
+- name: country-Luxembourg
+  file: country_Luxembourg.png
+  tags: [Luxembourg, flag, country, Europe, Western Europe, nation, national flag, Luxembourg City]
+- name: country-Macedonia
+  file: country_Macedonia.png
+  tags: [Macedonia, flag, country, Europe, Balkans, nation, national flag, Skopje]
+- name: country-Madagascar
+  file: country_Madagascar.png
+  tags: [Madagascar, flag, country, Africa, island, Indian Ocean, nation, national flag, Antananarivo]
+- name: country-Malaysia
+  file: country_Malaysia.png
+  tags: [Malaysia, flag, country, Southeast Asia, Asia, nation, national flag, Kuala Lumpur]
+- name: country-Maldives
+  file: country_Maldives.png
+  tags: [Maldives, flag, country, Asia, South Asia, island, Indian Ocean, nation, national flag]
+- name: country-Mali
+  file: country_Mali.png
+  tags: [Mali, flag, country, Africa, West Africa, nation, national flag, Bamako]
+- name: country-Marshall-Islands
+  file: country_Marshall_Islands.png
+  tags: [Marshall Islands, flag, country, Oceania, Pacific, island, nation, national flag, Majuro]
+- name: country-Mauritania
+  file: country_Mauritania.png
+  tags: [Mauritania, flag, country, Africa, West Africa, Arab, nation, national flag, Nouakchott]
+- name: country-Mauritius
+  file: country_Mauritius.png
+  tags: [Mauritius, flag, country, Africa, island, Indian Ocean, nation, national flag, Port Louis]
+- name: country-Moldova
+  file: country_Moldova.png
+  tags: [Moldova, flag, country, Europe, Eastern Europe, nation, national flag, Chisinau]
+- name: country-Monaco
+  file: country_Monaco.png
+  tags: [monaco, flag, country, europe, principality, mediterranean, monte-carlo, french-riviera, city-state]
+- name: country-Mongolia
+  file: country_Mongolia.png
+  tags: [mongolia, flag, country, asia, central-asia, ulaanbaatar, landlocked, steppe, nomadic]
+- name: country-Morocco
+  file: country_Morocco.png
+  tags: [morocco, flag, country, africa, north-africa, rabat, maghreb, arab, berber, atlantic]
+- name: country-Namibia
+  file: country_Namibia.png
+  tags: [namibia, flag, country, africa, southern-africa, windhoek, desert, namib, atlantic]
+- name: country-Nauru
+  file: country_Nauru.png
+  tags: [nauru, flag, country, oceania, pacific, island, micronesia, atoll, smallest]
+- name: country-Nepal
+  file: country_Nepal.png
+  tags: [nepal, flag, country, asia, south-asia, kathmandu, himalaya, landlocked, pennant]
+- name: country-New-Caledonia
+  file: country_New_Caledonia.png
+  tags: [new-caledonia, flag, country, oceania, pacific, island, france, melanesia, territory]
+- name: country-New-Zealand
+  file: country_New_Zealand.png
+  tags: [new-zealand, flag, country, oceania, pacific, wellington, southern-cross, commonwealth, island]
+- name: country-Nigeria
+  file: country_Nigeria.png
+  tags: [nigeria, flag, country, africa, west-africa, abuja, largest, atlantic, gulf-of-guinea]
+- name: country-Niger
+  file: country_Niger.png
+  tags: [niger, flag, country, africa, west-africa, niamey, sahara, landlocked, sahel]
+- name: country-Niue
+  file: country_Niue.png
+  tags: [niue, flag, country, oceania, pacific, island, polynesia, new-zealand, self-governing]
+- name: country-Northern-Cyprus
+  file: country_Northern_Cyprus.png
+  tags: [northern-cyprus, flag, country, europe, mediterranean, island, disputed, turkish, cyprus]
+- name: country-North-Korea
+  file: country_North_Korea.png
+  tags: [north-korea, flag, country, asia, east-asia, pyongyang, korean-peninsula, dprk, korea]
+- name: country-Norway
+  file: country_Norway.png
+  tags: [norway, flag, country, europe, northern-europe, oslo, scandinavia, nordic, fjord, atlantic]
+- name: country-Oman
+  file: country_Oman.png
+  tags: [oman, flag, country, asia, middle-east, muscat, arabian-peninsula, gulf, arab, indian-ocean]
+- name: country-Pakistan
+  file: country_Pakistan.png
+  tags: [pakistan, flag, country, asia, south-asia, islamabad, muslim, crescent, star, islamic]
+- name: country-Palau
+  file: country_Palau.png
+  tags: [palau, flag, country, oceania, pacific, island, micronesia, ngerulmud, atoll]
+- name: country-Palestine
+  file: country_Palestine.png
+  tags: [palestine, flag, country, asia, middle-east, ramallah, arab, disputed, levant, mediterranean]
+- name: country-Panama
+  file: country_Panama.png
+  tags: [panama, flag, country, central-america, latin-america, panama-city, canal, caribbean, pacific]
+- name: country-Papua-New-Guinea
+  file: country_Papua_New_Guinea.png
+  tags: [papua-new-guinea, flag, country, oceania, pacific, port-moresby, melanesia, island, southern-cross, bird-of-paradise]
+- name: country-Paraguay
+  file: country_Paraguay.png
+  tags: [paraguay, south america, landlocked, latin america, flag, country, nation, guarani, asuncion]
+- name: country-Pitcairn-Islands
+  file: country_Pitcairn_Islands.png
+  tags: [pitcairn islands, pacific ocean, british overseas territory, island, remote, bounty, polynesia, flag, country]
+- name: country-Qatar
+  file: country_Qatar.png
+  tags: [qatar, middle east, gulf, arab, peninsula, doha, flag, country, nation, arabian]
+- name: country-Romania
+  file: country_Romania.png
+  tags: [romania, europe, eastern europe, bucharest, balkan, flag, country, nation, romanian]
+- name: country-Russian-Federation
+  file: country_Russian_Federation.png
+  tags: [russia, russian federation, europe, asia, eastern europe, moscow, flag, country, nation, eurasian]
+- name: country-Rwanda
+  file: country_Rwanda.png
+  tags: [rwanda, africa, east africa, central africa, kigali, landlocked, flag, country, nation, great lakes]
+- name: country-Samoa
+  file: country_Samoa.png
+  tags: [samoa, pacific ocean, polynesia, island, oceania, apia, flag, country, nation, south pacific]
+- name: country-Sao-Tome-Principe
+  file: country_Sao_Tome_Principe.png
+  tags: [sao tome and principe, africa, central africa, island, gulf of guinea, flag, country, nation, portuguese]
+- name: country-Saudi-Arabia
+  file: country_Saudi_Arabia.png
+  tags: [saudi arabia, middle east, arab, islam, riyadh, gulf, arabian peninsula, flag, country, nation]
+- name: country-Scotland
+  file: country_Scotland.png
+  tags: [scotland, uk, united kingdom, britain, europe, edinburgh, celtic, flag, country, nation]
+- name: country-Senegal
+  file: country_Senegal.png
+  tags: [senegal, africa, west africa, dakar, flag, country, nation, atlantic, francophone]
+- name: country-Seychelles
+  file: country_Seychelles.png
+  tags: [seychelles, africa, indian ocean, island, archipelago, victoria, flag, country, nation, east africa]
+- name: country-Sierra-Leone
+  file: country_Sierra_Leone.png
+  tags: [sierra leone, africa, west africa, freetown, atlantic, flag, country, nation, anglophone]
+- name: country-Singapore
+  file: country_Singapore.png
+  tags: [singapore, asia, southeast asia, island, city-state, flag, country, nation, malay peninsula]
+- name: country-Slovenia
+  file: country_Slovenia.png
+  tags: [slovenia, europe, central europe, eastern europe, ljubljana, balkan, flag, country, nation, alpine]
+- name: country-Solomon-Islands
+  file: country_Solomon_Islands.png
+  tags: [solomon islands, pacific ocean, melanesia, island, oceania, honiara, flag, country, nation, south pacific]
+- name: country-Somalia
+  file: country_Somalia.png
+  tags: [somalia, africa, east africa, horn of africa, mogadishu, flag, country, nation, indian ocean]
+- name: country-Somaliland
+  file: country_Somaliland.png
+  tags: [somaliland, africa, east africa, horn of africa, hargeisa, unrecognized, flag, country, nation, self-declared]
+- name: country-South-Africa
+  file: country_South_Africa.png
+  tags: [south africa, africa, southern africa, cape town, pretoria, flag, country, nation, rainbow nation]
+- name: country-South-Korea
+  file: country_South_Korea.png
+  tags: [south korea, asia, east asia, korea, seoul, korean peninsula, flag, country, nation, republic of korea]
+- name: country-Sri-Lanka
+  file: country_Sri_Lanka.png
+  tags: [sri lanka, flag, south asia, asia, indian ocean, island, colombo, sinhalese]
+- name: country-St-Kitts-and-Nevis
+  file: country_St._Kitts_and_Nevis.png
+  tags: [saint kitts and nevis, flag, caribbean, west indies, island, basseterre, central america]
+- name: country-St-Vincent-Grenadines
+  file: country_St_Vincent_Grenadines.png
+  tags: [saint vincent and the grenadines, flag, caribbean, west indies, island, kingstown, central america]
+- name: country-Suriname
+  file: country_Suriname.png
+  tags: [suriname, flag, south america, paramaribo, dutch, latin america, atlantic coast]
+- name: country-Sweden
+  file: country_Sweden.png
+  tags: [sweden, flag, europe, scandinavia, nordic, stockholm, northern europe]
+- name: country-Switzerland
+  file: country_Switzerland.png
+  tags: [switzerland, flag, europe, central europe, bern, alps, alpine, neutral]
+- name: country-Syria
+  file: country_Syria.png
+  tags: [syria, flag, middle east, asia, damascus, arab, western asia, levant]
+- name: country-Taiwan
+  file: country_Taiwan.png
+  tags: [taiwan, flag, east asia, asia, taipei, island, pacific, republic of china]
+- name: country-Tanzania
+  file: country_Tanzania.png
+  tags: [tanzania, flag, africa, east africa, dodoma, dar es salaam, swahili, great lakes]
+- name: country-Thailand
+  file: country_Thailand.png
+  tags: [thailand, flag, southeast asia, asia, bangkok, indochina, gulf of thailand]
+- name: country-The-Azores
+  file: country_The_Azores.png
+  tags: [azores, flag, portugal, atlantic ocean, island, europe, autonomous region, macaronesia]
+- name: country-The-Bahamas
+  file: country_The_Bahamas.png
+  tags: [bahamas, flag, caribbean, atlantic ocean, island, nassau, west indies, central america]
+- name: country-The-Czech-Republic
+  file: country_The_Czech_Republic.png
+  tags: [czech republic, czechia, flag, europe, central europe, prague, eastern europe]
+- name: country-The-Faroe-Islands
+  file: country_The_Faroe_Islands.png
+  tags: [faroe islands, flag, denmark, north atlantic, island, nordic, torshavn, autonomous territory]
+- name: country-The-Gambia
+  file: country_The_Gambia.png
+  tags: [gambia, flag, africa, west africa, banjul, atlantic coast, sub-saharan africa]
+- name: country-The-Netherlands
+  file: country_The_Netherlands.png
+  tags: [netherlands, holland, flag, europe, western europe, amsterdam, dutch, low countries]
+- name: country-The-Sudan
+  file: country_The_Sudan.png
+  tags: [sudan, flag, africa, northeast africa, khartoum, arab, nile, north africa]
+- name: country-Togo
+  file: country_Togo.png
+  tags: [togo, flag, africa, west africa, lome, gulf of guinea, sub-saharan africa]
+- name: country-Trinidad-and-Tobago
+  file: country_Trinidad_and_Tobago.png
+  tags: [trinidad and tobago, flag, caribbean, west indies, island, port of spain, south america, atlantic]
+- name: country-Tunisia
+  file: country_Tunisia.png
+  tags: [tunisia, flag, africa, north africa, tunis, arab, mediterranean, maghreb]
+- name: country-Turkey
+  file: country_Turkey.png
+  tags: [turkey, flag, country, nation, ankara, istanbul, asia, europe, turkish]
+- name: country-Ukraine
+  file: country_Ukraine.png
+  tags: [ukraine, flag, country, nation, kyiv, europe, ukrainian, blue, yellow]
+- name: country-United-Arab-Emirates
+  file: country_United_Arab_Emirates.png
+  tags: [united arab emirates, uae, flag, country, nation, dubai, abu dhabi, middle east, arabic]
+- name: country-United-Kingdom
+  file: country_United_Kingdom.png
+  tags: [united kingdom, uk, flag, country, nation, england, britain, london, british, union jack]
+- name: country-United-States
+  file: country_United_States.png
+  tags: [united states, usa, flag, country, nation, america, washington, american, stars and stripes]
+- name: country-Uzbekistan
+  file: country_Uzbekistan.png
+  tags: [uzbekistan, flag, country, nation, tashkent, central asia, uzbek]
+- name: country-Vanuatu
+  file: country_Vanuatu.png
+  tags: [vanuatu, flag, country, nation, port vila, pacific, oceania, melanesia]
+- name: country-Venezuela
+  file: country_Venezuela.png
+  tags: [venezuela, flag, country, nation, caracas, south america, latin america, venezuelan]
+- name: country-Viet-Nam
+  file: country_Viet_Nam.png
+  tags: [vietnam, viet nam, flag, country, nation, hanoi, southeast asia, vietnamese]
+- name: country-Wakes-Island
+  file: country_Wakes_Island.png
+  tags: [wake island, wakes island, flag, territory, united states, pacific, atoll, island]
+- name: country-Wales
+  file: country_Wales.png
+  tags: [wales, flag, country, nation, cardiff, uk, british, welsh, dragon, red dragon]
+- name: country-Western-Sahara
+  file: country_Western_Sahara.png
+  tags: [western sahara, flag, territory, africa, north africa, sahara, disputed]
+- name: country-Yemen
+  file: country_Yemen.png
+  tags: [yemen, flag, country, nation, sanaa, middle east, arabic, arab]
+- name: country-Zambia
+  file: country_Zambia.png
+  tags: [zambia, flag, country, nation, lusaka, africa, southern africa, zambian]
+- name: count-to
+  file: count_to.png
+  tags: [count, numbers, counting, sequence, one two three four, numerals, mathematics, quantity, learn numbers]
+- name: courgette
+  file: courgette.png
+  tags: [courgette, zucchini, vegetable, green, food, produce, squash, marrow, cooking]
+- name: cover-food-to
+  file: cover_food_to.png
+  tags: [cover food, cloche, dish cover, serving, food, plate, meal, serve, restaurant, dining]
+- name: cow
+  file: cow.png
+  tags: [cow, cattle, animal, farm, dairy, bovine, milk, livestock, black and white]
+- name: cow-shed
+  file: cow_shed.png
+  tags: [cow shed, barn, stable, farm building, cattle, livestock, dairy, agriculture, farmyard]
+- name: letter-C
+  file: C.png
+  tags: [letter c, alphabet, c, letter, uppercase, literacy, writing, phonics, language]
+- name: crab
+  file: crab.png
+  tags: [crab, seafood, ocean, sea, animal, crustacean, claws, legs, red, orange, food, marine, shellfish, beach]
+- name: cracker
+  file: cracker.png
+  tags: [cracker, christmas, party, celebration, holiday, festive, pull, gift, toy, surprise, decoration, fun, red, green]
+- name: craft-table
+  file: craft_table.png
+  tags: [craft, table, art, make, create, scissors, glue, pencil, paper, activity, school, hobby, supplies, tools, cutting]
+- name: cranberries
+  file: cranberries.png
+  tags: [cranberries, berry, fruit, red, food, plant, produce, seasonal, tart, healthy, small, bunch, cluster]
+- name: cranberry-juice
+  file: cranberry_juice.png
+  tags: [cranberry juice, juice, drink, beverage, red, glass, cranberry, fruit drink, cold, liquid, food, healthy]
+- name: crane-fly
+  file: crane_fly.png
+  tags: [crane fly, insect, bug, fly, legs, wings, flying, daddy longlegs, pest, garden, nature, animal, winged]
+- name: crane
+  file: crane.png
+  tags: [crane, construction, building, machine, lift, tall, heavy, work, site, equipment, industry, tower, vehicle]
+- name: crawl-to
+  file: crawl_to.png
+  tags: [crawl, movement, action, baby, on all fours, floor, hands, knees, body, move, low, physical, verb]
+- name: crayon
+  file: crayon.png
+  tags: [crayon, colour, draw, art, wax, blue, orange, stationery, school, craft, child, creative, writing, tool]
+- name: cream-2
+  file: cream_2.png
+  tags: [cream, colour, pale yellow, paint, bucket, spill, rainbow, art, shade, light, tone, painting, palette]
+- name: cream-ointment
+  file: cream_ointment.png
+  tags: [cream, ointment, tube, medicine, first aid, health, skin, apply, treatment, lotion, medical, pharmacy, topical]
+- name: cream
+  file: cream.png
+  tags: [cream, dairy, cow, milk, food, drink, cup, container, white, liquid, fat, cooking, ingredient, produce]
+- name: creme-fraiche
+  file: creme_fraiche.png
+  tags: [creme fraiche, dairy, cream, cow, sour cream, food, pot, tub, cooking, ingredient, French, milk, white, container]
+- name: cricket-insect
+  file: cricket_2.png
+  tags: [cricket, insect, bug, grasshopper, jumping, nature, garden, animal, yellow, wings, legs, chirp, outdoor]
+- name: cricket-ball
+  file: cricket_ball.png
+  tags: [cricket ball, cricket, sport, ball, red, round, game, play, seam, leather, throw, bowl, outdoor]
+- name: cricket-bowler
+  file: cricket_bowler.png
+  tags: [cricket, bowler, bowling, sport, action, throw, ball, player, game, outdoor, athletic, arm, white]
+- name: cricket
+  file: cricket.png
+  tags: [cricket, batsman, batting, sport, bat, wicket, stumps, ball, player, game, outdoor, athletic, white, action]
+- name: crisp-bread
+  file: crisp_bread.png
+  tags: [crisp bread, crispbread, cracker, food, bread, biscuit, snack, rye, packet, box, cereal, crunchy, baked]
+- name: crisps-cheese-puffs
+  file: crisps_cheese_puffs.png
+  tags: [cheese puffs, crisps, snack, bag, packet, food, junk food, cheese, orange, corn, puff, treat, savoury]
+- name: crisps
+  file: crisps.png
+  tags: [crisps, chips, potato chips, snack, bag, packet, food, junk food, salty, crunchy, treat, savoury, potato]
+- name: crocodile-2
+  file: crocodile_2.png
+  tags: [crocodile, alligator, reptile, animal, green, wildlife, predator, teeth, scales, tail, water animal, dangerous, jungle]
+- name: crocodile
+  file: crocodile.png
+  tags: [crocodile, alligator, reptile, animal, yellow, wildlife, predator, teeth, scales, tail, water animal, dangerous, jungle]
+- name: croissant
+  file: croissant.png
+  tags: [croissant, pastry, bread, food, bakery, breakfast, French, baked goods, snack, crescent, orange, buttery]
+- name: crooked
+  file: crooked.png
+  tags: [crooked, bent, zigzag, angular, not straight, twisted, irregular, shape, line, concept, wavy, diagonal]
+- name: cross-fingers-to
+  file: cross_fingers_to.png
+  tags: [cross fingers, fingers crossed, hand, gesture, luck, hope, wish, superstition, body language, action, fingers, hand gesture]
+- name: cross-palm
+  file: cross_palm.png
+  tags: [cross, palm cross, woven cross, Palm Sunday, Christianity, religion, church, Easter, straw, yellow, symbol, faith, holy]
+- name: cross
+  file: cross.png
+  tags: [cross, Christian cross, religion, Christianity, faith, church, symbol, Jesus, black, religious symbol, holy, worship]
+- name: crouch-to
+  file: crouch_to.png
+  tags: [crouch, squat, bend, action, movement, person, body, exercise, low, knees bent, physical activity, posture, human]
+- name: crown-of-thorns
+  file: crown_of_thorns.png
+  tags: [crown of thorns, thorns, Jesus, Christianity, Easter, crucifixion, suffering, religion, brown, spikes, circular, holy, symbol, passion]
+- name: crown
+  file: crown.png
+  tags: [crown, royalty, king, queen, royal, gold, jewels, gems, headwear, power, monarch, nobility, princess, prince]
+- name: crucifixion
+  file: Crucifixion.png
+  tags: [crucifixion, Jesus, cross, Christianity, religion, Easter, faith, death, resurrection, holy, church, Jesus Christ, sacrifice, worship]
+- name: cruiser
+  file: cruiser.png
+  tags: [cruiser, ship, boat, vessel, ocean, sea, water, travel, cruise ship, waves, transport, holiday, vacation, blue]
+- name: crumple-paper-to
+  file: crumple_paper_to.png
+  tags: [crumple, paper, scrunch, hand, action, screw up paper, waste, rubbish, destroy, squeeze, fist, activity]
+- name: crunchy
+  file: crunchy.png
+  tags: [crunchy, eating, texture, food, chewing, bite, person, face, crispy, crackers, snack, sensation, taste, descriptor]
+- name: crush-garlic-to
+  file: crush_garlic_to.png
+  tags: [crush garlic, garlic, garlic press, cooking, kitchen, food preparation, action, herb, ingredient, tool, hand, recipe]
+- name: crush-to
+  file: crush_to.png
+  tags: [crush, mortar, pestle, grinding, action, cooking, kitchen, bowl, hand, food preparation, grind, mash, recipe, ingredient]
+- name: crutches-1
+  file: crutches_1.png
+  tags: [crutches, forearm crutches, mobility aid, disability, injury, walking aid, medical, support, health, rehabilitation, pair, elbow crutches]
+- name: crutches
+  file: crutches.png
+  tags: [crutches, axillary crutches, mobility aid, disability, injury, walking aid, medical, support, health, rehabilitation, pair, underarm crutches]
+- name: cucumber
+  file: cucumber.png
+  tags: [cucumber, vegetable, food, green, salad, sliced, fresh, healthy, produce, cooking, ingredient, garden, raw]
+- name: cupboard
+  file: cupboard.png
+  tags: [cupboard, cabinet, storage, furniture, doors, kitchen, household, yellow, wood, shelves, home, organise, closed]
+- name: cup-non-spill
+  file: cup_non_spill.png
+  tags: [cup, drink, sippy cup, spill-proof, straw, lid, beaker, container, drinking, blue, toddler, beverage, water bottle]
+- name: curly-hair
+  file: curly_hair.png
+  tags: [hair, curly hair, face, woman, girl, appearance, hairstyle, brown hair, head, beauty, person, grooming]
+- name: curly
+  file: curly.png
+  tags: [curly, spiral, coil, curl, wavy, twist, shape, loop, pattern, line, texture, abstract]
+- name: currants
+  file: currants.png
+  tags: [currants, fruit, food, dried fruit, packet, snack, berries, raisins, bag, small fruit, eating]
+- name: curry
+  file: curry.png
+  tags: [curry, food, meal, dish, bowl, rice, sauce, spicy, hot food, dinner, lunch, eating, Asian food, Indian food]
+- name: curtains
+  file: curtains.png
+  tags: [curtains, drapes, window, fabric, home, decoration, room, purple, blinds, hanging, interior, bedroom, living room]
+- name: cushion-2
+  file: cushion_2.png
+  tags: [cushion, chair, armchair, seat, sit, sitting, sofa, furniture, comfort, down, arrow, living room, home, soft]
+- name: cut-and-paste
+  file: cut_and_paste.png
+  tags: [cut, paste, scissors, glue, craft, paper, art, make, create, stick, activity, school, cutting]
+- name: cut
+  file: cut.png
+  tags: [cut, injury, wound, bleeding, hand, blood, hurt, pain, accident, skin, first aid, medical, ouch]
+- name: cut-to
+  file: cut_to.png
+  tags: [cut, knife, hand, action, slice, blade, cooking, chopping, kitchen, tool, grip, verb]
+- name: cut-with-scissors-to
+  file: cut_with_scissors_to.png
+  tags: [cut, scissors, hand, snip, craft, paper, action, tool, trim, art, school, cutting, blades]
+- name: cycle-helmet
+  file: cycle_helmet.png
+  tags: [helmet, cycle helmet, bike helmet, safety, head protection, cycling, bicycle, sport, blue, protective gear, riding, outdoor]
+- name: cycle-to
+  file: cycle_to.png
+  tags: [cycle, bicycle, bike, riding, transport, travel, go, action, person, road, exercise, outdoor, sport, helmet]
+- name: cymbals-hand
+  file: cymbals_hand.png
+  tags: [cymbals, music, instrument, percussion, hand cymbals, play, sound, gold, musical, rhythm, band, noise maker]
