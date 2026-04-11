@@ -151,6 +151,69 @@ mod tests {
     }
 
     #[tokio::test]
+    async fn test_media_fetch() {
+        let app = build_router();
+
+        let response = app
+            .oneshot(
+                Request::builder()
+                    .uri("/media/custom/play/my-turn.png")
+                    .body(Body::empty())
+                    .unwrap(),
+            )
+            .await
+            .unwrap();
+
+        assert_eq!(response.status(), StatusCode::OK);
+
+        let body = hyper::body::to_bytes(response.into_body()).await.unwrap();
+        // PNG magic bytes
+        assert_eq!(&body[..8], b"\x89PNG\r\n\x1a\n");
+    }
+
+    #[tokio::test]
+    async fn test_search_then_fetch() {
+        let app = build_router();
+
+        // Search for a symbol
+        let response = app
+            .clone()
+            .oneshot(
+                Request::builder()
+                    .uri("/api/symbols/search/?q=ketupat")
+                    .body(Body::empty())
+                    .unwrap(),
+            )
+            .await
+            .unwrap();
+
+        assert_eq!(response.status(), StatusCode::OK);
+
+        let body = hyper::body::to_bytes(response.into_body()).await.unwrap();
+        let results: Vec<SymbolOutput> = serde_json::from_slice(&body).unwrap();
+        assert!(!results.is_empty());
+
+        // Extract the path from the first result URL and fetch it
+        let url = Url::parse(&results[0].url).unwrap();
+        let path = url.path();
+
+        let response = app
+            .oneshot(
+                Request::builder()
+                    .uri(path)
+                    .body(Body::empty())
+                    .unwrap(),
+            )
+            .await
+            .unwrap();
+
+        assert_eq!(response.status(), StatusCode::OK);
+
+        let body = hyper::body::to_bytes(response.into_body()).await.unwrap();
+        assert_eq!(&body[..8], b"\x89PNG\r\n\x1a\n");
+    }
+
+    #[tokio::test]
     async fn test_search_missing_query_returns_400() {
         let app = build_router();
 
