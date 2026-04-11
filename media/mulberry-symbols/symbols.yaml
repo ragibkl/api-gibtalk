@@ -1,0 +1,237 @@
+- name: above
+  file: above.png
+  tags: [above, over, higher, position, preposition, spatial, up, top, location, blue, dotted, square, symbol, concept]
+- name: absent
+  file: absent.png
+  tags: [absent, missing, not here, away, attendance, register, checklist, school, present, roll call, name list, person, podium, mark]
+- name: acne-spots
+  file: acne_spots.png
+  tags: [acne, spots, pimples, skin, face, blemish, rash, health, body, dermatology, red spots, teenager, beauty, hygiene]
+- name: acorn
+  file: acorn.png
+  tags: [acorn, nut, seed, oak, tree, nature, autumn, fall, green, yellow, food, squirrel, forest, plant]
+- name: across
+  file: across.png
+  tags: [across, through, over, direction, movement, preposition, spatial, arrow, horizontal, crossing, position, left to right, navigate, concept]
+- name: activity-centre
+  file: activity_centre.png
+  tags: [activity centre, toy, baby toy, infant, play, colorful, buttons, sensory, learning, developmental, yellow, interactive, stimulation, fun]
+- name: add
+  file: add.png
+  tags: [add, plus, more, increase, addition, math, symbol, purple, cross, combine, join, extra, insert, mathematics]
+- name: aerial-indoor
+  file: aerial_indoor.png
+  tags: [aerial, antenna, indoor aerial, television, TV, signal, reception, rabbit ears, technology, broadcast, media, screen, communication, device]
+- name: aerobics-dance
+  file: aerobics_dance.png
+  tags: [aerobics, dance, exercise, fitness, workout, movement, activity, sport, jumping, arms up, purple, active, health, leisure]
+- name: aeroplane
+  file: aeroplane.png
+  tags: [aeroplane, airplane, plane, aircraft, fly, travel, transport, sky, jet, flight, blue, holiday, airport, vehicle]
+- name: afraid-lady
+  file: afraid_lady.png
+  tags: [afraid, scared, fear, frightened, woman, lady, emotion, feeling, expression, face, brown hair, worried, anxious, shocked]
+- name: afraid-man
+  file: afraid_man.png
+  tags: [afraid, scared, fear, frightened, man, male, emotion, feeling, expression, face, short hair, worried, anxious, shocked]
+- name: afternoon
+  file: afternoon.png
+  tags: [afternoon, sun, time, midday, daytime, sunset, sunrise, horizon, yellow, rays, schedule, routine, daily, half sun]
+- name: after
+  file: after.png
+  tags: [after, next, then, following, sequence, time, order, later, temporal, concept, blue, dotted, vertical line, preposition]
+- name: aftershave-bottle
+  file: aftershave_1.png
+  tags: [aftershave, cologne, fragrance, bottle, grooming, hygiene, men, scent, perfume, blue bottle, toiletries, personal care, shaving, cosmetic]
+- name: aftershave
+  file: aftershave.png
+  tags: [aftershave, shaving, grooming, face, man, hygiene, personal care, lotion, splash, toiletries, hands, bottle, routine, morning]
+- name: against
+  file: against.png
+  tags: [against, beside, next to, touching, position, preposition, spatial, arrow, blue, dotted, square, direction, concept, relationship]
+- name: ahead
+  file: ahead.png
+  tags: [ahead, in front, forward, direction, position, preposition, spatial, perspective, road, path, concept, blue, dotted, square]
+- name: air-person-1a
+  file: air_person_1a.png
+  tags: [air person, pilot, aviator, flight crew, uniform, green jumpsuit, gas mask, helmet, aviation, worker, occupation, job, person, light skin]
+- name: air-person-1b
+  file: air_person_1b.png
+  tags: [air person, pilot, aviator, flight crew, uniform, green jumpsuit, gas mask, helmet, aviation, worker, occupation, job, person, dark skin]
+- name: air-person-2a
+  file: air_person_2a.png
+  tags: [pilot, aviator, flight crew, green jumpsuit, uniform, oxygen mask, helmet, woman, female, aviation, airport, flight, person]
+- name: air-person-2b
+  file: air_person_2b.png
+  tags: [pilot, aviator, flight crew, green jumpsuit, uniform, oxygen mask, helmet, woman, female, dark skin, aviation, airport, flight, person]
+- name: air-steward-1a
+  file: air_steward_1a.png
+  tags: [air steward, flight attendant, cabin crew, steward, man, male, blue shirt, uniform, airplane, aeroplane, aviation, airline, travel, airport]
+- name: air-steward-1b
+  file: air_steward_1b.png
+  tags: [air steward, flight attendant, cabin crew, steward, man, male, dark skin, blue shirt, uniform, airplane, aeroplane, aviation, airline, travel, airport]
+- name: air-steward-2a
+  file: air_steward_2a.png
+  tags: [air stewardess, flight attendant, cabin crew, stewardess, woman, female, blue shirt, uniform, airplane, aeroplane, aviation, airline, travel, airport]
+- name: air-steward-2b
+  file: air_steward_2b.png
+  tags: [air stewardess, flight attendant, cabin crew, stewardess, woman, female, dark skin, blue shirt, uniform, airplane, aeroplane, aviation, airline, travel, airport]
+- name: airways
+  file: airways.png
+  tags: [airways, airway, breathing, respiratory, throat, nose, nasal passage, head, anatomy, medical, breath, respiration, windpipe, trachea, side view]
+- name: algebra-class
+  file: algebra_class.png
+  tags: [algebra, class, lesson, school, maths, mathematics, equation, formula, variables, students, learning, education, classroom, x plus y equals zero]
+- name: algebra-formula
+  file: algebra_formula.png
+  tags: [algebra, formula, equation, maths, mathematics, variables, x, y, brackets, equals, expression, symbols, calculation, academic]
+- name: almond
+  file: almond.png
+  tags: [almond, nut, food, snack, seed, kernel, whole almond, shelled, yellow, brown, oval, healthy, plant-based, tree nut]
+- name: a-upper-case
+  file: A.png
+  tags: [letter A, uppercase A, capital A, alphabet, letter, writing, literacy, reading, text, symbol, character, english, vowel, purple]
+- name: advent-calendar
+  file: Advent_calendar.png
+  tags: [advent calendar, calendar, christmas, countdown, days, december, numbered doors, candles, wreath, celebration, religious, tradition, 25 days]
+- name: advent
+  file: Advent.png
+  tags: [advent, christmas, candles, wreath, four candles, red candles, religious, christian, celebration, tradition, pine, holly, december]
+- name: a-lower-case
+  file: a_-_lower_case.png
+  tags: [letter a, lowercase a, alphabet, letter, writing, literacy, reading, text, symbol, character, english, vowel, a]
+- name: ash-wednesday
+  file: Ash_Wednesday.png
+  tags: [ash wednesday, lent, religious, christian, catholic, forehead, cross, ashes, repentance, holy day, church, tradition, forty days]
+- name: ambulance
+  file: ambulance.png
+  tags: [ambulance, emergency, vehicle, medical, paramedic, rescue, hospital, urgent, yellow, green, van, transport, first aid, healthcare, 999]
+- name: angel
+  file: angel.png
+  tags: [angel, wings, halo, heaven, heavenly, spiritual, religious, faith, prayer, white dress, robes, divine, supernatural, guardian, christmas]
+- name: angry-lady
+  file: angry_lady.png
+  tags: [angry, woman, female, face, emotion, feeling, mad, furious, cross, upset, expression, frown, scowl, frustration, person]
+- name: angry-man
+  file: angry_man.png
+  tags: [angry, man, male, face, emotion, feeling, mad, furious, cross, upset, expression, frown, scowl, frustration, person]
+- name: ankle
+  file: ankle.png
+  tags: [ankle, foot, leg, body part, anatomy, joint, toes, heel, lower limb, medical, pointing, arrow, indicator, human body]
+- name: answer
+  file: answer.png
+  tags: [answer, solution, maths, arithmetic, addition, sum, result, paper, worksheet, numbers, calculation, school, education, correct, total]
+- name: ant-eater
+  file: ant_eater.png
+  tags: [anteater, ant eater, animal, mammal, wildlife, long snout, brown, insectivore, zoo, exotic, South America, aardvark, tamandua, long nose]
+- name: antelope
+  file: antelope.png
+  tags: [antelope, animal, mammal, wildlife, horns, brown, hooves, Africa, savanna, gazelle, deer, graceful, four legs, herbivore, safari]
+- name: ant
+  file: ant.png
+  tags: [ant, insect, bug, red ant, six legs, antennae, colony, small, creature, invertebrate, pest, nature, wildlife, segmented body]
+- name: apple-juice
+  file: apple_juice.png
+  tags: [juice, apple juice, drink, beverage, fruit juice, glass, yellow, liquid, refreshment, healthy drink, fruit, green apple, sweet]
+- name: apple
+  file: apple.png
+  tags: [apple, fruit, green apple, food, healthy, snack, granny smith, produce, green, sweet, crunchy, orchard, plant]
+- name: apricot
+  file: apricot.png
+  tags: [apricot, fruit, orange fruit, food, healthy, produce, stone fruit, sweet, yellow-orange, snack, summer fruit, drupe]
+- name: apron
+  file: apron.png
+  tags: [apron, cooking, kitchen, clothing, protective wear, chef, baking, red apron, cook, garment, accessory, household, woman cooking]
+- name: aquarium
+  file: aquarium.png
+  tags: [aquarium, fish tank, fish, pet, water, tank, marine, goldfish, tropical fish, hobby, animal, underwater, watching]
+- name: archery
+  file: archery.png
+  tags: [archery, bow and arrow, sport, shooting, athlete, archer, bow, arrow, aim, target sport, Olympic sport, activity, recreation]
+- name: archery-target
+  file: archery_target.png
+  tags: [archery target, target, bullseye, aim, shooting, archery, sport, circle, rings, goal, accuracy, practice, stand]
+- name: arch-lever-file
+  file: arch_lever_file.png
+  tags: [arch lever file, binder, ring binder, folder, office, stationery, document, storage, filing, organiser, lever arch, blue, green, paperwork]
+- name: armchair
+  file: arm_chair.png
+  tags: [armchair, chair, furniture, seat, sofa, comfortable, lounge, sitting, living room, upholstered, cushion, relax, couch]
+- name: arm
+  file: arm.png
+  tags: [arm, body part, limb, elbow, hand, forearm, upper arm, human body, bent arm, anatomy, skin, reach]
+- name: arms
+  file: arms.png
+  tags: [arms, body parts, limbs, two arms, hands, folded arms, crossed arms, human body, anatomy, torso, gesture, posture]
+- name: armwrestle
+  file: armwrestle_to.png
+  tags: [arm wrestle, arm wrestling, competition, strength, sport, two people, table, contest, versus, game, challenge, grip, fighting]
+- name: army-tank
+  file: army_tank.png
+  tags: [army tank, tank, military, weapon, vehicle, war, armoured, green, combat, army, defence, heavy vehicle, warfare]
+- name: around
+  file: around.png
+  tags: [around, circular, rotation, circle, revolve, loop, orbit, spin, direction, movement, encircle, concept, green]
+- name: arrest
+  file: arrest_to.png
+  tags: [arrest, police, officer, detain, criminal, law enforcement, custody, prisoner, caught, crime, justice, uniform, handcuff]
+- name: arrow-keys
+  file: arrow_keys.png
+  tags: [arrow keys, keyboard, navigation, keys, up down left right, computer, direction, cursor, input, technology, buttons, control]
+- name: art-class
+  file: art_class.png
+  tags: [art class, painting, students, school, lesson, watercolours, brush, paint, classroom, learning, education, creative, activity]
+- name: artichoke
+  file: artichoke.png
+  tags: [artichoke, vegetable, food, green, produce, plant, healthy, cooking ingredient, edible, thistle, leaf vegetable, Mediterranean]
+- name: artist-palette
+  file: artist_palette.png
+  tags: [artist palette, palette, paint, colours, art, artist, painting, creative, red blue green yellow, mixing, hobby, craft, tool]
+- name: art
+  file: art.png
+  tags: [art, painting, watercolours, paint set, brush, creative, drawing, craft, colours, hobby, school, activity, artwork]
+- name: art-room
+  file: art_room.png
+  tags: [art, room, classroom, painting, drawing, craft, paint palette, paintbrush, door, school, creative, studio, colours, art class, activity]
+- name: ask-to
+  file: ask_to.png
+  tags: [ask, question, request, speech bubble, question mark, lips, mouth, speak, talk, communicate, query, wonder, verbal, communication]
+- name: asparagus
+  file: asparagus.png
+  tags: [asparagus, vegetable, green, spear, food, healthy, plant, produce, spears, stems, eat, cooking, nutrition, veg, salad]
+- name: assembly
+  file: assembly.png
+  tags: [assembly, meeting, group, audience, crowd, speaker, talk, school, people, gather, listen, presentation, speech, community, event]
+- name: at-key
+  file: at_key.png
+  tags: [at, at sign, keyboard, key, email, internet, symbol, computer, type, online, address, technology, input, communication, web]
+- name: atom
+  file: atom.png
+  tags: [atom, science, physics, chemistry, nucleus, electrons, orbit, molecule, particle, element, nuclear, scientific, proton, neutron, education]
+- name: attract-to
+  file: attract_to.png
+  tags: [attract, beckon, come, gesture, hand, finger, call over, invite, signal, motion, wave, direction, arrow, point, body language]
+- name: aubergine
+  file: aubergine.png
+  tags: [aubergine, eggplant, vegetable, purple, food, cook, plant, brinjal, produce, garden, eat, nutrition, veg, fruit, healthy]
+- name: aunt-maternal
+  file: aunt_maternal.png
+  tags: [aunt, maternal, family, relative, mother side, woman, female, relation, mother's sister, kinship, portrait, person, dotted circle, family tree, adults]
+- name: aunt-paternal
+  file: aunt_paternal.png
+  tags: [aunt, paternal, family, relative, father side, woman, female, relation, father's sister, kinship, portrait, person, dotted circle, family tree, adults]
+- name: auroscope
+  file: auroscope.png
+  tags: [auroscope, otoscope, ear, medical, doctor, health, instrument, examination, hearing, tool, clinical, device, grey, GP, check]
+- name: autumn
+  file: autumn.png
+  tags: [autumn, fall, season, tree, leaves, leaf, orange, red, yellow, brown, falling leaves, nature, wind, change, weather]
+- name: avocado
+  file: avocado.png
+  tags: [avocado, fruit, green, food, healthy, halved, seed, stone, produce, eat, nutrition, guacamole, tropical, vegetarian, snack]
+- name: awake
+  file: awake.png
+  tags: [awake, wake up, bed, sleep, morning, person, eyes open, resting, bedroom, duvet, blanket, pillow, alert, conscious, routine]
+- name: away
+  file: away.png
+  tags: [away, gone, leave, direction, arrow, movement, distance, depart, travel, absent, go, location, spatial, concept, preposition]
