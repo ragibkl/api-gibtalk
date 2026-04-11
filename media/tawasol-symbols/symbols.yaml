@@ -2302,6 +2302,228 @@
 - name: know
   file: know/know-01.png
   tags: [know, idea, think, lightbulb, thought, understand, knowledge, person, arabic, thobe, smart, realize, awareness, cognitive, insight]
+- name: lab
+  file: lab/lab-01.png
+  tags: [laboratory, science, experiment, microscope, test tube, flask, beaker, research, school, chemistry, biology, equipment]
+- name: lady
+  file: lady/lady-01.png
+  tags: [lady, woman, female, adult, abaya, hijab, handbag, purse, Arab, modest, clothing, person, traditional]
+- name: lam-alef
+  file: lam-alef/lam-alef-01.png
+  tags: [lam-alef, Arabic letter, alphabet, writing, script, ligature, Arabic script, letter, language, reading, calligraphy, character]
+- name: lamb
+  file: lamb/lamb-01.png
+  tags: [lamb, sheep, baby animal, farm animal, animal, white, wool, livestock, young, mammal, gentle, cute, Eid]
+- name: land
+  file: Land/Land-01.png
+  tags: [land, airplane, landing, aircraft, runway, airport, plane, travel, flight, transportation, aviation, arrive, descend]
+- name: largest-jamarah-sign
+  file: Largest jamarah sign/Largest jamarah sign-01.png
+  tags: [largest jamarah, jamarah, Hajj, pillar, stoning, Mecca, Islam, ritual, Mina, pilgrimage, sign, marker, pebbles]
+- name: last
+  file: last/last-01.png
+  tags: [last, queue, line, end, final, position, people, standing, order, sequence, arrow, waiting, turn]
+- name: late
+  file: Late/Late-01.png
+  tags: [late, sunset, sun, evening, time, descend, arrow, dusk, delay, afternoon, sky, orange, sun setting]
+- name: laugh
+  file: laugh/laugh-01.png
+  tags: [laugh, laughing, happy, joy, funny, humor, smile, amused, giggle, emotion, feeling, man, arab]
+- name: lay-down
+  file: lay-down/lay-down-01.png
+  tags: [lay down, rest, relax, sofa, couch, recline, lying, sleep, tired, leisure, furniture, indoors, comfortable]
+- name: laylatul-qadr-night-of-power
+  file: laylatul-qadr-night-of-power/laylatul-qadr-night-of-power-01.png
+  tags: [laylatul qadr, night of power, prayer, worship, Islam, Ramadan, dua, supplication, night, stars, kneeling, religion, holy]
+- name: laylatul-qadr-night-of-power
+  file: laylatul-qadr-night-of-power/laylatul-qadr-night-of-power-02.png
+  tags: [laylatul qadr, night of power, prayer, worship, Islam, Ramadan, dua, supplication, night, stars, kneeling, religion, holy]
+- name: lazy
+  file: Lazy/Lazy-01.png
+  tags: [lazy, idle, slouch, relax, armchair, bored, unmotivated, sloth, lounge, indolent, rest, tired, sitting]
+- name: lazy
+  file: Lazy/Lazy-02.png
+  tags: [lazy, idle, slouch, relax, armchair, bored, unmotivated, sloth, lounge, indolent, rest, tired, sitting]
+- name: lazy
+  file: Lazy/Lazy-03.png
+  tags: [lazy, idle, slouch, relax, armchair, bored, unmotivated, sloth, lounge, indolent, rest, tired, sitting]
+- name: leader
+  file: leader/leader-01.png
+  tags: [leader, leadership, guide, follow, group, team, front, direction, authority, role model, ahead, people, arrow]
+- name: learn
+  file: learn/learn-01.png
+  tags: [learn, study, education, school, reading, book, knowledge, alphabet, numbers, math, Arabic, thinking, student]
+- name: leave
+  file: leave/leave-01.png
+  tags: [leave, go away, depart, exit, drive, car, house, home, road, travel, outdoors, journey, goodbye]
+- name: leave-distance-of-6-feet
+  file: leave-distance-of-6-feet-between-you-and-others-en-ar/leave-distance-of-6-feet-between-you-and-others-en-ar-01.png
+  tags: [social distancing, 6 feet, distance, COVID, safety, health, space, apart, people, pandemic, precaution, away, Arab]
+- name: leave-distance-of-6-feet
+  file: leave-distance-of-6-feet-between-you-and-others-en-ar/leave-distance-of-6-feet-between-you-and-others-en-ar-02.png
+  tags: [social distancing, 6 feet, distance, COVID, safety, health, space, apart, people, pandemic, precaution, away, Arab]
+- name: left
+  file: left/left-01.png
+  tags: [left, turn left, direction, arrow, navigation, turn, bend, curved arrow, go left, movement, way, route, sign]
+- name: left-arrow
+  file: left-arrow/left-arrow-01.png
+  tags: [left, left arrow, turn left, direction, arrow, navigation, turn, bend, curved arrow, go left, movement, way, route, sign]
+- name: lego-blocks
+  file: lego-blocks/lego-blocks-01.png
+  tags: [lego, blocks, toy, play, build, construction, colorful, plastic, bricks, creative, children, fun, stack, assemble]
+- name: lemon
+  file: lemon/lemon-01.png
+  tags: [lemon, fruit, yellow, citrus, sour, slice, food, fresh, vitamin c, juice, tropical, healthy, ingredient, wedge]
+- name: lemonade
+  file: lemonade/lemonade-01.png
+  tags: [lemonade, drink, beverage, glass, straw, yellow, lemon, juice, cold, refreshing, sweet, sour, summer, citrus]
+- name: lens
+  file: Lens/Lens-01.png
+  tags: [lens, eye, contact lens, vision, sight, see, eyelashes, eyeball, green, pupil, look, optic, iris, seeing]
+- name: lentils
+  file: Lentils/Lentils-01.png
+  tags: [lentils, food, legume, seeds, grain, plate, brown, red, healthy, protein, vegetable, cooking, ingredient, beans]
+- name: let
+  file: let/let-01.png
+  tags: [let, allow, release, drop, hand, ball, permission, give, pass, action, gesture, verb, allow to, bouncing]
+- name: lettuce
+  file: lettuce/lettuce-01.png
+  tags: [lettuce, vegetable, food, green, leaf, salad, plant, produce, healthy, eating, grocery, garden, round, leafy-vegetable, ingredient]
+- name: lick
+  file: Lick/Lick-01.png
+  tags: [lick, tongue, mouth, face, action, taste, oral, gesture, eating, boy, expression, lips, body, movement, sensation]
+- name: lid
+  file: lid/lid-01.png
+  tags: [lid, cap, cover, jar, container, open, close, top, kitchen, bottle, seal, twist, household, object, storage]
+- name: lie-down
+  file: lie-down/lie-down-01.png
+  tags: [lie-down, rest, relax, sofa, couch, resting, sleeping, recline, body, position, person, furniture, comfortable, home, lounge]
+- name: life
+  file: life/life-01.png
+  tags: [life, living, stages, cycle, grow, birth, aging, death, people, family, health, heart, lifespan, human, existence]
+- name: life
+  file: life/life-02.png
+  tags: [life, living, stages, cycle, grow, birth, aging, death, people, family, health, heart, lifespan, human, existence]
+- name: lift
+  file: lift/lift-01.png
+  tags: [lift, elevator, building, floor, up, down, door, button, transport, indoor, travel, vertical, access, machine, move]
+- name: light
+  file: light/light-01.png
+  tags: [light, bulb, lamp, electricity, bright, shine, glow, idea, yellow, energy, illuminate, electric, invention, radiant, switch]
+- name: light-weight
+  file: light-weight/light-weight-01.png
+  tags: [light-weight, weight, scale, balance, heavy, comparison, kilogram, measure, seesaw, physics, mass, object, difference, quantity, small]
+- name: like
+  file: Like/Like-01.png
+  tags: [like, thumbs-up, approval, positive, good, gesture, hand, agree, yes, favourite, endorse, support, emotion]
+- name: like
+  file: Like/Like-02.png
+  tags: [like, thumbs-up, approval, positive, good, gesture, hand, agree, yes, favourite, endorse, support, emotion]
+- name: like
+  file: Like/Like-03.png
+  tags: [like, thumbs-up, approval, positive, good, gesture, hand, agree, yes, favourite, endorse, support, emotion]
+- name: like
+  file: Like/Like-04.png
+  tags: [like, thumbs-up, approval, positive, good, gesture, hand, agree, yes, favourite, endorse, support, emotion]
+- name: like
+  file: Like/Like-05.png
+  tags: [like, thumbs-up, approval, positive, good, gesture, hand, agree, yes, favourite, endorse, support, emotion]
+- name: like
+  file: Like/Like-06.png
+  tags: [like, thumbs-up, approval, positive, good, gesture, hand, agree, yes, favourite, endorse, support, emotion]
+- name: lime
+  file: Lime/Lime-01.png
+  tags: [lime, cement, construction, building, material, bag, sand, shovel, masonry, mortar, powder, work, concrete, mix]
+- name: limp
+  file: Limp/Limp-01.png
+  tags: [limp, walk, leg, injury, person, movement, hobble, disability, gait, body, action, man, stepping, unsteady]
+- name: line
+  file: line/line-01.png
+  tags: [line, ruled, paper, writing, notebook, school, horizontal, row, writing-line, exercise-book, margin, education, rule, text]
+- name: line-queue
+  file: line-queue/line-queue-01.png
+  tags: [line, queue, waiting, people, row, group, stand, order, turn, crowd, women, wait, lineup, public]
+- name: lint
+  file: lint/lint-01.png
+  tags: [lint, roller, clothing, clean, fabric, brush, remove, dust, fluff, garment, sweater, grooming, laundry, hygiene]
+- name: lion
+  file: lion/lion-01.png
+  tags: [lion, animal, wild, cat, mane, Africa, predator, big-cat, mammal, savanna, carnivore, fierce, nature, zoo]
+- name: lion
+  file: lion/lion-02.png
+  tags: [lion, animal, wild, cat, mane, Africa, predator, big-cat, mammal, savanna, carnivore, fierce, nature, zoo]
+- name: lionne
+  file: lionne/lionne-01.png
+  tags: [lioness, lionne, animal, wild, cat, female, Africa, predator, big-cat, mammal, savanna, carnivore, nature, zoo]
+- name: listen
+  file: listen/listen-01.png
+  tags: [listen, hear, ear, hearing, pay attention, sound, audio, attentive, perceive, Arabic, thobe, man, gesture]
+- name: listen
+  file: listen/listen-02.png
+  tags: [listen, hear, ear, hearing, pay attention, sound, audio, attentive, perceive, woman, hijab, gesture]
+- name: live
+  file: Live/Live-01.png
+  tags: [live, alive, living, grow, life, plant, flower, pot, healthy, thrive, survive, flourish, before after]
+- name: live
+  file: Live/Live-02.png
+  tags: [live, reside, home, house, shelter, dwelling, stay, inhabit, person, residence, building, roof, family]
+- name: live
+  file: Live/Live-03.png
+  tags: [live, reside, home, house, shelter, dwelling, stay, inhabit, residence, building, roof, simple]
+- name: live
+  file: Live/Live-04.png
+  tags: [live, reside, home, house, shelter, dwelling, stay, inhabit, person, residence, building, roof, family]
+- name: living-room-majlis
+  file: living-room-majlis/living-room-majlis-01.png
+  tags: [living room, majlis, lounge, sofa, couch, furniture, room, interior, home, curtains, table, mirror, relaxation, gathering]
+- name: location
+  file: location/location-01.png
+  tags: [location, place, map, pin, marker, navigate, address, GPS, street, intersection, roundabout, directions, where, find]
+- name: log
+  file: log/log-01.png
+  tags: [log, call log, phone, mobile, history, record, calls, missed call, received, dialed, contact, list, telephone, activity]
+- name: long
+  file: long/long-01.png
+  tags: [long, tall, height, size, compare, big, measurement, difference, shape, rectangle, larger, versus, dimension, concept]
+- name: look
+  file: look/look-01.png
+  tags: [look, point, see, direct, attention, indicate, gesture, person, Arabic, thobe, observe, direct gaze, target, object]
+- name: look-at-watch
+  file: "Look at- watch/Look at watch-01.png"
+  tags: [look at, watch, observe, attention, gaze, direction, head, eye, arrow, see, focus, turn, face, notice]
+- name: look-at-watch
+  file: "Look at- watch/Look at watch-02.png"
+  tags: [look at, watch, observe, attention, gaze, direction, woman, eye, arrow, see, focus, face, side profile, notice]
+- name: look-at-watch
+  file: "Look at- watch/Look at watch-03.png"
+  tags: [look at, watch, observe, attention, gaze, direction, man, eye, arrow, see, focus, face, side profile, notice]
+- name: look-for
+  file: look-for/look-for-01.png
+  tags: [look for, search, find, magnify, magnifying glass, investigate, screen, explore, scan, zoom, inspect, discover, seek, hunt]
+- name: look-for
+  file: look-for/look-for-02.png
+  tags: [look for, search, find, seek, rummage, box, tools, Arabic, thobe, thinking, thought bubble, missing, hunt, screw]
+- name: loosen
+  file: Loosen/Loosen-01.png
+  tags: [loosen, unfasten, unbuckle, belt, adjust, loose, clothing, waist, undo, relax, release, expand, unclip, buckle, action]
+- name: lost
+  file: lost/lost-01.png
+  tags: [lost, confused, direction, signpost, question, unsure, navigate, disoriented, finding-way, arrows, uncertain, help, where, searching, emotion]
+- name: love
+  file: love/love-01.png
+  tags: [love, affection, heart, mother, baby, care, family, bond, warmth, tender, emotion, feeling, cuddle, maternal, cherish]
+- name: low
+  file: low/low-01.png
+  tags: [low, down, below, level, position, decrease, drop, bottom, descend, small, less, reduce, arrow, compare, opposite]
+- name: low
+  file: low/low-02.png
+  tags: [low, down, below, level, position, decrease, drop, bottom, descend, small, less, reduce, arrow, compare, opposite]
+- name: low
+  file: low/low-03.png
+  tags: [low, down, below, level, position, decrease, drop, bottom, descend, small, less, reduce, arrow, compare, opposite]
+- name: lunch
+  file: lunch/lunch-01.png
+  tags: [lunch, meal, food, midday, eat, plate, rice, drink, soup, bowl, sun, noon, time, dining, hunger]
 - name: mad
   file: mad/mad-01.png
   tags: [angry, mad, emotion, feeling, frustrated, upset, rage, face, expression, tantrum, behavior, negative-emotion, person]
