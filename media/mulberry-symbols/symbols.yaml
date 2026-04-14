@@ -8287,3 +8287,862 @@
 - name: run-to
   file: run_to.png
   tags: [action, run, exercise, person, movement, sport, active, legs, jog, fitness]
+- name: table
+  file: table.png
+  tags: [table, furniture, dining, surface, legs, rectangle, flat, room, eating, kitchen]
+
+- name: table-2
+  file: table_2.png
+  tags: [table, furniture, dining, surface, rectangle, flat, kitchen, room, desk, eating]
+
+- name: table-cloth
+  file: table_cloth.png
+  tags: [tablecloth, cloth, table, fabric, covering, dining, kitchen, linen, household, textile]
+
+- name: tablecloth
+  file: tablecloth.png
+  tags: [tablecloth, cloth, table, fabric, covering, dining, kitchen, linen, household, textile]
+
+- name: tablet-blister-pack
+  file: tablet_blister_pack.png
+  tags: [tablet, blister pack, medicine, pills, medication, health, pharmacy, drugs, capsule, packet]
+
+- name: tablets
+  file: tablets.png
+  tags: [tablets, pills, medicine, medication, health, pharmacy, drugs, capsule, treatment, swallow]
+
+- name: takeaway-burger-and-chips
+  file: takeaway_burger_and_chips.png
+  tags: [takeaway, burger, chips, fast food, junk food, fries, meal, food, restaurant, eat]
+
+- name: takeaway-burger
+  file: takeaway_burger.png
+  tags: [takeaway, burger, fast food, junk food, sandwich, bun, meal, food, restaurant, eat]
+
+- name: takeaway-chinese
+  file: takeaway_chinese.png
+  tags: [takeaway, Chinese, food, noodles, rice, container, Asian, meal, restaurant, delivery]
+
+- name: takeaway-container
+  file: takeaway_container.png
+  tags: [takeaway, container, food, box, packaging, meal, delivery, carton, carry, eat]
+
+- name: takeaway-indian
+  file: takeaway_indian.png
+  tags: [takeaway, Indian, food, curry, meal, spicy, restaurant, delivery, container, eat]
+
+- name: takeaway-pizza
+  file: takeaway_pizza.png
+  tags: [takeaway, pizza, food, slice, cheese, delivery, meal, Italian, restaurant, eat]
+
+- name: take-a-work-break
+  file: take_a_work_break_to.png
+  tags: [work break, rest, pause, relax, stop, break time, sit, leisure, work, time out]
+
+- name: take-care-of
+  file: take_care_of_to.png
+  tags: [take care, look after, care, nurture, help, assist, support, responsibility, protect, tend]
+
+- name: take-off-cap
+  file: take_off_cap_to.png
+  tags: [take off, cap, remove, hat, lid, open, bottle, unscrew, action, gesture]
+
+- name: take-off-lid
+  file: take_off_lid_to.png
+  tags: [take off, lid, remove, open, container, pot, uncover, action, kitchen, gesture]
+
+- name: take-out
+  file: take_out_to.png
+  tags: [take out, remove, extract, pull out, action, fetch, bring, get, carry, gesture]
+
+- name: take-picture
+  file: take_picture_to.png
+  tags: [take picture, photograph, camera, photo, snap, capture, image, action, photography, shoot]
+
+- name: take
+  file: take_to.png
+  tags: [take, grab, pick up, hold, action, carry, get, fetch, hand, gesture]
+
+- name: talk-1
+  file: talk_1_to.png
+  tags: [talk, speak, communicate, conversation, speech, chat, say, voice, communication, person]
+
+- name: talk-2
+  file: talk_2_to.png
+  tags: [talk, speak, communicate, conversation, speech, chat, say, voice, communication, person]
+
+- name: talk-3
+  file: talk_3_to.png
+  tags: [talk, speak, communicate, conversation, speech, chat, say, voice, communication, person]
+
+- name: talk-4
+  file: talk_4_to.png
+  tags: [talk, speak, communicate, conversation, speech, chat, say, voice, communication, person]
+
+- name: tall
+  file: tall.png
+  tags: [tall, height, size, big, large, comparison, measure, adjective, describing, body]
+
+- name: tampon
+  file: tampon.png
+  tags: [tampon, hygiene, feminine, sanitary, period, menstruation, personal care, health, female, bathroom]
+
+- name: tape-measure
+  file: tape_measure.png
+  tags: [tape measure, measuring, length, ruler, tool, measurement, distance, sewing, construction, DIY]
+
+- name: tape-recorder
+  file: tape_recorder.png
+  tags: [tape recorder, audio, record, cassette, music, playback, technology, device, listen, sound]
+
+- name: tap
+  file: tap.png
+  tags: [tap, faucet, water, sink, plumbing, kitchen, bathroom, drink, wash, flow]
+
+- name: tartan
+  file: tartan.png
+  tags: [tartan, pattern, plaid, fabric, Scottish, textile, checkered, design, cloth, colour]
+
+- name: tart
+  file: tart.png
+  tags: [tart, pastry, dessert, baking, sweet, food, pie, crust, fruit, baked]
+
+- name: taste
+  file: taste_to.png
+  tags: [taste, flavour, lick, eat, tongue, sense, food, try, sample, action]
+
+- name: tattoo
+  file: tattoo.png
+  tags: [tattoo, body art, ink, design, skin, permanent, art, decoration, marking, body]
+
+- name: taxi
+  file: taxi.png
+  tags: [taxi, cab, car, transport, vehicle, yellow, hire, drive, travel, road]
+
+- name: taxi-driver-1a
+  file: taxi_driver_1a.png
+  tags: [taxi driver, driver, cab, person, job, occupation, profession, transport, car, work]
+
+- name: taxi-driver-1b
+  file: taxi_driver_1b.png
+  tags: [taxi driver, driver, cab, person, job, occupation, profession, transport, car, work]
+
+- name: taxi-driver-1c
+  file: taxi_driver_1c.png
+  tags: [taxi driver, driver, cab, person, job, occupation, profession, transport, car, work]
+
+- name: taxi-driver-1d
+  file: taxi_driver_1d.png
+  tags: [taxi driver, driver, cab, person, job, occupation, profession, transport, car, work]
+
+- name: taxi-driver-2a
+  file: taxi_driver_2a.png
+  tags: [taxi driver, driver, cab, person, job, occupation, profession, transport, car, work]
+
+- name: taxi-driver-2b
+  file: taxi_driver_2b.png
+  tags: [taxi driver, driver, cab, person, job, occupation, profession, transport, car, work]
+
+- name: taxi-driver-2c
+  file: taxi_driver_2c.png
+  tags: [taxi driver, driver, cab, person, job, occupation, profession, transport, car, work]
+
+- name: taxi-driver-2d
+  file: taxi_driver_2d.png
+  tags: [taxi driver, driver, cab, person, job, occupation, profession, transport, car, work]
+
+- name: tea
+  file: tea.png
+  tags: [tea, drink, cup, beverage, hot, mug, brew, drink, warm, teacup]
+
+- name: tea-bag
+  file: tea_bag.png
+  tags: [tea bag, tea, beverage, brew, infuse, hot drink, drink, bag, kitchen, string]
+
+- name: tea-instant
+  file: tea_instant.png
+  tags: [instant tea, tea, beverage, powder, hot drink, drink, jar, quick, brew, kitchen]
+
+- name: teacher-1a
+  file: teacher_1a.png
+  tags: [teacher, educator, school, class, person, job, profession, teaching, board, adult]
+
+- name: teacher-1b
+  file: teacher_1b.png
+  tags: [teacher, educator, school, class, person, job, profession, teaching, board, adult]
+
+- name: teacher-2a
+  file: teacher_2a.png
+  tags: [teacher, educator, school, class, person, job, profession, teaching, board, adult]
+
+- name: teacher-2b
+  file: teacher_2b.png
+  tags: [teacher, educator, school, class, person, job, profession, teaching, board, adult]
+
+- name: teapot
+  file: teapot.png
+  tags: [teapot, tea, pot, kitchen, brew, pour, vessel, ceramic, drink, hot]
+
+- name: tear
+  file: tear_to.png
+  tags: [tear, rip, pull apart, paper, action, break, destroy, shred, split, hands]
+
+- name: teaspoon
+  file: tea_spoon.png
+  tags: [teaspoon, spoon, cutlery, small, measure, cooking, kitchen, stir, utensil, baking]
+
+- name: tea-time
+  file: tea_time.png
+  tags: [tea time, tea, afternoon, break, drink, cup, time, social, British, relax]
+
+- name: tea-towel
+  file: tea_towel.png
+  tags: [tea towel, towel, kitchen, dry, cloth, fabric, wipe, household, clean, cotton]
+
+- name: technology
+  file: technology.png
+  tags: [technology, computer, device, digital, screen, gadget, electronics, modern, internet, tech]
+
+- name: teddy-bear
+  file: teddy_bear.png
+  tags: [teddy bear, toy, soft toy, bear, stuffed animal, comfort, child, hug, play, brown]
+
+- name: teeth
+  file: teeth.png
+  tags: [teeth, mouth, dental, smile, bite, oral, body, health, dentist, white]
+
+- name: teeth-2
+  file: teeth_2.png
+  tags: [teeth, mouth, dental, smile, bite, oral, body, health, dentist, white]
+
+- name: telephone-2
+  file: telephone_2_to.png
+  tags: [telephone, phone, call, communication, ring, dial, landline, speak, contact, device]
+
+- name: telephone-handset
+  file: telephone_handset.png
+  tags: [telephone handset, phone, call, handset, communication, ring, dial, landline, receiver, speak]
+
+- name: telephone-mobile
+  file: telephone_mobile_to.png
+  tags: [mobile phone, call, smartphone, communication, ring, dial, mobile, speak, contact, phone]
+
+- name: telephone-mobile-2
+  file: telephone_mobile_2_to.png
+  tags: [mobile phone, call, smartphone, communication, ring, dial, mobile, speak, contact, phone]
+
+- name: telephone-toy
+  file: telephone_toy.png
+  tags: [toy telephone, phone, toy, play, child, pretend, communication, plastic, colourful, handset]
+
+- name: temple
+  file: temple.png
+  tags: [temple, religion, worship, building, Hindu, Buddhist, sacred, prayer, spiritual, architecture]
+
+- name: ten
+  file: ten.png
+  tags: [ten, number, 10, count, digit, maths, numeral, quantity, figure, arithmetic]
+
+- name: tennis
+  file: tennis.png
+  tags: [tennis, sport, racket, ball, court, game, active, exercise, play, outdoor]
+
+- name: terracotta
+  file: terracotta.png
+  tags: [terracotta, colour, orange-brown, clay, pottery, garden, pot, material, earthy, warm]
+
+- name: test
+  file: test.png
+  tags: [test, exam, paper, school, assessment, writing, pencil, study, academic, answer]
+
+- name: test-tube
+  file: test_tube.png
+  tags: [test tube, science, chemistry, laboratory, experiment, glass, liquid, scientist, research, school]
+
+- name: text-mobile-message
+  file: text_mobile_message_to.png
+  tags: [text message, SMS, mobile, phone, message, send, type, communicate, digital, write]
+
+- name: text-phone
+  file: text_phone.png
+  tags: [text phone, minicom, communication, deaf, hearing impaired, device, type, message, accessibility, phone]
+
+- name: theme-park
+  file: theme_park.png
+  tags: [theme park, funfair, rides, amusement, leisure, fun, rollercoaster, entertainment, attraction, visit]
+
+- name: thermometer
+  file: thermometer.png
+  tags: [thermometer, temperature, measure, health, fever, hot, cold, body, medical, degree]
+
+- name: thermometer-2
+  file: thermometer_2.png
+  tags: [thermometer, temperature, measure, health, fever, hot, cold, body, medical, degree]
+
+- name: thick
+  file: thick.png
+  tags: [thick, size, wide, measurement, adjective, describing, fat, broad, dimension, compare]
+
+- name: thigh
+  file: thigh.png
+  tags: [thigh, leg, body, anatomy, upper leg, muscle, human, limb, physical, body part]
+
+- name: thin
+  file: thin.png
+  tags: [thin, slim, narrow, size, adjective, describing, small, lightweight, shape, compare]
+
+- name: thin-2
+  file: thin_2.png
+  tags: [thin, slim, narrow, size, adjective, describing, small, lightweight, shape, compare]
+
+- name: think
+  file: think_to.png
+  tags: [think, thought, mind, brain, consider, ponder, idea, cognitive, imagine, reflect]
+
+- name: thirsty
+  file: thirsty.png
+  tags: [thirsty, drink, water, need, dry, mouth, feeling, want, beverage, dehydrated]
+
+- name: thirteen
+  file: thirteen.png
+  tags: [thirteen, number, 13, count, digit, maths, numeral, quantity, figure, arithmetic]
+
+- name: thirty
+  file: thirty.png
+  tags: [thirty, number, 30, count, digit, maths, numeral, quantity, figure, arithmetic]
+
+- name: this-month
+  file: this_month.png
+  tags: [this month, calendar, time, current, monthly, date, schedule, now, period, planner]
+
+- name: this-week
+  file: this_week.png
+  tags: [this week, calendar, time, current, weekly, date, schedule, now, period, planner]
+
+- name: thousand
+  file: thousand.png
+  tags: [thousand, number, 1000, count, large number, maths, numeral, quantity, figure, arithmetic]
+
+- name: three
+  file: three.png
+  tags: [three, number, 3, count, digit, maths, numeral, quantity, figure, arithmetic]
+
+- name: three-dots
+  file: three_dots.png
+  tags: [three dots, ellipsis, dots, punctuation, symbol, pause, continue, pattern, more, symbol]
+
+- name: three-quarters
+  file: three_quarters.png
+  tags: [three quarters, fraction, 3/4, proportion, maths, pie chart, quantity, partial, percentage, circle]
+
+- name: three-wise-kings
+  file: three_wise_kings.png
+  tags: [three wise kings, magi, Christmas, nativity, religion, bible, epiphany, gift, star, festival]
+
+- name: throat
+  file: throat.png
+  tags: [throat, neck, body, anatomy, swallow, sore throat, airway, health, medical, inside]
+
+- name: through
+  file: through.png
+  tags: [through, direction, pass, movement, preposition, tunnel, arrow, inside, path, concept]
+
+- name: throw-away
+  file: throw_away_to.png
+  tags: [throw away, bin, rubbish, discard, waste, recycling, delete, action, get rid, toss]
+
+- name: thumb
+  file: thumb.png
+  tags: [thumb, hand, finger, body, anatomy, digit, grasp, thumbs up, gesture, physical]
+
+- name: thumbs
+  file: thumbs.png
+  tags: [thumbs up, approve, good, positive, like, gesture, hand, agree, yes, OK]
+
+- name: thunder-storm
+  file: thunder_storm.png
+  tags: [thunderstorm, storm, lightning, thunder, weather, rain, cloud, dark, electric, sky]
+
+- name: tickle
+  file: tickle_to.png
+  tags: [tickle, laugh, touch, fun, play, fingers, giggle, sensation, action, children]
+
+- name: tidy-2
+  file: tidy_2_to.png
+  tags: [tidy, clean, organise, sort, neat, household, action, tidy up, chores, clear]
+
+- name: tidy-up
+  file: tidy_up_to.png
+  tags: [tidy up, clean, organise, sort, neat, household, action, chores, clear, arrange]
+
+- name: tie
+  file: tie.png
+  tags: [tie, necktie, clothing, formal, dress, accessory, shirt, smart, fashion, fabric]
+
+- name: tie-2
+  file: tie_2_to.png
+  tags: [tie, knot, fasten, bind, action, rope, string, attach, secure, hands]
+
+- name: tie-to
+  file: tie_to.png
+  tags: [tie, knot, fasten, bind, action, lace, string, attach, secure, wrap]
+
+- name: tiger
+  file: tiger.png
+  tags: [tiger, animal, wild, striped, big cat, orange, zoo, fierce, jungle, feline]
+
+- name: tighten
+  file: tighten_to.png
+  tags: [tighten, screw, turn, wrench, fix, bolt, action, tool, repair, hands]
+
+- name: tights
+  file: tights.png
+  tags: [tights, stockings, clothing, legs, fashion, hosiery, nylon, wear, women, stretchy]
+
+- name: time-out
+  file: time_out.png
+  tags: [time out, break, pause, rest, calm down, behaviour, stop, warning, discipline, signal]
+
+- name: timer-2
+  file: timer_2.png
+  tags: [timer, clock, time, count, stopwatch, cooking, alarm, measure, minute, kitchen]
+
+- name: tin
+  file: tin.png
+  tags: [tin, can, metal, container, food, storage, cupboard, pantry, preserved, kitchen]
+
+- name: tin-can
+  file: tin_can.png
+  tags: [tin can, can, metal, container, food, storage, preserved, kitchen, recycling, cupboard]
+
+- name: tin-foil
+  file: tin_foil.png
+  tags: [tin foil, aluminium foil, kitchen, cooking, wrap, cover, food, baking, silver, roll]
+
+- name: tinned-apricots
+  file: tinned_apricots.png
+  tags: [tinned apricots, apricots, tin, canned, fruit, food, preserved, kitchen, orange, sweet]
+
+- name: tinned-cherries
+  file: tinned_cherries.png
+  tags: [tinned cherries, cherries, tin, canned, fruit, food, preserved, kitchen, red, sweet]
+
+- name: tinned-mushroom-soup
+  file: tinned_mushroom_soup.png
+  tags: [tinned mushroom soup, soup, mushroom, tin, canned, food, preserved, kitchen, lunch, warm]
+
+- name: tinned-peaches
+  file: tinned_peaches.png
+  tags: [tinned peaches, peaches, tin, canned, fruit, food, preserved, kitchen, orange, sweet]
+
+- name: tinned-pears
+  file: tinned_pears.png
+  tags: [tinned pears, pears, tin, canned, fruit, food, preserved, kitchen, green, sweet]
+
+- name: tinned-peas
+  file: tinned_peas.png
+  tags: [tinned peas, peas, tin, canned, vegetable, food, preserved, kitchen, green, healthy]
+
+- name: tinned-pineapple
+  file: tinned_pineapple.png
+  tags: [tinned pineapple, pineapple, tin, canned, fruit, food, preserved, kitchen, tropical, sweet]
+
+- name: tinned-plums
+  file: tinned_plums.png
+  tags: [tinned plums, plums, tin, canned, fruit, food, preserved, kitchen, purple, sweet]
+
+- name: tinned-sweetcorn
+  file: tinned_sweetcorn.png
+  tags: [tinned sweetcorn, sweetcorn, corn, tin, canned, vegetable, food, preserved, kitchen, yellow]
+
+- name: tinned-tomato
+  file: tinned_tomato.png
+  tags: [tinned tomato, tomato, tin, canned, vegetable, food, preserved, kitchen, red, sauce]
+
+- name: tinsel
+  file: tinsel.png
+  tags: [tinsel, Christmas, decoration, sparkle, shiny, festive, tree, silver, gold, glitter]
+
+- name: tippex
+  file: tippex.png
+  tags: [tippex, correction fluid, white out, writing, school, office, stationery, correct, mistake, pen]
+
+- name: tissues
+  file: tissues.png
+  tags: [tissues, paper, tissue, nose, wipe, clean, box, cold, sneeze, hygiene]
+
+- name: t-lower-case
+  file: t_-_lower_case.png
+  tags: [letter t, alphabet, lowercase, letter, writing, phonics, literacy, English, symbol, character]
+
+- name: T-uppercase
+  file: T.png
+  tags: [letter T, alphabet, uppercase, capital, letter, writing, phonics, literacy, English, symbol]
+
+- name: toad
+  file: toad.png
+  tags: [toad, amphibian, animal, frog, garden, nature, pond, hop, brown, wildlife]
+
+- name: toast
+  file: toast.png
+  tags: [toast, bread, breakfast, food, brown, warm, toasted, slice, butter, kitchen]
+
+- name: toaster
+  file: toaster.png
+  tags: [toaster, kitchen, appliance, bread, toast, electric, cook, breakfast, warm, gadget]
+
+- name: today
+  file: today.png
+  tags: [today, time, current, now, day, calendar, date, present, daily, schedule]
+
+- name: toe-nail
+  file: toe_nail.png
+  tags: [toe nail, nail, toe, foot, body, grooming, cut, trimming, hygiene, anatomy]
+
+- name: toilet
+  file: toilet.png
+  tags: [toilet, bathroom, WC, loo, hygiene, bathroom, flush, seat, bowl, plumbing]
+
+- name: toilet-go-to-the
+  file: toilet_go_to_the.png
+  tags: [go to the toilet, bathroom, toilet, WC, loo, need, action, hygiene, personal, body]
+
+- name: toilet-roll
+  file: toilet_roll.png
+  tags: [toilet roll, toilet paper, paper, bathroom, hygiene, WC, clean, wipe, tissue, cardboard]
+
+- name: toilets
+  file: toilets.png
+  tags: [toilets, bathroom, WC, sign, public, male, female, gender, facility, restroom]
+
+- name: tomato
+  file: tomato.png
+  tags: [tomato, vegetable, fruit, red, food, fresh, salad, cooking, grow, round]
+
+- name: tomato-juice
+  file: tomato_juice.png
+  tags: [tomato juice, drink, beverage, juice, tomato, red, glass, healthy, vegetable, liquid]
+
+- name: tomato-slice
+  file: tomato_slice.png
+  tags: [tomato slice, tomato, food, sliced, salad, cooking, red, fresh, round, vegetable]
+
+- name: tomb-1
+  file: tomb_1.png
+  tags: [tomb, grave, death, cemetery, memorial, burial, stone, funeral, graveyard, remember]
+
+- name: tomb-2
+  file: tomb_2.png
+  tags: [tomb, grave, death, cemetery, memorial, burial, stone, funeral, graveyard, remember]
+
+- name: tomorrow
+  file: tomorrow.png
+  tags: [tomorrow, time, future, next day, calendar, date, schedule, plan, coming, ahead]
+
+- name: tongs
+  file: tongs.png
+  tags: [tongs, kitchen, cooking, utensil, grip, tool, barbecue, food, pick up, metal]
+
+- name: tongue
+  file: tongue.png
+  tags: [tongue, mouth, taste, body, anatomy, lick, speak, organ, sense, muscle]
+
+- name: toothache
+  file: toothache.png
+  tags: [toothache, pain, tooth, dental, ache, hurt, mouth, health, dentist, sore]
+
+- name: toothbrush
+  file: toothbrush.png
+  tags: [toothbrush, brush, teeth, dental, hygiene, clean, morning, routine, bathroom, oral]
+
+- name: toothbrush-electric
+  file: toothbrush_electric.png
+  tags: [electric toothbrush, toothbrush, teeth, dental, hygiene, clean, electric, bathroom, oral, routine]
+
+- name: toothpaste
+  file: toothpaste.png
+  tags: [toothpaste, teeth, dental, hygiene, clean, tube, mint, brush, oral, bathroom]
+
+- name: tooth
+  file: tooth.png
+  tags: [tooth, teeth, dental, mouth, health, white, enamel, bite, body, anatomy]
+
+- name: top
+  file: top.png
+  tags: [top, position, above, direction, up, high, arrow, location, above, concept]
+
+- name: top-2
+  file: top_2.png
+  tags: [top, position, sequence, first, order, stack, list, above, concept, direction]
+
+- name: topsoil
+  file: topsoil.png
+  tags: [topsoil, soil, earth, garden, ground, layer, roots, dirt, planting, nature]
+
+- name: torch
+  file: torch.png
+  tags: [torch, flashlight, light, battery, electric, dark, shine, portable, outdoor, camping]
+
+- name: torch-2
+  file: torch_2.png
+  tags: [torch, flame, fire, Olympic, carry, hand, burn, light, ceremony, games]
+
+- name: torch-3
+  file: torch_3.png
+  tags: [torch, flame, fire, burn, light, stand, ceremony, festival, Olympic, bright]
+
+- name: tortoise
+  file: tortoise.png
+  tags: [tortoise, reptile, shell, slow, animal, brown, garden, pet, nature, wildlife]
+
+- name: toss-pancake
+  file: toss_pancake_to.png
+  tags: [toss pancake, pancake, cooking, frying pan, flip, food, action, batter, Shrove Tuesday, kitchen]
+
+- name: touch-screen
+  file: touch_screen.png
+  tags: [touch screen, tablet, finger, screen, technology, digital, tap, device, interactive, computer]
+
+- name: touch
+  file: touch_to.png
+  tags: [touch, hand, feel, action, fingers, sense, press, contact, physical, gesture]
+
+- name: toupee
+  file: toupee.png
+  tags: [toupee, wig, hair, head, bald, hairpiece, cover, fashion, hair loss, artificial]
+
+- name: towel
+  file: towel.png
+  tags: [towel, dry, bath, bathroom, fabric, cloth, shower, blue, clean, fold]
+
+- name: toy-box
+  file: toy_box.png
+  tags: [toy box, storage, toys, box, children, play, chest, organise, doll, bedroom]
+
+- name: toy-car
+  file: toy_car.png
+  tags: [toy car, toy, car, play, children, red, model, vehicle, pretend, small]
+
+- name: toy-soldier
+  file: toy_soldier.png
+  tags: [toy soldier, soldier, toy, play, green, uniform, army, children, pretend, military]
+
+- name: toys
+  file: toys.png
+  tags: [toys, play, children, doll, game, fun, colourful, playroom, activity, creative]
+
+- name: trace
+  file: trace_to.png
+  tags: [trace, copy, draw, outline, paper, pencil, writing, action, tracing, school]
+
+- name: trachea
+  file: trachea.png
+  tags: [trachea, windpipe, anatomy, throat, airway, breathing, body, lungs, medical, neck]
+
+- name: tracksuit
+  file: tracksuit.png
+  tags: [tracksuit, sport, exercise, clothing, jogging, yellow, leisure, fitness, outfit, wear]
+
+- name: tractor
+  file: tractor.png
+  tags: [tractor, farm, vehicle, green, field, agriculture, machine, heavy, work, country]
+
+- name: traffic-lights
+  file: traffic_lights.png
+  tags: [traffic lights, road, signal, red, green, amber, stop, go, road safety, driving]
+
+- name: train
+  file: train.png
+  tags: [train, transport, railway, blue, vehicle, travel, station, fast, tracks, commute]
+
+- name: trainers
+  file: trainers.png
+  tags: [trainers, shoes, sport, footwear, running, exercise, laces, sneakers, casual, athletic]
+
+- name: trampoline
+  file: trampoline.png
+  tags: [trampoline, bounce, jump, exercise, sport, outdoor, circular, fitness, fun, play]
+
+- name: trampoline-to
+  file: trampoline_to.png
+  tags: [trampoline, bounce, jump, person, exercise, sport, outdoor, active, fitness, fun]
+
+- name: transparent
+  file: transparent.png
+  tags: [transparent, see-through, clear, colour, property, visual, concept, material, glass, see]
+
+- name: transport-car
+  file: transport_car_to.png
+  tags: [transport car, tow truck, vehicle, car, road, breakdown, recovery, carry, drive, truck]
+
+- name: trapezium
+  file: trapezium.png
+  tags: [trapezium, shape, quadrilateral, geometry, maths, sides, flat, 2D, pink, polygon]
+
+- name: trap
+  file: trap.png
+  tags: [trap, cage, catch, box, device, structure, mechanical, puzzle, geometry, scaffold]
+
+- name: travel
+  file: travel.png
+  tags: [travel, transport, plane, bus, train, journey, holiday, fly, trip, vehicle]
+
+- name: tray
+  file: tray.png
+  tags: [tray, carry, food, kitchen, serving, flat, handles, brown, restaurant, wooden]
+
+- name: tree
+  file: tree.png
+  tags: [tree, nature, green, plant, trunk, leaves, outdoor, garden, wood, environment]
+
+- name: tree-ornament-chocolate
+  file: tree_ornament_chocolate.png
+  tags: [tree ornament, Christmas, chocolate, decoration, festive, tree, sweet, hanging, star, green]
+
+- name: tree-trunk
+  file: tree_trunk.png
+  tags: [tree trunk, trunk, wood, bark, nature, brown, garden, tree, outdoor, roots]
+
+- name: triangle-acute
+  file: triangle_acute.png
+  tags: [acute triangle, triangle, shape, geometry, angle, maths, 2D, pink, sharp, polygon]
+
+- name: triangle-equilateral
+  file: triangle_equilateral.png
+  tags: [equilateral triangle, triangle, shape, geometry, equal sides, maths, 2D, pink, regular, polygon]
+
+- name: triangle-isosceles
+  file: triangle_isosceles.png
+  tags: [isosceles triangle, triangle, shape, geometry, two equal sides, maths, 2D, pink, narrow, polygon]
+
+- name: triangle-obtuse
+  file: triangle_obtuse.png
+  tags: [obtuse triangle, triangle, shape, geometry, wide angle, maths, 2D, pink, flat, polygon]
+
+- name: triangle-right-angled
+  file: triangle_right-angled.png
+  tags: [right-angled triangle, triangle, shape, geometry, 90 degrees, maths, 2D, pink, right angle, polygon]
+
+- name: triangle-scalene
+  file: triangle_scalene.png
+  tags: [scalene triangle, triangle, shape, geometry, unequal sides, maths, 2D, pink, irregular, polygon]
+
+- name: trick-or-treat
+  file: trick_or_treat.png
+  tags: [trick or treat, Halloween, witch, costume, candy, sweets, spooky, festival, dress up, bag]
+
+- name: trim-hedge
+  file: trim_hedge_to.png
+  tags: [trim hedge, hedge, garden, shears, cut, pruning, gardening, green, action, outdoor]
+
+- name: trim
+  file: trim_to.png
+  tags: [trim, cut, shears, scissors, pruning, garden, action, clip, leaves, outdoor]
+
+- name: tripod
+  file: tripod.png
+  tags: [tripod, three legs, stand, camera, photography, support, equipment, studio, science, equipment]
+
+- name: trousers
+  file: trousers.png
+  tags: [trousers, pants, clothing, wear, legs, grey, fabric, fashion, outfit, bottom]
+
+- name: trowel
+  file: trowel.png
+  tags: [trowel, garden, tool, dig, soil, planting, metal, handle, spade, small]
+
+- name: t-shirt
+  file: t-shirt.png
+  tags: [t-shirt, shirt, clothing, casual, blue, wear, short sleeves, top, fashion, cotton]
+
+- name: tulip
+  file: tulip.png
+  tags: [tulip, flower, yellow, plant, garden, spring, bloom, nature, stem, petal]
+
+- name: tuna
+  file: tuna.png
+  tags: [tuna, fish, tinned, food, can, seafood, blue, label, protein, lunch]
+
+- name: turkey
+  file: turkey.png
+  tags: [turkey, bird, animal, Thanksgiving, Christmas, farm, poultry, grey, wild, feathers]
+
+- name: turkey-2
+  file: turkey_2.png
+  tags: [turkey, cooked, roast, food, Christmas, Thanksgiving, meal, poultry, dinner, golden]
+
+- name: turnip
+  file: turnip.png
+  tags: [turnip, vegetable, root, food, garden, cream, green, grow, plant, cooking]
+
+- name: turn-down-heat
+  file: turn_down_heat_to.png
+  tags: [turn down heat, cooker, hob, lower, temperature, cooking, action, gas, kitchen, reduce]
+
+- name: turn-down-light
+  file: turn_down_light_to.png
+  tags: [turn down light, lamp, dimmer, lower, light, action, switch, electric, dim, adjust]
+
+- name: turn-off-light-switch
+  file: turn_off_light_switch_to.png
+  tags: [turn off light, light switch, switch, off, electricity, wall, action, finger, dark, button]
+
+- name: turn-off
+  file: turn_off_to.png
+  tags: [turn off, switch off, dial, rotate, stop, action, electric, power, hand, gesture]
+
+- name: turn-on-light-switch
+  file: turn_on_light_switch_to.png
+  tags: [turn on light, light switch, switch, on, electricity, wall, action, finger, bright, button]
+
+- name: turn-on
+  file: turn_on_to.png
+  tags: [turn on, switch on, dial, rotate, start, action, electric, power, hand, gesture]
+
+- name: turn
+  file: turn_to.png
+  tags: [turn, rotate, direction, change, body, arrow, action, person, around, movement]
+
+- name: turn-up-heat
+  file: turn_up_heat_to.png
+  tags: [turn up heat, cooker, hob, increase, temperature, cooking, action, gas, kitchen, boost]
+
+- name: turn-up-light
+  file: turn_up_light_to.png
+  tags: [turn up light, lamp, brighter, increase, light, action, dimmer, electric, bright, adjust]
+
+- name: turtle
+  file: turtle.png
+  tags: [turtle, sea turtle, reptile, shell, ocean, swimming, animal, marine, nature, wildlife]
+
+- name: tv-drama
+  file: tv_drama.png
+  tags: [TV drama, television, screen, show, action, film, drama, watching, entertainment, running]
+
+- name: twelve
+  file: twelve.png
+  tags: [twelve, number, 12, count, digit, maths, numeral, quantity, figure, arithmetic]
+
+- name: twenty
+  file: twenty.png
+  tags: [twenty, number, 20, count, digit, maths, numeral, quantity, figure, arithmetic]
+
+- name: twenty-five-percent
+  file: twenty_five_percent.png
+  tags: [twenty-five percent, 25%, percentage, fraction, quarter, proportion, maths, pie chart, statistics, amount]
+
+- name: two
+  file: two.png
+  tags: [two, number, 2, count, digit, maths, numeral, quantity, pair, arithmetic]
+
+- name: two-dots
+  file: two_dots.png
+  tags: [two dots, dots, colon, punctuation, symbol, two, count, pattern, mark, writing]
+
+- name: two-thirds
+  file: two_thirds.png
+  tags: [two thirds, fraction, 2/3, proportion, maths, pie chart, quantity, partial, percentage, circle]
+
+- name: type
+  file: type_to.png
+  tags: [type, keyboard, typing, computer, hands, write, action, input, technology, keys]
