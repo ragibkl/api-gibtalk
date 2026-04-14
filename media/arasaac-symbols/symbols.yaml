@@ -1,0 +1,1838 @@
+- name: zero-variant-1
+  file: 0_1.png
+  tags: [number, zero, digit, numeral, counting, mathematics, quantity, zero-variant]
+
+- name: zero-variant-2
+  file: 0_2.png
+  tags: [number, zero, digit, numeral, counting, mathematics, quantity, zero-variant]
+
+- name: zero
+  file: 0.png
+  tags: [number, zero, digit, numeral, counting, mathematics, quantity, none]
+
+- name: 100-euros
+  file: 100 euros.png
+  tags: [money, currency, euro, banknote, 100, payment, finance, european]
+
+- name: 100
+  file: 100.png
+  tags: [number, hundred, digit, numeral, counting, mathematics, quantity]
+
+- name: ten-variant-1
+  file: 10_1.png
+  tags: [number, ten, digit, numeral, counting, mathematics, quantity]
+
+- name: ten-variant-2
+  file: 10_2.png
+  tags: [number, ten, digit, numeral, counting, mathematics, quantity]
+
+- name: 10-cents
+  file: 10 cents.png
+  tags: [money, currency, cent, coin, 10, payment, finance, european]
+
+- name: 10-euros
+  file: 10 euros.png
+  tags: [money, currency, euro, banknote, 10, payment, finance, european]
+
+- name: ten
+  file: 10.png
+  tags: [number, ten, digit, numeral, counting, mathematics, quantity]
+
+- name: eleven
+  file: 11.png
+  tags: [number, eleven, digit, numeral, counting, mathematics, quantity]
+
+- name: twelve-variant-1
+  file: 12_1.png
+  tags: [number, twelve, digit, numeral, counting, mathematics, quantity]
+
+- name: one-two-three
+  file: 1-2-3.png
+  tags: [number, sequence, counting, one, two, three, order, numeral, mathematics]
+
+- name: twelve
+  file: 12.png
+  tags: [number, twelve, digit, numeral, counting, mathematics, quantity]
+
+- name: thirteen
+  file: 13.png
+  tags: [number, thirteen, digit, numeral, counting, mathematics, quantity]
+
+- name: fourteen-variant-1
+  file: 14_1.png
+  tags: [number, fourteen, digit, numeral, counting, mathematics, quantity]
+
+- name: fourteen
+  file: 14.png
+  tags: [number, fourteen, digit, numeral, counting, mathematics, quantity]
+
+- name: fifteen
+  file: 15.png
+  tags: [number, fifteen, digit, numeral, counting, mathematics, quantity]
+
+- name: sixteen
+  file: 16.png
+  tags: [number, sixteen, digit, numeral, counting, mathematics, quantity]
+
+- name: seventeen
+  file: 17.png
+  tags: [number, seventeen, digit, numeral, counting, mathematics, quantity]
+
+- name: eighteen
+  file: 18.png
+  tags: [number, eighteen, digit, numeral, counting, mathematics, quantity, adult]
+
+- name: nineteen
+  file: 19.png
+  tags: [number, nineteen, digit, numeral, counting, mathematics, quantity]
+
+- name: 1-cent
+  file: 1 cent.png
+  tags: [money, currency, cent, coin, 1, payment, finance, european]
+
+- name: 1-euro
+  file: 1 euro.png
+  tags: [money, currency, euro, coin, 1, payment, finance, european]
+
+- name: 200-euros
+  file: 200 euros.png
+  tags: [money, currency, euro, banknote, 200, payment, finance, european]
+
+- name: 20-cents
+  file: 20 cents.png
+  tags: [money, currency, cent, coin, 20, payment, finance, european]
+
+- name: 20-euros
+  file: 20 euros.png
+  tags: [money, currency, euro, banknote, 20, payment, finance, european]
+
+- name: twenty
+  file: 20.png
+  tags: [number, twenty, digit, numeral, counting, mathematics, quantity]
+
+- name: two-variant-1
+  file: 2_1.png
+  tags: [number, two, digit, numeral, counting, mathematics, quantity]
+
+- name: twenty-one
+  file: 21.png
+  tags: [number, twenty-one, digit, numeral, counting, mathematics, quantity]
+
+- name: two-variant-2
+  file: 2_2.png
+  tags: [number, two, digit, numeral, counting, mathematics, quantity]
+
+- name: twenty-two
+  file: 22.png
+  tags: [number, twenty-two, digit, numeral, counting, mathematics, quantity]
+
+- name: two-variant-3
+  file: 2_3.png
+  tags: [number, two, digit, numeral, counting, mathematics, quantity]
+
+- name: twenty-three
+  file: 23.png
+  tags: [number, twenty-three, digit, numeral, counting, mathematics, quantity]
+
+- name: twenty-four
+  file: 24.png
+  tags: [number, twenty-four, digit, numeral, counting, mathematics, quantity]
+
+- name: twenty-five
+  file: 25.png
+  tags: [number, twenty-five, digit, numeral, counting, mathematics, quantity]
+
+- name: twenty-six
+  file: 26.png
+  tags: [number, twenty-six, digit, numeral, counting, mathematics, quantity]
+
+- name: twenty-seven
+  file: 27.png
+  tags: [number, twenty-seven, digit, numeral, counting, mathematics, quantity]
+
+- name: twenty-eight
+  file: 28.png
+  tags: [number, twenty-eight, digit, numeral, counting, mathematics, quantity]
+
+- name: twenty-nine
+  file: 29.png
+  tags: [number, twenty-nine, digit, numeral, counting, mathematics, quantity]
+
+- name: 2-cents
+  file: 2 cents.png
+  tags: [money, currency, cent, coin, 2, payment, finance, european]
+
+- name: 2-euros
+  file: 2 euros.png
+  tags: [money, currency, euro, coin, 2, payment, finance, european]
+
+- name: two
+  file: 2.png
+  tags: [number, two, digit, numeral, counting, mathematics, quantity]
+
+- name: three-variant-1
+  file: 3_1.png
+  tags: [number, three, digit, numeral, counting, mathematics, quantity]
+
+- name: three-variant-2
+  file: 3_2.png
+  tags: [number, three, digit, numeral, counting, mathematics, quantity]
+
+- name: thirty-two
+  file: 32.png
+  tags: [number, thirty-two, digit, numeral, counting, mathematics, quantity]
+
+- name: three-variant-3
+  file: 3_3.png
+  tags: [number, three, digit, numeral, counting, mathematics, quantity]
+
+- name: thirty-three
+  file: 33.png
+  tags: [number, thirty-three, digit, numeral, counting, mathematics, quantity]
+
+- name: 3418
+  file: 3418.png
+  tags: [number, large-number, numeral, counting, mathematics, quantity]
+
+- name: thirty-four
+  file: 34.png
+  tags: [number, thirty-four, digit, numeral, counting, mathematics, quantity]
+
+- name: thirty-five
+  file: 35.png
+  tags: [number, thirty-five, digit, numeral, counting, mathematics, quantity]
+
+- name: thirty-six
+  file: 36.png
+  tags: [number, thirty-six, digit, numeral, counting, mathematics, quantity]
+
+- name: thirty-seven
+  file: 37.png
+  tags: [number, thirty-seven, digit, numeral, counting, mathematics, quantity]
+
+- name: thirty-eight
+  file: 38.png
+  tags: [number, thirty-eight, digit, numeral, counting, mathematics, quantity]
+
+- name: thirty-nine
+  file: 39.png
+  tags: [number, thirty-nine, digit, numeral, counting, mathematics, quantity]
+
+- name: 3d-cinema
+  file: 3D cinema.png
+  tags: [cinema, movie, 3D, entertainment, film, glasses, three-dimensional, theatre]
+
+- name: 3d-image
+  file: 3D image.png
+  tags: [image, 3D, three-dimensional, picture, visual, technology, graphic]
+
+- name: three
+  file: 3.png
+  tags: [number, three, digit, numeral, counting, mathematics, quantity]
+
+- name: forty
+  file: 40.png
+  tags: [number, forty, digit, numeral, counting, mathematics, quantity]
+
+- name: four-variant-1
+  file: 4_1.png
+  tags: [number, four, digit, numeral, counting, mathematics, quantity]
+
+- name: forty-one
+  file: 41.png
+  tags: [number, forty-one, digit, numeral, counting, mathematics, quantity]
+
+- name: four-variant-2
+  file: 4_2.png
+  tags: [number, four, digit, numeral, counting, mathematics, quantity]
+
+- name: forty-two
+  file: 42.png
+  tags: [number, forty-two, digit, numeral, counting, mathematics, quantity]
+
+- name: four-variant-3
+  file: 4_3.png
+  tags: [number, four, digit, numeral, counting, mathematics, quantity]
+
+- name: forty-three
+  file: 43.png
+  tags: [number, forty-three, digit, numeral, counting, mathematics, quantity]
+
+- name: forty-four
+  file: 44.png
+  tags: [number, forty-four, digit, numeral, counting, mathematics, quantity]
+
+- name: forty-five
+  file: 45.png
+  tags: [number, forty-five, digit, numeral, counting, mathematics, quantity]
+
+- name: forty-six
+  file: 46.png
+  tags: [number, forty-six, digit, numeral, counting, mathematics, quantity]
+
+- name: forty-seven
+  file: 47.png
+  tags: [number, forty-seven, digit, numeral, counting, mathematics, quantity]
+
+- name: forty-eight
+  file: 48.png
+  tags: [number, forty-eight, digit, numeral, counting, mathematics, quantity]
+
+- name: forty-nine
+  file: 49.png
+  tags: [number, forty-nine, digit, numeral, counting, mathematics, quantity]
+
+- name: 4d-cinema
+  file: 4d cinema.png
+  tags: [cinema, movie, 4D, entertainment, film, immersive, theatre, experience]
+
+- name: four
+  file: 4.png
+  tags: [number, four, digit, numeral, counting, mathematics, quantity]
+
+- name: 500-euros
+  file: 500 euros.png
+  tags: [money, currency, euro, banknote, 500, payment, finance, european]
+
+- name: 50-cents
+  file: 50 cents.png
+  tags: [money, currency, cent, coin, 50, payment, finance, european]
+
+- name: 50-euros
+  file: 50 euros.png
+  tags: [money, currency, euro, banknote, 50, payment, finance, european]
+
+- name: fifty
+  file: 50.png
+  tags: [number, fifty, digit, numeral, counting, mathematics, quantity]
+
+- name: five-variant-1
+  file: 5_1.png
+  tags: [number, five, digit, numeral, counting, mathematics, quantity]
+
+- name: fifty-one
+  file: 51.png
+  tags: [number, fifty-one, digit, numeral, counting, mathematics, quantity]
+
+- name: five-variant-2
+  file: 5_2.png
+  tags: [number, five, digit, numeral, counting, mathematics, quantity]
+
+- name: fifty-two
+  file: 52.png
+  tags: [number, fifty-two, digit, numeral, counting, mathematics, quantity]
+
+- name: five-variant-3
+  file: 5_3.png
+  tags: [number, five, digit, numeral, counting, mathematics, quantity]
+
+- name: fifty-three
+  file: 53.png
+  tags: [number, fifty-three, digit, numeral, counting, mathematics, quantity]
+
+- name: fifty-four
+  file: 54.png
+  tags: [number, fifty-four, digit, numeral, counting, mathematics, quantity]
+
+- name: fifty-five
+  file: 55.png
+  tags: [number, fifty-five, digit, numeral, counting, mathematics, quantity]
+
+- name: fifty-six
+  file: 56.png
+  tags: [number, fifty-six, digit, numeral, counting, mathematics, quantity]
+
+- name: fifty-seven
+  file: 57.png
+  tags: [number, fifty-seven, digit, numeral, counting, mathematics, quantity]
+
+- name: fifty-eight
+  file: 58.png
+  tags: [number, fifty-eight, digit, numeral, counting, mathematics, quantity]
+
+- name: fifty-nine
+  file: 59.png
+  tags: [number, fifty-nine, digit, numeral, counting, mathematics, quantity]
+
+- name: 5-cents
+  file: 5 cents.png
+  tags: [money, currency, cent, coin, 5, payment, finance, european]
+
+- name: 5-euros
+  file: 5 euros.png
+  tags: [money, currency, euro, banknote, 5, payment, finance, european]
+
+- name: five
+  file: 5.png
+  tags: [number, five, digit, numeral, counting, mathematics, quantity]
+
+- name: sixty
+  file: 60.png
+  tags: [number, sixty, digit, numeral, counting, mathematics, quantity]
+
+- name: six-variant-1
+  file: 6_1.png
+  tags: [number, six, digit, numeral, counting, mathematics, quantity]
+
+- name: sixty-one
+  file: 61.png
+  tags: [number, sixty-one, digit, numeral, counting, mathematics, quantity]
+
+- name: six-variant-2
+  file: 6_2.png
+  tags: [number, six, digit, numeral, counting, mathematics, quantity]
+
+- name: sixty-two
+  file: 62.png
+  tags: [number, sixty-two, digit, numeral, counting, mathematics, quantity]
+
+- name: six-variant-3
+  file: 6_3.png
+  tags: [number, six, digit, numeral, counting, mathematics, quantity]
+
+- name: sixty-three
+  file: 63.png
+  tags: [number, sixty-three, digit, numeral, counting, mathematics, quantity]
+
+- name: sixty-four
+  file: 64.png
+  tags: [number, sixty-four, digit, numeral, counting, mathematics, quantity]
+
+- name: sixty-five
+  file: 65.png
+  tags: [number, sixty-five, digit, numeral, counting, mathematics, quantity]
+
+- name: sixty-six
+  file: 66.png
+  tags: [number, sixty-six, digit, numeral, counting, mathematics, quantity]
+
+- name: sixty-seven
+  file: 67.png
+  tags: [number, sixty-seven, digit, numeral, counting, mathematics, quantity]
+
+- name: sixty-eight
+  file: 68.png
+  tags: [number, sixty-eight, digit, numeral, counting, mathematics, quantity]
+
+- name: sixty-nine
+  file: 69.png
+  tags: [number, sixty-nine, digit, numeral, counting, mathematics, quantity]
+
+- name: six
+  file: 6.png
+  tags: [number, six, digit, numeral, counting, mathematics, quantity]
+
+- name: seventy
+  file: 70.png
+  tags: [number, seventy, digit, numeral, counting, mathematics, quantity]
+
+- name: seven-variant-1
+  file: 7_1.png
+  tags: [number, seven, digit, numeral, counting, mathematics, quantity]
+
+- name: seventy-one
+  file: 71.png
+  tags: [number, seventy-one, digit, numeral, counting, mathematics, quantity]
+
+- name: seven-variant-2
+  file: 7_2.png
+  tags: [number, seven, digit, numeral, counting, mathematics, quantity]
+
+- name: seventy-two
+  file: 72.png
+  tags: [number, seventy-two, digit, numeral, counting, mathematics, quantity]
+
+- name: seven-variant-3
+  file: 7_3.png
+  tags: [number, seven, digit, numeral, counting, mathematics, quantity]
+
+- name: seventy-three
+  file: 73.png
+  tags: [number, seventy-three, digit, numeral, counting, mathematics, quantity]
+
+- name: seventy-four
+  file: 74.png
+  tags: [number, seventy-four, digit, numeral, counting, mathematics, quantity]
+
+- name: seventy-five
+  file: 75.png
+  tags: [number, seventy-five, digit, numeral, counting, mathematics, quantity]
+
+- name: seventy-six
+  file: 76.png
+  tags: [number, seventy-six, digit, numeral, counting, mathematics, quantity]
+
+- name: seventy-seven
+  file: 77.png
+  tags: [number, seventy-seven, digit, numeral, counting, mathematics, quantity]
+
+- name: seventy-eight
+  file: 78.png
+  tags: [number, seventy-eight, digit, numeral, counting, mathematics, quantity]
+
+- name: seventy-nine
+  file: 79.png
+  tags: [number, seventy-nine, digit, numeral, counting, mathematics, quantity]
+
+- name: seven
+  file: 7.png
+  tags: [number, seven, digit, numeral, counting, mathematics, quantity]
+
+- name: eighty
+  file: 80.png
+  tags: [number, eighty, digit, numeral, counting, mathematics, quantity]
+
+- name: eight-variant-1
+  file: 8_1.png
+  tags: [number, eight, digit, numeral, counting, mathematics, quantity]
+
+- name: eighty-one
+  file: 81.png
+  tags: [number, eighty-one, digit, numeral, counting, mathematics, quantity]
+
+- name: eight-variant-2
+  file: 8_2.png
+  tags: [number, eight, digit, numeral, counting, mathematics, quantity]
+
+- name: eighty-two
+  file: 82.png
+  tags: [number, eighty-two, digit, numeral, counting, mathematics, quantity]
+
+- name: eight-variant-3
+  file: 8_3.png
+  tags: [number, eight, digit, numeral, counting, mathematics, quantity]
+
+- name: eighty-three
+  file: 83.png
+  tags: [number, eighty-three, digit, numeral, counting, mathematics, quantity]
+
+- name: eighty-four
+  file: 84.png
+  tags: [number, eighty-four, digit, numeral, counting, mathematics, quantity]
+
+- name: eighty-five
+  file: 85.png
+  tags: [number, eighty-five, digit, numeral, counting, mathematics, quantity]
+
+- name: eighty-six
+  file: 86.png
+  tags: [number, eighty-six, digit, numeral, counting, mathematics, quantity]
+
+- name: eighty-seven
+  file: 87.png
+  tags: [number, eighty-seven, digit, numeral, counting, mathematics, quantity]
+
+- name: eighty-eight
+  file: 88.png
+  tags: [number, eighty-eight, digit, numeral, counting, mathematics, quantity]
+
+- name: eighty-nine
+  file: 89.png
+  tags: [number, eighty-nine, digit, numeral, counting, mathematics, quantity]
+
+- name: eight
+  file: 8.png
+  tags: [number, eight, digit, numeral, counting, mathematics, quantity]
+
+- name: ninety
+  file: 90.png
+  tags: [number, ninety, digit, numeral, counting, mathematics, quantity]
+
+- name: nine-variant-1
+  file: 9_1.png
+  tags: [number, nine, digit, numeral, counting, mathematics, quantity]
+
+- name: ninety-one
+  file: 91.png
+  tags: [number, ninety-one, digit, numeral, counting, mathematics, quantity]
+
+- name: nine-variant-2
+  file: 9_2.png
+  tags: [number, nine, digit, numeral, counting, mathematics, quantity]
+
+- name: ninety-two
+  file: 92.png
+  tags: [number, ninety-two, digit, numeral, counting, mathematics, quantity]
+
+- name: nine-variant-3
+  file: 9_3.png
+  tags: [number, nine, digit, numeral, counting, mathematics, quantity]
+
+- name: ninety-three
+  file: 93.png
+  tags: [number, ninety-three, digit, numeral, counting, mathematics, quantity]
+
+- name: ninety-four
+  file: 94.png
+  tags: [number, ninety-four, digit, numeral, counting, mathematics, quantity]
+
+- name: ninety-five
+  file: 95.png
+  tags: [number, ninety-five, digit, numeral, counting, mathematics, quantity]
+
+- name: ninety-six
+  file: 96.png
+  tags: [number, ninety-six, digit, numeral, counting, mathematics, quantity]
+
+- name: ninety-seven
+  file: 97.png
+  tags: [number, ninety-seven, digit, numeral, counting, mathematics, quantity]
+
+- name: ninety-eight
+  file: 98.png
+  tags: [number, ninety-eight, digit, numeral, counting, mathematics, quantity]
+
+- name: ninety-nine
+  file: 99.png
+  tags: [number, ninety-nine, digit, numeral, counting, mathematics, quantity]
+
+- name: nine
+  file: 9.png
+  tags: [number, nine, digit, numeral, counting, mathematics, quantity]
+
+- name: letter-A-uppercase
+  file: A_1.png
+  tags: [letter, alphabet, uppercase, A, reading, writing, language, literacy]
+
+- name: letter-a-lowercase
+  file: a_2.png
+  tags: [letter, alphabet, lowercase, a, reading, writing, language, literacy]
+
+- name: abacus
+  file: abacus.png
+  tags: [abacus, counting, mathematics, beads, learning, tool, calculate, education]
+
+- name: abandon
+  file: abandon.png
+  tags: [abandon, baby, hospital, leave, neglect, door, infant, safety, emergency]
+
+- name: ABC
+  file: ABC.png
+  tags: [alphabet, letters, ABC, reading, writing, language, literacy, learning]
+
+- name: abdominal-examination
+  file: abdominal examination.png
+  tags: [doctor, examination, abdomen, medical, health, palpation, nurse, body, belly]
+
+- name: abdominal
+  file: abdominal.png
+  tags: [abdomen, belly, torso, body, muscles, stomach, anatomy, core]
+
+- name: abortion
+  file: abortion.png
+  tags: [abortion, pregnancy, fetus, womb, no, prohibition, medical, reproductive]
+
+- name: above
+  file: above.png
+  tags: [above, position, preposition, up, spatial, location, over, direction]
+
+- name: absence-of-speech
+  file: absence of speech.png
+  tags: [speech, communication, no-talking, silence, AAC, nonverbal, disability, language]
+
+- name: absence-of-symbolic-play
+  file: absence of symbolic play.png
+  tags: [play, symbolic-play, autism, toys, confusion, development, child, learning]
+
+- name: absentminded-variant-1
+  file: absentminded_1.png
+  tags: [absentminded, distracted, flies, thinking, head, confused, inattentive, daydream]
+
+- name: absentminded-variant-2
+  file: absentminded_2.png
+  tags: [absentminded, distracted, flies, thinking, woman, confused, inattentive, blonde]
+
+- name: absentminded-variant-3
+  file: absentminded_3.png
+  tags: [absentminded, distracted, flies, thinking, boy, confused, inattentive, child]
+
+- name: absentminded-variant-4
+  file: absentminded_4.png
+  tags: [absentminded, distracted, flies, thinking, woman, confused, inattentive, blonde]
+
+- name: absentminded-variant-5
+  file: absentminded_5.png
+  tags: [absentminded, distracted, flies, daydreaming, boy, pencil, confused, inattentive]
+
+- name: absentminded-variant-6
+  file: absentminded_6.png
+  tags: [absentminded, distracted, flies, thinking, boy, confused, inattentive, daydream]
+
+- name: absentminded
+  file: absentminded.png
+  tags: [absentminded, distracted, flies, daydreaming, person, pencil, confused, inattentive]
+
+- name: academy
+  file: academy.png
+  tags: [academy, school, learning, education, languages, computer, mathematics, study]
+
+- name: access-variant-1
+  file: access_1.png
+  tags: [access, enter, walking, person, arrow, movement, direction, boy]
+
+- name: accessibility
+  file: accessibility.png
+  tags: [accessibility, disability, wheelchair, hearing, vision, technology, inclusion, universal-access]
+
+- name: accessible-polling-booth
+  file: accessible polling both.png
+  tags: [voting, poll, accessible, wheelchair, disability, election, democracy, booth]
+
+- name: accessible-website
+  file: accessible website.png
+  tags: [website, accessible, computer, internet, button, switch, disability, technology]
+
+- name: accessories-variant-1
+  file: accessories_1.png
+  tags: [accessories, hat, scarf, gloves, winter, clothing, fashion, warm]
+
+- name: accessories-variant-2
+  file: accessories_2.png
+  tags: [accessories, earrings, bag, scarf, woman, fashion, jewelry, clothing]
+
+- name: accessories
+  file: accessories.png
+  tags: [accessories, watch, bracelet, ring, jewelry, fashion, wristwatch, adornment]
+
+- name: accessories-shop
+  file: accessories shop.png
+  tags: [shop, accessories, store, bag, necklace, fashion, retail, boutique]
+
+- name: access
+  file: access.png
+  tags: [access, enter, walking, person, arrow, movement, direction, girl]
+
+- name: access-point
+  file: access point.png
+  tags: [access-point, router, wifi, internet, network, technology, wireless, connection]
+
+- name: accident-variant-1
+  file: accident_1.png
+  tags: [accident, plane, crash, explosion, emergency, danger, disaster, aviation]
+
+- name: accident-variant-2
+  file: accident_2.png
+  tags: [accident, train, crash, explosion, boom, emergency, danger, disaster]
+
+- name: accident-variant-3
+  file: accident_3.png
+  tags: [accident, car, bus, crash, collision, road, emergency, danger]
+
+- name: accident-variant-4
+  file: accident_4.png
+  tags: [accident, wheelchair, collision, crash, disability, emergency, danger, impact]
+
+- name: accident
+  file: accident.png
+  tags: [accident, car, crash, collision, road, emergency, danger, impact]
+
+- name: acclaim
+  file: acclaim.png
+  tags: [acclaim, applause, celebrate, podium, clap, cheer, award, stage]
+
+- name: accompanied-variant-1
+  file: accompanied_1.png
+  tags: [accompanied, group, people, together, support, boy, surrounded, community]
+
+- name: accompanied
+  file: accompanied.png
+  tags: [accompanied, group, people, together, support, woman, surrounded, community]
+
+- name: accompany
+  file: accompany.png
+  tags: [accompany, walk, together, guide, arrow, movement, pair, support]
+
+- name: according-to
+  file: according to.png
+  tags: [according-to, based-on, reference, rule, arrow, orange, preposition, relation]
+
+- name: accordion
+  file: accordion.png
+  tags: [accordion, music, instrument, red, keys, bellows, musical, play]
+
+- name: accredit-pilgrimage
+  file: accredit pilgrimage.png
+  tags: [accredit, pilgrimage, stamp, credential, pilgrim, backpack, table, certification]
+
+- name: accredit
+  file: accredit.png
+  tags: [accredit, stamp, certification, document, table, official, authorize, credential]
+
+- name: accused-variant-1
+  file: accused_1.png
+  tags: [accused, judge, court, trial, law, justice, gavel, defendant, female]
+
+- name: accused-variant-2
+  file: accused_2.png
+  tags: [accused, judge, court, trial, law, justice, gavel, defendant, courtroom]
+
+- name: accused
+  file: accused.png
+  tags: [accused, judge, court, trial, law, justice, gavel, defendant, male]
+
+- name: acid-variant-1
+  file: acid_1.png
+  tags: [acid, sour, taste, lemon, face, grimace, boy, food, citrus]
+
+- name: acid
+  file: acid.png
+  tags: [acid, sour, taste, lemon, face, grimace, person, food, citrus]
+
+- name: acorn
+  file: acorn.png
+  tags: [acorn, nut, oak, nature, forest, autumn, tree, seed]
+
+- name: activities-and-festivities
+  file: activities and festivities.png
+  tags: [activities, festivities, hiking, party, celebration, kings, events, leisure]
+
+- name: activity-variant-1
+  file: activity_1.png
+  tags: [activity, reading, painting, sorting, learning, child, book, craft]
+
+- name: activity
+  file: activity.png
+  tags: [activity, reading, painting, sorting, learning, child, book, craft]
+
+- name: actor-variant-1
+  file: actor_1.png
+  tags: [actor, theatre, stage, performance, mask, spotlight, drama, play]
+
+- name: actor
+  file: actor.png
+  tags: [actor, theatre, stage, performance, shakespeare, skull, spotlight, drama]
+
+- name: act
+  file: act.png
+  tags: [act, theatre, stage, performance, mask, drama, play, curtain]
+
+- name: actress
+  file: actress.png
+  tags: [actress, theatre, stage, performance, shakespeare, skull, spotlight, drama, woman]
+
+- name: adam-and-eve
+  file: Adam and Eve.png
+  tags: [Adam, Eve, garden-of-eden, bible, snake, apple, religion, creation, nude]
+
+- name: adaptation
+  file: adaptation.png
+  tags: [adaptation, toy, truck, switch, button, disability, assistive-technology, accessibility]
+
+- name: adapted-beach-chair
+  file: adapted beach chair.png
+  tags: [beach, chair, wheelchair, accessible, disability, sea, adapted, sand]
+
+- name: adapted-chair
+  file: adapted chair.png
+  tags: [chair, adapted, wheelchair, disability, support, seating, posture, assistive]
+
+- name: adapted-fork
+  file: adapted fork.png
+  tags: [fork, adapted, eating, utensil, disability, green-handle, cutlery, meal]
+
+- name: adapted-hotel
+  file: adapted hotel.png
+  tags: [hotel, accessible, wheelchair, disability, accommodation, bed, travel, adapted]
+
+- name: adapted-knife
+  file: adapted knife.png
+  tags: [knife, adapted, eating, utensil, disability, green-handle, cutlery, meal]
+
+- name: adapted-library-variant-1
+  file: adapted library_1.png
+  tags: [library, adapted, wheelchair, accessible, books, computer, disability, reading]
+
+- name: adapted-library-variant-2
+  file: adapted library_2.png
+  tags: [library, adapted, accessible, books, computer, reading, students, education]
+
+- name: adapted-library
+  file: adapted library.png
+  tags: [library, adapted, books, pictogram, AAC, accessible, reading, learning]
+
+- name: adapted-mouse
+  file: adapted mouse.png
+  tags: [mouse, computer, adapted, switch, button, disability, assistive-technology, accessible]
+
+- name: adapted-spoon
+  file: adapted spoon.png
+  tags: [spoon, adapted, eating, utensil, disability, green-handle, cutlery, meal]
+
+- name: adapted-sport
+  file: adapted sport.png
+  tags: [sport, adapted, wheelchair, disability, basketball, tennis, bicycle, inclusive]
+
+- name: adapted-table
+  file: adapted table.png
+  tags: [table, adapted, adjustable, desk, disability, furniture, accessible, ergonomic]
+
+- name: adapted-toy
+  file: adapted toy.png
+  tags: [toy, adapted, truck, switch, button, disability, play, assistive-technology]
+
+- name: adapt
+  file: adapt.png
+  tags: [adapt, modify, toy, truck, switch, screwdriver, disability, assistive-technology]
+
+- name: add-variant-1
+  file: add_1.png
+  tags: [add, increase, more, mathematics, circles, quantity, plus, combine]
+
+- name: addiction
+  file: addiction.png
+  tags: [addiction, gambling, drugs, alcohol, gaming, dependence, substance, unhealthy]
+
+- name: add
+  file: add.png
+  tags: [add, cooking, pot, ingredients, food, put-in, combine, cooking]
+
+- name: address
+  file: address.png
+  tags: [address, house, home, location, where, question, residence, place]
+
+- name: adhesive
+  file: adhesive.png
+  tags: [adhesive, glue, stick, tube, bonding, craft, repair, sticky]
+
+- name: adhesive-tape
+  file: adhesive tape.png
+  tags: [adhesive-tape, tape, roll, packaging, box, sticky, seal, shipping]
+
+- name: adjectives
+  file: adjectives.png
+  tags: [adjectives, grammar, language, emotions, angry, broken, description, words]
+
+- name: adjust-the-dose
+  file: adjust the dose.png
+  tags: [dose, medication, insulin, pen, injection, adjust, medicine, diabetes]
+
+- name: administration-variant-1
+  file: administration_1.png
+  tags: [administration, office, desk, computer, secretary, documents, work, notice-board]
+
+- name: administration-variant-2
+  file: administration_2.png
+  tags: [administration, office, desk, computer, secretary, documents, work, notice-board]
+
+- name: administration
+  file: administration.png
+  tags: [administration, office, desk, computer, secretary, documents, work, notice-board]
+- name: administrator-1
+  file: administrator_1.png
+  tags: [administrator, manager, office, work, professional, computer, person, job, staff, employee]
+
+- name: administrator-2
+  file: administrator_2.png
+  tags: [administrator, manager, office, work, professional, computer, person, job, staff, employee]
+
+- name: administrator
+  file: administrator.png
+  tags: [administrator, manager, office, work, professional, person, job, staff, employee, boss]
+
+- name: adoptive-family
+  file: adoptive family.png
+  tags: [adoptive, family, parents, children, adoption, home, love, care, together, household]
+
+- name: adopt
+  file: adopt.png
+  tags: [adopt, adoption, family, child, care, love, parents, legal, home, nurture]
+
+- name: adult-1
+  file: adult_1.png
+  tags: [adult, grown-up, person, man, mature, age, human, male, body]
+
+- name: adult-education-classroom
+  file: adult education classroom.png
+  tags: [adult, education, classroom, learning, school, study, teaching, training, class, room]
+
+- name: adult
+  file: adult.png
+  tags: [adult, grown-up, person, mature, age, human, body, people]
+
+- name: adults
+  file: adults.png
+  tags: [adults, grown-ups, people, group, mature, age, humans, persons, men, women]
+
+- name: advanced-life-support-ambulance
+  file: advanced life support ambulance.png
+  tags: [ambulance, emergency, medical, ALS, advanced, life support, vehicle, hospital, rescue, paramedic]
+
+- name: advent
+  file: Advent.png
+  tags: [advent, Christmas, religion, candle, wreath, Christian, December, celebration, holiday, church]
+
+- name: adventure-1
+  file: adventure_1.png
+  tags: [adventure, excitement, explore, journey, outdoor, activity, fun, nature, travel, quest]
+
+- name: adventure-park
+  file: adventure park.png
+  tags: [adventure park, theme park, fun, rides, outdoor, play, leisure, attraction, entertainment, activity]
+
+- name: adventure
+  file: adventure.png
+  tags: [adventure, excitement, explore, journey, outdoor, activity, fun, nature, travel, quest]
+
+- name: adventurous
+  file: adventurous.png
+  tags: [adventurous, brave, bold, daring, explore, active, outdoor, spirit, courage, fun]
+
+- name: advertisement
+  file: advertisement.png
+  tags: [advertisement, ad, publicity, media, billboard, marketing, commercial, sign, promotion, message]
+
+- name: advertising
+  file: advertising.png
+  tags: [advertising, marketing, promotion, media, commercial, campaign, publicity, brand, business, message]
+
+- name: advise
+  file: advise.png
+  tags: [advise, advice, counsel, help, talk, guidance, suggest, recommend, inform, assist]
+
+- name: aeroplane-1
+  file: aeroplane_1.png
+  tags: [aeroplane, airplane, plane, fly, travel, air, transport, flight, sky, jet]
+
+- name: aeroplane-2
+  file: aeroplane_2.png
+  tags: [aeroplane, airplane, plane, fly, travel, air, transport, flight, sky, jet]
+
+- name: aeroplane-3
+  file: aeroplane_3.png
+  tags: [aeroplane, airplane, plane, fly, travel, air, transport, flight, sky, jet]
+
+- name: aeroplane
+  file: aeroplane.png
+  tags: [aeroplane, airplane, plane, fly, travel, air, transport, flight, sky, jet]
+
+- name: aerosol-1
+  file: aerosol_1.png
+  tags: [aerosol, spray, can, chemical, container, mist, clean, product, household, pressurized]
+
+- name: aerosol-2
+  file: aerosol_2.png
+  tags: [aerosol, spray, can, chemical, container, mist, clean, product, household, pressurized]
+
+- name: aerosol
+  file: aerosol.png
+  tags: [aerosol, spray, can, chemical, container, mist, clean, product, household, pressurized]
+
+- name: afghanistan
+  file: Afghanistan.png
+  tags: [Afghanistan, country, flag, nation, Asia, Middle East, geography, world, international]
+
+- name: africa
+  file: Africa.png
+  tags: [Africa, continent, map, geography, world, countries, nations, land, global]
+
+- name: after-1
+  file: after_1.png
+  tags: [after, later, sequence, time, following, next, then, order, temporal]
+
+- name: after-2
+  file: after_2.png
+  tags: [after, later, sequence, time, following, next, then, order, temporal]
+
+- name: afternoon
+  file: afternoon.png
+  tags: [afternoon, time, day, sun, midday, PM, schedule, hour, daylight, routine]
+
+- name: after
+  file: after.png
+  tags: [after, later, sequence, time, following, next, then, order, temporal]
+
+- name: again
+  file: again.png
+  tags: [again, repeat, redo, another time, once more, replay, cycle, loop, return]
+
+- name: against
+  file: against.png
+  tags: [against, oppose, versus, conflict, disagree, resistance, contrary, fight, protest]
+
+- name: age-of-metals
+  file: Age of metals.png
+  tags: [age of metals, history, ancient, metal, bronze, iron, archaeology, civilization, period, prehistoric]
+
+- name: age
+  file: age.png
+  tags: [age, old, time, years, number, birthday, elderly, life, stages, grow]
+
+- name: aggression
+  file: aggression.png
+  tags: [aggression, anger, violence, attack, hostile, fight, behavior, emotion, threat, force]
+
+- name: agricultural-machiner-store
+  file: agricultural machiner store.png
+  tags: [agriculture, machinery, store, farm, equipment, shop, tractor, tools, rural, business]
+
+- name: aids
+  file: AIDS.png
+  tags: [AIDS, HIV, disease, health, virus, infection, medical, illness, immune, red ribbon]
+
+- name: aikido
+  file: aikido.png
+  tags: [aikido, martial arts, sport, fight, exercise, Japan, self-defense, training, physical, discipline]
+
+- name: aioli
+  file: aioli.png
+  tags: [aioli, sauce, garlic, mayo, food, condiment, dip, Mediterranean, cooking, flavor]
+
+- name: air-1
+  file: air_1.png
+  tags: [air, wind, breeze, blow, atmosphere, nature, gas, fresh, environment, breathe]
+
+- name: air-base
+  file: air base.png
+  tags: [air base, military, airport, planes, armed forces, defense, aviation, airforce, facility, security]
+
+- name: airbed
+  file: airbed.png
+  tags: [airbed, inflatable, mattress, camping, sleep, portable, air, bed, outdoor, rest]
+
+- name: air-conditioning
+  file: air conditioning.png
+  tags: [air conditioning, AC, cool, temperature, machine, appliance, home, comfort, heat, climate]
+
+- name: air-hostess
+  file: air hostess.png
+  tags: [air hostess, flight attendant, plane, aviation, travel, airline, cabin crew, service, uniform, sky]
+
+- name: airplane-mode
+  file: airplane mode.png
+  tags: [airplane mode, phone, mobile, flight, settings, wireless, offline, device, technology, travel]
+
+- name: air
+  file: air.png
+  tags: [air, wind, breeze, blow, atmosphere, nature, gas, fresh, environment, breathe]
+
+- name: airport-1
+  file: airport_1.png
+  tags: [airport, terminal, plane, travel, aviation, flight, building, transport, check-in, departure]
+
+- name: airport-2
+  file: airport_2.png
+  tags: [airport, terminal, plane, travel, aviation, flight, building, transport, check-in, departure]
+
+- name: airport
+  file: airport.png
+  tags: [airport, terminal, plane, travel, aviation, flight, building, transport, check-in, departure]
+
+- name: air-the-room
+  file: air the room.png
+  tags: [air, room, ventilate, window, open, fresh air, clean, breathe, house, environment]
+
+- name: air-water-syringe
+  file: air-water syringe.png
+  tags: [air water syringe, dental, dentist, tool, instrument, medical, oral, clean, teeth, equipment]
+
+- name: alarm-button
+  file: alarm button.png
+  tags: [alarm button, emergency, alert, danger, press, signal, warning, help, safety, red]
+
+- name: alarm-clock
+  file: alarm clock.png
+  tags: [alarm clock, time, wake up, morning, sleep, ring, schedule, routine, clock, bell]
+
+- name: alava
+  file: Alava.png
+  tags: [Alava, Spain, region, Basque Country, province, geography, map, local, territory]
+
+- name: albacete
+  file: Albacete.png
+  tags: [Albacete, Spain, city, region, Castilla La Mancha, province, geography, map, territory]
+
+- name: albania-1
+  file: Albania_1.png
+  tags: [Albania, country, flag, Europe, nation, geography, world, international, Balkans]
+
+- name: albania
+  file: Albania.png
+  tags: [Albania, country, flag, Europe, nation, geography, world, international, Balkans]
+
+- name: alcala-gate
+  file: Alcalá Gate.png
+  tags: [Alcala Gate, Madrid, Spain, monument, history, architecture, landmark, gate, neoclassical, tourism]
+
+- name: alcohol-1
+  file: alcohol_1.png
+  tags: [alcohol, drink, bottle, glass, liquor, substance, beverage, adult, intoxicant]
+
+- name: alcohol
+  file: alcohol.png
+  tags: [alcohol, drink, bottle, glass, liquor, substance, beverage, adult, intoxicant, bar]
+
+- name: alfonsino
+  file: alfonsino.png
+  tags: [alfonsino, fish, seafood, food, ocean, red fish, sea, cooking, eat, marine]
+
+- name: algeria
+  file: Algeria.png
+  tags: [Algeria, country, flag, Africa, nation, geography, world, international, North Africa]
+
+- name: alhambra
+  file: Alhambra.png
+  tags: [Alhambra, Granada, Spain, palace, monument, history, architecture, landmark, Moorish, tourism]
+
+- name: alicante
+  file: Alicante.png
+  tags: [Alicante, Spain, city, region, Valencia, province, geography, map, Mediterranean, coast]
+
+- name: alight
+  file: alight.png
+  tags: [alight, exit, bus, train, transport, get off, stop, travel, public transport, descend]
+
+- name: alive
+  file: alive.png
+  tags: [alive, living, life, breathe, exist, active, health, person, body, animate]
+
+- name: all-1
+  file: all_1.png
+  tags: [all, every, whole, total, complete, entire, quantity, group, everyone, everything]
+
+- name: all-2
+  file: all_2.png
+  tags: [all, every, whole, total, complete, entire, quantity, group, everyone, everything]
+
+- name: allergist-1
+  file: allergist_1.png
+  tags: [allergist, doctor, medical, allergy, specialist, health, medicine, physician, hospital, care]
+
+- name: allergist
+  file: allergist.png
+  tags: [allergist, doctor, medical, allergy, specialist, health, medicine, physician, hospital, care]
+
+- name: allergy-1
+  file: allergy_1.png
+  tags: [allergy, reaction, sneeze, health, medical, symptom, immune, pollen, food, skin]
+
+- name: allergy-2
+  file: allergy_2.png
+  tags: [allergy, reaction, sneeze, health, medical, symptom, immune, pollen, food, skin]
+
+- name: allergy-3
+  file: allergy_3.png
+  tags: [allergy, reaction, sneeze, health, medical, symptom, immune, pollen, rash, food]
+
+- name: allergy-4
+  file: allergy_4.png
+  tags: [allergy, reaction, sneeze, health, medical, symptom, immune, skin, pollen, hives]
+
+- name: allergy-5
+  file: allergy_5.png
+  tags: [allergy, reaction, sneeze, health, medical, symptom, immune, pollen, dust, asthma]
+
+- name: allergy
+  file: allergy.png
+  tags: [allergy, reaction, health, medical, symptom, immune, pollen, food, skin, sensitivity]
+
+- name: allergy-testing-1
+  file: allergy testing_1.png
+  tags: [allergy testing, test, medical, skin test, diagnosis, doctor, health, patch, reaction, immune]
+
+- name: allergy-testing-2
+  file: allergy testing_2.png
+  tags: [allergy testing, test, medical, skin test, diagnosis, doctor, health, patch, reaction, immune]
+
+- name: allergy-testing-3
+  file: allergy testing_3.png
+  tags: [allergy testing, test, medical, skin test, diagnosis, doctor, health, blood, reaction, immune]
+
+- name: allergy-testing-4
+  file: allergy testing_4.png
+  tags: [allergy testing, test, medical, skin test, diagnosis, doctor, health, patch, reaction, immune]
+
+- name: allergy-testing
+  file: allergy testing.png
+  tags: [allergy testing, test, medical, skin test, diagnosis, doctor, health, patch, reaction, immune]
+
+- name: alligator
+  file: alligator.png
+  tags: [alligator, crocodile, reptile, animal, wild, water, green, teeth, scales, swamp]
+
+- name: allow-1
+  file: allow_1.png
+  tags: [allow, permission, yes, approve, accept, consent, agree, authorize, enable, permit]
+
+- name: allow-2
+  file: allow_2.png
+  tags: [allow, permission, yes, approve, accept, consent, agree, authorize, enable, permit]
+
+- name: allow
+  file: allow.png
+  tags: [allow, permission, yes, approve, accept, consent, agree, authorize, enable, permit]
+
+- name: all
+  file: all.png
+  tags: [all, every, whole, total, complete, entire, quantity, group, everyone, everything]
+
+- name: all-saints-day
+  file: All Saints Day.png
+  tags: [All Saints Day, holiday, November, Christian, religion, saints, candle, cemetery, commemoration, faith]
+
+- name: almeria
+  file: Almeria.png
+  tags: [Almeria, Spain, city, Andalusia, province, geography, map, Mediterranean, coast, region]
+
+- name: almond-1
+  file: almond_1.png
+  tags: [almond, nut, food, snack, tree, seed, eat, nutrition, protein, baking]
+
+- name: almond-2
+  file: almond_2.png
+  tags: [almond, nut, food, snack, tree, seed, eat, nutrition, protein, baking]
+
+- name: almond
+  file: almond.png
+  tags: [almond, nut, food, snack, tree, seed, eat, nutrition, protein, baking]
+
+- name: almonds
+  file: almonds.png
+  tags: [almonds, nuts, food, snack, tree, seeds, eat, nutrition, protein, baking]
+
+- name: almond-toffee
+  file: almond toffee.png
+  tags: [almond toffee, candy, sweet, dessert, snack, nut, caramel, confection, sugar, treat]
+
+- name: alms
+  file: alms.png
+  tags: [alms, charity, donation, giving, poor, help, money, religious, compassion, generosity]
+
+- name: alone
+  file: alone.png
+  tags: [alone, lonely, single, isolated, solitary, by oneself, one, separate, independent, individual]
+
+- name: a-lot-of
+  file: a lot of.png
+  tags: [a lot of, many, much, quantity, plenty, lots, numerous, abundance, several, more]
+
+- name: a-lot
+  file: a lot.png
+  tags: [a lot, many, much, quantity, plenty, lots, numerous, abundance, several, more]
+
+- name: alpaca
+  file: alpaca.png
+  tags: [alpaca, animal, South America, wool, farm, mammal, llama, soft, fiber, Peru]
+
+- name: alphabet-soup
+  file: alphabet soup.png
+  tags: [alphabet soup, food, soup, letters, eat, lunch, meal, warm, bowl, children]
+
+- name: alpinist
+  file: alpinist.png
+  tags: [alpinist, climber, mountain, sport, hiking, outdoor, adventure, rock climbing, equipment, height]
+
+- name: altamira
+  file: Altamira.png
+  tags: [Altamira, Spain, cave, prehistoric, paintings, history, archaeology, Cantabria, art, ancient]
+
+- name: altar-candle
+  file: altar candle.png
+  tags: [altar candle, church, religion, candle, light, Christian, ceremony, worship, faith, fire]
+
+- name: altarpiece
+  file: altarpiece.png
+  tags: [altarpiece, church, religion, art, painting, Christian, altar, worship, faith, sacred]
+
+- name: altar
+  file: altar.png
+  tags: [altar, church, religion, sacred, worship, Christian, ceremony, table, faith, ritual]
+
+- name: although
+  file: although.png
+  tags: [although, but, however, despite, contrast, conjunction, language, yet, still, even though]
+
+- name: aluminium-paper
+  file: aluminium paper.png
+  tags: [aluminium paper, foil, kitchen, wrap, cooking, food, store, metal, silver, material]
+
+- name: always
+  file: always.png
+  tags: [always, forever, all the time, constant, continuous, routine, never ending, time, permanent, everyday]
+
+- name: alzheimers-disease
+  file: Alzheimer's disease.png
+  tags: [Alzheimer's, disease, memory, brain, dementia, elderly, health, neurology, mind, illness]
+
+- name: amazon-river
+  file: Amazon River.png
+  tags: [Amazon River, river, South America, nature, geography, jungle, water, Brazil, environment, ecology]
+
+- name: ambu-bag
+  file: AMBU bag.png
+  tags: [AMBU bag, resuscitation, medical, emergency, breathing, CPR, mask, ventilation, rescue, first aid]
+
+- name: ambulance-1
+  file: ambulance_1.png
+  tags: [ambulance, emergency, medical, vehicle, hospital, rescue, siren, paramedic, health, urgent]
+
+- name: ambulance-2
+  file: ambulance_2.png
+  tags: [ambulance, emergency, medical, vehicle, hospital, rescue, siren, paramedic, health, urgent]
+
+- name: ambulance-3
+  file: ambulance_3.png
+  tags: [ambulance, emergency, medical, vehicle, hospital, rescue, siren, paramedic, health, urgent]
+
+- name: ambulance-4
+  file: ambulance_4.png
+  tags: [ambulance, emergency, medical, vehicle, hospital, rescue, siren, paramedic, health, urgent]
+
+- name: ambulance-5
+  file: ambulance_5.png
+  tags: [ambulance, emergency, medical, vehicle, hospital, rescue, siren, paramedic, health, urgent]
+
+- name: ambulance
+  file: ambulance.png
+  tags: [ambulance, emergency, medical, vehicle, hospital, rescue, siren, paramedic, health, urgent]
+
+- name: american-lobster
+  file: American lobster.png
+  tags: [American lobster, lobster, seafood, food, ocean, crustacean, marine, sea, restaurant, shell]
+
+- name: america
+  file: America.png
+  tags: [America, continent, map, geography, world, North America, South America, countries, nations, land]
+
+- name: ammonite-1
+  file: ammonite_1.png
+  tags: [ammonite, fossil, prehistoric, shell, ancient, geology, marine, extinct, spiral, paleontology]
+
+- name: ammonite-2
+  file: ammonite_2.png
+  tags: [ammonite, fossil, prehistoric, shell, ancient, geology, marine, extinct, spiral, paleontology]
+
+- name: ammonite
+  file: ammonite.png
+  tags: [ammonite, fossil, prehistoric, shell, ancient, geology, marine, extinct, spiral, paleontology]
+
+- name: amniocentesis
+  file: amniocentesis.png
+  tags: [amniocentesis, pregnancy, medical, test, prenatal, diagnosis, needle, uterus, baby, health]
+
+- name: amniorrhexis
+  file: amniorrhexis.png
+  tags: [amniorrhexis, water breaking, pregnancy, birth, labor, delivery, medical, obstetrics, baby, hospital]
+
+- name: amphibians
+  file: amphibians.png
+  tags: [amphibians, frog, toad, animals, nature, biology, water, land, cold-blooded, science]
+
+- name: amphitheatre
+  file: amphitheatre.png
+  tags: [amphitheatre, Roman, ancient, history, arena, stadium, theater, architecture, ruins, Rome]
+
+- name: amphora
+  file: amphora.png
+  tags: [amphora, ancient, vessel, pottery, Greek, Roman, history, clay, jar, container]
+
+- name: amusing-1
+  file: amusing_1.png
+  tags: [amusing, funny, laugh, humor, happy, entertainment, smile, joke, fun, joy]
+
+- name: amusing
+  file: amusing.png
+  tags: [amusing, funny, laugh, humor, happy, entertainment, smile, joke, fun, joy]
+
+- name: analgesic
+  file: analgesic.png
+  tags: [analgesic, painkiller, medicine, pain relief, tablet, drug, health, pharmacy, treatment, pill]
+
+- name: analysis-1
+  file: analysis_1.png
+  tags: [analysis, test, laboratory, science, medical, research, examine, study, sample, diagnosis]
+
+- name: analysis
+  file: analysis.png
+  tags: [analysis, test, laboratory, science, medical, research, examine, study, sample, diagnosis]
+
+- name: anatomical-pathologist-1
+  file: anatomical pathologist_1.png
+  tags: [anatomical pathologist, doctor, pathology, medical, lab, diagnosis, science, disease, specialist, health]
+
+- name: anatomical-pathologist
+  file: anatomical pathologist.png
+  tags: [anatomical pathologist, doctor, pathology, medical, lab, diagnosis, science, disease, specialist, health]
+
+- name: anchor
+  file: anchor.png
+  tags: [anchor, boat, ship, sea, ocean, nautical, metal, navy, dock, maritime]
+
+- name: anchovies-1
+  file: anchovies_1.png
+  tags: [anchovies, fish, seafood, food, salt, Mediterranean, ocean, eat, canned, pizza topping]
+
+- name: anchovies
+  file: anchovies.png
+  tags: [anchovies, fish, seafood, food, salt, Mediterranean, ocean, eat, canned, pizza topping]
+
+- name: anchovy
+  file: anchovy.png
+  tags: [anchovy, fish, seafood, food, salt, Mediterranean, ocean, eat, small fish, marine]
+
+- name: ancient
+  file: ancient.png
+  tags: [ancient, old, history, past, prehistoric, ruin, archaeology, civilization, time, antique]
+
+- name: andalusia-1
+  file: Andalusia_1.png
+  tags: [Andalusia, Spain, region, province, geography, map, local, culture, territory, south]
+
+- name: andalusia
+  file: Andalusia.png
+  tags: [Andalusia, Spain, region, province, geography, map, local, culture, territory, south]
+
+- name: andorra-1
+  file: Andorra_1.png
+  tags: [Andorra, country, flag, Europe, Pyrenees, small nation, geography, world, international]
+
+- name: andorra
+  file: Andorra.png
+  tags: [Andorra, country, flag, Europe, Pyrenees, small nation, geography, world, international]
+
+- name: and
+  file: and.png
+  tags: [and, plus, conjunction, language, grammar, connect, together, symbol, word, both]
+
+- name: and-that-is-the-end-of-the-story
+  file: and that is the end of the story.png
+  tags: [end, story, finish, the end, book, tell, narrative, tale, conclusion, reading]
+
+- name: anemometer
+  file: anemometer.png
+  tags: [anemometer, wind, weather, instrument, measure, meteorology, science, speed, outdoor, device]
+
+- name: anesthesia-machine
+  file: anesthesia machine.png
+  tags: [anesthesia machine, surgery, hospital, medical, equipment, anesthesiologist, operating room, gas, health, procedure]
+
+- name: anesthesia-mask
+  file: anesthesia mask.png
+  tags: [anesthesia mask, surgery, hospital, medical, equipment, breathing, oxygen, anesthesia, face mask, procedure]
+
+- name: anesthesiologist-1
+  file: anesthesiologist_1.png
+  tags: [anesthesiologist, doctor, surgery, hospital, medical, specialist, anesthesia, health, operating room, professional]
+
+- name: anesthesiologist
+  file: anesthesiologist.png
+  tags: [anesthesiologist, doctor, surgery, hospital, medical, specialist, anesthesia, health, operating room, professional]
+
+- name: angel-1
+  file: angel_1.png
+  tags: [angel, wings, religion, Christian, heavenly, person, spirit, robes, divine, cherub]
+
+- name: angel
+  file: angel.png
+  tags: [angel, wings, halo, religion, Christian, heavenly, person, spirit, golden hair, divine]
+
+- name: anger
+  file: anger.png
+  tags: [anger, angry, emotion, face, mad, upset, furious, feeling, expression, rage]
+
+- name: angola
+  file: Angola.png
+  tags: [Angola, country, flag, Africa, nation, geography, world, international, red black, Southern Africa]
+
+- name: angry-1
+  file: angry_1.png
+  tags: [angry, mad, emotion, person, upset, furious, arms crossed, face, feeling, red shirt]
+
+- name: angry-2
+  file: angry_2.png
+  tags: [angry, mad, emotion, woman, upset, furious, face, feeling, blonde, expression]
+
+- name: angry-3
+  file: angry_3.png
+  tags: [angry, mad, emotion, woman, upset, furious, face, feeling, blonde, expression]
+
+- name: angry-4
+  file: angry_4.png
+  tags: [angry, mad, emotion, boy, upset, furious, face, feeling, brown hair, expression]
+
+- name: angry-5
+  file: angry_5.png
+  tags: [angry, mad, emotion, face, upset, furious, symbol, feeling, expression, emoji]
+
+- name: angry
+  file: angry.png
+  tags: [angry, mad, emotion, face, upset, furious, bald, feeling, expression, scowl]
+
+- name: animal-assisted-therapist
+  file: animal-assisted therapist.png
+  tags: [animal-assisted therapist, therapy, dog, professional, health, animal, treatment, person, mental health, guide dog]
+
+- name: animal-assisted-therapy-1
+  file: animal-assisted therapy_1.png
+  tags: [animal-assisted therapy, therapy, dog, health, treatment, person, mental health, guide dog, leash, support]
+
+- name: animal-assisted-therapy-2
+  file: animal-assisted therapy_2.png
+  tags: [animal-assisted therapy, therapy, dog, health, treatment, person, mental health, guide dog, leash, support]
+
+- name: animal-assisted-therapy
+  file: animal-assisted therapy.png
+  tags: [animal-assisted therapy, therapy, dog, health, treatment, person, mental health, guide dog, leash, support]
+
+- name: animal-hair
+  file: animal hair.png
+  tags: [animal hair, fur, bear, allergy, magnify, coat, mammal, texture, brown, biology]
+
+- name: animal
+  file: animal.png
+  tags: [animal, cat, pet, creature, mammal, living, nature, wildlife, icon, symbol]
+
+- name: animal-shelter
+  file: animal shelter.png
+  tags: [animal shelter, pets, rescue, dog, cat, bird, turtle, paw, charity, care]
+
+- name: animals
+  file: animals.png
+  tags: [animals, horse, bird, lion, creatures, nature, wildlife, mammal, kingdom, group]
+
+- name: ankle-boots
+  file: ankle boots.png
+  tags: [ankle boots, boots, shoes, footwear, fashion, brown, leather, clothing, wear, fashion]
+
+- name: ankle
+  file: ankle.png
+  tags: [ankle, foot, leg, body, anatomy, joint, bone, injury, human, physical]
+
+- name: annunciation
+  file: Annunciation.png
+  tags: [Annunciation, angel, Mary, religion, Christian, dove, holy spirit, faith, bible, Jesus]
+
+- name: anorak
+  file: anorak.png
+  tags: [anorak, jacket, coat, clothing, winter, green, hood, warm, wear, outdoor]
+
+- name: another-colour
+  file: another colour.png
+  tags: [another colour, color, change, different, choose, arrow, red, yellow, blue, selection]
+
+- name: answer-1
+  file: answer_1.png
+  tags: [answer, respond, talk, question, speech bubble, person, communication, reply, language, speak]
+
+- name: answer-2
+  file: answer_2.png
+  tags: [answer, reply, letter, write, pen, response, communication, paper, mail, message]
+
+- name: answer-3
+  file: answer_3.png
+  tags: [answer, respond, talk, question, speech bubble, woman, communication, reply, language, speak]
+
+- name: answer
+  file: answer.png
+  tags: [answer, respond, talk, question, speech bubble, man, communication, reply, language, speak]
+
+- name: antarctica
+  file: Antarctica.png
+  tags: [Antarctica, continent, map, geography, world, ice, South Pole, polar, snow, global]
+
+- name: antelope
+  file: antelope.png
+  tags: [antelope, animal, wild, Africa, mammal, horns, savanna, nature, run, graceful]
+
+- name: ante-meridiem
+  file: ante meridiem.png
+  tags: [ante meridiem, AM, morning, time, sun, clock, schedule, early, day, half]
+
+- name: antenna
+  file: antenna.png
+  tags: [antenna, television, signal, roof, technology, aerial, communication, broadcast, radio, device]
+
+- name: antequera-1
+  file: Antequera_1.png
+  tags: [Antequera, Spain, rock, natural monument, landmark, geology, torcal, andalusia, landscape, outdoors]
+
+- name: antequera-2
+  file: Antequera_2.png
+  tags: [Antequera, Spain, landscape, torcal, rock, natural monument, geology, landmark, nature, outdoors]
+
+- name: antequera-3
+  file: Antequera_3.png
+  tags: [Antequera, Spain, Pena de los Enamorados, mountain, landmark, natural, geology, outdoors, Andalusia, rock]
+
+- name: antequera-4
+  file: Antequera_4.png
+  tags: [Antequera, Spain, dolmen, prehistoric, megalith, stone, ancient, history, path, monument]
+
+- name: antequera-5
+  file: Antequera_5.png
+  tags: [Antequera, Spain, dolmen, megalith, entrance, prehistoric, ancient, stone, history, monument]
+
+- name: antequera
+  file: Antequera.png
+  tags: [Antequera, Spain, dolmen, megalith, prehistoric, ancient, stone, history, monument, Andalusia]
+
+- name: anthill
+  file: anthill.png
+  tags: [anthill, ants, nest, insects, nature, mound, colony, earth, ground, bug]
+
+- name: anti-adduction-orthosis
+  file: anti-adduction orthosis.png
+  tags: [anti-adduction orthosis, orthosis, medical, brace, disability, mobility, leg, treatment, physical therapy, support]
+
+- name: anti-bedsore-mattress
+  file: anti-bedsore mattress.png
+  tags: [anti-bedsore mattress, mattress, medical, bedsore, pressure, care, nursing, hospital, elderly, equipment]
+
+- name: antibodies
+  file: antibodies.png
+  tags: [antibodies, immune, virus, biology, science, health, defense, blood, medicine, protein]
+
+- name: anti-choking-device
+  file: anti choking device.png
+  tags: [anti choking device, choking, device, safety, medical, first aid, emergency, breathing, throat, rescue]
+
+- name: ant
+  file: ant.png
+  tags: [ant, insect, bug, small, nature, colony, animal, black, crawl, ground]
+
+- name: anus
+  file: anus.png
+  tags: [anus, body, anatomy, human, diagram, anatomy, reproductive, sexual health, medical, education]
+
+- name: anvil
+  file: anvil.png
+  tags: [anvil, blacksmith, metal, forge, tool, iron, craft, workshop, hammer, heavy]
+
+- name: anxious-1
+  file: anxious_1.png
+  tags: [anxious, worry, nervous, emotion, face, fear, stress, bite, hand, feeling]
+
+- name: anxious-2
+  file: anxious_2.png
+  tags: [anxious, worry, nervous, woman, emotion, face, fear, stress, blonde, bite nails]
+
+- name: anxious-3
+  file: anxious_3.png
+  tags: [anxious, worry, nervous, boy, emotion, face, fear, stress, bite nails, feeling]
+
+- name: anxious
+  file: anxious.png
+  tags: [anxious, worry, nervous, emotion, face, fear, stress, bite nails, bald, feeling]
+
+- name: anyone
+  file: anyone.png
+  tags: [anyone, who, person, people, choice, man, woman, select, include, which]
+
+- name: any
+  file: any.png
+  tags: [any, which, choose, select, option, circle, red, symbol, choice, either]
+
+- name: apartment
+  file: apartment.png
+  tags: [apartment, house, home, building, live, residence, roof, door, window, shelter]
+
+- name: aperitif-1
+  file: aperitif_1.png
+  tags: [aperitif, drink, food, glass, snack, olive, table, cocktail, party, social]
+
+- name: aperitif-2
+  file: aperitif_2.png
+  tags: [aperitif, drink, food, glass, snack, olive, summer, cocktail, party, social]
+
+- name: aperitif
+  file: aperitif.png
+  tags: [aperitif, bar, drink, food, glass, snack, olive, cocktail, social, stool]
+
+- name: apiculture-store
+  file: apiculture store.png
+  tags: [apiculture, bees, honey, store, shop, beekeeping, honeycomb, jar, wax, farm]
+
+- name: a
+  file: a.png
+  tags: [letter a, alphabet, letter, writing, language, vowel, education, symbol, literacy, ABC]
+
+- name: apostle
+  file: apostle.png
+  tags: [apostle, religion, Christian, Jesus, disciple, bible, faith, history, robe, figure]
+
+- name: apostles
+  file: apostles.png
+  tags: [apostles, religion, Christian, Jesus, disciples, bible, faith, history, group, figures]
+
+- name: applaud-1
+  file: applaud_1.png
+  tags: [applaud, clap, cheer, praise, happy, hands, celebrate, approval, person, gesture]
+
+- name: applaud
+  file: applaud.png
+  tags: [applaud, clap, cheer, praise, happy, hands, celebrate, approval, gesture, bravo]
+
+- name: apple-1
+  file: apple_1.png
+  tags: [apple, fruit, yellow, food, healthy, eat, tree, sweet, vitamin, snack]
+
+- name: apple-2
+  file: apple_2.png
+  tags: [apple, fruit, green, food, healthy, eat, tree, sour, vitamin, snack]
+
+- name: apple-juice
+  file: apple juice.png
+  tags: [apple juice, drink, juice, fruit, glass, healthy, beverage, food, straw, sweet]
+
+- name: apple-pie
+  file: apple pie.png
+  tags: [apple pie, pie, dessert, food, baked, sweet, pastry, round, apple, tart]
+
+- name: apple
+  file: apple.png
+  tags: [apple, fruit, red, food, healthy, eat, tree, sweet, vitamin, snack]
+
+- name: apple-tree
+  file: apple tree.png
+  tags: [apple tree, tree, fruit, nature, garden, grow, red apples, plant, farm, orchard]
+
+- name: appliances-and-furniture
+  file: appliances and furniture.png
+  tags: [appliances, furniture, computer, chair, switch, accessible, home, technology, AAC, equipment]
+
+- name: application-form
+  file: application form.png
+  tags: [application form, form, document, fill, name, address, phone, request, paper, official]
+
+- name: apply-pressure
+  file: apply pressure.png
+  tags: [apply pressure, wound, first aid, medical, compress, hand, bandage, blood, emergency, care]
+
+- name: appointment
+  file: appointment.png
+  tags: [appointment, wait, doctor, clock, door, time, schedule, sit, chair, health]
+
+- name: approachable
+  file: approachable.png
+  tags: [approachable, accessible, disability, ear, glasses, wheelchair, technology, inclusion, symbol, communication]
+
+- name: approach
+  file: approach.png
+  tags: [approach, come near, move, direction, arrow, close, shapes, symbol, spatial, navigate]
+
+- name: apricot
+  file: apricot.png
+  tags: [apricot, fruit, orange, food, healthy, eat, summer, sweet, vitamin, snack]
+
+- name: april-1
+  file: April_1.png
+  tags: [April, month, calendar, four, spring, time, schedule, date, year]
+
+- name: april
+  file: April.png
+  tags: [April, month, calendar, rain, spring, time, schedule, date, year]
+
+- name: apron
+  file: apron.png
+  tags: [apron, cooking, kitchen, clothing, chef, wear, protect, green, food, bake]
+
+- name: aquarium-1
+  file: aquarium_1.png
+  tags: [aquarium, fish, tank, water, pet, swim, seaweed, glass, home, fish tank]
+
+- name: aquarium-2
+  file: aquarium_2.png
+  tags: [aquarium, fish, tank, water, visit, swim, seaweed, glass, public, attraction]
+
+- name: aquarium
+  file: aquarium.png
+  tags: [aquarium, fish, tank, water, pet, swim, seaweed, glass, home, red fish]
