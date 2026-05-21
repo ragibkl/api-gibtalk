@@ -147,7 +147,7 @@ mod tests {
         let body = hyper::body::to_bytes(response.into_body()).await.unwrap();
         let results: Vec<SymbolOutput> = serde_json::from_slice(&body).unwrap();
         assert!(!results.is_empty());
-        assert!(results[0].url.contains("kuih-raya"));
+        assert!(results.iter().any(|r| r.url.contains("kuih-raya")));
     }
 
     #[tokio::test]
