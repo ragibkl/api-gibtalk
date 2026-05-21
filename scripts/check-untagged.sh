@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Check for media files that are not listed in any symbols.yaml
+# Check for media files that are not listed in their library yaml
 
 MEDIA_DIR="./media"
 untagged=0
@@ -8,7 +8,7 @@ total=0
 
 for library in "$MEDIA_DIR"/*/; do
     library_name=$(basename "$library")
-    yaml_file="$library/symbols.yaml"
+    yaml_file="$MEDIA_DIR/$library_name.yaml"
 
     # Find all png files in this library
     while IFS= read -r png; do
@@ -16,7 +16,7 @@ for library in "$MEDIA_DIR"/*/; do
         relative="${png#$library}"
 
         if [ ! -f "$yaml_file" ]; then
-            echo "[untagged] $library_name/$relative (no symbols.yaml)"
+            echo "[untagged] $library_name/$relative (no $library_name.yaml)"
             untagged=$((untagged + 1))
         elif ! grep -q "$relative" "$yaml_file"; then
             echo "[untagged] $library_name/$relative"

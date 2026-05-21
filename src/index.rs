@@ -91,17 +91,17 @@ impl SymbolIndex {
             }
 
             let library = entry.file_name().to_string_lossy().to_string();
-            let yaml_path = entry.path().join("symbols.yaml");
+            let yaml_path = media_path.join(format!("{}.yaml", library));
 
             if !yaml_path.exists() {
-                tracing::warn!("no symbols.yaml found in {}", library);
+                tracing::warn!("no {}.yaml found in {}", library, media_dir);
                 continue;
             }
 
-            let content =
-                std::fs::read_to_string(&yaml_path).expect("failed to read symbols.yaml");
-            let entries: Vec<SymbolEntry> =
-                serde_yml::from_str(&content).expect("failed to parse symbols.yaml");
+            let content = std::fs::read_to_string(&yaml_path)
+                .unwrap_or_else(|_| panic!("failed to read {}.yaml", library));
+            let entries: Vec<SymbolEntry> = serde_yml::from_str(&content)
+                .unwrap_or_else(|_| panic!("failed to parse {}.yaml", library));
 
             for entry in entries {
                 symbols.push(Symbol {
