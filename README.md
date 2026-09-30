@@ -1,6 +1,6 @@
 # api-gibtalk
 
-REST API backend for the [GibTalk AAC (Augmentative and Alternative Communication) App](https://gibtalk.ragib.my). Serves searchable symbol/icon assets used in AAC communication tools.
+REST API backend for the [GibTalk AAC (Augmentative and Alternative Communication) App](https://gibtalk.com). Serves searchable symbol/icon assets used in AAC communication tools.
 
 **Live at:** https://api.gibtalk.ragib.my/
 
