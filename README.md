@@ -79,3 +79,14 @@ cargo build --release
 ```
 
 The version tag is read from the `version` file.
+
+## Licence
+
+The code in this repository is under the [MIT licence](LICENSE).
+
+The symbol images in `media/` are not: each library keeps its own licence.
+ARASAAC symbols are by Sergio Palao, property of the Government of Aragón, under
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/); Mulberry
+symbols are under [CC BY-SA 2.0 UK](https://creativecommons.org/licenses/by-sa/2.0/uk/);
+Tawasol symbols are under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+See [gibtalk.com/symbols](https://gibtalk.com/symbols/#credits) for full credits.
