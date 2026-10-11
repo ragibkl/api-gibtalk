@@ -1,0 +1,76 @@
+- label: Outdoor Gym
+  language: en
+  uri: arasaac-symbols/playground.png
+  children:
+    - label: I
+      language: en
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: ready
+      language: en
+      uri: arasaac-symbols/ready_1.png
+    - label: go
+      language: en
+      uri: mulberry-symbols/go_to.png
+    - label: run
+      language: en
+      uri: arasaac-symbols/run_1.png
+    - label: walk
+      language: en
+      uri: arasaac-symbols/walk_1.png
+    - label: want
+      language: en
+      uri: arasaac-symbols/want.png
+    - label: stop
+      language: en
+      uri: arasaac-symbols/stop_3.png
+    - label: jump
+      language: en
+      uri: arasaac-symbols/jump_1.png
+    - label: chase
+      language: en
+      uri: arasaac-symbols/chase_1.png
+    - label: catch
+      language: en
+      uri: "arasaac-symbols/run holding hands_1.png"
+    - label: do not want
+      language: en
+      uri: "arasaac-symbols/I do not want.png"
+    - label: fun
+      language: en
+      uri: arasaac-symbols/fun.png
+    - label: tired
+      language: en
+      uri: arasaac-symbols/tired_3.png
+    - label: rest
+      language: en
+      uri: arasaac-symbols/rest_1.png
+    - label: wait
+      language: en
+      uri: arasaac-symbols/wait_2.png
+    - label: teacher
+      language: en
+      uri: arasaac-symbols/schoolteacher.png
+    - label: mother
+      language: en
+      uri: arasaac-symbols/mother.png
+    - label: father
+      language: en
+      uri: arasaac-symbols/father.png
+    - label: friend
+      language: en
+      uri: arasaac-symbols/friends_1.png
+    - label: one
+      language: en
+      uri: tawasol-symbols/One/One-01.png
+    - label: two
+      language: en
+      uri: tawasol-symbols/Two/Two-03.png
+    - label: three
+      language: en
+      uri: "tawasol-symbols/alphabet-and-numbers-english/Tawasol symbols_3.png"
+    - label: fast
+      language: en
+      uri: arasaac-symbols/quick.png
+    - label: slow
+      language: en
+      uri: arasaac-symbols/slow.png

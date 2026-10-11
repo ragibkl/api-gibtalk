@@ -1,0 +1,79 @@
+- label: Fasting
+  language: en
+  uri: arasaac-symbols/fast.png
+  children:
+    - label: I
+      language: en
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: want
+      language: en
+      uri: arasaac-symbols/want.png
+    - label: do not want
+      language: en
+      uri: "arasaac-symbols/I do not want.png"
+    - label: fasting
+      language: en
+      uri: "arasaac-symbols/No eating.png"
+    - label: wait
+      language: en
+      uri: arasaac-symbols/wait_4.png
+    - label: eat
+      language: en
+      uri: arasaac-symbols/eat_1.png
+    - label: drink
+      language: en
+      uri: arasaac-symbols/drink_2.png
+    - label: selamat berpuasa
+      language: en
+      uri: arasaac-symbols/hello_1.png
+    - label: "yes"
+      language: en
+      uri: arasaac-symbols/yes_1.png
+    - label: "no"
+      language: en
+      uri: tawasol-symbols/No/No-01.png
+    - label: hungry
+      language: en
+      uri: arasaac-symbols/hungry_3.png
+    - label: thirsty
+      language: en
+      uri: arasaac-symbols/thirsty_1.png
+    - label: when
+      language: en
+      uri: mulberry-symbols/when.png
+    - label: sahur
+      language: en
+      uri: arasaac-symbols/morning.png
+    - label: break fast
+      language: en
+      uri: arasaac-symbols/afternoon.png
+    - label: tired
+      language: en
+      uri: arasaac-symbols/tired_3.png
+    - label: rest
+      language: en
+      uri: arasaac-symbols/rest_1.png
+    - label: dates
+      language: en
+      uri: mulberry-symbols/dates.png
+    - label: azan
+      language: en
+      uri: arasaac-symbols/hear.png
+    - label: pray
+      language: en
+      uri: tawasol-symbols/prayer/prayer-02.png
+    - label: all done
+      language: en
+      uri: arasaac-symbols/finish_2.png
+    - label: thank you
+      language: en
+      uri: "tawasol-symbols/Thank you/Thank you-01.png"
+    - label: together
+      language: en
+      uri: mulberry-symbols/family.png
+    - label: teraweh
+      language: en
+      uri: arasaac-symbols/pray_1.png
+    - label: mosque
+      language: en
+      uri: arasaac-symbols/mosque.png

@@ -1,0 +1,148 @@
+- label: Main
+  language: id
+  uri: arasaac-symbols/play_1.png
+  children:
+    - label: saya
+      language: ms
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: nak
+      language: ms
+      uri: arasaac-symbols/want.png
+    - label: tak nak
+      language: ms
+      uri: "arasaac-symbols/I do not want.png"
+    - label: main
+      language: id
+      uri: arasaac-symbols/play_1.png
+    - label: atas
+      language: ms
+      uri: mulberry-symbols/up.png
+    - label: bawah
+      language: ms
+      uri: mulberry-symbols/down.png
+    - label: kawan
+      language: ms
+      uri: arasaac-symbols/friends_1.png
+    - label: guru
+      language: ms
+      uri: arasaac-symbols/schoolteacher.png
+    - label: berhenti
+      language: ms
+      uri: arasaac-symbols/stop_3.png
+    - label: kemas
+      language: ms
+      uri: "arasaac-symbols/tidy up.png"
+    - label: laju
+      language: ms
+      uri: arasaac-symbols/quick.png
+    - label: perlahan
+      language: ms
+      uri: arasaac-symbols/slow.png
+    - label: seronok
+      language: ms
+      uri: arasaac-symbols/fun_1.png
+    - label: tunggu
+      language: ms
+      uri: arasaac-symbols/wait_4.png
+    - label: giliran awak
+      language: ms
+      uri: custom/play/your-turn.png
+    - label: giliran saya
+      language: ms
+      uri: custom/play/my-turn.png
+    - label: kecil
+      language: ms
+      uri: tawasol-symbols/small/small-01.png
+    - label: besar
+      language: ms
+      uri: tawasol-symbols/big/big-01.png
+    - label: satu
+      language: ms
+      uri: mulberry-symbols/one.png
+    - label: dua
+      language: ms
+      uri: mulberry-symbols/two.png
+    - label: tiga
+      language: ms
+      uri: mulberry-symbols/three.png
+    - label: mula
+      language: ms
+      uri: mulberry-symbols/go_to.png
+    - label: tarik
+      language: ms
+      uri: mulberry-symbols/pull_2_to.png
+    - label: tolak
+      language: ms
+      uri: arasaac-symbols/push_3.png
+    - label: buka
+      language: ms
+      uri: arasaac-symbols/open.png
+    - label: tutup
+      language: ms
+      uri: arasaac-symbols/close.png
+    - label: melantun
+      language: ms
+      uri: arasaac-symbols/bounce.png
+    - label: baling
+      language: ms
+      uri: arasaac-symbols/throw.png
+    - label: tangkap
+      language: ms
+      uri: mulberry-symbols/catch_2_to.png
+    - label: jatuh
+      language: ms
+      uri: "arasaac-symbols/put down.png"
+    - label: tiup
+      language: ms
+      uri: arasaac-symbols/blow_2.png
+    - label: pecah
+      language: ms
+      uri: arasaac-symbols/bubbles.png
+    - label: ceduk
+      language: ms
+      uri: mulberry-symbols/scoop_to.png
+    - label: tuang
+      language: ms
+      uri: mulberry-symbols/pour_to.png
+    - label: bagi
+      language: ms
+      uri: arasaac-symbols/give_1.png
+    - label: tendang
+      language: ms
+      uri: mulberry-symbols/kick_ball_to.png
+    - label: potong
+      language: ms
+      uri: "arasaac-symbols/cut up.png"
+    - label: gulung
+      language: ms
+      uri: mulberry-symbols/roll_pastry_to.png
+    - label: kacau
+      language: ms
+      uri: arasaac-symbols/stir_1.png
+    - label: susun
+      language: ms
+      uri: "arasaac-symbols/stackable cubes_1.png"
+    - label: langgar
+      language: ms
+      uri: arasaac-symbols/accident.png
+    - label: baiki
+      language: ms
+      uri: "arasaac-symbols/auto body paint and collision repair workshop.png"
+    - label: picit
+      language: ms
+      uri: mulberry-symbols/squeeze_to.png
+    - label: sekat
+      language: ms
+      uri: arasaac-symbols/block.png
+    - label: pusing
+      language: ms
+      uri: arasaac-symbols/turn.png
+    - label: tekan
+      language: ms
+      uri: arasaac-symbols/press.png
+    - label: ketuk
+      language: ms
+      uri: mulberry-symbols/knock_to.png
+    - label: percik
+      language: ms
+      uri: arasaac-symbols/splash_1.png

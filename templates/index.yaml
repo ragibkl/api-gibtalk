@@ -1,0 +1,97 @@
+# Templates the app offers. id is the file name (templates/<id>.yaml);
+# language is the main language of its words.
+- id: greetings-en
+  name: Greetings
+  description: Basic Greetings in English
+  author: GK
+  language: en
+
+- id: greetings-ms
+  name: Ucapan
+  description: Basic Greetings in Bahasa Malaysia
+  author: GK
+  language: ms
+
+- id: play-en
+  name: Play
+  description: Basic Play words in English
+  author: GK
+  language: en
+
+- id: play-ms
+  name: Main
+  description: Basic Play words in Bahasa Malaysia
+  author: GK
+  language: ms
+
+- id: interactive-play-en
+  name: Interactive Play
+  description: Interactive Play words in English
+  author: GK
+  language: en
+
+- id: interactive-play-ms
+  name: Permainan Interaktif
+  description: Interactive Play words in Bahasa Malaysia
+  author: GK
+  language: ms
+
+- id: mealtime-en
+  name: Mealtime
+  description: Mealtime words in English
+  author: GK
+  language: en
+
+- id: mealtime-ms
+  name: Waktu makan
+  description: Mealtime words in Bahasa Malaysia
+  author: GK
+  language: ms
+
+- id: outdoor-gym-en
+  name: Outdoor Gym
+  description: Basic Outdoor Gym words in English
+  author: GK
+  language: en
+
+- id: outdoor-gym-ms
+  name: Gim Luar
+  description: Basic Outdoor Gym words in Bahasa Malaysia
+  author: GK
+  language: ms
+
+- id: playground-en
+  name: Playground
+  description: Basic Playground words in English
+  author: GK
+  language: en
+
+- id: playground-ms
+  name: Taman Permainan
+  description: Basic Playground words in Bahasa Malaysia
+  author: GK
+  language: ms
+
+- id: fasting-en
+  name: Fasting
+  description: Ramadan Fasting in English
+  author: GK
+  language: en
+
+- id: fasting-ms
+  name: Puasa
+  description: Ramadan Fasting in Bahasa Malaysia
+  author: GK
+  language: ms
+
+- id: raya-en
+  name: Raya
+  description: Raya Fesitival in English
+  author: GK
+  language: en
+
+- id: raya-ms
+  name: Raya
+  description: Raya Festival in Bahasa Malaysia
+  author: GK
+  language: ms

@@ -1,0 +1,64 @@
+- label: Ucapan
+  language: ms
+  uri: arasaac-symbols/hello_1.png
+  children:
+    - label: Saya
+      language: ms
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: Hai
+      language: ms
+      uri: arasaac-symbols/hello_1.png
+    - label: Selamat Pagi
+      language: ms
+      uri: arasaac-symbols/morning.png
+    - label: Selamat Tengahari
+      language: ms
+      uri: arasaac-symbols/Sun_1.png
+    - label: Apa Khabar
+      language: ms
+      uri: "arasaac-symbols/how are you doing.png"
+    - label: Nak
+      language: ms
+      uri: arasaac-symbols/want.png
+    - label: Lambai
+      language: ms
+      uri: arasaac-symbols/hello.png
+    - label: Salam
+      language: ms
+      uri: "arasaac-symbols/shake hands.png"
+    - label: High Five
+      language: en
+      uri: "arasaac-symbols/high five.png"
+    - label: Baik
+      language: ms
+      uri: mulberry-symbols/good.png
+    - label: Tak Nak
+      language: ms
+      uri: "arasaac-symbols/I do not want.png"
+    - label: Fist bump
+      language: en
+      uri: "arasaac-symbols/fist bump.png"
+    - label: Peluk
+      language: ms
+      uri: mulberry-symbols/hug_to.png
+    - label: Bye
+      language: en
+      uri: arasaac-symbols/goodbye_1.png
+    - label: Tak Baik
+      language: ms
+      uri: mulberry-symbols/bad.png
+    - label: Cikgu
+      language: ms
+      uri: arasaac-symbols/schoolteacher.png
+    - label: Ibu
+      language: ms
+      uri: arasaac-symbols/mother.png
+    - label: Ayah
+      language: ms
+      uri: arasaac-symbols/father.png
+    - label: Kawan
+      language: ms
+      uri: tawasol-symbols/friends/friends-04.png
+    - label: Terima Kasih
+      language: ms
+      uri: arasaac-symbols/thanks.png

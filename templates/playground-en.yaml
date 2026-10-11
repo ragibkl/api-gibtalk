@@ -1,0 +1,151 @@
+- label: Playground
+  language: en
+  uri: arasaac-symbols/playground.png
+  children:
+    - label: I
+      language: en
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: want
+      language: en
+      uri: arasaac-symbols/want.png
+    - label: do not want
+      language: en
+      uri: "arasaac-symbols/I do not want.png"
+    - label: "Yes"
+      language: en
+      uri: arasaac-symbols/yes_1.png
+    - label: "No"
+      language: en
+      uri: tawasol-symbols/No/No-01.png
+    - label: stop
+      language: en
+      uri: arasaac-symbols/stop_3.png
+    - label: Swing
+      language: en
+      uri: mulberry-symbols/swing_to.png
+    - label: Slide
+      language: en
+      uri: "arasaac-symbols/go down the slide_1.png"
+    - label: balance beam
+      language: en
+      uri: arasaac-symbols/balance.png
+    - label: playground
+      language: en
+      uri: arasaac-symbols/playground.png
+    - label: climb
+      language: en
+      uri: mulberry-symbols/climb_up_to.png
+    - label: again
+      language: en
+      uri: arasaac-symbols/again.png
+    - label: go
+      language: en
+      uri: mulberry-symbols/go_to.png
+    - label: my turn
+      language: en
+      uri: custom/play/my-turn.png
+    - label: your turn
+      language: en
+      uri: custom/play/your-turn.png
+    - label: up
+      language: en
+      uri: mulberry-symbols/up.png
+    - label: down
+      language: en
+      uri: mulberry-symbols/down.png
+    - label: fast
+      language: en
+      uri: arasaac-symbols/quick.png
+    - label: slow
+      language: en
+      uri: arasaac-symbols/slow.png
+    - label: push
+      language: en
+      uri: mulberry-symbols/push_to.png
+    - label: help
+      language: en
+      uri: arasaac-symbols/help.png
+    - label: wait
+      language: en
+      uri: arasaac-symbols/wait_2.png
+    - label: fun
+      language: en
+      uri: arasaac-symbols/fun.png
+    - label: scared
+      language: en
+      uri: arasaac-symbols/scared_2.png
+    - label: tired
+      language: en
+      uri: arasaac-symbols/tired_3.png
+    - label: hot
+      language: en
+      uri: tawasol-symbols/feeling-hot/feeling-hot-01.png
+    - label: raining
+      language: en
+      uri: arasaac-symbols/rain_1.png
+    - label: sunny
+      language: en
+      uri: arasaac-symbols/Sun_1.png
+    - label: thirsty
+      language: en
+      uri: arasaac-symbols/thirsty_1.png
+    - label: hurt
+      language: en
+      uri: tawasol-symbols/hurt/hurt-01.png
+    - label: come
+      language: en
+      uri: "arasaac-symbols/come closer_1.png"
+    - label: sit
+      language: en
+      uri: "arasaac-symbols/sit down on bench_1.png"
+    - label: play
+      language: en
+      uri: arasaac-symbols/play_1.png
+    - label: class
+      language: en
+      uri: mulberry-symbols/class_room.png
+    - label: toilet
+      language: en
+      uri: mulberry-symbols/toilet.png
+    - label: friend
+      language: en
+      uri: arasaac-symbols/friends_1.png
+    - label: bicycle
+      language: en
+      uri: arasaac-symbols/bicycle.png
+    - label: line up
+      language: en
+      uri: arasaac-symbols/line_2.png
+    - label: finish
+      language: en
+      uri: arasaac-symbols/finish_2.png
+    - label: one
+      language: en
+      uri: tawasol-symbols/One/One-01.png
+    - label: two
+      language: en
+      uri: tawasol-symbols/Two/Two-03.png
+    - label: three
+      language: en
+      uri: mulberry-symbols/three.png
+    - label: four
+      language: en
+      uri: tawasol-symbols/Four/Four-03.png
+    - label: five
+      language: en
+      uri: tawasol-symbols/Five/Five-03.png
+    - label: six
+      language: en
+      uri: tawasol-symbols/Six/Six-01.png
+    - label: seven
+      language: en
+      uri: tawasol-symbols/Seven/Seven-03.png
+    - label: Eight
+      language: en
+      uri: tawasol-symbols/Eight/Eight-01.png
+    - label: nine
+      language: en
+      uri: tawasol-symbols/Nine/Nine-02.png
+    - label: ten
+      language: en
+      uri: tawasol-symbols/Ten/Ten-01.png

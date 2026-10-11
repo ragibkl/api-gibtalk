@@ -1,0 +1,76 @@
+- label: Raya
+  language: ms
+  uri: tawasol-symbols/eid/eid-01.png
+  children:
+    - label: saya
+      language: ms
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: nak
+      language: ms
+      uri: arasaac-symbols/want.png
+    - label: tak nak
+      language: ms
+      uri: "arasaac-symbols/I do not want.png"
+    - label: suka
+      language: ms
+      uri: tawasol-symbols/Like/Like-01.png
+    - label: minum
+      language: ms
+      uri: arasaac-symbols/drink_2.png
+    - label: makan
+      language: ms
+      uri: arasaac-symbols/eat_1.png
+    - label: gambar
+      language: ms
+      uri: "arasaac-symbols/take pictures of.png"
+    - label: peluk
+      language: ms
+      uri: arasaac-symbols/hug.png
+    - label: salam
+      language: ms
+      uri: "arasaac-symbols/shake hands.png"
+    - label: baju raya
+      language: ms
+      uri: custom/hari-raya/baju-raya.png
+    - label: gembira
+      language: ms
+      uri: arasaac-symbols/happy_3.png
+    - label: marah
+      language: ms
+      uri: arasaac-symbols/angry_5.png
+    - label: duit raya
+      language: ms
+      uri: arasaac-symbols/money.png
+    - label: Selamat Hari Raya
+      language: ms
+      uri: tawasol-symbols/eid/eid-01.png
+    - label: ketupat
+      language: ms
+      uri: custom/hari-raya/ketupat.png
+    - label: kuih raya
+      language: ms
+      uri: custom/hari-raya/kuih-raya.png
+    - label: bising
+      language: ms
+      uri: arasaac-symbols/noisy.png
+    - label: senyap
+      language: ms
+      uri: mulberry-symbols/quiet.png
+    - label: masjid
+      language: ms
+      uri: arasaac-symbols/mosque.png
+    - label: solat
+      language: ms
+      uri: arasaac-symbols/pray_1.png
+    - label: balik rumah
+      language: ms
+      uri: tawasol-symbols/Home/Home-02.png
+    - label: lawat
+      language: ms
+      uri: mulberry-symbols/visit_to.png
+    - label: mercun
+      language: ms
+      uri: mulberry-symbols/fireworks_2.png
+    - label: tempat bertenang
+      language: ms
+      uri: "arasaac-symbols/calm area.png"

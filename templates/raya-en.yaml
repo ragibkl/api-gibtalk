@@ -1,0 +1,76 @@
+- label: Raya
+  language: en
+  uri: tawasol-symbols/eid/eid-01.png
+  children:
+    - label: I
+      language: en
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: want
+      language: en
+      uri: arasaac-symbols/want.png
+    - label: do not want
+      language: en
+      uri: "arasaac-symbols/I do not want.png"
+    - label: like
+      language: en
+      uri: tawasol-symbols/Like/Like-01.png
+    - label: drink
+      language: en
+      uri: arasaac-symbols/drink_2.png
+    - label: eat
+      language: en
+      uri: arasaac-symbols/eat_1.png
+    - label: picture
+      language: en
+      uri: "arasaac-symbols/take pictures of.png"
+    - label: hug
+      language: en
+      uri: arasaac-symbols/hug.png
+    - label: shake hand
+      language: en
+      uri: "arasaac-symbols/shake hands.png"
+    - label: baju raya
+      language: en
+      uri: custom/hari-raya/baju-raya.png
+    - label: happy
+      language: en
+      uri: arasaac-symbols/happy_3.png
+    - label: angry
+      language: en
+      uri: arasaac-symbols/angry_5.png
+    - label: duit raya
+      language: en
+      uri: arasaac-symbols/money.png
+    - label: Selamat Hari Raya
+      language: en
+      uri: tawasol-symbols/eid/eid-01.png
+    - label: ketupat
+      language: en
+      uri: custom/hari-raya/ketupat.png
+    - label: kuih raya
+      language: en
+      uri: custom/hari-raya/kuih-raya.png
+    - label: noisy
+      language: en
+      uri: arasaac-symbols/noisy.png
+    - label: quiet
+      language: en
+      uri: mulberry-symbols/quiet.png
+    - label: mosque
+      language: en
+      uri: arasaac-symbols/mosque.png
+    - label: pray
+      language: en
+      uri: arasaac-symbols/pray_1.png
+    - label: go home
+      language: en
+      uri: tawasol-symbols/Home/Home-02.png
+    - label: visit
+      language: en
+      uri: mulberry-symbols/visit_to.png
+    - label: fireworks
+      language: en
+      uri: mulberry-symbols/fireworks_2.png
+    - label: I need quiet space
+      language: en
+      uri: "arasaac-symbols/calm area.png"

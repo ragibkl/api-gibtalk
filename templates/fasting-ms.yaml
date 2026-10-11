@@ -1,0 +1,79 @@
+- label: Puasa
+  language: en
+  uri: arasaac-symbols/fast.png
+  children:
+    - label: saya
+      language: ms
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: nak
+      language: ms
+      uri: arasaac-symbols/want.png
+    - label: tak nak
+      language: ms
+      uri: "arasaac-symbols/I do not want.png"
+    - label: puasa
+      language: ms
+      uri: "arasaac-symbols/No eating.png"
+    - label: tunggu
+      language: ms
+      uri: arasaac-symbols/wait_4.png
+    - label: makan
+      language: ms
+      uri: arasaac-symbols/eat_1.png
+    - label: minum
+      language: ms
+      uri: arasaac-symbols/drink_2.png
+    - label: selamat berpuasa
+      language: ms
+      uri: arasaac-symbols/hello_1.png
+    - label: ya
+      language: ms
+      uri: arasaac-symbols/yes_1.png
+    - label: tidak
+      language: ms
+      uri: tawasol-symbols/No/No-01.png
+    - label: lapar
+      language: ms
+      uri: arasaac-symbols/hungry_3.png
+    - label: haus
+      language: ms
+      uri: arasaac-symbols/thirsty_1.png
+    - label: bila
+      language: ms
+      uri: mulberry-symbols/when.png
+    - label: sahur
+      language: ms
+      uri: arasaac-symbols/morning.png
+    - label: berbuka
+      language: ms
+      uri: arasaac-symbols/afternoon.png
+    - label: penat
+      language: ms
+      uri: arasaac-symbols/tired_3.png
+    - label: rehat
+      language: ms
+      uri: arasaac-symbols/rest_1.png
+    - label: kurma
+      language: ms
+      uri: mulberry-symbols/dates.png
+    - label: azan
+      language: ms
+      uri: arasaac-symbols/hear.png
+    - label: doa
+      language: ms
+      uri: tawasol-symbols/prayer/prayer-02.png
+    - label: habis
+      language: ms
+      uri: arasaac-symbols/finish_2.png
+    - label: terima kasih
+      language: ms
+      uri: "tawasol-symbols/Thank you/Thank you-01.png"
+    - label: bersama
+      language: ms
+      uri: mulberry-symbols/family.png
+    - label: teraweh
+      language: ms
+      uri: arasaac-symbols/pray_1.png
+    - label: masjid/ surau
+      language: ms
+      uri: arasaac-symbols/mosque.png
