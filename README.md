@@ -2,7 +2,7 @@
 
 REST API backend for the [GibTalk AAC (Augmentative and Alternative Communication) App](https://gibtalk.com). Serves searchable symbol/icon assets used in AAC communication tools.
 
-**Live at:** https://api.gibtalk.ragib.my/
+**Live at:** https://api.gibtalk.com/
 
 ## Tech Stack
 
@@ -23,13 +23,13 @@ Searches symbol filenames across all libraries. Returns up to 100 results sorted
 **Example:**
 
 ```bash
-curl "https://api.gibtalk.ragib.my/api/symbols/search/?q=apple"
+curl "https://api.gibtalk.com/api/symbols/search/?q=apple"
 ```
 
 ```json
 [
-  { "url": "https://api.gibtalk.ragib.my/media/arasaac-symbols/apple.png" },
-  { "url": "https://api.gibtalk.ragib.my/media/mulberry-symbols/apple.png" }
+  { "url": "https://api.gibtalk.com/media/arasaac-symbols/apple.png" },
+  { "url": "https://api.gibtalk.com/media/mulberry-symbols/apple.png" }
 ]
 ```
 
