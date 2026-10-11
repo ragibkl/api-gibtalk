@@ -41,6 +41,41 @@ GET /media/{library}/{filename}.png
 
 Static file serving for symbol images.
 
+### Templates
+
+```
+GET /api/templates
+GET /api/templates/{id}
+```
+
+Ready-made word sets the app offers. The list gives each template's id, name,
+description, author, main language, word count and URL; one template adds its
+words (label, language, picture URL, children for folders).
+
+```bash
+curl "https://api.gibtalk.com/api/templates"
+```
+
+```json
+[
+  {
+    "id": "greetings-ms",
+    "name": "Ucapan",
+    "description": "Basic Greetings in Bahasa Malaysia",
+    "author": "GK",
+    "language": "ms",
+    "words": 21,
+    "url": "https://api.gibtalk.com/api/templates/greetings-ms"
+  }
+]
+```
+
+The templates live in `templates/` as YAML, the same format as GibTalk's backup
+files, listed in `templates/index.yaml`. Picture paths are relative to `media/`
+(e.g. `arasaac-symbols/apple.png`), and the API turns them into full URLs with
+`BASE_URL`, so moving hosts never means editing templates. The API won't start
+if a template names a picture that isn't in `media/`.
+
 ## Symbol Libraries
 
 | Library | Files |

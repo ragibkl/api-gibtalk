@@ -1,0 +1,79 @@
+- label: Mealtime
+  language: en
+  uri: arasaac-symbols/eat_1.png
+  children:
+    - label: I
+      language: en
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: want
+      language: en
+      uri: arasaac-symbols/want.png
+    - label: do not want
+      language: en
+      uri: "arasaac-symbols/I do not want.png"
+    - label: "yes"
+      language: en
+      uri: tawasol-symbols/Right/Right-03.png
+    - label: "no"
+      language: en
+      uri: tawasol-symbols/wrong/wrong-02.png
+    - label: eat
+      language: en
+      uri: arasaac-symbols/eat_1.png
+    - label: drink
+      language: en
+      uri: arasaac-symbols/drink_2.png
+    - label: like
+      language: en
+      uri: tawasol-symbols/Like/Like-01.png
+    - label: more
+      language: en
+      uri: "arasaac-symbols/I want more.png"
+    - label: open
+      language: en
+      uri: arasaac-symbols/open.png
+    - label: cold
+      language: en
+      uri: mulberry-symbols/drink_cold_2.png
+    - label: hot
+      language: en
+      uri: arasaac-symbols/hot_1.png
+    - label: help
+      language: en
+      uri: arasaac-symbols/help.png
+    - label: all done
+      language: en
+      uri: arasaac-symbols/finish_2.png
+    - label: delicious
+      language: en
+      uri: arasaac-symbols/nice_2.png
+    - label: fast
+      language: en
+      uri: arasaac-symbols/quick.png
+    - label: slow
+      language: en
+      uri: arasaac-symbols/slow.png
+    - label: hungry
+      language: en
+      uri: arasaac-symbols/hungry_3.png
+    - label: thirsty
+      language: en
+      uri: arasaac-symbols/thirsty_1.png
+    - label: spicy
+      language: en
+      uri: arasaac-symbols/spicy.png
+    - label: a little
+      language: en
+      uri: arasaac-symbols/few_1.png
+    - label: a lot
+      language: en
+      uri: arasaac-symbols/many.png
+    - label: sweet
+      language: en
+      uri: arasaac-symbols/sweet_1.png
+    - label: crunchy
+      language: en
+      uri: mulberry-symbols/crunchy.png
+    - label: soft
+      language: en
+      uri: mulberry-symbols/mash_potato_2.png

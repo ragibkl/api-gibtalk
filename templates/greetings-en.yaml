@@ -1,0 +1,64 @@
+- label: Greetings
+  language: en
+  uri: arasaac-symbols/hello_1.png
+  children:
+    - label: I
+      language: en
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: Hi
+      language: en
+      uri: arasaac-symbols/hello_1.png
+    - label: Good Morning
+      language: en
+      uri: arasaac-symbols/morning.png
+    - label: Good Afternoon
+      language: en
+      uri: arasaac-symbols/Sun_1.png
+    - label: How are you
+      language: en
+      uri: "arasaac-symbols/how are you doing.png"
+    - label: Want
+      language: en
+      uri: arasaac-symbols/want.png
+    - label: Wave
+      language: en
+      uri: arasaac-symbols/hello.png
+    - label: Shake Hand
+      language: en
+      uri: "arasaac-symbols/shake hands.png"
+    - label: High Five
+      language: en
+      uri: "arasaac-symbols/high five.png"
+    - label: Good
+      language: en
+      uri: mulberry-symbols/good.png
+    - label: Don't Want
+      language: en
+      uri: "arasaac-symbols/I do not want.png"
+    - label: Fist bump
+      language: en
+      uri: "arasaac-symbols/fist bump.png"
+    - label: Hug
+      language: en
+      uri: mulberry-symbols/hug_to.png
+    - label: Bye
+      language: en
+      uri: arasaac-symbols/goodbye_1.png
+    - label: Not Good
+      language: en
+      uri: mulberry-symbols/bad.png
+    - label: Teacher
+      language: en
+      uri: arasaac-symbols/schoolteacher.png
+    - label: Mommy
+      language: en
+      uri: arasaac-symbols/mother.png
+    - label: Daddy
+      language: en
+      uri: arasaac-symbols/father.png
+    - label: Friend
+      language: en
+      uri: tawasol-symbols/friends/friends-04.png
+    - label: Thank You
+      language: en
+      uri: arasaac-symbols/thanks.png

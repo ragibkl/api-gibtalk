@@ -1,0 +1,73 @@
+- label: Permainan Interaktif
+  language: ms
+  uri: arasaac-symbols/play_1.png
+  children:
+    - label: saya
+      language: ms
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: sedia
+      language: ms
+      uri: arasaac-symbols/ready_1.png
+    - label: main
+      language: id
+      uri: arasaac-symbols/play_1.png
+    - label: mula
+      language: ms
+      uri: mulberry-symbols/go_to.png
+    - label: berhenti
+      language: ms
+      uri: arasaac-symbols/stop_3.png
+    - label: nak
+      language: ms
+      uri: arasaac-symbols/want.png
+    - label: tolong
+      language: ms
+      uri: arasaac-symbols/help.png
+    - label: lagi
+      language: ms
+      uri: arasaac-symbols/again.png
+    - label: seronok
+      language: ms
+      uri: arasaac-symbols/fun.png
+    - label: tunggu
+      language: ms
+      uri: arasaac-symbols/wait_2.png
+    - label: tak nak
+      language: ms
+      uri: "arasaac-symbols/I do not want.png"
+    - label: laju
+      language: ms
+      uri: arasaac-symbols/quick.png
+    - label: lambat
+      language: ms
+      uri: arasaac-symbols/slow.png
+    - label: atas
+      language: ms
+      uri: mulberry-symbols/up.png
+    - label: bawah
+      language: ms
+      uri: mulberry-symbols/down.png
+    - label: suka
+      language: ms
+      uri: tawasol-symbols/Like/Like-01.png
+    - label: cikgu
+      language: ms
+      uri: arasaac-symbols/schoolteacher.png
+    - label: ibu
+      language: ms
+      uri: arasaac-symbols/mother.png
+    - label: ayah
+      language: ms
+      uri: arasaac-symbols/father.png
+    - label: kawan
+      language: ms
+      uri: arasaac-symbols/friends_1.png
+    - label: satu
+      language: ms
+      uri: tawasol-symbols/One/One-01.png
+    - label: dua
+      language: ms
+      uri: tawasol-symbols/Two/Two-03.png
+    - label: tiga
+      language: ms
+      uri: "tawasol-symbols/alphabet-and-numbers-english/Tawasol symbols_3.png"

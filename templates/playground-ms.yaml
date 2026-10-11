@@ -1,0 +1,151 @@
+- label: Taman Permainan
+  language: ms
+  uri: arasaac-symbols/playground.png
+  children:
+    - label: saya
+      language: ms
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: nak
+      language: ms
+      uri: arasaac-symbols/want.png
+    - label: tak nak
+      language: ms
+      uri: "arasaac-symbols/I do not want.png"
+    - label: Ya
+      language: ms
+      uri: arasaac-symbols/yes_1.png
+    - label: Tidak
+      language: ms
+      uri: tawasol-symbols/No/No-01.png
+    - label: berhenti
+      language: ms
+      uri: arasaac-symbols/stop_3.png
+    - label: buaian
+      language: ms
+      uri: mulberry-symbols/swing_to.png
+    - label: gelongsor
+      language: ms
+      uri: "arasaac-symbols/go down the slide_1.png"
+    - label: balance beam
+      language: ms
+      uri: arasaac-symbols/balance.png
+    - label: taman permainan
+      language: ms
+      uri: arasaac-symbols/playground.png
+    - label: panjat
+      language: ms
+      uri: mulberry-symbols/climb_up_to.png
+    - label: lagi
+      language: ms
+      uri: arasaac-symbols/again.png
+    - label: mula
+      language: ms
+      uri: mulberry-symbols/go_to.png
+    - label: giliran saya
+      language: ms
+      uri: custom/play/my-turn.png
+    - label: giliran awak
+      language: ms
+      uri: custom/play/your-turn.png
+    - label: atas
+      language: ms
+      uri: mulberry-symbols/up.png
+    - label: bawah
+      language: ms
+      uri: mulberry-symbols/down.png
+    - label: laju
+      language: ms
+      uri: arasaac-symbols/quick.png
+    - label: lambat
+      language: ms
+      uri: arasaac-symbols/slow.png
+    - label: tolak
+      language: ms
+      uri: mulberry-symbols/push_to.png
+    - label: tolong
+      language: ms
+      uri: arasaac-symbols/help.png
+    - label: tunggu
+      language: ms
+      uri: arasaac-symbols/wait_2.png
+    - label: seronok
+      language: ms
+      uri: arasaac-symbols/fun.png
+    - label: takut
+      language: ms
+      uri: arasaac-symbols/scared_2.png
+    - label: penat
+      language: ms
+      uri: arasaac-symbols/tired_3.png
+    - label: panas
+      language: ms
+      uri: tawasol-symbols/feeling-hot/feeling-hot-01.png
+    - label: hujan
+      language: ms
+      uri: arasaac-symbols/rain_1.png
+    - label: cerah
+      language: ms
+      uri: arasaac-symbols/Sun_1.png
+    - label: dahaga
+      language: ms
+      uri: arasaac-symbols/thirsty_1.png
+    - label: sakit
+      language: ms
+      uri: tawasol-symbols/hurt/hurt-01.png
+    - label: mari
+      language: ms
+      uri: "arasaac-symbols/come closer_1.png"
+    - label: duduk
+      language: ms
+      uri: "arasaac-symbols/sit down on bench_1.png"
+    - label: main
+      language: ms
+      uri: arasaac-symbols/play_1.png
+    - label: kelas
+      language: ms
+      uri: mulberry-symbols/class_room.png
+    - label: tandas
+      language: ms
+      uri: mulberry-symbols/toilet.png
+    - label: kawan
+      language: ms
+      uri: arasaac-symbols/friends_1.png
+    - label: basikal
+      language: ms
+      uri: arasaac-symbols/bicycle.png
+    - label: barisan
+      language: ms
+      uri: arasaac-symbols/line_2.png
+    - label: siap
+      language: ms
+      uri: arasaac-symbols/finish_2.png
+    - label: satu
+      language: ms
+      uri: tawasol-symbols/One/One-01.png
+    - label: dua
+      language: ms
+      uri: tawasol-symbols/Two/Two-03.png
+    - label: tiga
+      language: ms
+      uri: mulberry-symbols/three.png
+    - label: empat
+      language: ms
+      uri: tawasol-symbols/Four/Four-03.png
+    - label: lima
+      language: ms
+      uri: tawasol-symbols/Five/Five-03.png
+    - label: enam
+      language: ms
+      uri: tawasol-symbols/Six/Six-01.png
+    - label: tujuh
+      language: ms
+      uri: tawasol-symbols/Seven/Seven-03.png
+    - label: lapan
+      language: ms
+      uri: tawasol-symbols/Eight/Eight-01.png
+    - label: sembilan
+      language: ms
+      uri: tawasol-symbols/Nine/Nine-02.png
+    - label: sepuluh
+      language: ms
+      uri: tawasol-symbols/Ten/Ten-01.png

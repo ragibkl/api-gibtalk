@@ -1,0 +1,76 @@
+- label: Gim Luar
+  language: ms
+  uri: arasaac-symbols/playground.png
+  children:
+    - label: saya
+      language: ms
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: sedia
+      language: ms
+      uri: arasaac-symbols/ready_1.png
+    - label: mula
+      language: ms
+      uri: mulberry-symbols/go_to.png
+    - label: lari
+      language: ms
+      uri: arasaac-symbols/run_1.png
+    - label: jalan
+      language: ms
+      uri: arasaac-symbols/walk_1.png
+    - label: nak
+      language: ms
+      uri: arasaac-symbols/want.png
+    - label: berhenti
+      language: ms
+      uri: arasaac-symbols/stop_3.png
+    - label: lompat
+      language: ms
+      uri: arasaac-symbols/jump_1.png
+    - label: kejar
+      language: ms
+      uri: arasaac-symbols/chase_1.png
+    - label: tangkap
+      language: ms
+      uri: "arasaac-symbols/run holding hands_1.png"
+    - label: tak nak
+      language: ms
+      uri: "arasaac-symbols/I do not want.png"
+    - label: seronok
+      language: ms
+      uri: arasaac-symbols/fun.png
+    - label: penat
+      language: ms
+      uri: arasaac-symbols/tired_3.png
+    - label: rehat
+      language: ms
+      uri: arasaac-symbols/rest_1.png
+    - label: tunggu
+      language: ms
+      uri: arasaac-symbols/wait_2.png
+    - label: cikgu
+      language: ms
+      uri: arasaac-symbols/schoolteacher.png
+    - label: ibu
+      language: ms
+      uri: arasaac-symbols/mother.png
+    - label: ayah
+      language: ms
+      uri: arasaac-symbols/father.png
+    - label: kawan
+      language: ms
+      uri: arasaac-symbols/friends_1.png
+    - label: satu
+      language: ms
+      uri: tawasol-symbols/One/One-01.png
+    - label: dua
+      language: ms
+      uri: tawasol-symbols/Two/Two-03.png
+    - label: tiga
+      language: ms
+      uri: "tawasol-symbols/alphabet-and-numbers-english/Tawasol symbols_3.png"
+    - label: laju
+      language: ms
+      uri: arasaac-symbols/quick.png
+    - label: lambat
+      language: ms
+      uri: arasaac-symbols/slow.png

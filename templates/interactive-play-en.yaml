@@ -1,0 +1,73 @@
+- label: Interactive Play
+  language: en
+  uri: arasaac-symbols/play_1.png
+  children:
+    - label: I
+      language: en
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: ready
+      language: en
+      uri: arasaac-symbols/ready_1.png
+    - label: play
+      language: en
+      uri: arasaac-symbols/play_1.png
+    - label: go
+      language: en
+      uri: mulberry-symbols/go_to.png
+    - label: stop
+      language: en
+      uri: arasaac-symbols/stop_3.png
+    - label: want
+      language: en
+      uri: arasaac-symbols/want.png
+    - label: help
+      language: en
+      uri: arasaac-symbols/help.png
+    - label: again
+      language: en
+      uri: arasaac-symbols/again.png
+    - label: fun
+      language: en
+      uri: arasaac-symbols/fun.png
+    - label: wait
+      language: en
+      uri: arasaac-symbols/wait_2.png
+    - label: do not want
+      language: en
+      uri: "arasaac-symbols/I do not want.png"
+    - label: fast
+      language: en
+      uri: arasaac-symbols/quick.png
+    - label: slow
+      language: en
+      uri: arasaac-symbols/slow.png
+    - label: up
+      language: en
+      uri: mulberry-symbols/up.png
+    - label: down
+      language: en
+      uri: mulberry-symbols/down.png
+    - label: like
+      language: en
+      uri: tawasol-symbols/Like/Like-01.png
+    - label: teacher
+      language: en
+      uri: arasaac-symbols/schoolteacher.png
+    - label: mommy
+      language: en
+      uri: arasaac-symbols/mother.png
+    - label: daddy
+      language: en
+      uri: arasaac-symbols/father.png
+    - label: friend
+      language: en
+      uri: arasaac-symbols/friends_1.png
+    - label: one
+      language: en
+      uri: tawasol-symbols/One/One-01.png
+    - label: two
+      language: en
+      uri: tawasol-symbols/Two/Two-03.png
+    - label: three
+      language: en
+      uri: "tawasol-symbols/alphabet-and-numbers-english/Tawasol symbols_3.png"
