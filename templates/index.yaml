@@ -12,6 +12,12 @@
   author: GK
   language: ms
 
+- id: greetings-ta
+  name: வாழ்த்துகள்
+  description: Basic Greetings in Tamil
+  author: GK
+  language: ta
+
 - id: play-en
   name: Play
   description: Basic Play words in English

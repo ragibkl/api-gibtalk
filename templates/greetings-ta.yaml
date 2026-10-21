@@ -1,0 +1,64 @@
+- label: வாழ்த்துகள்
+  language: ta
+  uri: arasaac-symbols/hello_1.png
+  children:
+    - label: நான்
+      language: ta
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: வணக்கம்
+      language: ta
+      uri: arasaac-symbols/hello_1.png
+    - label: காலை வணக்கம்
+      language: ta
+      uri: arasaac-symbols/morning.png
+    - label: மதிய வணக்கம்
+      language: ta
+      uri: arasaac-symbols/Sun_1.png
+    - label: எப்படி இருக்கிறீர்கள்
+      language: ta
+      uri: "arasaac-symbols/how are you doing.png"
+    - label: வேண்டும்
+      language: ta
+      uri: arasaac-symbols/want.png
+    - label: கை அசை
+      language: ta
+      uri: arasaac-symbols/hello.png
+    - label: கை குலுக்கு
+      language: ta
+      uri: "arasaac-symbols/shake hands.png"
+    - label: ஹை ஃபைவ்
+      language: ta
+      uri: "arasaac-symbols/high five.png"
+    - label: நல்லது
+      language: ta
+      uri: mulberry-symbols/good.png
+    - label: வேண்டாம்
+      language: ta
+      uri: "arasaac-symbols/I do not want.png"
+    - label: ஃபிஸ்ட் பம்ப்
+      language: ta
+      uri: "arasaac-symbols/fist bump.png"
+    - label: கட்டிப்பிடி
+      language: ta
+      uri: mulberry-symbols/hug_to.png
+    - label: போய் வருகிறேன்
+      language: ta
+      uri: arasaac-symbols/goodbye_1.png
+    - label: சரியில்லை
+      language: ta
+      uri: mulberry-symbols/bad.png
+    - label: ஆசிரியர்
+      language: ta
+      uri: arasaac-symbols/schoolteacher.png
+    - label: அம்மா
+      language: ta
+      uri: arasaac-symbols/mother.png
+    - label: அப்பா
+      language: ta
+      uri: arasaac-symbols/father.png
+    - label: நண்பர்
+      language: ta
+      uri: tawasol-symbols/friends/friends-04.png
+    - label: நன்றி
+      language: ta
+      uri: arasaac-symbols/thanks.png
