@@ -59,6 +59,57 @@ async fn symbols_search(
     Json(result)
 }
 
+#[derive(Serialize, Deserialize, Debug)]
+struct SymbolCandidate {
+    name: String,
+    url: String,
+}
+
+#[derive(Serialize, Deserialize, Debug)]
+struct WordLookup {
+    word: String,
+    candidates: Vec<SymbolCandidate>,
+}
+
+/// Most words looked up in one call.
+const LOOKUP_MAX_WORDS: usize = 60;
+/// Candidates per word, so the caller (often an AI) can choose by name.
+const LOOKUP_CANDIDATES: usize = 5;
+
+/// Several words at once (`q=rice,water,all done`), each with its top few
+/// symbols and their names, for AI assistants writing word files.
+async fn symbols_lookup(
+    State(state): State<AppState>,
+    Query(query): Query<SymbolsSearchQuery>,
+) -> Json<Vec<WordLookup>> {
+    let base_url = base_url();
+
+    let result = query
+        .q
+        .split(',')
+        .map(str::trim)
+        .filter(|w| !w.is_empty())
+        .take(LOOKUP_MAX_WORDS)
+        .map(|word| WordLookup {
+            word: word.to_string(),
+            candidates: state
+                .index
+                .search(word, LOOKUP_CANDIDATES)
+                .into_iter()
+                .filter_map(|symbol| {
+                    let url = base_url.join(&symbol.file).ok()?.to_string();
+                    Some(SymbolCandidate {
+                        name: symbol.name.clone(),
+                        url,
+                    })
+                })
+                .collect(),
+        })
+        .collect();
+
+    Json(result)
+}
+
 async fn templates_list(State(state): State<AppState>) -> Json<Vec<TemplateSummary>> {
     Json(state.templates.list(&base_url()))
 }
@@ -91,6 +142,7 @@ fn build_router() -> Router {
     Router::new()
         .route("/health", get(health))
         .route("/api/symbols/search/", get(symbols_search))
+        .route("/api/symbols/lookup/", get(symbols_lookup))
         .route("/api/templates", get(templates_list))
         .route("/api/templates/:id", get(templates_get))
         .nest_service("/media/", ServeDir::new("media"))
@@ -256,6 +308,24 @@ mod tests {
             .unwrap();
 
         assert_eq!(response.status(), StatusCode::BAD_REQUEST);
+    }
+
+    #[tokio::test]
+    async fn test_lookup_several_words() {
+        let (status, results) = get_json::<Vec<WordLookup>>(
+            build_router(),
+            "/api/symbols/lookup/?q=rice,%20ketupat%20,,zzzqqq",
+        )
+        .await;
+        assert_eq!(status, StatusCode::OK);
+        let results = results.unwrap();
+        let words: Vec<&str> = results.iter().map(|r| r.word.as_str()).collect();
+        assert_eq!(words, ["rice", "ketupat", "zzzqqq"]);
+        assert!(!results[0].candidates.is_empty());
+        assert!(results[0].candidates.len() <= LOOKUP_CANDIDATES);
+        assert!(results[0].candidates.iter().any(|c| c.name == "rice"));
+        assert!(results[1].candidates[0].url.contains("ketupat"));
+        assert!(results[2].candidates.is_empty());
     }
 
     async fn get_json<T: serde::de::DeserializeOwned>(
