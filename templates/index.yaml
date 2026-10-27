@@ -101,3 +101,9 @@
   description: Raya Festival in Bahasa Malaysia
   author: GK
   language: ms
+
+- id: songs-en
+  name: Songs
+  description: Sing-along songs and song requests in English
+  author: GK
+  language: en

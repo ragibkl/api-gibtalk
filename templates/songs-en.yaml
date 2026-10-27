@@ -1,0 +1,76 @@
+- label: Songs
+  language: en
+  uri: mulberry-symbols/music.png
+  children:
+    - label: Let's sing!
+      language: en
+      uri: tawasol-symbols/sing/sing-02.png
+    - label: Stop singing
+      language: en
+      uri: tawasol-symbols/Stop/Stop-01.png
+    - label: Sing again
+      language: en
+      uri: arasaac-symbols/again.png
+    - label: Let's change song
+      language: en
+      uri: arasaac-symbols/change.png
+    - label: Wheels on the Bus
+      language: en
+      uri: mulberry-symbols/bus.png
+    - label: If You're Happy
+      language: en
+      uri: mulberry-symbols/clap_hands_to.png
+    - label: Itsy Bitsy Spider
+      language: en
+      uri: mulberry-symbols/spider.png
+    - label: Old MacDonald
+      language: en
+      uri: arasaac-symbols/farm.png
+    - label: Twinkle Twinkle Little Star
+      language: en
+      uri: mulberry-symbols/star.png
+    - label: BINGO
+      language: en
+      uri: mulberry-symbols/dog.png
+    - label: Mary Had a Little Lamb
+      language: en
+      uri: tawasol-symbols/lamb/lamb-01.png
+    - label: Baby Shark
+      language: en
+      uri: arasaac-symbols/whale shark.png
+    - label: Head and Shoulders
+      language: en
+      uri: arasaac-symbols/body.png
+    - label: 5 Little Monkeys
+      language: en
+      uri: arasaac-symbols/monkey.png
+    - label: 5 Little Ducks
+      language: en
+      uri: tawasol-symbols/duck/duck-01.png
+    - label: This is the Way
+      language: en
+      uri: tawasol-symbols/wash-hands/wash-hands-01.png
+    - label: Row Row Row Your Boat
+      language: en
+      uri: arasaac-symbols/rowing boat.png
+    - label: Ring Around the Rosie
+      language: en
+      uri: arasaac-symbols/circle time_1.png
+    - label: Baa Baa Black Sheep
+      language: en
+      uri: mulberry-symbols/sheep.png
+    - label: Bangun Pagi
+      language: ms
+      uri: arasaac-symbols/get out of bed.png
+    - label: Family Finger
+      language: en
+      uri: mulberry-symbols/family.png
+    - label: One Little Finger
+      language: en
+      uri: tawasol-symbols/Finger/Finger-03.png
+    - label: Rain Rain Go Away
+      language: en
+      uri: mulberry-symbols/rain.png
+    - label: Do Re Mi
+      language: en
+      uri: arasaac-symbols/music.png
