@@ -17,3 +17,83 @@
 - name: your-turn
   file: play/your-turn.png
   tags: [turn, your turn, you, play, game, sharing, take turns]
+
+- name: song-wheels-on-the-bus
+  file: songs/wheels-on-the-bus.png
+  tags: [song, wheels on the bus, bus, nursery rhyme, music]
+
+- name: song-if-youre-happy
+  file: songs/if-youre-happy.png
+  tags: [song, if you're happy and you know it, happy, clap, nursery rhyme, music]
+
+- name: song-itsy-bitsy-spider
+  file: songs/itsy-bitsy-spider.png
+  tags: [song, itsy bitsy spider, incy wincy spider, spider, rain, nursery rhyme, music]
+
+- name: song-old-macdonald
+  file: songs/old-macdonald.png
+  tags: [song, old macdonald, farm, farmer, cow, nursery rhyme, music]
+
+- name: song-twinkle-twinkle
+  file: songs/twinkle-twinkle.png
+  tags: [song, twinkle twinkle little star, star, night, nursery rhyme, music]
+
+- name: song-bingo
+  file: songs/bingo.png
+  tags: [song, bingo, dog, puppy, nursery rhyme, music]
+
+- name: song-mary-had-a-little-lamb
+  file: songs/mary-had-a-little-lamb.png
+  tags: [song, mary had a little lamb, lamb, sheep, girl, nursery rhyme, music]
+
+- name: song-baby-shark
+  file: songs/baby-shark.png
+  tags: [song, baby shark, shark, sea, music]
+
+- name: song-head-and-shoulders
+  file: songs/head-and-shoulders.png
+  tags: [song, head shoulders knees and toes, body, nursery rhyme, music]
+
+- name: song-five-little-monkeys
+  file: songs/five-little-monkeys.png
+  tags: [song, five little monkeys, monkey, bed, jump, five, music]
+
+- name: song-five-little-ducks
+  file: songs/five-little-ducks.png
+  tags: [song, five little ducks, duck, five, nursery rhyme, music]
+
+- name: song-this-is-the-way
+  file: songs/this-is-the-way.png
+  tags: [song, this is the way, brush teeth, wash hands, routine, music]
+
+- name: song-row-your-boat
+  file: songs/row-your-boat.png
+  tags: [song, row row row your boat, boat, row, nursery rhyme, music]
+
+- name: song-ring-around-the-rosie
+  file: songs/ring-around-the-rosie.png
+  tags: [song, ring around the rosie, ring a ring o roses, circle, children, dance, nursery rhyme, music]
+
+- name: song-baa-baa-black-sheep
+  file: songs/baa-baa-black-sheep.png
+  tags: [song, baa baa black sheep, sheep, wool, nursery rhyme, music]
+
+- name: song-bangun-pagi
+  file: songs/bangun-pagi.png
+  tags: [song, bangun pagi, wake up, morning, malay, lagu, music]
+
+- name: song-family-finger
+  file: songs/family-finger.png
+  tags: [song, finger family, family, finger, hand, music]
+
+- name: song-one-little-finger
+  file: songs/one-little-finger.png
+  tags: [song, one little finger, finger, one, music]
+
+- name: song-rain-rain-go-away
+  file: songs/rain-rain-go-away.png
+  tags: [song, rain rain go away, rain, sun, nursery rhyme, music]
+
+- name: song-do-re-mi
+  file: songs/do-re-mi.png
+  tags: [song, do re mi, music notes, scale, music]

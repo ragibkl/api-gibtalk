@@ -16,61 +16,61 @@
       uri: arasaac-symbols/change.png
     - label: Wheels on the Bus
       language: en
-      uri: mulberry-symbols/bus.png
+      uri: custom/songs/wheels-on-the-bus.png
     - label: If You're Happy
       language: en
-      uri: mulberry-symbols/clap_hands_to.png
+      uri: custom/songs/if-youre-happy.png
     - label: Itsy Bitsy Spider
       language: en
-      uri: mulberry-symbols/spider.png
+      uri: custom/songs/itsy-bitsy-spider.png
     - label: Old MacDonald
       language: en
-      uri: arasaac-symbols/farm.png
+      uri: custom/songs/old-macdonald.png
     - label: Twinkle Twinkle Little Star
       language: en
-      uri: mulberry-symbols/star.png
+      uri: custom/songs/twinkle-twinkle.png
     - label: BINGO
       language: en
-      uri: mulberry-symbols/dog.png
+      uri: custom/songs/bingo.png
     - label: Mary Had a Little Lamb
       language: en
-      uri: tawasol-symbols/lamb/lamb-01.png
+      uri: custom/songs/mary-had-a-little-lamb.png
     - label: Baby Shark
       language: en
-      uri: arasaac-symbols/whale shark.png
+      uri: custom/songs/baby-shark.png
     - label: Head and Shoulders
       language: en
-      uri: arasaac-symbols/body.png
+      uri: custom/songs/head-and-shoulders.png
     - label: 5 Little Monkeys
       language: en
-      uri: arasaac-symbols/monkey.png
+      uri: custom/songs/five-little-monkeys.png
     - label: 5 Little Ducks
       language: en
-      uri: tawasol-symbols/duck/duck-01.png
+      uri: custom/songs/five-little-ducks.png
     - label: This is the Way
       language: en
-      uri: tawasol-symbols/wash-hands/wash-hands-01.png
+      uri: custom/songs/this-is-the-way.png
     - label: Row Row Row Your Boat
       language: en
-      uri: arasaac-symbols/rowing boat.png
+      uri: custom/songs/row-your-boat.png
     - label: Ring Around the Rosie
       language: en
-      uri: arasaac-symbols/circle time_1.png
+      uri: custom/songs/ring-around-the-rosie.png
     - label: Baa Baa Black Sheep
       language: en
-      uri: mulberry-symbols/sheep.png
+      uri: custom/songs/baa-baa-black-sheep.png
     - label: Bangun Pagi
       language: ms
-      uri: arasaac-symbols/get out of bed.png
+      uri: custom/songs/bangun-pagi.png
     - label: Family Finger
       language: en
-      uri: mulberry-symbols/family.png
+      uri: custom/songs/family-finger.png
     - label: One Little Finger
       language: en
-      uri: tawasol-symbols/Finger/Finger-03.png
+      uri: custom/songs/one-little-finger.png
     - label: Rain Rain Go Away
       language: en
-      uri: mulberry-symbols/rain.png
+      uri: custom/songs/rain-rain-go-away.png
     - label: Do Re Mi
       language: en
-      uri: arasaac-symbols/music.png
+      uri: custom/songs/do-re-mi.png
