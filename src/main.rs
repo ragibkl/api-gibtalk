@@ -7,7 +7,7 @@ use axum::{
     routing::get,
     Json, Router,
 };
-use http::Method;
+use http::{header, HeaderValue, Method};
 use index::SymbolIndex;
 use serde::{Deserialize, Serialize};
 use std::sync::Arc;
@@ -15,6 +15,7 @@ use templates::{TemplateOutput, TemplateSummary, Templates};
 use tower_http::{
     cors::{Any, CorsLayer},
     services::ServeDir,
+    set_header::SetResponseHeaderLayer,
     trace::TraceLayer,
 };
 use url::Url;
@@ -145,10 +146,25 @@ fn build_router() -> Router {
         .route("/api/symbols/lookup/", get(symbols_lookup))
         .route("/api/templates", get(templates_list))
         .route("/api/templates/:id", get(templates_get))
-        .nest_service("/media/", ServeDir::new("media"))
         .with_state(state)
+        .merge(media_router())
         .layer(cors)
         .layer(TraceLayer::new_for_http())
+}
+
+/// Symbol pictures rarely change, so phones may keep them for 30 days instead
+/// of downloading them again for every search (there was no Cache-Control,
+/// and Last-Modified changed with every deploy). A changed picture should get
+/// a new file name.
+const MEDIA_CACHE_CONTROL: &str = "public, max-age=2592000";
+
+fn media_router() -> Router {
+    Router::new()
+        .nest_service("/media/", ServeDir::new("media"))
+        .layer(SetResponseHeaderLayer::overriding(
+            header::CACHE_CONTROL,
+            HeaderValue::from_static(MEDIA_CACHE_CONTROL),
+        ))
 }
 
 #[tokio::main]
@@ -254,6 +270,33 @@ mod tests {
         let body = hyper::body::to_bytes(response.into_body()).await.unwrap();
         // PNG magic bytes
         assert_eq!(&body[..8], b"\x89PNG\r\n\x1a\n");
+    }
+
+    #[tokio::test]
+    async fn test_media_is_cacheable_but_api_is_not() {
+        let app = build_router();
+        let media = app
+            .clone()
+            .oneshot(
+                Request::builder()
+                    .uri("/media/custom/play/my-turn.png")
+                    .body(Body::empty())
+                    .unwrap(),
+            )
+            .await
+            .unwrap();
+        assert_eq!(media.headers()["cache-control"], MEDIA_CACHE_CONTROL);
+
+        let api = app
+            .oneshot(
+                Request::builder()
+                    .uri("/api/templates")
+                    .body(Body::empty())
+                    .unwrap(),
+            )
+            .await
+            .unwrap();
+        assert!(api.headers().get("cache-control").is_none());
     }
 
     #[tokio::test]
