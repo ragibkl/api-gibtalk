@@ -390,7 +390,7 @@ mod tests {
             get_json::<Vec<TemplateSummary>>(build_router(), "/api/templates").await;
         assert_eq!(status, StatusCode::OK);
         let list = list.unwrap();
-        assert_eq!(list.len(), 32);
+        assert_eq!(list.len(), 34);
         let greetings = list.iter().find(|t| t.id == "greetings-ms").unwrap();
         assert_eq!(greetings.name, "Ucapan");
         assert_eq!(greetings.language, "ms");

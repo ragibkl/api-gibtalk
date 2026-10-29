@@ -34,6 +34,8 @@ PICTURES = [
     ("sensory-overload", "a child covering both ears with eyes squeezed shut, surrounded by small zigzag noise lines, bright light rays and a busy swirl"),
     ("steps", "three numbered steps in a row going up like stairs, labelled 1, 2 and 3, with a small arrow from one to the next (the numbers 1, 2, 3 MUST appear)"),
     ("not-ready", "a child shaking their head with one hand raised in a 'not yet' gesture, beside a small clock"),
+    ("do", "a simple stick figure busy doing an activity with both hands, stacking a block onto a small tower, with a small curved motion arrow"),
+    ("different", "a red circle and a blue square side by side with a large black not-equal sign between them"),
     ("excited", "a very excited happy child jumping with both fists raised in the air and a big open-mouth smile"),
 ]
 

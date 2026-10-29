@@ -83,7 +83,7 @@ if a template names a picture that isn't in `media/`.
 | [ARASAAC](https://arasaac.org/) | ~11,700 |
 | [Mulberry](https://mulberrysymbols.org/) | ~3,400 |
 | [Tawasol](https://www.tawasolsymbols.org/) | ~1,600 |
-| Custom | 44 |
+| Custom | 46 |
 
 ## Configuration
 
