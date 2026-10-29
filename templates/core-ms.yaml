@@ -1,0 +1,112 @@
+- label: Kata teras
+  language: ms
+  uri: arasaac-symbols/want.png
+  children:
+    - label: saya
+      language: ms
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: awak
+      language: ms
+      uri: arasaac-symbols/you_1.png
+    - label: nak
+      language: ms
+      uri: arasaac-symbols/want.png
+    - label: suka
+      language: ms
+      uri: tawasol-symbols/Like/Like-01.png
+    - label: lagi
+      language: ms
+      uri: "arasaac-symbols/I want more.png"
+    - label: tak
+      language: ms
+      uri: arasaac-symbols/no.png
+    - label: pergi
+      language: ms
+      uri: mulberry-symbols/go_to.png
+    - label: berhenti
+      language: ms
+      uri: arasaac-symbols/stop_3.png
+    - label: tolong
+      language: ms
+      uri: arasaac-symbols/help.png
+    - label: buka
+      language: ms
+      uri: arasaac-symbols/open.png
+    - label: habis
+      language: ms
+      uri: arasaac-symbols/finish_2.png
+    - label: tengok
+      language: ms
+      uri: arasaac-symbols/see_1.png
+    - label: makan
+      language: ms
+      uri: arasaac-symbols/eat_1.png
+    - label: ambil
+      language: ms
+      uri: arasaac-symbols/get.png
+    - label: buat
+      language: ms
+      uri: arasaac-symbols/make_1.png
+    - label: letak
+      language: ms
+      uri: arasaac-symbols/put_6.png
+    - label: pusing
+      language: ms
+      uri: arasaac-symbols/turn.png
+    - label: lakukan
+      language: ms
+      uri: custom/pk/do.png
+    - label: boleh
+      language: ms
+      uri: "arasaac-symbols/be able to_1.png"
+    - label: bagus
+      language: ms
+      uri: mulberry-symbols/good.png
+    - label: sama
+      language: ms
+      uri: arasaac-symbols/equal_1.png
+    - label: lain
+      language: ms
+      uri: custom/pk/different.png
+    - label: apa
+      language: ms
+      uri: arasaac-symbols/what.png
+    - label: mana
+      language: ms
+      uri: arasaac-symbols/where.png
+    - label: siapa
+      language: ms
+      uri: arasaac-symbols/who_1.png
+    - label: itu
+      language: ms
+      uri: arasaac-symbols/that.png
+    - label: ini
+      language: ms
+      uri: arasaac-symbols/It.png
+    - label: sini
+      language: ms
+      uri: arasaac-symbols/here.png
+    - label: dalam
+      language: ms
+      uri: arasaac-symbols/in.png
+    - label: atas
+      language: ms
+      uri: mulberry-symbols/on.png
+    - label: naik
+      language: ms
+      uri: mulberry-symbols/up.png
+    - label: semua
+      language: ms
+      uri: arasaac-symbols/all.png
+    - label: sikit
+      language: ms
+      uri: arasaac-symbols/some.png
+    - label: perlu
+      language: ms
+      uri: arasaac-symbols/need.png
+    - label: "dia (lelaki)"
+      language: ms
+      uri: arasaac-symbols/he_1.png
+    - label: "dia (perempuan)"
+      language: ms
+      uri: arasaac-symbols/she_1.png

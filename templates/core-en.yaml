@@ -1,0 +1,112 @@
+- label: Core words
+  language: en
+  uri: arasaac-symbols/want.png
+  children:
+    - label: I
+      language: en
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: you
+      language: en
+      uri: arasaac-symbols/you_1.png
+    - label: want
+      language: en
+      uri: arasaac-symbols/want.png
+    - label: like
+      language: en
+      uri: tawasol-symbols/Like/Like-01.png
+    - label: more
+      language: en
+      uri: "arasaac-symbols/I want more.png"
+    - label: not
+      language: en
+      uri: arasaac-symbols/no.png
+    - label: go
+      language: en
+      uri: mulberry-symbols/go_to.png
+    - label: stop
+      language: en
+      uri: arasaac-symbols/stop_3.png
+    - label: help
+      language: en
+      uri: arasaac-symbols/help.png
+    - label: open
+      language: en
+      uri: arasaac-symbols/open.png
+    - label: finished
+      language: en
+      uri: arasaac-symbols/finish_2.png
+    - label: look
+      language: en
+      uri: arasaac-symbols/see_1.png
+    - label: eat
+      language: en
+      uri: arasaac-symbols/eat_1.png
+    - label: get
+      language: en
+      uri: arasaac-symbols/get.png
+    - label: make
+      language: en
+      uri: arasaac-symbols/make_1.png
+    - label: put
+      language: en
+      uri: arasaac-symbols/put_6.png
+    - label: turn
+      language: en
+      uri: arasaac-symbols/turn.png
+    - label: do
+      language: en
+      uri: custom/pk/do.png
+    - label: can
+      language: en
+      uri: "arasaac-symbols/be able to_1.png"
+    - label: good
+      language: en
+      uri: mulberry-symbols/good.png
+    - label: same
+      language: en
+      uri: arasaac-symbols/equal_1.png
+    - label: different
+      language: en
+      uri: custom/pk/different.png
+    - label: what
+      language: en
+      uri: arasaac-symbols/what.png
+    - label: where
+      language: en
+      uri: arasaac-symbols/where.png
+    - label: who
+      language: en
+      uri: arasaac-symbols/who_1.png
+    - label: that
+      language: en
+      uri: arasaac-symbols/that.png
+    - label: it
+      language: en
+      uri: arasaac-symbols/It.png
+    - label: here
+      language: en
+      uri: arasaac-symbols/here.png
+    - label: in
+      language: en
+      uri: arasaac-symbols/in.png
+    - label: "on"
+      language: en
+      uri: mulberry-symbols/on.png
+    - label: up
+      language: en
+      uri: mulberry-symbols/up.png
+    - label: all
+      language: en
+      uri: arasaac-symbols/all.png
+    - label: some
+      language: en
+      uri: arasaac-symbols/some.png
+    - label: need
+      language: en
+      uri: arasaac-symbols/need.png
+    - label: he
+      language: en
+      uri: arasaac-symbols/he_1.png
+    - label: she
+      language: en
+      uri: arasaac-symbols/she_1.png

@@ -191,3 +191,15 @@
   description: Self-advocacy phrases in Bahasa Malaysia
   author: 3PK Selangor
   language: ms
+
+- id: core-en
+  name: Core words
+  description: 36 everyday core words (Universal Core) in English
+  author: GibTalk
+  language: en
+
+- id: core-ms
+  name: Kata teras
+  description: 36 everyday core words (Universal Core) in Bahasa Malaysia
+  author: GibTalk
+  language: ms

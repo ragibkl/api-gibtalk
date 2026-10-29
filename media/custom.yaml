@@ -173,3 +173,11 @@
 - name: pk-not-ready
   file: pk/not-ready.png
   tags: [not ready, not yet, wait, later, clock]
+
+- name: pk-do
+  file: pk/do.png
+  tags: [do, doing, activity, make, core word]
+
+- name: pk-different
+  file: pk/different.png
+  tags: [different, not the same, not equal, compare, core word]
