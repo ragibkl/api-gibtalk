@@ -28,6 +28,12 @@ PICTURES = [
     ("aunty", "head and shoulders of a friendly middle-aged woman with long black curly hair and glasses, in a purple top"),
     ("fidget-toy", "two sensory fidget toys side by side: a red three-armed fidget spinner and an orange squishy spiky stress ball"),
     ("doa", "two hands held together and cupped open upwards, palms facing up, as in Muslim prayer of supplication (doa)"),
+    ("pressure", "an adult leaning over a small worried child, pointing and pushing them to hurry, with a few short stress lines around the child"),
+    ("by-myself", "a proud child pointing to their own chest with one hand while stacking blocks with the other, an adult's hand held back at the side"),
+    ("too-close", "two children standing very close face to face, one leaning back with a hand up and a small red double arrow showing they want more space"),
+    ("sensory-overload", "a child covering both ears with eyes squeezed shut, surrounded by small zigzag noise lines, bright light rays and a busy swirl"),
+    ("steps", "three numbered steps in a row going up like stairs, labelled 1, 2 and 3, with a small arrow from one to the next (the numbers 1, 2, 3 MUST appear)"),
+    ("not-ready", "a child shaking their head with one hand raised in a 'not yet' gesture, beside a small clock"),
     ("excited", "a very excited happy child jumping with both fists raised in the air and a big open-mouth smile"),
 ]
 

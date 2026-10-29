@@ -1,0 +1,151 @@
+- label: Suarakan diri
+  language: ms
+  uri: custom/pk/by-myself.png
+  children:
+    - label: Saya autistik.
+      language: ms
+      uri: arasaac-symbols/autism_1.png
+    - label: Saya tidak bercakap.
+      language: ms
+      uri: mulberry-symbols/non_speaking.png
+    - label: Ini cara saya bercakap.
+      language: ms
+      uri: arasaac-symbols/communicator.png
+    - label: Tunggu, saya belum habis.
+      language: ms
+      uri: arasaac-symbols/wait_4.png
+    - label: Biar saya habiskan.
+      language: ms
+      uri: arasaac-symbols/finish_2.png
+    - label: Tolong berhenti dan dengar.
+      language: ms
+      uri: "arasaac-symbols/pay attention.png"
+    - label: Saya tak jumpa perkataan.
+      language: ms
+      uri: arasaac-symbols/think_1.png
+    - label: Hormati saya.
+      language: ms
+      uri: arasaac-symbols/respect_1.png
+    - label: Jangan sentuh AAC saya.
+      language: ms
+      uri: arasaac-symbols/communicator_2.png
+    - label: AAC saya perlu dicas.
+      language: ms
+      uri: "arasaac-symbols/charge the battery.png"
+    - label: Jangan sentuh saya.
+      language: ms
+      uri: "arasaac-symbols/not touch.png"
+    - label: Biarkan saya.
+      language: ms
+      uri: "arasaac-symbols/leave me alone.png"
+    - label: Berhenti bercakap.
+      language: ms
+      uri: arasaac-symbols/silence_1.png
+    - label: Jangan paksa saya.
+      language: ms
+      uri: custom/pk/pressure.png
+    - label: Biar saya pilih.
+      language: ms
+      uri: arasaac-symbols/choose_1.png
+    - label: Saya belum sedia pilih.
+      language: ms
+      uri: arasaac-symbols/confused_2.png
+    - label: Saya tak nak itu.
+      language: ms
+      uri: "arasaac-symbols/I do not want.png"
+    - label: Saya tak suka itu.
+      language: ms
+      uri: arasaac-symbols/dislike_1.png
+    - label: Saya nak buat sendiri.
+      language: ms
+      uri: custom/pk/by-myself.png
+    - label: "Saya boleh!"
+      language: ms
+      uri: arasaac-symbols/success.png
+    - label: Awak terlalu dekat.
+      language: ms
+      uri: custom/pk/too-close.png
+    - label: Terlalu ramai orang.
+      language: ms
+      uri: arasaac-symbols/people_1.png
+    - label: Terlalu bising.
+      language: ms
+      uri: arasaac-symbols/noisy.png
+    - label: Deria saya terlalu penuh.
+      language: ms
+      uri: custom/pk/sensory-overload.png
+    - label: Otak saya penuh.
+      language: ms
+      uri: arasaac-symbols/brain.png
+    - label: Saya perlu rehat.
+      language: ms
+      uri: arasaac-symbols/rest_1.png
+    - label: Saya perlu keluar.
+      language: ms
+      uri: arasaac-symbols/exit_1.png
+    - label: Biar saya stim.
+      language: ms
+      uri: arasaac-symbols/rock_3.png
+    - label: Saya rasa tak selesa.
+      language: ms
+      uri: arasaac-symbols/uncomfortable.png
+    - label: Tolong saya bertenang.
+      language: ms
+      uri: "arasaac-symbols/calm down_1.png"
+    - label: Saya rasa terbeban.
+      language: ms
+      uri: "arasaac-symbols/pull your hair out.png"
+    - label: Saya tak setuju.
+      language: ms
+      uri: "arasaac-symbols/disagree with.png"
+    - label: Saya tidak izinkan.
+      language: ms
+      uri: arasaac-symbols/reject_1.png
+    - label: Saya tak akan buat itu.
+      language: ms
+      uri: arasaac-symbols/reject.png
+    - label: Tolong saya rancang.
+      language: ms
+      uri: arasaac-symbols/plan.png
+    - label: Pecahkan kepada langkah kecil.
+      language: ms
+      uri: custom/pk/steps.png
+    - label: Tolong ulang.
+      language: ms
+      uri: arasaac-symbols/again.png
+    - label: Tolong perlahan sikit.
+      language: ms
+      uri: "arasaac-symbols/speak slowly.png"
+    - label: Tolong tunjukkan.
+      language: ms
+      uri: arasaac-symbols/show_1.png
+    - label: Saya ada nak cakap.
+      language: ms
+      uri: arasaac-symbols/say_1.png
+    - label: "Tidak!"
+      language: ms
+      uri: tawasol-symbols/No/No-01.png
+    - label: tunggu
+      language: ms
+      uri: arasaac-symbols/wait_4.png
+    - label: sekarang
+      language: ms
+      uri: arasaac-symbols/now_2.png
+    - label: berhenti
+      language: ms
+      uri: arasaac-symbols/stop_3.png
+    - label: Sekejap.
+      language: ms
+      uri: arasaac-symbols/minute.png
+    - label: Saya perlukan bantuan.
+      language: ms
+      uri: "arasaac-symbols/I need help.png"
+    - label: "Itu saya punya!"
+      language: ms
+      uri: arasaac-symbols/my.png
+    - label: Saya belum sedia.
+      language: ms
+      uri: custom/pk/not-ready.png
+    - label: Awak sakitkan saya.
+      language: ms
+      uri: arasaac-symbols/hurt_1.png

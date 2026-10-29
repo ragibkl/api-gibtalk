@@ -177,5 +177,17 @@
 - id: songs-en
   name: Songs
   description: Sing-along songs and song requests in English
-  author: GK
+  author: 3PK Selangor
   language: en
+
+- id: self-advocacy-en
+  name: Self-advocacy
+  description: Self-advocacy phrases in English
+  author: 3PK Selangor
+  language: en
+
+- id: self-advocacy-ms
+  name: Suarakan diri
+  description: Self-advocacy phrases in Bahasa Malaysia
+  author: 3PK Selangor
+  language: ms
