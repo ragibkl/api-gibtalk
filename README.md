@@ -83,7 +83,7 @@ if a template names a picture that isn't in `media/`.
 | [ARASAAC](https://arasaac.org/) | ~11,700 |
 | [Mulberry](https://mulberrysymbols.org/) | ~3,400 |
 | [Tawasol](https://www.tawasolsymbols.org/) | ~1,600 |
-| Custom | 25 |
+| Custom | 38 |
 
 ## Configuration
 
@@ -126,5 +126,8 @@ symbols are under [CC BY-SA 2.0 UK](https://creativecommons.org/licenses/by-sa/2
 Tawasol symbols are under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 Pictures in `media/custom/` were made for GibTalk and are free to use. The
 `songs/` set was generated with OpenAI's image model (gpt-image-2, October 2026)
-from a style sheet; `scripts/songs-images/` has the prompts and script.
+from a style sheet; `scripts/songs-images/` has the prompts and script. The
+`pk/` set (pictures for the Permata Kurnia boards that the libraries lack) was
+made the same way, in the style of the library pictograms; see
+`scripts/pk-images/`.
 See [gibtalk.com/symbols](https://gibtalk.com/symbols/#credits) for full credits.

@@ -1,0 +1,100 @@
+- label: Sakit
+  language: ms
+  uri: arasaac-symbols/illness_1.png
+  children:
+    - label: saya
+      language: ms
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: berasa
+      language: ms
+      uri: arasaac-symbols/feel_1.png
+    - label: nak
+      language: ms
+      uri: arasaac-symbols/want.png
+    - label: cikgu
+      language: ms
+      uri: arasaac-symbols/schoolteacher.png
+    - label: sangat
+      language: ms
+      uri: arasaac-symbols/very.png
+    - label: tolong
+      language: ms
+      uri: arasaac-symbols/help.png
+    - label: ya
+      language: ms
+      uri: arasaac-symbols/yes_1.png
+    - label: tidak
+      language: ms
+      uri: tawasol-symbols/No/No-01.png
+    - label: sakit
+      language: ms
+      uri: arasaac-symbols/illness_1.png
+    - label: pening
+      language: ms
+      uri: arasaac-symbols/dizzy_3.png
+    - label: batuk
+      language: ms
+      uri: arasaac-symbols/cough_2.png
+    - label: demam
+      language: ms
+      uri: arasaac-symbols/fever_2.png
+    - label: mata
+      language: ms
+      uri: mulberry-symbols/eyes.png
+    - label: telinga
+      language: ms
+      uri: arasaac-symbols/ear.png
+    - label: kepala
+      language: ms
+      uri: arasaac-symbols/head.png
+    - label: tangan
+      language: ms
+      uri: arasaac-symbols/hands.png
+    - label: selesema
+      language: ms
+      uri: "arasaac-symbols/blow the nose_2.png"
+    - label: luka
+      language: ms
+      uri: arasaac-symbols/injury.png
+    - label: muntah
+      language: ms
+      uri: arasaac-symbols/vomit_1.png
+    - label: suhu
+      language: ms
+      uri: "arasaac-symbols/take the temperature_3.png"
+    - label: kaki
+      language: ms
+      uri: arasaac-symbols/foot.png
+    - label: belakang
+      language: ms
+      uri: arasaac-symbols/back.png
+    - label: perut
+      language: ms
+      uri: arasaac-symbols/belly.png
+    - label: lengan
+      language: ms
+      uri: arasaac-symbols/arm.png
+    - label: plaster
+      language: ms
+      uri: mulberry-symbols/plaster.png
+    - label: ubat
+      language: ms
+      uri: mulberry-symbols/medicine.png
+    - label: tandas
+      language: ms
+      uri: mulberry-symbols/toilet.png
+    - label: rehat
+      language: ms
+      uri: arasaac-symbols/rest_1.png
+    - label: tisu
+      language: ms
+      uri: mulberry-symbols/tissues.png
+    - label: hidung
+      language: ms
+      uri: arasaac-symbols/nose.png
+    - label: lutut
+      language: ms
+      uri: arasaac-symbols/leg.png
+    - label: gigi
+      language: ms
+      uri: arasaac-symbols/teeth.png

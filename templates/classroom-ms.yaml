@@ -1,0 +1,184 @@
+- label: Bilik darjah
+  language: ms
+  uri: arasaac-symbols/classroom_4.png
+  children:
+    - label: saya
+      language: ms
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: nak
+      language: ms
+      uri: arasaac-symbols/want.png
+    - label: tolong
+      language: ms
+      uri: arasaac-symbols/help.png
+    - label: pergi
+      language: ms
+      uri: mulberry-symbols/go_to.png
+    - label: tandas
+      language: ms
+      uri: mulberry-symbols/toilet.png
+    - label: tidak
+      language: ms
+      uri: tawasol-symbols/No/No-01.png
+    - label: ya
+      language: ms
+      uri: arasaac-symbols/yes_1.png
+    - label: berhenti
+      language: ms
+      uri: arasaac-symbols/stop_3.png
+    - label: buka
+      language: ms
+      uri: arasaac-symbols/open.png
+    - label: bagus
+      language: ms
+      uri: mulberry-symbols/good.png
+    - label: selamat pagi
+      language: ms
+      uri: arasaac-symbols/morning.png
+    - label: selamat tengahari
+      language: ms
+      uri: arasaac-symbols/Sun_1.png
+    - label: hai
+      language: ms
+      uri: arasaac-symbols/hello_1.png
+    - label: kawan
+      language: ms
+      uri: tawasol-symbols/friends/friends-04.png
+    - label: tunggu
+      language: ms
+      uri: arasaac-symbols/wait_4.png
+    - label: giliran saya
+      language: ms
+      uri: custom/play/my-turn.png
+    - label: giliran awak
+      language: ms
+      uri: custom/play/your-turn.png
+    - label: atas
+      language: ms
+      uri: mulberry-symbols/up.png
+    - label: bawah
+      language: ms
+      uri: mulberry-symbols/down.png
+    - label: kotor
+      language: ms
+      uri: mulberry-symbols/dirty.png
+    - label: salam
+      language: ms
+      uri: "arasaac-symbols/shake hands.png"
+    - label: high five
+      language: ms
+      uri: "arasaac-symbols/high five.png"
+    - label: bye
+      language: ms
+      uri: arasaac-symbols/goodbye_1.png
+    - label: cikgu
+      language: ms
+      uri: arasaac-symbols/schoolteacher.png
+    - label: perlahan
+      language: ms
+      uri: arasaac-symbols/slow.png
+    - label: cepat
+      language: ms
+      uri: arasaac-symbols/quick.png
+    - label: kecil
+      language: ms
+      uri: tawasol-symbols/small/small-01.png
+    - label: besar
+      language: ms
+      uri: tawasol-symbols/big/big-01.png
+    - label: dengar
+      language: ms
+      uri: arasaac-symbols/hear_1.png
+    - label: nyanyi
+      language: ms
+      uri: arasaac-symbols/sing.png
+    - label: perah
+      language: ms
+      uri: mulberry-symbols/squeeze_to.png
+    - label: lipat
+      language: ms
+      uri: arasaac-symbols/fold.png
+    - label: melukis
+      language: ms
+      uri: arasaac-symbols/draw_1.png
+    - label: mewarna
+      language: ms
+      uri: arasaac-symbols/paint_6.png
+    - label: tampal
+      language: ms
+      uri: arasaac-symbols/paste.png
+    - label: potong
+      language: ms
+      uri: "arasaac-symbols/cut out.png"
+    - label: koyak
+      language: ms
+      uri: arasaac-symbols/rip.png
+    - label: buang
+      language: ms
+      uri: arasaac-symbols/throw.png
+    - label: baca
+      language: ms
+      uri: arasaac-symbols/read_2.png
+    - label: menari
+      language: ms
+      uri: arasaac-symbols/dance_1.png
+    - label: krayon
+      language: ms
+      uri: arasaac-symbols/crayons.png
+    - label: pensel warna
+      language: ms
+      uri: "arasaac-symbols/coloured pencils.png"
+    - label: beg
+      language: ms
+      uri: arasaac-symbols/rucksack.png
+    - label: kertas
+      language: ms
+      uri: arasaac-symbols/paper_1.png
+    - label: pengasah pensel
+      language: ms
+      uri: mulberry-symbols/pencil_sharpener.png
+    - label: pemadam
+      language: ms
+      uri: tawasol-symbols/eraser/eraser-01.png
+    - label: siap
+      language: ms
+      uri: arasaac-symbols/finish_2.png
+    - label: ruang tenang
+      language: ms
+      uri: "arasaac-symbols/calm area.png"
+    - label: padang
+      language: ms
+      uri: "arasaac-symbols/soccer field.png"
+    - label: kantin
+      language: ms
+      uri: tawasol-symbols/canteen/canteen-01.png
+    - label: buku
+      language: ms
+      uri: arasaac-symbols/book.png
+    - label: gunting
+      language: ms
+      uri: mulberry-symbols/scissors.png
+    - label: tisu
+      language: ms
+      uri: mulberry-symbols/tissues.png
+    - label: pensel
+      language: ms
+      uri: mulberry-symbols/pencil.png
+    - label: gam
+      language: ms
+      uri: mulberry-symbols/glue.png
+    - label: pembaris
+      language: ms
+      uri: arasaac-symbols/ruler.png
+    - label: rehat
+      language: ms
+      uri: arasaac-symbols/rest_1.png
+    - label: perhimpunan
+      language: ms
+      uri: mulberry-symbols/assembly.png
+    - label: kelas
+      language: ms
+      uri: mulberry-symbols/class_room.png
+    - label: rumah
+      language: ms
+      uri: arasaac-symbols/house_1.png

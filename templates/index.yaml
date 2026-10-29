@@ -3,103 +3,175 @@
 - id: greetings-en
   name: Greetings
   description: Basic Greetings in English
-  author: GK
+  author: Permata Kurnia
   language: en
 
 - id: greetings-ms
   name: Ucapan
   description: Basic Greetings in Bahasa Malaysia
-  author: GK
+  author: Permata Kurnia
   language: ms
 
 - id: greetings-ta
   name: வாழ்த்துகள்
   description: Basic Greetings in Tamil
-  author: GK
+  author: Permata Kurnia
   language: ta
 
 - id: play-en
   name: Play
   description: Basic Play words in English
-  author: GK
+  author: Permata Kurnia
   language: en
 
 - id: play-ms
   name: Main
   description: Basic Play words in Bahasa Malaysia
-  author: GK
+  author: Permata Kurnia
   language: ms
 
 - id: interactive-play-en
   name: Interactive Play
   description: Interactive Play words in English
-  author: GK
+  author: Permata Kurnia
   language: en
 
 - id: interactive-play-ms
   name: Permainan Interaktif
   description: Interactive Play words in Bahasa Malaysia
-  author: GK
+  author: Permata Kurnia
   language: ms
 
 - id: mealtime-en
   name: Mealtime
   description: Mealtime words in English
-  author: GK
+  author: Permata Kurnia
   language: en
 
 - id: mealtime-ms
   name: Waktu makan
   description: Mealtime words in Bahasa Malaysia
-  author: GK
+  author: Permata Kurnia
   language: ms
 
 - id: outdoor-gym-en
   name: Outdoor Gym
   description: Basic Outdoor Gym words in English
-  author: GK
+  author: Permata Kurnia
   language: en
 
 - id: outdoor-gym-ms
   name: Gim Luar
   description: Basic Outdoor Gym words in Bahasa Malaysia
-  author: GK
+  author: Permata Kurnia
   language: ms
 
 - id: playground-en
   name: Playground
   description: Basic Playground words in English
-  author: GK
+  author: Permata Kurnia
   language: en
 
 - id: playground-ms
   name: Taman Permainan
   description: Basic Playground words in Bahasa Malaysia
-  author: GK
+  author: Permata Kurnia
   language: ms
 
 - id: fasting-en
   name: Fasting
   description: Ramadan Fasting in English
-  author: GK
+  author: Permata Kurnia
   language: en
 
 - id: fasting-ms
   name: Puasa
   description: Ramadan Fasting in Bahasa Malaysia
-  author: GK
+  author: Permata Kurnia
   language: ms
 
 - id: raya-en
   name: Raya
   description: Raya Festival in English
-  author: GK
+  author: Permata Kurnia
   language: en
 
 - id: raya-ms
   name: Raya
   description: Raya Festival in Bahasa Malaysia
-  author: GK
+  author: Permata Kurnia
+  language: ms
+
+- id: feelings-en
+  name: Feelings
+  description: Feelings words in English
+  author: Permata Kurnia
+  language: en
+
+- id: feelings-ms
+  name: Perasaan
+  description: Feelings words in Bahasa Malaysia
+  author: Permata Kurnia
+  language: ms
+
+- id: sick-en
+  name: Sick
+  description: Feeling sick and body parts in English
+  author: Permata Kurnia
+  language: en
+
+- id: sick-ms
+  name: Sakit
+  description: Feeling sick and body parts in Bahasa Malaysia
+  author: Permata Kurnia
+  language: ms
+
+- id: cny-en
+  name: Chinese New Year
+  description: Chinese New Year words in English
+  author: Permata Kurnia
+  language: en
+
+- id: cny-ms
+  name: Tahun Baru Cina
+  description: Chinese New Year words in Bahasa Malaysia
+  author: Permata Kurnia
+  language: ms
+
+- id: assembly-en
+  name: Assembly
+  description: School assembly words in English
+  author: Permata Kurnia
+  language: en
+
+- id: assembly-ms
+  name: Perhimpunan
+  description: School assembly words in Bahasa Malaysia
+  author: Permata Kurnia
+  language: ms
+
+- id: canteen-en
+  name: Canteen
+  description: School canteen words in English
+  author: Permata Kurnia
+  language: en
+
+- id: canteen-ms
+  name: Kantin
+  description: School canteen words in Bahasa Malaysia
+  author: Permata Kurnia
+  language: ms
+
+- id: classroom-en
+  name: Classroom
+  description: Classroom words in English
+  author: Permata Kurnia
+  language: en
+
+- id: classroom-ms
+  name: Bilik darjah
+  description: Classroom words in Bahasa Malaysia
+  author: Permata Kurnia
   language: ms
 
 - id: songs-en

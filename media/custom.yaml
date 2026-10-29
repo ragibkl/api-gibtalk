@@ -97,3 +97,55 @@
 - name: song-do-re-mi
   file: songs/do-re-mi.png
   tags: [song, do re mi, music notes, scale, music]
+
+- name: pk-gong-xi-fa-cai
+  file: pk/gong-xi-fa-cai.png
+  tags: [gong xi fa cai, greeting, chinese new year, cny, festival, celebration, children, red, tahun baru cina]
+
+- name: pk-new-clothes
+  file: pk/new-clothes.png
+  tags: [new clothes, clothes, outfit, red, chinese new year, cny, festival, baju baru]
+
+- name: pk-red-packet
+  file: pk/red-packet.png
+  tags: [red packet, angpau, ang pow, envelope, money, gift, chinese new year, cny]
+
+- name: pk-lou-sang
+  file: pk/lou-sang.png
+  tags: [lou sang, yee sang, yusheng, salad, food, toss, chinese new year, cny]
+
+- name: pk-cny-biscuits
+  file: pk/cny-biscuits.png
+  tags: [cookies, biscuits, pineapple tart, love letters, snack, chinese new year, cny, biskut]
+
+- name: pk-chinese-lantern
+  file: pk/chinese-lantern.png
+  tags: [lantern, chinese lantern, red, decoration, chinese new year, cny, tanglung]
+
+- name: pk-lion-dance
+  file: pk/lion-dance.png
+  tags: [lion dance, lion, dance, performance, chinese new year, cny, festival, tarian singa]
+
+- name: pk-firecracker
+  file: pk/firecracker.png
+  tags: [firecracker, firecrackers, red, noise, chinese new year, cny, mercun]
+
+- name: pk-uncle
+  file: pk/uncle.png
+  tags: [uncle, man, family, relative, person, pak cik]
+
+- name: pk-aunty
+  file: pk/aunty.png
+  tags: [aunty, aunt, auntie, woman, family, relative, person, mak cik]
+
+- name: pk-fidget-toy
+  file: pk/fidget-toy.png
+  tags: [fidget toy, fidget spinner, stress ball, sensory, toy, calm, regulation]
+
+- name: pk-doa
+  file: pk/doa.png
+  tags: [doa, dua, pray, prayer, supplication, hands, muslim, islam]
+
+- name: pk-excited
+  file: pk/excited.png
+  tags: [excited, happy, jump, joy, celebrate, feeling, emotion, teruja]

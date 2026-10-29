@@ -1,0 +1,109 @@
+- label: Perhimpunan
+  language: ms
+  uri: mulberry-symbols/assembly.png
+  children:
+    - label: saya
+      language: ms
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: nak
+      language: ms
+      uri: arasaac-symbols/want.png
+    - label: tolong
+      language: ms
+      uri: arasaac-symbols/help.png
+    - label: suka
+      language: ms
+      uri: tawasol-symbols/Like/Like-01.png
+    - label: tidak
+      language: ms
+      uri: tawasol-symbols/No/No-01.png
+    - label: ya
+      language: ms
+      uri: arasaac-symbols/yes_1.png
+    - label: tandas
+      language: ms
+      uri: mulberry-symbols/toilet.png
+    - label: awak
+      language: ms
+      uri: arasaac-symbols/you_1.png
+    - label: pergi
+      language: ms
+      uri: mulberry-symbols/go_to.png
+    - label: beratur
+      language: ms
+      uri: arasaac-symbols/line_2.png
+    - label: tunggu
+      language: ms
+      uri: arasaac-symbols/wait_4.png
+    - label: tengok
+      language: ms
+      uri: arasaac-symbols/see_1.png
+    - label: haus
+      language: ms
+      uri: arasaac-symbols/thirsty_1.png
+    - label: lapar
+      language: ms
+      uri: arasaac-symbols/hungry_3.png
+    - label: hai
+      language: ms
+      uri: arasaac-symbols/hello_1.png
+    - label: duduk
+      language: ms
+      uri: arasaac-symbols/sit.png
+    - label: berdiri
+      language: ms
+      uri: arasaac-symbols/stand_3.png
+    - label: gembira
+      language: ms
+      uri: arasaac-symbols/happy_3.png
+    - label: sedih
+      language: ms
+      uri: arasaac-symbols/sadden.png
+    - label: penat
+      language: ms
+      uri: arasaac-symbols/tired_3.png
+    - label: bagus
+      language: ms
+      uri: mulberry-symbols/good.png
+    - label: kawan
+      language: ms
+      uri: tawasol-symbols/friends/friends-04.png
+    - label: cikgu
+      language: ms
+      uri: arasaac-symbols/schoolteacher.png
+    - label: kelas
+      language: ms
+      uri: mulberry-symbols/class_room.png
+    - label: perlahan
+      language: ms
+      uri: arasaac-symbols/whisper_2.png
+    - label: sangat
+      language: ms
+      uri: arasaac-symbols/very.png
+    - label: kuat
+      language: ms
+      uri: mulberry-symbols/loud.png
+    - label: ramai orang
+      language: ms
+      uri: arasaac-symbols/people_1.png
+    - label: panas
+      language: ms
+      uri: arasaac-symbols/hot.png
+    - label: fidget toy
+      language: ms
+      uri: custom/pk/fidget-toy.png
+    - label: perhimpunan
+      language: ms
+      uri: mulberry-symbols/assembly.png
+    - label: rehat
+      language: ms
+      uri: arasaac-symbols/rest_1.png
+    - label: ruang tenang
+      language: ms
+      uri: "arasaac-symbols/calm area.png"
+    - label: penutup telinga
+      language: ms
+      uri: "arasaac-symbols/hearing protector.png"
+    - label: habis
+      language: ms
+      uri: arasaac-symbols/finish_2.png
