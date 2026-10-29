@@ -1,4 +1,4 @@
-# Permata Kurnia board pictures
+# Permata Kurnia and self-advocacy board pictures
 
 How `media/custom/pk/` was made (2026-10-29): a few tiles on Permata Kurnia's
 communication boards (feelings, sick, Chinese New Year, assembly, canteen,

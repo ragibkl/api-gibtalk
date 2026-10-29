@@ -149,3 +149,27 @@
 - name: pk-excited
   file: pk/excited.png
   tags: [excited, happy, jump, joy, celebrate, feeling, emotion, teruja]
+
+- name: pk-pressure
+  file: pk/pressure.png
+  tags: [pressure, pressuring, push, hurry, force, stress, adult, child]
+
+- name: pk-by-myself
+  file: pk/by-myself.png
+  tags: [by myself, myself, independent, do it myself, self, proud]
+
+- name: pk-too-close
+  file: pk/too-close.png
+  tags: [too close, personal space, space, distance, back off]
+
+- name: pk-sensory-overload
+  file: pk/sensory-overload.png
+  tags: [sensory overload, overwhelmed, noise, light, cover ears, overstimulated]
+
+- name: pk-steps
+  file: pk/steps.png
+  tags: [steps, step by step, sequence, first, next, one two three, break it down]
+
+- name: pk-not-ready
+  file: pk/not-ready.png
+  tags: [not ready, not yet, wait, later, clock]

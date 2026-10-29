@@ -1,0 +1,151 @@
+- label: Self-advocacy
+  language: en
+  uri: custom/pk/by-myself.png
+  children:
+    - label: I am autistic.
+      language: en
+      uri: arasaac-symbols/autism_1.png
+    - label: I am nonspeaking.
+      language: en
+      uri: mulberry-symbols/non_speaking.png
+    - label: This is how I talk.
+      language: en
+      uri: arasaac-symbols/communicator.png
+    - label: Please wait while I finish.
+      language: en
+      uri: arasaac-symbols/wait_4.png
+    - label: Let me finish.
+      language: en
+      uri: arasaac-symbols/finish_2.png
+    - label: Please stop and listen.
+      language: en
+      uri: "arasaac-symbols/pay attention.png"
+    - label: "I don't have the words."
+      language: en
+      uri: arasaac-symbols/think_1.png
+    - label: Respect me.
+      language: en
+      uri: arasaac-symbols/respect_1.png
+    - label: "Don't touch my AAC."
+      language: en
+      uri: arasaac-symbols/communicator_2.png
+    - label: My AAC needs charging.
+      language: en
+      uri: "arasaac-symbols/charge the battery.png"
+    - label: "Don't touch me."
+      language: en
+      uri: "arasaac-symbols/not touch.png"
+    - label: Leave me alone.
+      language: en
+      uri: "arasaac-symbols/leave me alone.png"
+    - label: Stop talking.
+      language: en
+      uri: arasaac-symbols/silence_1.png
+    - label: Stop pressuring me.
+      language: en
+      uri: custom/pk/pressure.png
+    - label: Let me decide.
+      language: en
+      uri: arasaac-symbols/choose_1.png
+    - label: "I'm not ready to decide."
+      language: en
+      uri: arasaac-symbols/confused_2.png
+    - label: "I don't want that."
+      language: en
+      uri: "arasaac-symbols/I do not want.png"
+    - label: "I don't like that."
+      language: en
+      uri: arasaac-symbols/dislike_1.png
+    - label: I want to do it myself.
+      language: en
+      uri: custom/pk/by-myself.png
+    - label: "I can do it!"
+      language: en
+      uri: arasaac-symbols/success.png
+    - label: "You're too close."
+      language: en
+      uri: custom/pk/too-close.png
+    - label: "It's too crowded."
+      language: en
+      uri: arasaac-symbols/people_1.png
+    - label: "It's too loud."
+      language: en
+      uri: arasaac-symbols/noisy.png
+    - label: Sensory overload.
+      language: en
+      uri: custom/pk/sensory-overload.png
+    - label: My brain is full.
+      language: en
+      uri: arasaac-symbols/brain.png
+    - label: I need a break.
+      language: en
+      uri: arasaac-symbols/rest_1.png
+    - label: I need to leave.
+      language: en
+      uri: arasaac-symbols/exit_1.png
+    - label: Let me stim.
+      language: en
+      uri: arasaac-symbols/rock_3.png
+    - label: I feel uncomfortable.
+      language: en
+      uri: arasaac-symbols/uncomfortable.png
+    - label: Help me calm down.
+      language: en
+      uri: "arasaac-symbols/calm down_1.png"
+    - label: "I'm overwhelmed."
+      language: en
+      uri: "arasaac-symbols/pull your hair out.png"
+    - label: "I'm not okay with that."
+      language: en
+      uri: "arasaac-symbols/disagree with.png"
+    - label: I do not consent.
+      language: en
+      uri: arasaac-symbols/reject_1.png
+    - label: I will not do that.
+      language: en
+      uri: arasaac-symbols/reject.png
+    - label: Help me plan.
+      language: en
+      uri: arasaac-symbols/plan.png
+    - label: Break it into steps.
+      language: en
+      uri: custom/pk/steps.png
+    - label: Please repeat that.
+      language: en
+      uri: arasaac-symbols/again.png
+    - label: Please slow down.
+      language: en
+      uri: "arasaac-symbols/speak slowly.png"
+    - label: Please show me.
+      language: en
+      uri: arasaac-symbols/show_1.png
+    - label: I have something to say.
+      language: en
+      uri: arasaac-symbols/say_1.png
+    - label: "No!"
+      language: en
+      uri: tawasol-symbols/No/No-01.png
+    - label: wait
+      language: en
+      uri: arasaac-symbols/wait_4.png
+    - label: now
+      language: en
+      uri: arasaac-symbols/now_2.png
+    - label: stop
+      language: en
+      uri: arasaac-symbols/stop_3.png
+    - label: One minute.
+      language: en
+      uri: arasaac-symbols/minute.png
+    - label: I need help.
+      language: en
+      uri: "arasaac-symbols/I need help.png"
+    - label: "That's mine!"
+      language: en
+      uri: arasaac-symbols/my.png
+    - label: "I'm not ready."
+      language: en
+      uri: custom/pk/not-ready.png
+    - label: "You're hurting me."
+      language: en
+      uri: arasaac-symbols/hurt_1.png
