@@ -1,0 +1,94 @@
+- label: Tahun Baru Cina
+  language: ms
+  uri: custom/pk/lion-dance.png
+  children:
+    - label: saya
+      language: ms
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: nak
+      language: ms
+      uri: arasaac-symbols/want.png
+    - label: tak nak
+      language: ms
+      uri: "arasaac-symbols/I do not want.png"
+    - label: suka
+      language: ms
+      uri: tawasol-symbols/Like/Like-01.png
+    - label: minum
+      language: ms
+      uri: arasaac-symbols/drink_2.png
+    - label: makan
+      language: ms
+      uri: arasaac-symbols/eat_1.png
+    - label: main
+      language: ms
+      uri: arasaac-symbols/play_1.png
+    - label: gambar
+      language: ms
+      uri: "arasaac-symbols/take pictures of.png"
+    - label: Gong Xi Fa Cai
+      language: ms
+      uri: custom/pk/gong-xi-fa-cai.png
+    - label: baju baru
+      language: ms
+      uri: custom/pk/new-clothes.png
+    - label: gembira
+      language: ms
+      uri: arasaac-symbols/happy_3.png
+    - label: marah
+      language: ms
+      uri: arasaac-symbols/angry_5.png
+    - label: angpau
+      language: ms
+      uri: custom/pk/red-packet.png
+    - label: limau mandarin
+      language: ms
+      uri: arasaac-symbols/mandarin.png
+    - label: lou sang
+      language: ms
+      uri: custom/pk/lou-sang.png
+    - label: biskut CNY
+      language: ms
+      uri: custom/pk/cny-biscuits.png
+    - label: bising
+      language: ms
+      uri: arasaac-symbols/noisy.png
+    - label: senyap
+      language: ms
+      uri: mulberry-symbols/quiet.png
+    - label: tanglung
+      language: ms
+      uri: custom/pk/chinese-lantern.png
+    - label: tarian singa
+      language: ms
+      uri: custom/pk/lion-dance.png
+    - label: balik rumah
+      language: ms
+      uri: tawasol-symbols/Home/Home-02.png
+    - label: melawat
+      language: ms
+      uri: mulberry-symbols/visit_to.png
+    - label: mercun
+      language: ms
+      uri: custom/pk/firecracker.png
+    - label: tempat bertenang
+      language: ms
+      uri: "arasaac-symbols/calm area.png"
+    - label: ibu
+      language: ms
+      uri: arasaac-symbols/mother.png
+    - label: ayah
+      language: ms
+      uri: arasaac-symbols/father.png
+    - label: datuk
+      language: ms
+      uri: arasaac-symbols/grandfather_3.png
+    - label: nenek
+      language: ms
+      uri: arasaac-symbols/grandmother_2.png
+    - label: pak cik
+      language: ms
+      uri: custom/pk/uncle.png
+    - label: mak cik
+      language: ms
+      uri: custom/pk/aunty.png

@@ -1,0 +1,94 @@
+- label: Chinese New Year
+  language: en
+  uri: custom/pk/lion-dance.png
+  children:
+    - label: I
+      language: en
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: want
+      language: en
+      uri: arasaac-symbols/want.png
+    - label: do not want
+      language: en
+      uri: "arasaac-symbols/I do not want.png"
+    - label: like
+      language: en
+      uri: tawasol-symbols/Like/Like-01.png
+    - label: drink
+      language: en
+      uri: arasaac-symbols/drink_2.png
+    - label: eat
+      language: en
+      uri: arasaac-symbols/eat_1.png
+    - label: play
+      language: en
+      uri: arasaac-symbols/play_1.png
+    - label: picture
+      language: en
+      uri: "arasaac-symbols/take pictures of.png"
+    - label: Gong Xi Fa Cai
+      language: en
+      uri: custom/pk/gong-xi-fa-cai.png
+    - label: new clothes
+      language: en
+      uri: custom/pk/new-clothes.png
+    - label: happy
+      language: en
+      uri: arasaac-symbols/happy_3.png
+    - label: angry
+      language: en
+      uri: arasaac-symbols/angry_5.png
+    - label: red packet
+      language: en
+      uri: custom/pk/red-packet.png
+    - label: mandarin oranges
+      language: en
+      uri: arasaac-symbols/mandarin.png
+    - label: lou sang
+      language: en
+      uri: custom/pk/lou-sang.png
+    - label: CNY biscuits
+      language: en
+      uri: custom/pk/cny-biscuits.png
+    - label: noisy
+      language: en
+      uri: arasaac-symbols/noisy.png
+    - label: quiet
+      language: en
+      uri: mulberry-symbols/quiet.png
+    - label: lantern
+      language: en
+      uri: custom/pk/chinese-lantern.png
+    - label: lion dance
+      language: en
+      uri: custom/pk/lion-dance.png
+    - label: go home
+      language: en
+      uri: tawasol-symbols/Home/Home-02.png
+    - label: visit
+      language: en
+      uri: mulberry-symbols/visit_to.png
+    - label: firecracker
+      language: en
+      uri: custom/pk/firecracker.png
+    - label: I need quiet space
+      language: en
+      uri: "arasaac-symbols/calm area.png"
+    - label: mummy
+      language: en
+      uri: arasaac-symbols/mother.png
+    - label: daddy
+      language: en
+      uri: arasaac-symbols/father.png
+    - label: grandfather
+      language: en
+      uri: arasaac-symbols/grandfather_3.png
+    - label: grandmother
+      language: en
+      uri: arasaac-symbols/grandmother_2.png
+    - label: uncle
+      language: en
+      uri: custom/pk/uncle.png
+    - label: aunty
+      language: en
+      uri: custom/pk/aunty.png

@@ -1,0 +1,79 @@
+- label: Feelings
+  language: en
+  uri: arasaac-symbols/feelings.png
+  children:
+    - label: I
+      language: en
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: feel
+      language: en
+      uri: arasaac-symbols/feel_1.png
+    - label: very
+      language: en
+      uri: arasaac-symbols/very.png
+    - label: "yes"
+      language: en
+      uri: arasaac-symbols/yes_1.png
+    - label: "no"
+      language: en
+      uri: tawasol-symbols/No/No-01.png
+    - label: want
+      language: en
+      uri: arasaac-symbols/want.png
+    - label: angry
+      language: en
+      uri: arasaac-symbols/angry_5.png
+    - label: bored
+      language: en
+      uri: arasaac-symbols/bored.png
+    - label: calm
+      language: en
+      uri: arasaac-symbols/calm.png
+    - label: excited
+      language: en
+      uri: custom/pk/excited.png
+    - label: funny
+      language: en
+      uri: arasaac-symbols/fun.png
+    - label: frustrated
+      language: en
+      uri: "arasaac-symbols/pull your hair out.png"
+    - label: happy
+      language: en
+      uri: arasaac-symbols/happy_3.png
+    - label: lonely
+      language: en
+      uri: arasaac-symbols/solitary.png
+    - label: noisy
+      language: en
+      uri: arasaac-symbols/noisy.png
+    - label: sad
+      language: en
+      uri: arasaac-symbols/sad_3.png
+    - label: sick
+      language: en
+      uri: arasaac-symbols/illness_1.png
+    - label: sorry
+      language: en
+      uri: arasaac-symbols/sorry.png
+    - label: tired
+      language: en
+      uri: arasaac-symbols/tired_3.png
+    - label: calming area
+      language: en
+      uri: "arasaac-symbols/calm area.png"
+    - label: earmuff
+      language: en
+      uri: "arasaac-symbols/hearing protector.png"
+    - label: fidget toy
+      language: en
+      uri: custom/pk/fidget-toy.png
+    - label: hug
+      language: en
+      uri: mulberry-symbols/hug_to.png
+    - label: rest
+      language: en
+      uri: arasaac-symbols/rest_1.png
+    - label: water
+      language: en
+      uri: "arasaac-symbols/glass of water.png"

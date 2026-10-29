@@ -1,0 +1,109 @@
+- label: Assembly
+  language: en
+  uri: mulberry-symbols/assembly.png
+  children:
+    - label: I
+      language: en
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: want
+      language: en
+      uri: arasaac-symbols/want.png
+    - label: help
+      language: en
+      uri: arasaac-symbols/help.png
+    - label: like
+      language: en
+      uri: tawasol-symbols/Like/Like-01.png
+    - label: "no"
+      language: en
+      uri: tawasol-symbols/No/No-01.png
+    - label: "yes"
+      language: en
+      uri: arasaac-symbols/yes_1.png
+    - label: toilet
+      language: en
+      uri: mulberry-symbols/toilet.png
+    - label: you
+      language: en
+      uri: arasaac-symbols/you_1.png
+    - label: go
+      language: en
+      uri: mulberry-symbols/go_to.png
+    - label: line up
+      language: en
+      uri: arasaac-symbols/line_2.png
+    - label: wait
+      language: en
+      uri: arasaac-symbols/wait_4.png
+    - label: look
+      language: en
+      uri: arasaac-symbols/see_1.png
+    - label: thirsty
+      language: en
+      uri: arasaac-symbols/thirsty_1.png
+    - label: hungry
+      language: en
+      uri: arasaac-symbols/hungry_3.png
+    - label: hello
+      language: en
+      uri: arasaac-symbols/hello_1.png
+    - label: sit down
+      language: en
+      uri: arasaac-symbols/sit.png
+    - label: stand
+      language: en
+      uri: arasaac-symbols/stand_3.png
+    - label: happy
+      language: en
+      uri: arasaac-symbols/happy_3.png
+    - label: upset
+      language: en
+      uri: arasaac-symbols/sadden.png
+    - label: tired
+      language: en
+      uri: arasaac-symbols/tired_3.png
+    - label: good
+      language: en
+      uri: mulberry-symbols/good.png
+    - label: friend
+      language: en
+      uri: tawasol-symbols/friends/friends-04.png
+    - label: teacher
+      language: en
+      uri: arasaac-symbols/schoolteacher.png
+    - label: class
+      language: en
+      uri: mulberry-symbols/class_room.png
+    - label: soft voice
+      language: en
+      uri: arasaac-symbols/whisper_2.png
+    - label: very
+      language: en
+      uri: arasaac-symbols/very.png
+    - label: loud
+      language: en
+      uri: mulberry-symbols/loud.png
+    - label: crowded
+      language: en
+      uri: arasaac-symbols/people_1.png
+    - label: hot day
+      language: en
+      uri: arasaac-symbols/hot.png
+    - label: fidget toy
+      language: en
+      uri: custom/pk/fidget-toy.png
+    - label: assembly
+      language: en
+      uri: mulberry-symbols/assembly.png
+    - label: rest
+      language: en
+      uri: arasaac-symbols/rest_1.png
+    - label: calming area
+      language: en
+      uri: "arasaac-symbols/calm area.png"
+    - label: earmuff
+      language: en
+      uri: "arasaac-symbols/hearing protector.png"
+    - label: finish
+      language: en
+      uri: arasaac-symbols/finish_2.png

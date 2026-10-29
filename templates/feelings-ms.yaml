@@ -1,0 +1,79 @@
+- label: Perasaan
+  language: ms
+  uri: arasaac-symbols/feelings.png
+  children:
+    - label: saya
+      language: ms
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: rasa
+      language: ms
+      uri: arasaac-symbols/feel_1.png
+    - label: sangat
+      language: ms
+      uri: arasaac-symbols/very.png
+    - label: ya
+      language: ms
+      uri: arasaac-symbols/yes_1.png
+    - label: tidak
+      language: ms
+      uri: tawasol-symbols/No/No-01.png
+    - label: nak
+      language: ms
+      uri: arasaac-symbols/want.png
+    - label: marah
+      language: ms
+      uri: arasaac-symbols/angry_5.png
+    - label: bosan
+      language: ms
+      uri: arasaac-symbols/bored.png
+    - label: tenang
+      language: ms
+      uri: arasaac-symbols/calm.png
+    - label: teruja
+      language: ms
+      uri: custom/pk/excited.png
+    - label: lucu
+      language: ms
+      uri: arasaac-symbols/fun.png
+    - label: kecewa
+      language: ms
+      uri: "arasaac-symbols/pull your hair out.png"
+    - label: gembira
+      language: ms
+      uri: arasaac-symbols/happy_3.png
+    - label: sunyi
+      language: ms
+      uri: arasaac-symbols/solitary.png
+    - label: bising
+      language: ms
+      uri: arasaac-symbols/noisy.png
+    - label: sedih
+      language: ms
+      uri: arasaac-symbols/sad_3.png
+    - label: sakit
+      language: ms
+      uri: arasaac-symbols/illness_1.png
+    - label: maaf
+      language: ms
+      uri: arasaac-symbols/sorry.png
+    - label: penat
+      language: ms
+      uri: arasaac-symbols/tired_3.png
+    - label: ruang bertenang
+      language: ms
+      uri: "arasaac-symbols/calm area.png"
+    - label: penutup telinga
+      language: ms
+      uri: "arasaac-symbols/hearing protector.png"
+    - label: fidget toy
+      language: ms
+      uri: custom/pk/fidget-toy.png
+    - label: peluk
+      language: ms
+      uri: mulberry-symbols/hug_to.png
+    - label: rehat
+      language: ms
+      uri: arasaac-symbols/rest_1.png
+    - label: air
+      language: ms
+      uri: "arasaac-symbols/glass of water.png"

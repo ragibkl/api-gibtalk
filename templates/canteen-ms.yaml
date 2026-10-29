@@ -1,0 +1,124 @@
+- label: Kantin
+  language: ms
+  uri: tawasol-symbols/canteen/canteen-01.png
+  children:
+    - label: saya
+      language: ms
+      uri: "tawasol-symbols/I am/I am-05.png"
+    - label: nak
+      language: ms
+      uri: arasaac-symbols/want.png
+    - label: tak nak
+      language: ms
+      uri: "arasaac-symbols/I do not want.png"
+    - label: ya
+      language: ms
+      uri: arasaac-symbols/yes_1.png
+    - label: tidak
+      language: ms
+      uri: tawasol-symbols/No/No-01.png
+    - label: suka
+      language: ms
+      uri: tawasol-symbols/Like/Like-01.png
+    - label: tunggu
+      language: ms
+      uri: arasaac-symbols/wait_4.png
+    - label: tolong
+      language: ms
+      uri: arasaac-symbols/help.png
+    - label: makan
+      language: ms
+      uri: arasaac-symbols/eat_1.png
+    - label: minum
+      language: ms
+      uri: arasaac-symbols/drink_2.png
+    - label: lagi
+      language: ms
+      uri: "arasaac-symbols/I want more.png"
+    - label: sikit
+      language: ms
+      uri: arasaac-symbols/few_1.png
+    - label: banyak
+      language: ms
+      uri: arasaac-symbols/many.png
+    - label: "berapa harga?"
+      language: ms
+      uri: "arasaac-symbols/how much is it.png"
+    - label: beli
+      language: ms
+      uri: arasaac-symbols/buy.png
+    - label: duit
+      language: ms
+      uri: arasaac-symbols/money.png
+    - label: sejuk
+      language: ms
+      uri: mulberry-symbols/drink_cold_2.png
+    - label: panas
+      language: ms
+      uri: arasaac-symbols/hot_1.png
+    - label: buka
+      language: ms
+      uri: arasaac-symbols/open.png
+    - label: tutup
+      language: ms
+      uri: arasaac-symbols/close.png
+    - label: sedap
+      language: ms
+      uri: arasaac-symbols/nice_2.png
+    - label: manis
+      language: ms
+      uri: arasaac-symbols/sweet_1.png
+    - label: pedas
+      language: ms
+      uri: arasaac-symbols/spicy.png
+    - label: rangup
+      language: ms
+      uri: mulberry-symbols/crunchy.png
+    - label: cepat
+      language: ms
+      uri: arasaac-symbols/quick.png
+    - label: perlahan
+      language: ms
+      uri: arasaac-symbols/slow.png
+    - label: tisu
+      language: ms
+      uri: mulberry-symbols/tissues.png
+    - label: sudu
+      language: ms
+      uri: mulberry-symbols/spoon.png
+    - label: garfu
+      language: ms
+      uri: mulberry-symbols/fork.png
+    - label: cikgu
+      language: ms
+      uri: arasaac-symbols/schoolteacher.png
+    - label: kawan
+      language: ms
+      uri: tawasol-symbols/friends/friends-04.png
+    - label: tandas
+      language: ms
+      uri: mulberry-symbols/toilet.png
+    - label: bising
+      language: ms
+      uri: arasaac-symbols/noisy.png
+    - label: senyap
+      language: ms
+      uri: mulberry-symbols/quiet.png
+    - label: kotor
+      language: ms
+      uri: mulberry-symbols/dirty.png
+    - label: lap
+      language: ms
+      uri: mulberry-symbols/wipe_table_to.png
+    - label: basuh tangan
+      language: ms
+      uri: "arasaac-symbols/wash the hands.png"
+    - label: doa
+      language: ms
+      uri: custom/pk/doa.png
+    - label: terima kasih
+      language: ms
+      uri: "tawasol-symbols/Thank you/Thank you-01.png"
+    - label: habis
+      language: ms
+      uri: arasaac-symbols/finish_2.png
