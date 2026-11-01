@@ -100,7 +100,7 @@ impl SymbolIndex {
 
             let content = std::fs::read_to_string(&yaml_path)
                 .unwrap_or_else(|_| panic!("failed to read {}.yaml", library));
-            let entries: Vec<SymbolEntry> = serde_yml::from_str(&content)
+            let entries: Vec<SymbolEntry> = serde_yaml_ng::from_str(&content)
                 .unwrap_or_else(|_| panic!("failed to parse {}.yaml", library));
 
             for entry in entries {
