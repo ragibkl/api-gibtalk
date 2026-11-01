@@ -3,11 +3,10 @@ mod templates;
 
 use axum::{
     extract::{Path, Query, State},
-    http::StatusCode,
+    http::{header, HeaderValue, Method, StatusCode},
     routing::get,
     Json, Router,
 };
-use http::{header, HeaderValue, Method};
 use index::SymbolIndex;
 use serde::{Deserialize, Serialize};
 use std::sync::Arc;
@@ -145,7 +144,7 @@ fn build_router() -> Router {
         .route("/api/symbols/search/", get(symbols_search))
         .route("/api/symbols/lookup/", get(symbols_lookup))
         .route("/api/templates", get(templates_list))
-        .route("/api/templates/:id", get(templates_get))
+        .route("/api/templates/{id}", get(templates_get))
         .with_state(state)
         .merge(media_router())
         .layer(cors)
@@ -160,7 +159,7 @@ const MEDIA_CACHE_CONTROL: &str = "public, max-age=2592000";
 
 fn media_router() -> Router {
     Router::new()
-        .nest_service("/media/", ServeDir::new("media"))
+        .nest_service("/media", ServeDir::new("media"))
         .layer(SetResponseHeaderLayer::overriding(
             header::CACHE_CONTROL,
             HeaderValue::from_static(MEDIA_CACHE_CONTROL),
@@ -174,17 +173,15 @@ async fn main() {
     let app = build_router();
 
     tracing::info!("listening on 0.0.0.0:3000");
-    axum::Server::bind(&"0.0.0.0:3000".parse().unwrap())
-        .serve(app.into_make_service())
-        .await
-        .unwrap();
+    let listener = tokio::net::TcpListener::bind("0.0.0.0:3000").await.unwrap();
+    axum::serve(listener, app).await.unwrap();
 }
 
 #[cfg(test)]
 mod tests {
     use super::*;
     use axum::body::Body;
-    use http::{Request, StatusCode};
+    use axum::http::{Request, StatusCode};
     use tower::ServiceExt;
 
     #[tokio::test]
@@ -203,7 +200,7 @@ mod tests {
 
         assert_eq!(response.status(), StatusCode::OK);
 
-        let body = hyper::body::to_bytes(response.into_body()).await.unwrap();
+        let body = axum::body::to_bytes(response.into_body(), usize::MAX).await.unwrap();
         assert_eq!(&body[..], b"ok");
     }
 
@@ -223,7 +220,7 @@ mod tests {
 
         assert_eq!(response.status(), StatusCode::OK);
 
-        let body = hyper::body::to_bytes(response.into_body()).await.unwrap();
+        let body = axum::body::to_bytes(response.into_body(), usize::MAX).await.unwrap();
         let results: Vec<SymbolOutput> = serde_json::from_slice(&body).unwrap();
         assert!(!results.is_empty());
         assert!(results[0].url.contains("ketupat"));
@@ -245,7 +242,7 @@ mod tests {
 
         assert_eq!(response.status(), StatusCode::OK);
 
-        let body = hyper::body::to_bytes(response.into_body()).await.unwrap();
+        let body = axum::body::to_bytes(response.into_body(), usize::MAX).await.unwrap();
         let results: Vec<SymbolOutput> = serde_json::from_slice(&body).unwrap();
         assert!(!results.is_empty());
         assert!(results.iter().any(|r| r.url.contains("kuih-raya")));
@@ -267,7 +264,7 @@ mod tests {
 
         assert_eq!(response.status(), StatusCode::OK);
 
-        let body = hyper::body::to_bytes(response.into_body()).await.unwrap();
+        let body = axum::body::to_bytes(response.into_body(), usize::MAX).await.unwrap();
         // PNG magic bytes
         assert_eq!(&body[..8], b"\x89PNG\r\n\x1a\n");
     }
@@ -317,7 +314,7 @@ mod tests {
 
         assert_eq!(response.status(), StatusCode::OK);
 
-        let body = hyper::body::to_bytes(response.into_body()).await.unwrap();
+        let body = axum::body::to_bytes(response.into_body(), usize::MAX).await.unwrap();
         let results: Vec<SymbolOutput> = serde_json::from_slice(&body).unwrap();
         assert!(!results.is_empty());
 
@@ -332,7 +329,7 @@ mod tests {
 
         assert_eq!(response.status(), StatusCode::OK);
 
-        let body = hyper::body::to_bytes(response.into_body()).await.unwrap();
+        let body = axum::body::to_bytes(response.into_body(), usize::MAX).await.unwrap();
         assert_eq!(&body[..8], b"\x89PNG\r\n\x1a\n");
     }
 
@@ -380,7 +377,7 @@ mod tests {
             .await
             .unwrap();
         let status = response.status();
-        let body = hyper::body::to_bytes(response.into_body()).await.unwrap();
+        let body = axum::body::to_bytes(response.into_body(), usize::MAX).await.unwrap();
         (status, serde_json::from_slice(&body).ok())
     }
 
