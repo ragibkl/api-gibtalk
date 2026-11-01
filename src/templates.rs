@@ -108,7 +108,7 @@ impl Templates {
         let index = std::fs::read_to_string(dir.join("index.yaml"))
             .expect("failed to read templates/index.yaml");
         let entries: Vec<IndexEntry> =
-            serde_yml::from_str(&index).expect("failed to parse templates/index.yaml");
+            serde_yaml_ng::from_str(&index).expect("failed to parse templates/index.yaml");
 
         let templates = entries
             .into_iter()
@@ -116,7 +116,7 @@ impl Templates {
                 let path = dir.join(format!("{}.yaml", entry.id));
                 let content = std::fs::read_to_string(&path)
                     .unwrap_or_else(|_| panic!("failed to read {}", path.display()));
-                let words: Vec<Word> = serde_yml::from_str(&content)
+                let words: Vec<Word> = serde_yaml_ng::from_str(&content)
                     .unwrap_or_else(|e| panic!("failed to parse {}: {}", path.display(), e));
                 check_pictures(&entry.id, &words, media);
                 Template { entry, words }
