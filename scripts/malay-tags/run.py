@@ -16,7 +16,8 @@ FIVE_HOUR_MAX = 50
 WEEK_RESET = dt.datetime(2026, 11, 7, 2, 0, tzinfo=dt.timezone.utc)
 USAGE = pathlib.Path.home() / ".claude/usage.json"
 PROMPT = (HERE / "prompt.txt").read_text()
-lock, done_since_commit = threading.Lock(), [0]
+MAX_PER_5H = 28
+lock, done_since_commit, starts = threading.Lock(), [0], []
 
 
 def log(msg):
@@ -29,12 +30,23 @@ def week_max():
 
 
 def wait_for_room():
+    # usage.json can lag while sessions are idle, so also cap batches per 5 hours.
     while True:
+        with lock:
+            now = time.time()
+            starts[:] = [t for t in starts if now - t < 5 * 3600]
+            over = len(starts) >= MAX_PER_5H
+        if over:
+            log(f"waiting: {MAX_PER_5H} batches in the last 5 hours")
+            time.sleep(300)
+            continue
         try:
             u = json.loads(USAGE.read_text())
             age = time.time() - u["saved_at"]
             h, w = u["five_hour"]["used_percentage"], u["seven_day"]["used_percentage"]
             if age < 900 and h < FIVE_HOUR_MAX and w < week_max():
+                with lock:
+                    starts.append(time.time())
                 return
             log(f"waiting: 5h {h}% week {w}% (max {week_max()}) data {int(age)}s old")
         except Exception as e:
@@ -55,16 +67,23 @@ def run_batch(n, items):
         return
     batch, out = WORK / f"batch-{n:04d}-in.json", WORK / f"batch-{n:04d}-out.json"
     want = [str(MEDIA / s["file"]) for s in items]
-    batch.write_text(json.dumps([{"name": s["name"], "path": p} for s, p in zip(items, want)]))
+    batch.write_text(json.dumps([{"id": i, "name": s["name"], "path": p}
+                                 for i, (s, p) in enumerate(zip(items, want))]))
     for attempt in (1, 2):
         wait_for_room()
         log(f"batch {n} attempt {attempt}")
-        result = subprocess.run(["claude", "-p", PROMPT.format(batch=batch, out=out), "--model", "sonnet",
-                        "--allowedTools", "Read", "Write", "--add-dir", str(MEDIA), str(WORK),
-                        "--permission-mode", "acceptEdits"],
-                       cwd=WORK, capture_output=True, text=True, timeout=1800)
+        result = None
         try:
-            tags = json.loads(out.read_text())
+            result = subprocess.run(["claude", "-p", PROMPT.format(batch=batch, out=out), "--model", "sonnet",
+                          "--allowedTools", "Read", "Write", "--add-dir", str(MEDIA), str(WORK),
+                          "--permission-mode", "acceptEdits"],
+                         cwd=WORK, capture_output=True, text=True, timeout=1800, stdin=subprocess.DEVNULL)
+        except subprocess.TimeoutExpired:
+            log(f"batch {n}: timed out")
+            continue
+        try:
+            raw = json.loads(out.read_text())
+            tags = {p: raw.get(str(i)) for i, p in enumerate(want)}
             missing = [p for p in want if not tags.get(p)]
             if len(missing) <= 2:
                 prefix = str(MEDIA) + "/"
