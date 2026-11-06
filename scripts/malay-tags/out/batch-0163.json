@@ -1,0 +1,629 @@
+{
+"arasaac-symbols/photocopy_1.png": [
+"fotostat",
+"salin",
+"mesin fotostat",
+"fotokopi",
+"mengimbas",
+"pengimbas",
+"mesin salinan"
+],
+"arasaac-symbols/photographer.png": [
+"jurugambar",
+"tukang gambar",
+"jurufoto",
+"kamera",
+"ambil gambar",
+"fotografer",
+"wartawan foto"
+],
+"arasaac-symbols/photographer_1.png": [
+"jurugambar",
+"tukang gambar",
+"jurufoto",
+"kamera",
+"ambil gambar",
+"fotografer",
+"lelaki kamera"
+],
+"arasaac-symbols/photographic album.png": [
+"album gambar",
+"album foto",
+"album",
+"gambar kenangan",
+"buku gambar",
+"foto"
+],
+"arasaac-symbols/photographic safari.png": [
+"safari",
+"ambil gambar haiwan",
+"safari fotografi",
+"gajah",
+"singa",
+"fotografi",
+"melancong",
+"hutan"
+],
+"arasaac-symbols/photosynthesis.png": [
+"fotosintesis",
+"tumbuhan",
+"pokok",
+"cahaya matahari",
+"sains",
+"karbon dioksida",
+"oksigen",
+"air"
+],
+"arasaac-symbols/phrase.png": [
+"ayat",
+"frasa",
+"baca ayat",
+"bina ayat",
+"epal itu merah",
+"pictogram ayat",
+"perkataan"
+],
+"arasaac-symbols/physical activity.png": [
+"aktiviti fizikal",
+"bersenam",
+"senaman",
+"main bola",
+"sukan",
+"bergerak",
+"riadah"
+],
+"arasaac-symbols/physical education materials.png": [
+"peralatan pendidikan jasmani",
+"alat sukan",
+"bola",
+"kon",
+"tiang",
+"peralatan sukan",
+"alat PJ"
+],
+"arasaac-symbols/physical education.png": [
+"pendidikan jasmani",
+"PJ",
+"pendidikan jasmani dan kesihatan",
+"kelas PJ",
+"sukan",
+"senaman",
+"papan hitam"
+],
+"arasaac-symbols/physical education_1.png": [
+"senaman",
+"pendidikan jasmani",
+"PJ",
+"depa tangan",
+"tangan luas",
+"regangan",
+"bersenam"
+],
+"arasaac-symbols/physical education_10.png": [
+"senaman",
+"angkat tangan",
+"tangan ke atas",
+"PJ",
+"regangan",
+"bersenam"
+],
+"arasaac-symbols/physical education_11.png": [
+"senaman",
+"angkat tangan",
+"tangan ke atas",
+"PJ",
+"regangan",
+"bersenam"
+],
+"arasaac-symbols/physical education_12.png": [
+"berdiri tegak",
+"postur",
+"sisi",
+"tangan di belakang",
+"PJ",
+"senaman",
+"berdiri"
+],
+"arasaac-symbols/physical education_13.png": [
+"tangan di bahu",
+"senaman",
+"PJ",
+"bahu",
+"bersenam",
+"gerakan"
+],
+"arasaac-symbols/physical education_14.png": [
+"tangan di belakang kepala",
+"senaman",
+"PJ",
+"kepala",
+"bersenam",
+"gerakan"
+],
+"arasaac-symbols/physical education_15.png": [
+"tangan di atas kepala",
+"senaman",
+"PJ",
+"kepala",
+"bersenam",
+"gerakan"
+],
+"arasaac-symbols/physical education_16.png": [
+"tangan di atas kepala",
+"senaman",
+"PJ",
+"kepala",
+"bersenam",
+"gerakan"
+],
+"arasaac-symbols/physical education_17.png": [
+"sentuh jari kaki",
+"bongkok",
+"membongkok",
+"regangan",
+"senaman",
+"PJ",
+"tunduk"
+],
+"arasaac-symbols/physical education_18.png": [
+"tangan di belakang kepala",
+"senaman",
+"PJ",
+"kepala",
+"bersenam",
+"gerakan"
+],
+"arasaac-symbols/physical education_19.png": [
+"pusing badan",
+"putar badan",
+"senaman",
+"PJ",
+"depa tangan",
+"bersenam",
+"memusing"
+],
+"arasaac-symbols/physical education_2.png": [
+"depa tangan",
+"tangan luas",
+"senaman",
+"PJ",
+"regangan",
+"bersenam"
+],
+"arasaac-symbols/physical education_20.png": [
+"depa tangan",
+"tangan luas",
+"senaman",
+"PJ",
+"regangan",
+"bersenam",
+"lelaki"
+],
+"arasaac-symbols/physical education_21.png": [
+"penumbuk",
+"kepal tangan",
+"senaman",
+"PJ",
+"bersenam",
+"gerakan"
+],
+"arasaac-symbols/physical education_22.png": [
+"penumbuk",
+"kepal tangan",
+"senaman",
+"PJ",
+"bersenam",
+"gerakan"
+],
+"arasaac-symbols/physical education_23.png": [
+"tangan di bahu",
+"senaman",
+"PJ",
+"bahu",
+"bersenam",
+"gerakan"
+],
+"arasaac-symbols/physical education_24.png": [
+"penumbuk",
+"kepal tangan",
+"senaman",
+"PJ",
+"bersenam",
+"gerakan"
+],
+"arasaac-symbols/physical education_25.png": [
+"tangan di bahu",
+"senaman",
+"PJ",
+"bahu",
+"bersenam",
+"gerakan"
+],
+"arasaac-symbols/physical education_26.png": [
+"silang tangan",
+"tangan bersilang",
+"senaman",
+"PJ",
+"bersenam",
+"gerakan"
+],
+"arasaac-symbols/physical education_27.png": [
+"angkat tangan",
+"tangan ke atas",
+"senaman",
+"PJ",
+"regangan",
+"bersenam"
+],
+"arasaac-symbols/physical education_28.png": [
+"depa tangan",
+"tangan luas",
+"senaman",
+"PJ",
+"regangan",
+"bersenam"
+],
+"arasaac-symbols/physical education_29.png": [
+"tangan di pinggang",
+"bercekak pinggang",
+"senaman",
+"PJ",
+"pinggang",
+"bersenam"
+],
+"arasaac-symbols/physical education_3.png": [
+"tangan di pinggang",
+"bercekak pinggang",
+"kangkang",
+"senaman",
+"PJ",
+"bersenam"
+],
+"arasaac-symbols/physical education_30.png": [
+"angkat tangan",
+"tangan ke atas",
+"senaman",
+"PJ",
+"regangan",
+"bersenam"
+],
+"arasaac-symbols/physical education_31.png": [
+"tangan di belakang kepala",
+"senaman",
+"PJ",
+"kepala",
+"bersenam",
+"gerakan"
+],
+"arasaac-symbols/physical education_32.png": [
+"tangan di atas kepala",
+"senaman",
+"PJ",
+"kepala",
+"bersenam",
+"gerakan"
+],
+"arasaac-symbols/physical education_33.png": [
+"berdiri tegak",
+"postur",
+"sisi",
+"tangan di belakang",
+"PJ",
+"senaman",
+"berdiri"
+],
+"arasaac-symbols/physical education_35.png": [
+"tangan di belakang kepala",
+"senaman",
+"PJ",
+"kepala",
+"bersenam",
+"gerakan"
+],
+"arasaac-symbols/physical education_36.png": [
+"tangan di atas kepala",
+"senaman",
+"PJ",
+"kepala",
+"bersenam",
+"gerakan"
+],
+"arasaac-symbols/physical education_37.png": [
+"sentuh jari kaki",
+"bongkok",
+"membongkok",
+"regangan",
+"senaman",
+"PJ",
+"tunduk"
+],
+"arasaac-symbols/physical education_38.png": [
+"depa tangan",
+"tangan luas",
+"senaman",
+"PJ",
+"regangan",
+"bersenam"
+],
+"arasaac-symbols/physical education_39.png": [
+"main bola",
+"PJ",
+"pendidikan jasmani",
+"berlari",
+"sukan",
+"kelas PJ",
+"bola"
+],
+"arasaac-symbols/physical education_4.png": [
+"penumbuk",
+"kepal tangan",
+"senaman",
+"PJ",
+"bersenam",
+"gerakan"
+],
+"arasaac-symbols/physical education_5.png": [
+"penumbuk",
+"kepal tangan",
+"kangkang",
+"senaman",
+"PJ",
+"bersenam"
+],
+"arasaac-symbols/physical education_6.png": [
+"silang tangan",
+"tangan bersilang",
+"senaman",
+"PJ",
+"bersenam",
+"gerakan"
+],
+"arasaac-symbols/physical education_7.png": [
+"tangan di bahu",
+"senaman",
+"PJ",
+"bahu",
+"bersenam",
+"gerakan"
+],
+"arasaac-symbols/physical education_8.png": [
+"silang tangan",
+"tangan bersilang",
+"senaman",
+"PJ",
+"bersenam",
+"gerakan"
+],
+"arasaac-symbols/physical education_9.png": [
+"tangan di pinggang",
+"bercekak pinggang",
+"senaman",
+"PJ",
+"pinggang",
+"bersenam"
+],
+"arasaac-symbols/physical rehabilitation center.png": [
+"pusat pemulihan fizikal",
+"pusat rehabilitasi",
+"fisioterapi",
+"pemulihan",
+"belajar berjalan",
+"hospital",
+"terapi"
+],
+"arasaac-symbols/physics class.png": [
+"kelas fizik",
+"fizik",
+"sains",
+"atom",
+"pelajaran fizik",
+"makmal",
+"kelas sains"
+],
+"arasaac-symbols/physiotherapist.png": [
+"ahli fisioterapi",
+"fisioterapi",
+"urut",
+"terapi",
+"jurupulih",
+"pakar fisio",
+"doktor"
+],
+"arasaac-symbols/physiotherapist_1.png": [
+"ahli fisioterapi",
+"fisioterapi",
+"urut",
+"terapi",
+"jurupulih",
+"pakar fisio"
+],
+"arasaac-symbols/physiotherapist_2.png": [
+"ahli fisioterapi",
+"fisioterapi",
+"urut",
+"terapi",
+"jurupulih",
+"pakar fisio",
+"perempuan"
+],
+"arasaac-symbols/piano keyboard.png": [
+"papan kekunci piano",
+"kekunci piano",
+"piano",
+"keyboard",
+"muzik",
+"kekunci"
+],
+"arasaac-symbols/piano.png": [
+"piano",
+"piano besar",
+"grand piano",
+"muzik",
+"alat muzik",
+"main piano"
+],
+"arasaac-symbols/pic.png": [
+"gambar",
+"foto",
+"gambar gunung",
+"bingkai gambar",
+"pemandangan",
+"lukisan"
+],
+"arasaac-symbols/pic_1.png": [
+"swafoto",
+"selfie",
+"ambil gambar",
+"kamera",
+"gambar",
+"foto",
+"bergambar"
+],
+"arasaac-symbols/pick up a package.png": [
+"ambil bungkusan",
+"ambil pos",
+"bungkusan",
+"kotak",
+"parsel",
+"terima barang",
+"ambil parcel"
+],
+"arasaac-symbols/pick up from school.png": [
+"ambil dari sekolah",
+"jemput sekolah",
+"jemput anak",
+"balik sekolah",
+"pulang sekolah",
+"sekolah",
+"ibu bapa jemput"
+],
+"arasaac-symbols/pick up the chair.png": [
+"angkat kerusi",
+"ambil kerusi",
+"kerusi",
+"alih kerusi",
+"tarik kerusi",
+"letak kerusi"
+],
+"arasaac-symbols/pick up toilet paper.png": [
+"ambil tisu tandas",
+"tisu tandas",
+"kertas tandas",
+"tarik tisu",
+"tandas",
+"tisu"
+],
+"arasaac-symbols/pickaxe.png": [
+"beliung",
+"cangkul",
+"tukul",
+"alat",
+"gali",
+"pickaxe",
+"kapak"
+],
+"arasaac-symbols/picnic.png": [
+"berkelah",
+"piknik",
+"pergi berkelah",
+"bakul piknik",
+"tikar",
+"makan angin",
+"makan di luar"
+],
+"arasaac-symbols/picnic_1.png": [
+"bekal makanan",
+"bekal",
+"makanan berkelah",
+"sandwic",
+"salad",
+"epal",
+"makan tengah hari",
+"beg kertas"
+],
+"arasaac-symbols/pictograms.png": [
+"piktogram",
+"kad gambar",
+"kad",
+"gambar simbol",
+"simbol",
+"komunikasi",
+"kad komunikasi"
+],
+"arasaac-symbols/pictograms_1.png": [
+"autisme",
+"piktogram",
+"kad gambar",
+"kad",
+"simbol autisme",
+"teka-teki",
+"komunikasi"
+],
+"arasaac-symbols/picture hat.png": [
+"topi",
+"topi lebar",
+"topi perempuan",
+"topi pantai",
+"pita",
+"topi bunga"
+],
+"arasaac-symbols/piece of cake.png": [
+"sepotong kek",
+"kek",
+"potong kek",
+"sekeping kek",
+"mudah",
+"senang",
+"hirisan kek"
+],
+"arasaac-symbols/pig's ear.png": [
+"telinga babi",
+"babi",
+"daging babi",
+"telinga",
+"bahagian babi"
+],
+"arasaac-symbols/pig's snout.png": [
+"muncung babi",
+"babi",
+"hidung babi",
+"daging babi",
+"bahagian babi"
+],
+"arasaac-symbols/pig's trotters.png": [
+"kaki babi",
+"babi",
+"trotters",
+"daging babi",
+"kaki",
+"bahagian babi"
+],
+"arasaac-symbols/pig.png": [
+"babi",
+"khinzir",
+"haiwan",
+"ternakan",
+"binatang"
+],
+"arasaac-symbols/pig_1.png": [
+"babi",
+"khinzir",
+"haiwan",
+"ternakan",
+"binatang"
+],
+"arasaac-symbols/pigeon.png": [
+"merpati",
+"burung",
+"burung dara",
+"burung merpati",
+"haiwan"
+],
+"arasaac-symbols/pigeon_1.png": [
+"merpati",
+"burung",
+"burung dara",
+"burung merpati",
+"haiwan"
+]
+}

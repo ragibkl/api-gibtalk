@@ -1,0 +1,556 @@
+{
+"arasaac-symbols/percussion.png": [
+"perkusi",
+"alat perkusi",
+"dram",
+"gendang",
+"tamborin",
+"xilofon"
+],
+"arasaac-symbols/percussion_1.png": [
+"perkusi",
+"alat muzik perkusi",
+"dram",
+"gendang",
+"xilofon"
+],
+"arasaac-symbols/perfume maker.png": [
+"pembuat minyak wangi",
+"tukang minyak wangi",
+"penjual minyak wangi",
+"pewangi",
+"minyak wangi"
+],
+"arasaac-symbols/perfume maker_1.png": [
+"pembuat minyak wangi",
+"tukang minyak wangi",
+"penjual minyak wangi",
+"pewangi",
+"minyak wangi"
+],
+"arasaac-symbols/perfume store.png": [
+"kedai minyak wangi",
+"kedai wangian",
+"minyak wangi",
+"kedai perfume"
+],
+"arasaac-symbols/perfume store_1.png": [
+"kedai minyak wangi",
+"kedai wangian",
+"minyak wangi",
+"pewangi"
+],
+"arasaac-symbols/perfume.png": [
+"minyak wangi",
+"wangian",
+"pewangi",
+"perfume",
+"semburan wangi"
+],
+"arasaac-symbols/perfume_1.png": [
+"minyak wangi",
+"wangian",
+"pewangi",
+"semburan wangi",
+"botol minyak wangi"
+],
+"arasaac-symbols/perfumery.png": [
+"kedai minyak wangi",
+"kedai wangian",
+"minyak wangi",
+"wangian",
+"bunga"
+],
+"arasaac-symbols/perineum.png": [
+"perineum",
+"bahagian sulit perempuan",
+"antara faraj dan dubur",
+"kawasan sulit",
+"bahagian sulit"
+],
+"arasaac-symbols/perineum_1.png": [
+"perineum",
+"bahagian sulit lelaki",
+"antara zakar dan dubur",
+"kawasan sulit",
+"bahagian sulit"
+],
+"arasaac-symbols/periscope.png": [
+"periskop",
+"teropong kapal selam",
+"kapal selam",
+"laut"
+],
+"arasaac-symbols/permission.png": [
+"kebenaran",
+"izin",
+"permit",
+"tandatangan",
+"benarkan",
+"lulus"
+],
+"arasaac-symbols/person with autism.png": [
+"autisme",
+"orang autisme",
+"autistik",
+"kanak-kanak autisme",
+"oku",
+"spektrum autisme"
+],
+"arasaac-symbols/person with autism_1.png": [
+"autisme",
+"orang autisme",
+"autistik",
+"neurodiversiti",
+"spektrum autisme",
+"oku"
+],
+"arasaac-symbols/person with cerebral palsy.png": [
+"cerebral palsy",
+"lumpuh otak",
+"orang lumpuh otak",
+"kerusi roda",
+"oku",
+"orang kurang upaya"
+],
+"arasaac-symbols/person with cerebral palsy_1.png": [
+"cerebral palsy",
+"lumpuh otak",
+"orang lumpuh otak",
+"tongkat",
+"susah berjalan",
+"oku"
+],
+"arasaac-symbols/person with face shield.png": [
+"pelindung muka",
+"topeng muka",
+"pelitup muka",
+"face shield",
+"orang pakai pelitup"
+],
+"arasaac-symbols/person with mask.png": [
+"pelitup muka",
+"topeng muka",
+"orang pakai pelitup",
+"mask",
+"pakai pelitup"
+],
+"arasaac-symbols/person with reduced mobility.png": [
+"oku",
+"orang kurang upaya",
+"tongkat ketiak",
+"tongkat",
+"susah berjalan",
+"mobiliti terhad"
+],
+"arasaac-symbols/person with reduced mobility_1.png": [
+"oku",
+"orang kurang upaya",
+"lelaki bertongkat",
+"tongkat ketiak",
+"susah berjalan"
+],
+"arasaac-symbols/person with reduced mobility_2.png": [
+"oku",
+"orang kurang upaya",
+"perempuan bertongkat",
+"tongkat ketiak",
+"susah berjalan"
+],
+"arasaac-symbols/person with reduced mobility_3.png": [
+"oku",
+"lelaki satu kaki",
+"tongkat ketiak",
+"kaki kudung",
+"orang kurang upaya"
+],
+"arasaac-symbols/person with reduced mobility_4.png": [
+"oku",
+"perempuan satu kaki",
+"tongkat ketiak",
+"kaki kudung",
+"orang kurang upaya"
+],
+"arasaac-symbols/person with reduced mobility_5.png": [
+"oku",
+"lelaki bertongkat",
+"tongkat",
+"susah berjalan",
+"orang kurang upaya"
+],
+"arasaac-symbols/person with reduced mobility_6.png": [
+"oku",
+"satu kaki",
+"tongkat ketiak",
+"kaki kudung",
+"orang kurang upaya"
+],
+"arasaac-symbols/person with reduced mobility_7.png": [
+"oku",
+"perempuan bertongkat",
+"tongkat",
+"susah berjalan",
+"orang kurang upaya"
+],
+"arasaac-symbols/person with reducedpeople with reduced mobility mobility.png": [
+"oku",
+"orang bertongkat",
+"tongkat",
+"susah berjalan",
+"orang kurang upaya"
+],
+"arasaac-symbols/person_1.png": [
+"orang",
+"individu",
+"ramai orang",
+"seorang",
+"orang lain",
+"perempuan"
+],
+"arasaac-symbols/person_2.png": [
+"orang",
+"individu",
+"seorang",
+"ramai orang",
+"orang lain",
+"perempuan"
+],
+"arasaac-symbols/person_3.png": [
+"orang",
+"individu",
+"seorang",
+"ramai orang",
+"orang lain"
+],
+"arasaac-symbols/personal autonomy.png": [
+"berdikari",
+"kendiri",
+"buat sendiri",
+"masak",
+"kemas katil",
+"gosok baju"
+],
+"arasaac-symbols/personal data.png": [
+"maklumat peribadi",
+"data peribadi",
+"borang",
+"nama",
+"alamat",
+"nombor telefon"
+],
+"arasaac-symbols/personal hygiene.png": [
+"kebersihan diri",
+"jaga kebersihan",
+"mandi",
+"gosok gigi",
+"cukur",
+"cuci rambut",
+"basuh muka"
+],
+"arasaac-symbols/personal image.png": [
+"imej diri",
+"penampilan",
+"rupa diri",
+"sikat rambut",
+"cermin",
+"bersolek"
+],
+"arasaac-symbols/personal information.png": [
+"maklumat peribadi",
+"data peribadi",
+"borang",
+"nama",
+"alamat",
+"nombor telefon"
+],
+"arasaac-symbols/personal protective equipment.png": [
+"pakaian pelindung",
+"alat perlindungan diri",
+"ppe",
+"baju hazmat",
+"sut pelindung",
+"pelitup muka"
+],
+"arasaac-symbols/personal.png": [
+"peribadi",
+"diri sendiri",
+"hal peribadi",
+"rumah",
+"hari jadi",
+"soalan"
+],
+"arasaac-symbols/pessimism.png": [
+"pesimis",
+"sedih",
+"muram",
+"negatif",
+"putus asa",
+"tak yakin"
+],
+"arasaac-symbols/pet shop.png": [
+"kedai haiwan peliharaan",
+"kedai binatang",
+"kedai haiwan",
+"kedai makanan kucing",
+"haiwan peliharaan"
+],
+"arasaac-symbols/pet wash.png": [
+"mandi haiwan",
+"cuci haiwan",
+"mandikan kucing",
+"kedai mandi haiwan",
+"grooming haiwan"
+],
+"arasaac-symbols/petal.png": [
+"kelopak",
+"kelopak bunga",
+"bunga",
+"bahagian bunga"
+],
+"arasaac-symbols/petanque.png": [
+"petanque",
+"boules",
+"bola besi",
+"sukan bola",
+"permainan bola"
+],
+"arasaac-symbols/petanque_1.png": [
+"petanque",
+"boules",
+"lelaki baling bola",
+"bola besi",
+"sukan"
+],
+"arasaac-symbols/petanque_2.png": [
+"petanque",
+"boules",
+"perempuan baling bola",
+"bola besi",
+"sukan"
+],
+"arasaac-symbols/petit suisse.png": [
+"yogurt",
+"puding",
+"cawan yogurt",
+"produk tenusu",
+"dessert",
+"pencuci mulut"
+],
+"arasaac-symbols/petrol can.png": [
+"tin minyak",
+"tin petrol",
+"bekas petrol",
+"jerigen",
+"minyak petrol"
+],
+"arasaac-symbols/petrol station.png": [
+"stesen minyak",
+"stesen petrol",
+"pam minyak",
+"pam petrol",
+"isi minyak",
+"diesel"
+],
+"arasaac-symbols/petrol station_1.png": [
+"stesen minyak",
+"stesen petrol",
+"pam minyak",
+"pam petrol",
+"isi minyak"
+],
+"arasaac-symbols/pets.png": [
+"haiwan peliharaan",
+"binatang peliharaan",
+"kucing",
+"anjing",
+"burung",
+"rumah"
+],
+"arasaac-symbols/pew.png": [
+"bangku gereja",
+"bangku",
+"kerusi panjang",
+"gereja",
+"salib"
+],
+"arasaac-symbols/pews.png": [
+"bangku gereja",
+"bangku-bangku",
+"kerusi panjang",
+"gereja",
+"salib"
+],
+"arasaac-symbols/phalanxes.png": [
+"falanges",
+"tulang jari",
+"jari tangan",
+"tulang",
+"ruas jari"
+],
+"arasaac-symbols/phalanxes_1.png": [
+"falanges",
+"tulang jari kaki",
+"jari kaki",
+"tulang",
+"ruas jari"
+],
+"arasaac-symbols/phantom.png": [
+"hantu",
+"momok",
+"pontianak",
+"toyol",
+"hantu raya",
+"halloween"
+],
+"arasaac-symbols/pharaoh.png": [
+"firaun",
+"raja mesir",
+"mesir",
+"raja",
+"firaun mesir"
+],
+"arasaac-symbols/pharmacist.png": [
+"ahli farmasi",
+"pegawai farmasi",
+"ubat",
+"sirap ubat",
+"orang farmasi"
+],
+"arasaac-symbols/pharmacist_1.png": [
+"ahli farmasi",
+"pegawai farmasi",
+"kedai ubat",
+"ubat",
+"pil",
+"jururawat farmasi"
+],
+"arasaac-symbols/pharmacy.png": [
+"farmasi",
+"kedai ubat",
+"ubat",
+"farmasi kedai",
+"pil",
+"picagari"
+],
+"arasaac-symbols/pharmacy_1.png": [
+"farmasi",
+"kedai ubat",
+"ubat",
+"salib hijau"
+],
+"arasaac-symbols/pharmacy_2.png": [
+"farmasi",
+"kedai ubat",
+"ubat",
+"bulan sabit merah",
+"farmasi islam"
+],
+"arasaac-symbols/pharmacy_3.png": [
+"farmasi",
+"kedai ubat",
+"ubat",
+"bintang david",
+"farmasi yahudi"
+],
+"arasaac-symbols/pharmacy_4.png": [
+"farmasi",
+"kedai ubat",
+"ubat",
+"bintang david",
+"farmasi yahudi"
+],
+"arasaac-symbols/pharmacy_5.png": [
+"farmasi",
+"kedai ubat",
+"ubat",
+"sirap",
+"kapsul",
+"sudu ubat"
+],
+"arasaac-symbols/pharyngitis.png": [
+"faringitis",
+"sakit tekak",
+"tekak sakit",
+"radang tekak",
+"sakit kerongkong",
+"batuk selsema"
+],
+"arasaac-symbols/philosophy class.png": [
+"kelas falsafah",
+"falsafah",
+"kelas",
+"berfikir",
+"sekolah",
+"komputer riba"
+],
+"arasaac-symbols/phone shop.png": [
+"kedai telefon",
+"kedai handphone",
+"kedai telefon bimbit",
+"telefon",
+"telefon bimbit",
+"henfon"
+],
+"arasaac-symbols/phone_1.png": [
+"telefon",
+"bercakap telefon",
+"berbual",
+"call",
+"telefon bimbit",
+"cakap dalam telefon"
+],
+"arasaac-symbols/phoropter.png": [
+"foropter",
+"alat periksa mata",
+"pemeriksaan mata",
+"optometris",
+"optik",
+"ukur mata"
+],
+"arasaac-symbols/phosphenes.png": [
+"fosfen",
+"nampak bintang",
+"bintang di mata",
+"pandangan berkunang",
+"mata berpinar",
+"berkunang-kunang"
+],
+"arasaac-symbols/phosphenes_1.png": [
+"fosfen",
+"nampak bintang",
+"bintang di mata",
+"pandangan berkunang",
+"mata berpinar",
+"berkunang-kunang"
+],
+"arasaac-symbols/photocall.png": [
+"photocall",
+"sesi bergambar",
+"bergambar",
+"jurugambar",
+"fotografi",
+"wartawan"
+],
+"arasaac-symbols/photocopier.png": [
+"mesin fotostat",
+"fotostat",
+"pengimbas",
+"pencetak",
+"mesin salin"
+],
+"arasaac-symbols/photocopier_1.png": [
+"mesin fotostat",
+"fotostat",
+"mesin photostat",
+"fotokopi",
+"mesin salin"
+],
+"arasaac-symbols/photocopy.png": [
+"fotostat",
+"fotokopi",
+"salin",
+"photostat",
+"fotostat dokumen",
+"menyalin"
+]
+}
