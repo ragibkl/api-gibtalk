@@ -1,0 +1,601 @@
+{
+"tawasol-symbols/dhuhr-prayer/dhuhr-prayer-02.png": [
+"solat zuhur",
+"sembahyang zohor",
+"zohor",
+"sujud",
+"solat"
+],
+"tawasol-symbols/dhuhr-prayer/dhuhr-prayer-03.png": [
+"solat zuhur",
+"sembahyang zohor",
+"zohor",
+"waktu zohor",
+"masjid",
+"azan"
+],
+"tawasol-symbols/dhuhr-prayer/dhuhr-prayer-04.png": [
+"solat zuhur",
+"sembahyang zohor",
+"zohor",
+"sujud",
+"solat"
+],
+"tawasol-symbols/dhuhr-prayer/dhuhr-prayer-05.png": [
+"solat zuhur",
+"sembahyang zohor",
+"zohor",
+"sujud",
+"solat",
+"tengah hari"
+],
+"tawasol-symbols/diacritic/diacritic-01.png": [
+"baris",
+"tanda baris",
+"harakat",
+"tanda bunyi",
+"huruf jawi",
+"tulisan arab"
+],
+"tawasol-symbols/dictation/dictation-01.png": [
+"dikte",
+"dikte",
+"menulis dikte",
+"tulis",
+"cikgu baca",
+"ejaan"
+],
+"tawasol-symbols/dictionary/dictionary-01.png": [
+"kamus",
+"buku kamus",
+"cari perkataan",
+"perkataan",
+"buku"
+],
+"tawasol-symbols/different/different-01.png": [
+"berbeza",
+"lain",
+"tak sama",
+"beza",
+"tidak sama"
+],
+"tawasol-symbols/difficult-breathing/difficult-breathing-01.png": [
+"sesak nafas",
+"susah bernafas",
+"semput",
+"tak boleh bernafas",
+"sukar bernafas",
+"lelah"
+],
+"tawasol-symbols/difficult-breathing/difficult-breathing-02.png": [
+"sesak nafas",
+"susah bernafas",
+"semput",
+"tercungap-cungap",
+"sukar bernafas",
+"tak boleh bernafas"
+],
+"tawasol-symbols/difficult/difficult-01.png": [
+"susah",
+"sukar",
+"payah",
+"pening kepala",
+"tak faham",
+"matematik susah"
+],
+"tawasol-symbols/difficult/difficult-02.png": [
+"susah",
+"sukar",
+"payah",
+"pening",
+"rumit",
+"tak faham"
+],
+"tawasol-symbols/dig/dig-01.png": [
+"gali",
+"menggali",
+"korek",
+"mengorek",
+"cangkul",
+"sekop",
+"tanah"
+],
+"tawasol-symbols/dim/dim-01.png": [
+"malap",
+"samar",
+"gelap sikit",
+"kurangkan lampu",
+"lampu malap",
+"suram"
+],
+"tawasol-symbols/dinner/dinner-01.png": [
+"makan malam",
+"makanan malam",
+"malam",
+"santapan malam",
+"makan",
+"ikan"
+],
+"tawasol-symbols/dinosaur/dinosaur-01.png": [
+"dinosaur",
+"dinosaurus",
+"t-rex",
+"reptilia",
+"binatang purba"
+],
+"tawasol-symbols/dip/dip-01.png": [
+"cecah",
+"celup",
+"mencelup",
+"kuah",
+"sos",
+"cicah"
+],
+"tawasol-symbols/director/director-01.png": [
+"pengarah",
+"bos",
+"ketua",
+"pejabat",
+"pengetua",
+"majikan",
+"guru besar"
+],
+"tawasol-symbols/discuss/discuss-01.png": [
+"bincang",
+"berbincang",
+"berbual",
+"bercakap",
+"cakap",
+"perbincangan"
+],
+"tawasol-symbols/doctor/doctor-01.png": [
+"doktor",
+"pakar perubatan",
+"klinik",
+"hospital",
+"doktor lelaki"
+],
+"tawasol-symbols/doctor/doctor-02.png": [
+"doktor",
+"doktor perempuan",
+"pakar perubatan",
+"klinik",
+"hospital"
+],
+"tawasol-symbols/dog/dog-01.png": [
+"anjing",
+"anak anjing",
+"haiwan",
+"binatang",
+"haiwan peliharaan"
+],
+"tawasol-symbols/dont-touch-animals/dont-touch-animals-01.png": [
+"jangan sentuh",
+"jangan pegang",
+"jangan usik haiwan",
+"jangan pegang kucing",
+"dilarang",
+"kucing",
+"haiwan"
+],
+"tawasol-symbols/donut/donut-01.png": [
+"donat",
+"kuih donat",
+"kuih",
+"manis",
+"makanan manis"
+],
+"tawasol-symbols/dot/dot-01.png": [
+"titik",
+"noktah",
+"bulatan",
+"bulat",
+"hitam"
+],
+"tawasol-symbols/down/down-01.png": [
+"bawah",
+"turun",
+"ke bawah",
+"di bawah",
+"bawah"
+],
+"tawasol-symbols/down/down-02.png": [
+"bawah",
+"turun",
+"ke bawah",
+"di bawah",
+"arah bawah"
+],
+"tawasol-symbols/draw/draw-01.png": [
+"lukis",
+"melukis",
+"lukisan",
+"mengecat",
+"kanvas",
+"pelukis"
+],
+"tawasol-symbols/draw/draw-02.png": [
+"lukis",
+"melukis",
+"lukisan",
+"pensel",
+"pokok",
+"conteng"
+],
+"tawasol-symbols/draw/draw-03.png": [
+"lukis",
+"melukis",
+"lukisan",
+"pensel",
+"pokok",
+"conteng"
+],
+"tawasol-symbols/dress/dress-01.png": [
+"baju",
+"gaun",
+"dress",
+"pakaian",
+"baju kurung",
+"pakai baju",
+"pakaian perempuan"
+],
+"tawasol-symbols/drink/drink-01.png": [
+"minum",
+"minum air",
+"air",
+"dahaga",
+"haus",
+"nak minum"
+],
+"tawasol-symbols/drink/drink-02.png": [
+"minum",
+"minum air",
+"air",
+"dahaga",
+"haus",
+"nak minum"
+],
+"tawasol-symbols/drinks/drinks-01.png": [
+"minuman",
+"air",
+"susu",
+"kopi",
+"jus",
+"minum",
+"air minuman"
+],
+"tawasol-symbols/drive/drive-01.png": [
+"pandu",
+"memandu",
+"bawa kereta",
+"kereta",
+"drebar",
+"naik kereta"
+],
+"tawasol-symbols/driver/driver-01.png": [
+"pemandu",
+"drebar",
+"pemandu kereta",
+"kereta",
+"bawa kereta"
+],
+"tawasol-symbols/dry-cough/dry-cough-01.png": [
+"batuk kering",
+"batuk",
+"batuk tak berkahak",
+"sakit tekak",
+"tak sihat",
+"demam"
+],
+"tawasol-symbols/dry/dry-01.png": [
+"kering",
+"keringkan",
+"bersih rambut",
+"mandi",
+"tuala",
+"basah kering"
+],
+"tawasol-symbols/dua/dua-01.png": [
+"doa",
+"berdoa",
+"tadah tangan",
+"baca doa",
+"solat",
+"munajat"
+],
+"tawasol-symbols/dua/dua-02.png": [
+"doa",
+"berdoa",
+"tadah tangan",
+"baca doa",
+"munajat"
+],
+"tawasol-symbols/dua/dua-03.png": [
+"doa",
+"berdoa",
+"tadah tangan",
+"tangan",
+"baca doa",
+"munajat"
+],
+"tawasol-symbols/duck/duck-01.png": [
+"itik",
+"burung",
+"haiwan",
+"itik kuning",
+"air"
+],
+"tawasol-symbols/dust/dust-01.png": [
+"habuk",
+"debu",
+"pasir",
+"berdebu",
+"tutup mulut",
+"pakai pelitup",
+"bersin"
+],
+"tawasol-symbols/ear/ear-01.png": [
+"telinga",
+"cuping",
+"dengar",
+"pendengaran",
+"anggota badan"
+],
+"tawasol-symbols/easy/easy-01.png": [
+"senang",
+"mudah",
+"gampang",
+"tak susah",
+"senang je",
+"boleh"
+],
+"tawasol-symbols/egg/egg-01.png": [
+"telur",
+"telur ayam",
+"makanan",
+"sarapan"
+],
+"tawasol-symbols/eid/eid-01.png": [
+"raya",
+"hari raya",
+"aidilfitri",
+"masjid",
+"keluarga",
+"raya puasa",
+"eid"
+],
+"tawasol-symbols/electrician/electrician-01.png": [
+"juruelektrik",
+"tukang elektrik",
+"tukang lampu",
+"lampu",
+"elektrik",
+"tukang wayar",
+"baiki lampu"
+],
+"tawasol-symbols/elephant/elephant-01.png": [
+"gajah",
+"haiwan",
+"belalai",
+"binatang",
+"gading"
+],
+"tawasol-symbols/emigrate/emigrate-01.png": [
+"berhijrah",
+"hijrah",
+"pindah negara",
+"berpindah",
+"pindah luar negara",
+"merantau",
+"imigresen"
+],
+"tawasol-symbols/emotional-faces/emotional-faces-01.png": [
+"perasaan",
+"emosi",
+"muka",
+"wajah",
+"sedih",
+"gembira",
+"marah",
+"riak muka"
+],
+"tawasol-symbols/empty/empty-01.png": [
+"kosong",
+"tak ada isi",
+"tiada",
+"kosongkan",
+"tak penuh",
+"kosong"
+],
+"tawasol-symbols/enter/enter-01.png": [
+"masuk",
+"memasuki",
+"pintu",
+"masuk bilik",
+"jemput masuk",
+"masuk pintu"
+],
+"tawasol-symbols/enter/enter-02.png": [
+"masuk",
+"memasuki",
+"pintu",
+"masuk bilik",
+"jemput masuk",
+"perempuan masuk"
+],
+"tawasol-symbols/enter/enter-m.png": [
+"masuk",
+"memasuki",
+"pintu",
+"masuk bilik",
+"jemput masuk",
+"lelaki masuk"
+],
+"tawasol-symbols/evening/evening-01.png": [
+"petang",
+"senja",
+"matahari terbenam",
+"waktu petang",
+"maghrib",
+"jam"
+],
+"tawasol-symbols/excellent/excellent-01.png": [
+"bagus",
+"cemerlang",
+"hebat",
+"sangat bagus",
+"mantap",
+"terbaik",
+"okey"
+],
+"tawasol-symbols/excursion/excursion-01.png": [
+"lawatan",
+"lawatan sambil belajar",
+"berkelah",
+"melancong",
+"bas",
+"bertolak",
+"kembara",
+"trip"
+],
+"tawasol-symbols/excuse-me/excuse-me-01.png": [
+"maaf",
+"tumpang tanya",
+"tumpang lalu",
+"minta maaf",
+"excuse me",
+"maafkan saya",
+"terima kasih"
+],
+"tawasol-symbols/exercise-book/exercise-book-01.png": [
+"buku latihan",
+"buku tulis",
+"buku",
+"buku nota",
+"buku sekolah",
+"buku merah"
+],
+"tawasol-symbols/eye/eye-01.png": [
+"mata",
+"mata",
+"penglihatan",
+"lihat",
+"anggota badan",
+"bulu mata",
+"kening"
+],
+"tawasol-symbols/eye/eye-02.png": [
+"mata",
+"mata",
+"penglihatan",
+"lihat",
+"bulu mata",
+"anggota badan"
+],
+"tawasol-symbols/fajr-prayer/Fajr prayer (M) b&w.png": [
+"solat subuh",
+"sembahyang subuh",
+"subuh",
+"sujud",
+"solat"
+],
+"tawasol-symbols/fajr-prayer/Fajr prayer (M).png": [
+"solat subuh",
+"sembahyang subuh",
+"subuh",
+"sujud",
+"solat",
+"fajar"
+],
+"tawasol-symbols/fajr-prayer/fajr-prayer-01.png": [
+"solat subuh",
+"sembahyang subuh",
+"subuh",
+"sujud",
+"solat",
+"fajar"
+],
+"tawasol-symbols/fajr-prayer/fajr-prayer-02.png": [
+"solat subuh",
+"sembahyang subuh",
+"subuh",
+"sujud",
+"solat",
+"fajar"
+],
+"tawasol-symbols/fajr-prayer/fajr-prayer-03.png": [
+"solat subuh",
+"sembahyang subuh",
+"subuh",
+"masjid",
+"ayam jantan",
+"azan",
+"waktu subuh"
+],
+"tawasol-symbols/family/family-01.png": [
+"keluarga",
+"famili",
+"ibu bapa",
+"mak ayah",
+"adik beradik",
+"anak-anak"
+],
+"tawasol-symbols/family/family-02.png": [
+"keluarga",
+"famili",
+"ibu bapa",
+"mak ayah",
+"adik beradik",
+"anak-anak"
+],
+"tawasol-symbols/fan/fan-01.png": [
+"kipas",
+"kipas angin",
+"kipas meja",
+"sejuk",
+"panas",
+"elektrik"
+],
+"tawasol-symbols/fast/fast-01.png": [
+"laju",
+"cepat",
+"pantas",
+"lari laju",
+"lekas",
+"cepat sikit"
+],
+"tawasol-symbols/fasting/fasting-01.png": [
+"puasa",
+"berpuasa",
+"bulan puasa",
+"ramadan",
+"tak makan",
+"tak minum",
+"menahan lapar"
+],
+"tawasol-symbols/fat/fat-01.png": [
+"gemuk",
+"debab",
+"besar badan",
+"tembam",
+"berat badan",
+"gemuk"
+],
+"tawasol-symbols/fed-feed/fed-feed-01.png": [
+"suap",
+"menyuap",
+"bagi makan",
+"suapkan",
+"bagi makanan",
+"disuap"
+],
+"tawasol-symbols/fed-feed/fed-feed-02.png": [
+"suap",
+"menyuap",
+"bagi makan",
+"suapkan",
+"bagi makanan",
+"disuap",
+"mak suap anak"
+]
+}
