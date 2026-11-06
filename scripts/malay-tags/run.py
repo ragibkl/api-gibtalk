@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Write Malay search words for every symbol, a batch at a time, when usage allows.
 
-Reads ~/.claude/usage.json (written by the status line). Batches go to out/,
+Checks real usage with a tiny claude call. Batches go to out/,
 so a stopped run picks up where it left off. Run from the repo root:
   scripts/malay-tags/run.py <media dir> <work dir> [max batches]
 """
@@ -14,10 +14,11 @@ OUT = HERE / "out"
 SIZE, WORKERS, COMMIT_EVERY = 75, 4, 8
 FIVE_HOUR_MAX = 80
 WEEK_RESET = dt.datetime(2026, 11, 7, 2, 0, tzinfo=dt.timezone.utc)
-USAGE = pathlib.Path.home() / ".claude/usage.json"
 PROMPT = (HERE / "prompt.txt").read_text()
 MAX_PER_5H = 85
+PROBE_EVERY = 120
 lock, done_since_commit, starts = threading.Lock(), [0], []
+probe_lock, probed = threading.Lock(), [0, 0, 0]
 
 
 def log(msg):
@@ -29,8 +30,21 @@ def week_max():
     return 90 if dt.datetime.now(dt.timezone.utc) < WEEK_RESET else 70
 
 
+def read_usage():
+    # Ask Claude directly: the status line only writes usage while a session is active.
+    with probe_lock:
+        if time.time() - probed[0] > PROBE_EVERY:
+            out = subprocess.run(["claude", "-p", "reply ok", "--model", "haiku", "--output-format", "stream-json", "--verbose"],
+                                 cwd=WORK, capture_output=True, text=True, timeout=120, stdin=subprocess.DEVNULL).stdout
+            events = [json.loads(l) for l in out.splitlines() if '"rate_limit_event"' in l]
+            windows = events[-1]["rate_limit_info"]["unifiedWindows"]
+            probed[:] = [time.time(), windows["five_hour"]["utilization"] * 100, windows["seven_day"]["utilization"] * 100]
+            log(f"usage: 5h {probed[1]:.0f}% week {probed[2]:.0f}%")
+        return probed[1], probed[2]
+
+
 def wait_for_room():
-    # usage.json can lag while sessions are idle, so also cap batches per 5 hours.
+    # Usage also lags behind batches in flight, so cap batches per 5 hours too.
     while True:
         with lock:
             now = time.time()
@@ -41,14 +55,12 @@ def wait_for_room():
             time.sleep(300)
             continue
         try:
-            u = json.loads(USAGE.read_text())
-            age = time.time() - u["saved_at"]
-            h, w = u["five_hour"]["used_percentage"], u["seven_day"]["used_percentage"]
-            if age < 900 and h < FIVE_HOUR_MAX and w < week_max():
+            h, w = read_usage()
+            if h < FIVE_HOUR_MAX and w < week_max():
                 with lock:
                     starts.append(time.time())
                 return
-            log(f"waiting: 5h {h}% week {w}% (max {week_max()}) data {int(age)}s old")
+            log(f"waiting: 5h {h}% week {w}% (max {week_max()})")
         except Exception as e:
             log(f"waiting: can't read usage ({e})")
             time.sleep(10)
