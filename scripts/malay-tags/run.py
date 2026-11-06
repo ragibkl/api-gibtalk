@@ -39,6 +39,8 @@ def wait_for_room():
             log(f"waiting: 5h {h}% week {w}% (max {week_max()}) data {int(age)}s old")
         except Exception as e:
             log(f"waiting: can't read usage ({e})")
+            time.sleep(60)
+            continue
         time.sleep(300)
 
 
@@ -57,7 +59,7 @@ def run_batch(n, items):
     for attempt in (1, 2):
         wait_for_room()
         log(f"batch {n} attempt {attempt}")
-        subprocess.run(["claude", "-p", PROMPT.format(batch=batch, out=out), "--model", "sonnet",
+        result = subprocess.run(["claude", "-p", PROMPT.format(batch=batch, out=out), "--model", "sonnet",
                         "--allowedTools", "Read", "Write", "--add-dir", str(MEDIA), str(WORK),
                         "--permission-mode", "acceptEdits"],
                        cwd=WORK, capture_output=True, text=True, timeout=1800)
@@ -77,7 +79,7 @@ def run_batch(n, items):
                 return
             log(f"batch {n}: {len(missing)} missing")
         except Exception as e:
-            log(f"batch {n}: bad output ({e})")
+            log(f"batch {n}: bad output ({e}): {result.stdout[-300:]!r} {result.stderr[-200:]!r}")
     log(f"batch {n} FAILED")
 
 
