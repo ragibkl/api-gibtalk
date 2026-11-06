@@ -1,0 +1,574 @@
+{
+"arasaac-symbols/film roll.png": [
+"gulungan filem",
+"filem",
+"pita filem",
+"gulung filem",
+"rol filem"
+],
+"arasaac-symbols/film.png": [
+"filem",
+"wayang",
+"cerita",
+"drama",
+"tv",
+"tengok filem"
+],
+"arasaac-symbols/filter system.png": [
+"penapis",
+"penapis kolam",
+"pam kolam",
+"sistem penapisan",
+"penapis air"
+],
+"arasaac-symbols/fin.png": [
+"sirip",
+"sirip ikan",
+"sirip belakang",
+"ikan"
+],
+"arasaac-symbols/finalist.png": [
+"finalis",
+"pemenang",
+"peserta akhir",
+"pertandingan",
+"podium"
+],
+"arasaac-symbols/finalist_1.png": [
+"finalis",
+"pemenang",
+"peserta akhir",
+"pertandingan",
+"podium"
+],
+"arasaac-symbols/finalists.png": [
+"finalis",
+"para finalis",
+"peserta akhir",
+"pertandingan",
+"podium"
+],
+"arasaac-symbols/find your bearings.png": [
+"cari arah",
+"tunjuk arah",
+"peta",
+"kompas",
+"mencari arah",
+"orientasi"
+],
+"arasaac-symbols/find your bearings_1.png": [
+"cari arah",
+"tunjuk arah",
+"peta",
+"kompas",
+"mencari arah",
+"orientasi"
+],
+"arasaac-symbols/find.png": [
+"cari",
+"jumpa",
+"mencari",
+"dapat cari",
+"nampak",
+"jumpa tak"
+],
+"arasaac-symbols/find_1.png": [
+"cari",
+"jumpa",
+"mencari",
+"dapat cari",
+"nampak"
+],
+"arasaac-symbols/find_2.png": [
+"cari orang",
+"mencari",
+"cari",
+"jumpa",
+"cari dia"
+],
+"arasaac-symbols/find_3.png": [
+"cari orang",
+"mencari",
+"cari",
+"jumpa",
+"cari dia"
+],
+"arasaac-symbols/find_4.png": [
+"cari",
+"jumpa",
+"mencari",
+"dapat cari",
+"nampak"
+],
+"arasaac-symbols/find_5.png": [
+"cari",
+"jumpa",
+"mencari",
+"budak perempuan cari",
+"dapat cari"
+],
+"arasaac-symbols/fine.png": [
+"saman",
+"denda",
+"polis",
+"polis trafik",
+"kena saman",
+"surat saman"
+],
+"arasaac-symbols/fine_1.png": [
+"saman",
+"denda",
+"polis trafik",
+"kena saman",
+"parking salah",
+"tiket saman"
+],
+"arasaac-symbols/finger-paint.png": [
+"lukis jari",
+"cat jari",
+"melukis",
+"lukisan jari",
+"cat",
+"jari"
+],
+"arasaac-symbols/finger.png": [
+"jari",
+"jari tangan",
+"jari telunjuk",
+"jari kita"
+],
+"arasaac-symbols/fingerprint.png": [
+"cap jari",
+"jari",
+"sidik jari",
+"cap jari tangan"
+],
+"arasaac-symbols/fingers.png": [
+"jari",
+"jari-jari",
+"hujung jari",
+"jari tangan",
+"lima jari"
+],
+"arasaac-symbols/fingertip.png": [
+"hujung jari",
+"jari",
+"hujung jari tangan",
+"jari tangan"
+],
+"arasaac-symbols/finish.png": [
+"tamat",
+"habis",
+"siap",
+"penghujung",
+"garisan akhir",
+"sudah habis"
+],
+"arasaac-symbols/finish_1.png": [
+"tulis",
+"menulis",
+"habis tulis",
+"siap",
+"tamat",
+"habis"
+],
+"arasaac-symbols/finish_2.png": [
+"habis",
+"tamat",
+"tak ada lagi",
+"dah habis",
+"siap",
+"selesai"
+],
+"arasaac-symbols/finish_3.png": [
+"siap",
+"selesai",
+"dah siap",
+"tamat",
+"habis",
+"bagus"
+],
+"arasaac-symbols/finish_4.png": [
+"siap",
+"selesai",
+"dah siap",
+"tamat",
+"habis",
+"melukis"
+],
+"arasaac-symbols/finishing line.png": [
+"garisan penamat",
+"garisan akhir",
+"tamat",
+"lumba",
+"pelari",
+"menang"
+],
+"arasaac-symbols/fins.png": [
+"sirip",
+"sirip ikan",
+"ikan",
+"sirip-sirip",
+"ekor ikan"
+],
+"arasaac-symbols/fir tree.png": [
+"pokok pine",
+"pokok cemara",
+"pokok",
+"pokok fir",
+"pokok krismas"
+],
+"arasaac-symbols/fire alarm.png": [
+"penggera kebakaran",
+"loceng kebakaran",
+"kebakaran",
+"api",
+"penggera",
+"bahaya"
+],
+"arasaac-symbols/fire hose.png": [
+"hos bomba",
+"hos api",
+"bomba",
+"kebakaran",
+"hos",
+"paip air"
+],
+"arasaac-symbols/fire station.png": [
+"balai bomba",
+"bomba",
+"trak bomba",
+"kebakaran",
+"jabatan bomba"
+],
+"arasaac-symbols/fire station_1.png": [
+"alat pemadam api",
+"pemadam api",
+"bomba",
+"kebakaran",
+"balai bomba",
+"keselamatan"
+],
+"arasaac-symbols/fire-engine.png": [
+"trak bomba",
+"kereta bomba",
+"lori bomba",
+"bomba",
+"kebakaran"
+],
+"arasaac-symbols/fire-engine_1.png": [
+"trak bomba",
+"kereta bomba",
+"lori bomba",
+"bomba",
+"kebakaran"
+],
+"arasaac-symbols/fire_1.png": [
+"kebakaran",
+"rumah terbakar",
+"api",
+"terbakar",
+"asap",
+"bahaya"
+],
+"arasaac-symbols/fire_2.png": [
+"kebakaran hutan",
+"hutan terbakar",
+"api",
+"terbakar",
+"asap",
+"jerebu"
+],
+"arasaac-symbols/fire_3.png": [
+"kereta terbakar",
+"kebakaran",
+"api",
+"terbakar",
+"asap",
+"kemalangan"
+],
+"arasaac-symbols/firecracker.png": [
+"mercun",
+"bunga api",
+"letupan",
+"bunyi letupan",
+"bom",
+"dentuman"
+],
+"arasaac-symbols/firefighter.png": [
+"bomba",
+"anggota bomba",
+"pegawai bomba",
+"pemadam api",
+"bomba lelaki",
+"padam api"
+],
+"arasaac-symbols/firefighter_1.png": [
+"alat pemadam api",
+"pemadam api",
+"bomba",
+"kebakaran",
+"orang",
+"keselamatan"
+],
+"arasaac-symbols/firefighter_2.png": [
+"bomba",
+"anggota bomba",
+"pegawai bomba",
+"pemadam api",
+"bomba perempuan",
+"padam api"
+],
+"arasaac-symbols/firefly.png": [
+"kelip-kelip",
+"kunang-kunang",
+"serangga",
+"cahaya",
+"malam",
+"lipas"
+],
+"arasaac-symbols/fireworks.png": [
+"bunga api",
+"bunga api tahun baru",
+"pesta",
+"sambutan",
+"letupan",
+"bunga api raya"
+],
+"arasaac-symbols/first name.png": [
+"nama pertama",
+"nama",
+"nama depan",
+"soalan nama",
+"siapa nama"
+],
+"arasaac-symbols/first.png": [
+"pertama",
+"yang pertama",
+"nombor satu",
+"dahulu",
+"depan",
+"di hadapan"
+],
+"arasaac-symbols/first_1.png": [
+"pertama",
+"yang pertama",
+"nombor satu",
+"dahulu",
+"depan",
+"di hadapan"
+],
+"arasaac-symbols/first_2.png": [
+"juara",
+"tempat pertama",
+"pertama",
+"nombor satu",
+"naib juara",
+"podium"
+],
+"arasaac-symbols/first_3.png": [
+"juara",
+"tempat pertama",
+"pertama",
+"nombor satu",
+"menang",
+"podium"
+],
+"arasaac-symbols/first_4.png": [
+"juara",
+"tempat pertama",
+"pertama",
+"nombor satu",
+"menang",
+"podium"
+],
+"arasaac-symbols/first_5.png": [
+"pertama",
+"yang pertama",
+"nombor satu",
+"dahulu",
+"depan",
+"barisan"
+],
+"arasaac-symbols/fish food.png": [
+"makanan ikan",
+"makanan ikan hiasan",
+"ikan",
+"bekas makanan ikan",
+"beri makan ikan"
+],
+"arasaac-symbols/fish in asparagus sauce.png": [
+"ikan",
+"ikan sos asparagus",
+"makanan",
+"hidangan ikan",
+"isi ikan",
+"makan"
+],
+"arasaac-symbols/fish market.png": [
+"pasar ikan",
+"pasar basah",
+"kedai ikan",
+"ikan",
+"makanan laut",
+"udang"
+],
+"arasaac-symbols/fish shop.png": [
+"kedai ikan",
+"pasar ikan",
+"ikan",
+"penjual ikan",
+"beli ikan",
+"makanan laut"
+],
+"arasaac-symbols/fish shop_1.png": [
+"kedai ikan",
+"ikan",
+"jual ikan",
+"pasar ikan",
+"beli ikan"
+],
+"arasaac-symbols/fish shop_2.png": [
+"kedai makanan laut",
+"kedai ikan",
+"restoran ikan",
+"ikan goreng",
+"ikan bakar",
+"makanan"
+],
+"arasaac-symbols/fish soup.png": [
+"sup ikan",
+"ikan",
+"makanan",
+"sup",
+"kuah ikan",
+"asam pedas ikan"
+],
+"arasaac-symbols/fish_1.png": [
+"ikan",
+"ikan berenang",
+"haiwan",
+"ikan laut",
+"ikan air"
+],
+"arasaac-symbols/fish_2.png": [
+"ikan goreng",
+"ikan bersalut tepung",
+"makanan",
+"isi ikan",
+"ikan",
+"lauk"
+],
+"arasaac-symbols/fish_3.png": [
+"memancing",
+"pancing",
+"mancing",
+"ikan",
+"pergi memancing",
+"pemancing"
+],
+"arasaac-symbols/fish_4.png": [
+"ikan",
+"isi ikan",
+"stik ikan",
+"makanan",
+"lauk",
+"hidangan ikan"
+],
+"arasaac-symbols/fish_5.png": [
+"jenis ikan",
+"ikan",
+"ikan yu",
+"jerung",
+"ikan trout",
+"ikan sardin"
+],
+"arasaac-symbols/fish_6.png": [
+"umpan",
+"kail",
+"mata kail",
+"ikan",
+"cacing",
+"memancing"
+],
+"arasaac-symbols/fish_7.png": [
+"hidangan ikan",
+"ikan bakar",
+"ikan goreng",
+"makanan",
+"ikan",
+"lauk"
+],
+"arasaac-symbols/fisher.png": [
+"nelayan",
+"nelayan perempuan",
+"ikan",
+"bot nelayan",
+"tangkap ikan",
+"pemancing"
+],
+"arasaac-symbols/fisher_1.png": [
+"pemancing",
+"orang memancing",
+"memancing",
+"mancing",
+"pancing",
+"ikan"
+],
+"arasaac-symbols/fisher_2.png": [
+"pemancing",
+"memancing",
+"mancing",
+"pancing",
+"dapat ikan",
+"ikan"
+],
+"arasaac-symbols/fisherman.png": [
+"nelayan",
+"nelayan lelaki",
+"ikan",
+"bot nelayan",
+"tangkap ikan",
+"pak nelayan"
+],
+"arasaac-symbols/fisherman_1.png": [
+"pemancing",
+"orang memancing",
+"memancing",
+"mancing",
+"pancing",
+"ikan"
+],
+"arasaac-symbols/fisherman_2.png": [
+"pemancing",
+"memancing",
+"mancing",
+"pancing",
+"dapat ikan",
+"ikan"
+],
+"arasaac-symbols/fishing boat.png": [
+"bot nelayan",
+"bot",
+"kapal nelayan",
+"pukat",
+"nelayan",
+"kapal"
+],
+"arasaac-symbols/fishing rod.png": [
+"joran",
+"joran pancing",
+"pancing",
+"batang pancing",
+"memancing",
+"mancing"
+],
+"arasaac-symbols/fishmonger's.png": [
+"kedai ikan",
+"penjual ikan",
+"ikan",
+"pasar ikan",
+"beli ikan",
+"jual ikan"
+]
+}
