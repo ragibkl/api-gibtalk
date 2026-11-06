@@ -51,7 +51,7 @@ def wait_for_room():
             log(f"waiting: 5h {h}% week {w}% (max {week_max()}) data {int(age)}s old")
         except Exception as e:
             log(f"waiting: can't read usage ({e})")
-            time.sleep(60)
+            time.sleep(10)
             continue
         time.sleep(300)
 
