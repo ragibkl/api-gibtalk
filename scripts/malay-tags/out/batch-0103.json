@@ -1,0 +1,563 @@
+{
+"arasaac-symbols/cluck.png": [
+"kokok",
+"ayam berkokok",
+"bunyi ayam",
+"ayam jantan",
+"kokokan"
+],
+"arasaac-symbols/cluck_1.png": [
+"kokok",
+"ayam jantan berkokok",
+"bunyi ayam",
+"ayam jantan",
+"kokokan"
+],
+"arasaac-symbols/clutch.png": [
+"klac",
+"pedal klac",
+"pedal kereta",
+"pedal",
+"kereta manual"
+],
+"arasaac-symbols/coach.png": [
+"jurulatih",
+"jurulatih renang",
+"coach",
+"cikgu renang",
+"jurulatih perempuan"
+],
+"arasaac-symbols/coach_1.png": [
+"jurulatih",
+"jurulatih renang",
+"cikgu renang",
+"jurulatih lelaki",
+"kolam renang"
+],
+"arasaac-symbols/coal.png": [
+"arang batu",
+"arang",
+"batu arang",
+"arang hitam"
+],
+"arasaac-symbols/coarse.png": [
+"kasar",
+"permukaan kasar",
+"tekstur kasar",
+"tak halus",
+"kesat"
+],
+"arasaac-symbols/coastal relief.png": [
+"pantai",
+"pesisir",
+"garis pantai",
+"tanah tinggi",
+"peta pantai",
+"pesisir pantai"
+],
+"arasaac-symbols/coat hanger.png": [
+"penyangkut baju",
+"penyangkut",
+"cangkuk baju",
+"penyangkut kot",
+"cangkuk"
+],
+"arasaac-symbols/coat in batter.png": [
+"salut tepung",
+"salut adunan",
+"menyalut",
+"celup adunan",
+"goreng bersalut",
+"bersalut tepung"
+],
+"arasaac-symbols/coat in batter_1.png": [
+"salut tepung",
+"salut adunan",
+"menyalut",
+"celup adunan",
+"goreng bersalut",
+"bersalut tepung"
+],
+"arasaac-symbols/coat stand.png": [
+"penyangkut baju",
+"tiang penyangkut",
+"rak baju",
+"penyangkut kot",
+"tiang baju"
+],
+"arasaac-symbols/coat.png": [
+"kot",
+"kot panjang",
+"mantel",
+"baju sejuk",
+"baju luar",
+"kot hujan"
+],
+"arasaac-symbols/coat_1.png": [
+"jaket",
+"jaket tebal",
+"baju sejuk",
+"kot",
+"jaket bulu",
+"baju tebal"
+],
+"arasaac-symbols/cobbler's hammer.png": [
+"tukul kasut",
+"tukul tukang kasut",
+"tukul",
+"tukul kecil",
+"alat tukang"
+],
+"arasaac-symbols/coca.png": [
+"roti pizza",
+"pizza",
+"roti bertopping",
+"roti sayur",
+"makanan",
+"roti"
+],
+"arasaac-symbols/cochlear implant.png": [
+"implan koklea",
+"alat pendengaran",
+"alat bantu pendengaran",
+"pekak",
+"telinga",
+"lelaki"
+],
+"arasaac-symbols/cochlear implant_1.png": [
+"implan koklea",
+"alat pendengaran",
+"alat bantu pendengaran",
+"pekak",
+"telinga",
+"kepala"
+],
+"arasaac-symbols/cochlear implant_2.png": [
+"implan koklea",
+"alat pendengaran",
+"alat bantu pendengaran",
+"pekak",
+"telinga",
+"perempuan"
+],
+"arasaac-symbols/cochlear implant_3.png": [
+"implan koklea",
+"alat pendengaran",
+"alat bantu pendengaran",
+"pekak",
+"pemproses suara"
+],
+"arasaac-symbols/cockatoo.png": [
+"burung kakak tua",
+"kakak tua",
+"burung",
+"burung berjambul",
+"burung nuri"
+],
+"arasaac-symbols/cockle.png": [
+"kerang",
+"lokan",
+"kupang",
+"kepah",
+"siput kerang",
+"makanan laut"
+],
+"arasaac-symbols/cockroach.png": [
+"lipas",
+"kecoa",
+"serangga",
+"serangga perosak",
+"binatang"
+],
+"arasaac-symbols/cocktail shaker.png": [
+"shaker koktel",
+"pengocok minuman",
+"koktel",
+"bar",
+"pengocok"
+],
+"arasaac-symbols/cocktail.png": [
+"koktel",
+"minuman koktel",
+"minuman",
+"gelas koktel",
+"bar",
+"shaker"
+],
+"arasaac-symbols/cocoa bean.png": [
+"biji koko",
+"koko",
+"buah koko",
+"coklat",
+"biji coklat",
+"buah coklat"
+],
+"arasaac-symbols/coconut palm.png": [
+"pokok kelapa",
+"pokok",
+"kelapa",
+"pokok nyiur",
+"nyiur"
+],
+"arasaac-symbols/coconut.png": [
+"kelapa",
+"buah kelapa",
+"nyiur",
+"kelapa dibelah",
+"santan"
+],
+"arasaac-symbols/cod omelette.png": [
+"omelet ikan kod",
+"telur dadar",
+"ikan kod",
+"telur",
+"makanan",
+"ikan dan telur"
+],
+"arasaac-symbols/cod with green peppers.png": [
+"ikan kod",
+"ikan kod dengan lada",
+"ikan masak",
+"lada hijau",
+"makanan",
+"ikan"
+],
+"arasaac-symbols/cod with tomato sauce.png": [
+"ikan kod",
+"ikan kod sos tomato",
+"ikan masak",
+"sos tomato",
+"makanan",
+"ikan"
+],
+"arasaac-symbols/cod.png": [
+"ikan kod",
+"ikan",
+"ikan laut",
+"kod"
+],
+"arasaac-symbols/coffee bar.png": [
+"bar kopi",
+"kedai kopi",
+"kaunter bar",
+"bar",
+"kopi",
+"kafe"
+],
+"arasaac-symbols/coffee bar_1.png": [
+"kedai kopi",
+"kafe",
+"kopitiam",
+"kopi",
+"kedai"
+],
+"arasaac-symbols/coffee capsules.png": [
+"kapsul kopi",
+"biji kopi",
+"kopi",
+"kapsul",
+"serbuk kopi"
+],
+"arasaac-symbols/coffee cup.png": [
+"cawan kopi",
+"cawan",
+"cawan dan piring",
+"kopi",
+"teh",
+"cawan teh"
+],
+"arasaac-symbols/coffee maker.png": [
+"teko kopi",
+"periuk kopi",
+"pembuat kopi",
+"mesin kopi",
+"moka pot",
+"kopi"
+],
+"arasaac-symbols/coffee maker_1.png": [
+"mesin kopi",
+"mesin espresso",
+"pembuat kopi",
+"kopi",
+"espresso"
+],
+"arasaac-symbols/coffee maker_2.png": [
+"mesin kopi",
+"pembuat kopi",
+"mesin buat kopi",
+"kopi",
+"teko kopi"
+],
+"arasaac-symbols/coffee mill.png": [
+"pengisar kopi",
+"pengisar",
+"kisar kopi",
+"biji kopi",
+"kopi",
+"mesin kisar"
+],
+"arasaac-symbols/coffee room.png": [
+"bilik rehat",
+"masa rehat",
+"rehat minum",
+"minum petang",
+"bilik kopi",
+"rehat"
+],
+"arasaac-symbols/coffee service.png": [
+"cawan kopi",
+"kopi",
+"minum kopi",
+"kedai kopi",
+"hidang kopi"
+],
+"arasaac-symbols/coffee spoon.png": [
+"sudu kopi",
+"sudu kecil",
+"sudu",
+"cawan kopi",
+"sudu teh"
+],
+"arasaac-symbols/coffee vending machine.png": [
+"mesin layan diri kopi",
+"mesin kopi",
+"mesin layan diri",
+"mesin vending",
+"mesin minuman",
+"kopi"
+],
+"arasaac-symbols/coffee-coloured.png": [
+"warna coklat",
+"coklat",
+"warna kopi",
+"perang",
+"tompok coklat"
+],
+"arasaac-symbols/coffee.png": [
+"kopi",
+"kopi panas",
+"cawan kopi",
+"minum kopi",
+"kopi o"
+],
+"arasaac-symbols/coffee_1.png": [
+"kopi",
+"biji kopi",
+"kopi panas",
+"cawan kopi",
+"minum kopi"
+],
+"arasaac-symbols/coffee_2.png": [
+"biji kopi",
+"serbuk kopi",
+"kopi",
+"bungkusan kopi",
+"kopi biji"
+],
+"arasaac-symbols/coffee_3.png": [
+"kopi",
+"cawan kopi",
+"kopi o",
+"minum kopi",
+"kopi hitam"
+],
+"arasaac-symbols/coffer.png": [
+"peti harta",
+"peti",
+"peti harta karun",
+"harta karun",
+"peti kayu"
+],
+"arasaac-symbols/coffin.png": [
+"keranda",
+"peti mati",
+"kematian",
+"mati",
+"jenazah",
+"pengebumian"
+],
+"arasaac-symbols/coffin_1.png": [
+"keranda kanak-kanak",
+"peti mati kanak-kanak",
+"peti mati",
+"keranda",
+"kematian",
+"mati"
+],
+"arasaac-symbols/coitus.png": [
+"bersetubuh",
+"hubungan seks",
+"seks",
+"jimak",
+"persetubuhan",
+"lelaki dan perempuan"
+],
+"arasaac-symbols/coitus_1.png": [
+"bersetubuh",
+"hubungan seks",
+"seks",
+"jimak",
+"pasangan lelaki",
+"gay"
+],
+"arasaac-symbols/coitus_2.png": [
+"bersetubuh",
+"hubungan seks",
+"seks",
+"jimak",
+"pasangan perempuan",
+"lesbian"
+],
+"arasaac-symbols/coitus_3.png": [
+"bersetubuh",
+"hubungan seks",
+"seks",
+"jimak",
+"pasangan"
+],
+"arasaac-symbols/coitus_4.png": [
+"bersetubuh",
+"hubungan seks",
+"seks",
+"jimak",
+"pasangan perempuan",
+"lesbian"
+],
+"arasaac-symbols/coitus_5.png": [
+"bersetubuh",
+"hubungan seks",
+"seks",
+"jimak",
+"pasangan lelaki dan perempuan"
+],
+"arasaac-symbols/colander.png": [
+"colander",
+"penapis",
+"penapis makanan",
+"bakul penapis",
+"tapisan",
+"sinki"
+],
+"arasaac-symbols/cold chisel.png": [
+"pahat sejuk",
+"pahat",
+"tukul getah",
+"alat tukang",
+"pahat besi"
+],
+"arasaac-symbols/cold drink vending machine.png": [
+"mesin minuman sejuk",
+"mesin layan diri",
+"mesin vending",
+"mesin air",
+"minuman tin",
+"mesin minuman"
+],
+"arasaac-symbols/cold meat.png": [
+"daging sejuk",
+"daging sejuk potong",
+"sosej",
+"ham",
+"salami",
+"daging proses"
+],
+"arasaac-symbols/cold.png": [
+"sejuk",
+"air batu",
+"ais",
+"dingin",
+"minuman sejuk",
+"gelas ais"
+],
+"arasaac-symbols/cold_1.png": [
+"selsema",
+"hingus",
+"hidung berair",
+"hidung",
+"demam selsema",
+"selesema"
+],
+"arasaac-symbols/cold_2.png": [
+"sejuk",
+"salji",
+"dingin",
+"sejuk beku",
+"beku"
+],
+"arasaac-symbols/cold_3.png": [
+"menggigil",
+"rasa sejuk",
+"sejuk",
+"kesejukan",
+"sejuk sangat",
+"gigil"
+],
+"arasaac-symbols/cold_4.png": [
+"sejuk",
+"salji",
+"dingin",
+"sejuk beku",
+"kesejukan"
+],
+"arasaac-symbols/collar.png": [
+"kalung",
+"rantai leher",
+"rantai",
+"perhiasan leher",
+"rantai manik"
+],
+"arasaac-symbols/collar_1.png": [
+"tali leher anjing",
+"kolar anjing",
+"tali anjing",
+"kalung anjing",
+"leher anjing",
+"kolar"
+],
+"arasaac-symbols/collarbone.png": [
+"tulang selangka",
+"tulang",
+"tulang dada",
+"badan",
+"rangka"
+],
+"arasaac-symbols/collect the baggage.png": [
+"ambil bagasi",
+"ambil beg",
+"bagasi",
+"kutip bagasi",
+"lapangan terbang",
+"beg"
+],
+"arasaac-symbols/collect the rubbish.png": [
+"kutip sampah",
+"pemungut sampah",
+"tukang sampah",
+"lori sampah",
+"tong sampah",
+"sampah"
+],
+"arasaac-symbols/collection.png": [
+"kutipan",
+"kutip duit",
+"kumpul duit",
+"kutipan wang",
+"kutip yuran",
+"duit"
+],
+"arasaac-symbols/colon.png": [
+"titik bertindih",
+"noktah bertindih",
+"tanda baca",
+"tanda titik dua",
+"dua titik"
+],
+"arasaac-symbols/colonoscopy.png": [
+"kolonoskopi",
+"pemeriksaan usus",
+"usus besar",
+"pemeriksaan doktor",
+"endoskopi",
+"kolon"
+]
+}
