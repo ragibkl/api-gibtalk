@@ -15,7 +15,7 @@ SIZE, WORKERS, COMMIT_EVERY = 75, 4, 8
 FIVE_HOUR_MAX = 80
 WEEK_RESET = dt.datetime(2026, 11, 7, 2, 0, tzinfo=dt.timezone.utc)
 PROMPT = (HERE / "prompt.txt").read_text()
-MAX_PER_5H = 85
+MAX_PER_5H = 1000
 PROBE_EVERY = 120
 lock, done_since_commit, starts = threading.Lock(), [0], []
 probe_lock, probed = threading.Lock(), [0, 0, 0]
