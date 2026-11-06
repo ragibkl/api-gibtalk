@@ -181,3 +181,7 @@
 - name: pk-different
   file: pk/different.png
   tags: [different, not the same, not equal, compare, core word]
+
+- name: nasi-lemak
+  file: food/nasi-lemak.png
+  tags: [nasi lemak, food, rice, coconut rice, breakfast, sambal, egg, anchovies, peanuts, cucumber, banana leaf, traditional, malay, malaysian]

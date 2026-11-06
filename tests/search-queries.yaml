@@ -15,6 +15,7 @@
 
 - { q: "belajar", lang: ms, expect: ["study", "learn"] }
 - { q: "kerusi", lang: ms, expect: ["chair"] }
+- { q: "nasi lemak", lang: ms, expect: ["nasi"] }
 - { q: "cikgu", lang: ms, expect: ["teacher"] }
 - { q: "marker pen", lang: ms, expect: ["marker"] }
 - { q: "nak", lang: ms, expect: ["want"], avoid: ["naked", "undress"] }
