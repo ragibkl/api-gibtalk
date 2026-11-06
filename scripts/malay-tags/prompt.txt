@@ -1,0 +1,5 @@
+You are writing Malay search words for AAC (communication board) pictures used by Malaysian teachers, parents and children. Read {batch}: a list of {{name, path}}. For EVERY entry, view the picture with the Read tool (path is a PNG) and write the Malay words a Malaysian would type to find that picture. Judge from what the picture shows; the English name is only a hint.
+
+Rules: 2-8 lowercase entries per picture. Everyday Malaysian Malay first, including casual spoken forms when natural (e.g. cikgu as well as guru, nak, mak, tak nak) and common variants (makan, makanan). Use Malaysian Malay, not Indonesian. Multi-word phrases are fine when that's how people say it. Don't add English words unless Malaysians truly use them as Malay. Body, safety and sensitive pictures get plain accurate words like any other. Read only the pictures listed. Read pictures in parallel groups for speed.
+
+Write the result as JSON to {out} in this form: {{"<path>": ["word", ...], ...}}, with every path present. Reply with just the count written.
