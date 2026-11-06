@@ -233,9 +233,14 @@ impl SymbolIndex {
 
         let media_path = Path::new(media_dir);
         let malay_words = load_malay_words(media_path);
-        let entries = std::fs::read_dir(media_path).expect("failed to read media directory");
+        let mut entries: Vec<_> = std::fs::read_dir(media_path)
+            .expect("failed to read media directory")
+            .flatten()
+            .collect();
+        // Tied results keep load order, so it must be the same on every machine.
+        entries.sort_by_key(|entry| entry.file_name());
 
-        for entry in entries.flatten() {
+        for entry in entries {
             if !entry.path().is_dir() {
                 continue;
             }
