@@ -6,8 +6,8 @@
 #   avoid   no top-20 result's name may contain any of these
 #
 # `cargo test search_quality -- --nocapture` prints the score. English and
-# every `avoid` must pass. Malay is scored but can't pass until search knows
-# Malay words; raise MS_FLOOR in src/index.rs as the score improves.
+# every `avoid` must pass. Malay must not fall below MS_FLOOR in src/index.rs;
+# raise it as the score improves.
 #
 # The first four Malay searches are real ones that found nothing on
 # 2026-11-05. The `expect` words are a first draft: have a Malay speaker
