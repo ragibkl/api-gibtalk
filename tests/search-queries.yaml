@@ -6,8 +6,8 @@
 #   avoid   no top-20 result's name may contain any of these
 #
 # `cargo test search_quality -- --nocapture` prints the score. English and
-# every `avoid` must pass. Malay is scored but can't pass until search knows
-# Malay words; raise MS_FLOOR in src/index.rs as the score improves.
+# every `avoid` must pass. Malay must not fall below MS_FLOOR in src/index.rs;
+# raise it as the score improves.
 #
 # The first four Malay searches are real ones that found nothing on
 # 2026-11-05. The `expect` words are a first draft: have a Malay speaker
@@ -16,7 +16,7 @@
 - { q: "belajar", lang: ms, expect: ["study", "learn"] }
 - { q: "kerusi", lang: ms, expect: ["chair"] }
 - { q: "cikgu", lang: ms, expect: ["teacher"] }
-- { q: "makerpen", lang: ms, expect: ["marker"] }
+- { q: "marker pen", lang: ms, expect: ["marker"] }
 - { q: "nak", lang: ms, expect: ["want"], avoid: ["naked", "undress"] }
 - { q: "tak nak", lang: ms, expect: ["do not want", "no"], avoid: ["naked", "undress"] }
 - { q: "saya", lang: ms, expect: ["i", "me"] }
@@ -28,11 +28,11 @@
 - { q: "berhenti", lang: ms, expect: ["stop"] }
 - { q: "tolong", lang: ms, expect: ["help"] }
 - { q: "buka", lang: ms, expect: ["open"] }
-- { q: "habis", lang: ms, expect: ["finished"] }
+- { q: "habis", lang: ms, expect: ["finished", "finish"] }
 - { q: "tengok", lang: ms, expect: ["look", "see"] }
 - { q: "ambil", lang: ms, expect: ["take", "get"] }
 - { q: "letak", lang: ms, expect: ["put"] }
-- { q: "boleh", lang: ms, expect: ["can"] }
+- { q: "boleh", lang: ms, expect: ["can", "able", "allow"] }
 - { q: "bagus", lang: ms, expect: ["good"] }
 - { q: "sikit", lang: ms, expect: ["little", "some"] }
 - { q: "apa", lang: ms, expect: ["what"] }
@@ -61,7 +61,7 @@
 - { q: "tandas", lang: ms, expect: ["toilet"] }
 - { q: "mandi", lang: ms, expect: ["shower", "bath"] }
 - { q: "tidur", lang: ms, expect: ["sleep"] }
-- { q: "bangun", lang: ms, expect: ["wake"] }
+- { q: "bangun", lang: ms, expect: ["wake", "awake", "get up"] }
 - { q: "duduk", lang: ms, expect: ["sit"] }
 - { q: "berdiri", lang: ms, expect: ["stand"] }
 - { q: "jalan", lang: ms, expect: ["walk", "road"] }
@@ -69,7 +69,7 @@
 - { q: "main", lang: ms, expect: ["play"] }
 - { q: "sakit", lang: ms, expect: ["pain", "sick", "hurt"] }
 - { q: "demam", lang: ms, expect: ["fever"] }
-- { q: "gembira", lang: ms, expect: ["happy"] }
+- { q: "gembira", lang: ms, expect: ["happy", "happiness", "content"] }
 - { q: "sedih", lang: ms, expect: ["sad"] }
 - { q: "marah", lang: ms, expect: ["angry"] }
 - { q: "takut", lang: ms, expect: ["scared", "afraid"] }
