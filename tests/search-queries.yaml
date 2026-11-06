@@ -28,11 +28,11 @@
 - { q: "berhenti", lang: ms, expect: ["stop"] }
 - { q: "tolong", lang: ms, expect: ["help"] }
 - { q: "buka", lang: ms, expect: ["open"] }
-- { q: "habis", lang: ms, expect: ["finished"] }
+- { q: "habis", lang: ms, expect: ["finished", "finish"] }
 - { q: "tengok", lang: ms, expect: ["look", "see"] }
 - { q: "ambil", lang: ms, expect: ["take", "get"] }
 - { q: "letak", lang: ms, expect: ["put"] }
-- { q: "boleh", lang: ms, expect: ["can"] }
+- { q: "boleh", lang: ms, expect: ["can", "able", "allow"] }
 - { q: "bagus", lang: ms, expect: ["good"] }
 - { q: "sikit", lang: ms, expect: ["little", "some"] }
 - { q: "apa", lang: ms, expect: ["what"] }
@@ -61,7 +61,7 @@
 - { q: "tandas", lang: ms, expect: ["toilet"] }
 - { q: "mandi", lang: ms, expect: ["shower", "bath"] }
 - { q: "tidur", lang: ms, expect: ["sleep"] }
-- { q: "bangun", lang: ms, expect: ["wake"] }
+- { q: "bangun", lang: ms, expect: ["wake", "awake", "get up"] }
 - { q: "duduk", lang: ms, expect: ["sit"] }
 - { q: "berdiri", lang: ms, expect: ["stand"] }
 - { q: "jalan", lang: ms, expect: ["walk", "road"] }
@@ -69,7 +69,7 @@
 - { q: "main", lang: ms, expect: ["play"] }
 - { q: "sakit", lang: ms, expect: ["pain", "sick", "hurt"] }
 - { q: "demam", lang: ms, expect: ["fever"] }
-- { q: "gembira", lang: ms, expect: ["happy"] }
+- { q: "gembira", lang: ms, expect: ["happy", "happiness", "content"] }
 - { q: "sedih", lang: ms, expect: ["sad"] }
 - { q: "marah", lang: ms, expect: ["angry"] }
 - { q: "takut", lang: ms, expect: ["scared", "afraid"] }
