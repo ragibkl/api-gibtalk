@@ -1,0 +1,123 @@
+# What symbol search should find, for measuring changes to search.
+#
+#   q       what someone types
+#   lang    the language of the search
+#   expect  a top-5 result's name must contain one of these whole words
+#   avoid   no top-20 result's name may contain any of these
+#
+# `cargo test search_quality -- --nocapture` prints the score. English and
+# every `avoid` must pass. Malay is scored but can't pass until search knows
+# Malay words; raise MS_FLOOR in src/index.rs as the score improves.
+#
+# The first four Malay searches are real ones that found nothing on
+# 2026-11-05. The `expect` words are a first draft: have a Malay speaker
+# check them.
+
+- { q: "belajar", lang: ms, expect: ["study", "learn"] }
+- { q: "kerusi", lang: ms, expect: ["chair"] }
+- { q: "cikgu", lang: ms, expect: ["teacher"] }
+- { q: "makerpen", lang: ms, expect: ["marker"] }
+- { q: "nak", lang: ms, expect: ["want"], avoid: ["naked", "undress"] }
+- { q: "tak nak", lang: ms, expect: ["do not want", "no"], avoid: ["naked", "undress"] }
+- { q: "saya", lang: ms, expect: ["i", "me"] }
+- { q: "awak", lang: ms, expect: ["you"] }
+- { q: "suka", lang: ms, expect: ["like"] }
+- { q: "lagi", lang: ms, expect: ["more"] }
+- { q: "tak", lang: ms, expect: ["no", "not"] }
+- { q: "pergi", lang: ms, expect: ["go"] }
+- { q: "berhenti", lang: ms, expect: ["stop"] }
+- { q: "tolong", lang: ms, expect: ["help"] }
+- { q: "buka", lang: ms, expect: ["open"] }
+- { q: "habis", lang: ms, expect: ["finished"] }
+- { q: "tengok", lang: ms, expect: ["look", "see"] }
+- { q: "ambil", lang: ms, expect: ["take", "get"] }
+- { q: "letak", lang: ms, expect: ["put"] }
+- { q: "boleh", lang: ms, expect: ["can"] }
+- { q: "bagus", lang: ms, expect: ["good"] }
+- { q: "sikit", lang: ms, expect: ["little", "some"] }
+- { q: "apa", lang: ms, expect: ["what"] }
+- { q: "mana", lang: ms, expect: ["where"] }
+- { q: "siapa", lang: ms, expect: ["who"] }
+- { q: "meja", lang: ms, expect: ["table"] }
+- { q: "buku", lang: ms, expect: ["book"] }
+- { q: "pensel", lang: ms, expect: ["pencil"] }
+- { q: "pemadam", lang: ms, expect: ["eraser", "rubber"] }
+- { q: "gunting", lang: ms, expect: ["scissors"] }
+- { q: "beg", lang: ms, expect: ["bag", "backpack"] }
+- { q: "guru", lang: ms, expect: ["teacher"] }
+- { q: "murid", lang: ms, expect: ["student", "pupil"] }
+- { q: "kawan", lang: ms, expect: ["friend"] }
+- { q: "sekolah", lang: ms, expect: ["school"] }
+- { q: "kelas", lang: ms, expect: ["classroom", "class"] }
+- { q: "makan", lang: ms, expect: ["eat"] }
+- { q: "minum", lang: ms, expect: ["drink"] }
+- { q: "air", lang: ms, expect: ["water"] }
+- { q: "nasi", lang: ms, expect: ["rice"] }
+- { q: "roti", lang: ms, expect: ["bread"] }
+- { q: "susu", lang: ms, expect: ["milk"] }
+- { q: "ayam", lang: ms, expect: ["chicken"] }
+- { q: "ikan", lang: ms, expect: ["fish"] }
+- { q: "sedap", lang: ms, expect: ["delicious", "tasty"] }
+- { q: "tandas", lang: ms, expect: ["toilet"] }
+- { q: "mandi", lang: ms, expect: ["shower", "bath"] }
+- { q: "tidur", lang: ms, expect: ["sleep"] }
+- { q: "bangun", lang: ms, expect: ["wake"] }
+- { q: "duduk", lang: ms, expect: ["sit"] }
+- { q: "berdiri", lang: ms, expect: ["stand"] }
+- { q: "jalan", lang: ms, expect: ["walk", "road"] }
+- { q: "lari", lang: ms, expect: ["run"] }
+- { q: "main", lang: ms, expect: ["play"] }
+- { q: "sakit", lang: ms, expect: ["pain", "sick", "hurt"] }
+- { q: "demam", lang: ms, expect: ["fever"] }
+- { q: "gembira", lang: ms, expect: ["happy"] }
+- { q: "sedih", lang: ms, expect: ["sad"] }
+- { q: "marah", lang: ms, expect: ["angry"] }
+- { q: "takut", lang: ms, expect: ["scared", "afraid"] }
+- { q: "penat", lang: ms, expect: ["tired"] }
+- { q: "lapar", lang: ms, expect: ["hungry"] }
+- { q: "dahaga", lang: ms, expect: ["thirsty"] }
+- { q: "ibu", lang: ms, expect: ["mother", "mum"] }
+- { q: "ayah", lang: ms, expect: ["father", "dad"] }
+- { q: "kakak", lang: ms, expect: ["sister"] }
+- { q: "abang", lang: ms, expect: ["brother"] }
+- { q: "rumah", lang: ms, expect: ["house", "home"] }
+- { q: "pintu", lang: ms, expect: ["door"] }
+- { q: "kucing", lang: ms, expect: ["cat"] }
+- { q: "kereta", lang: ms, expect: ["car"] }
+- { q: "bas", lang: ms, expect: ["bus"] }
+- { q: "kasut", lang: ms, expect: ["shoes", "shoe"] }
+- { q: "baju", lang: ms, expect: ["shirt", "clothes"] }
+- { q: "seluar", lang: ms, expect: ["trousers", "pants"] }
+- { q: "merah", lang: ms, expect: ["red"] }
+- { q: "biru", lang: ms, expect: ["blue"] }
+- { q: "hijau", lang: ms, expect: ["green"] }
+- { q: "kuning", lang: ms, expect: ["yellow"] }
+- { q: "satu", lang: ms, expect: ["one"] }
+- { q: "dua", lang: ms, expect: ["two"] }
+- { q: "tiga", lang: ms, expect: ["three"] }
+- { q: "solat", lang: ms, expect: ["pray"] }
+- { q: "masjid", lang: ms, expect: ["mosque"] }
+
+- { q: "cat", lang: en, expect: ["cat"], avoid: ["education"] }
+- { q: "want", lang: en, expect: ["want"] }
+- { q: "chair", lang: en, expect: ["chair"] }
+- { q: "table", lang: en, expect: ["table"] }
+- { q: "study", lang: en, expect: ["study"] }
+- { q: "eat", lang: en, expect: ["eat"] }
+- { q: "drink", lang: en, expect: ["drink"] }
+- { q: "toilet", lang: en, expect: ["toilet"] }
+- { q: "water", lang: en, expect: ["water"] }
+- { q: "thank you", lang: en, expect: ["thank"] }
+- { q: "one", lang: en, expect: ["one"] }
+- { q: "twelve", lang: en, expect: ["twelve"] }
+- { q: "farm animal", lang: en, expect: ["cow", "chicken", "duck"] }
+- { q: "river fish", lang: en, expect: ["arapaima", "barbel"] }
+- { q: "marker pen", lang: en, expect: ["marker"] }
+- { q: "marker", lang: en, expect: ["marker"] }
+- { q: "apple", lang: en, expect: ["apple"] }
+- { q: "help", lang: en, expect: ["help"] }
+- { q: "stop", lang: en, expect: ["stop"] }
+- { q: "teacher", lang: en, expect: ["teacher"] }
+- { q: "hi", lang: en, expect: ["hi", "hello"], avoid: ["hibernate", "his"] }
+- { q: "dogs", lang: en, expect: ["dog", "dogs"] }
+- { q: "berry", lang: en, expect: ["berry"] }

@@ -18,7 +18,7 @@ REST API backend for the [GibTalk AAC (Augmentative and Alternative Communicatio
 GET /api/symbols/search/?q={query}
 ```
 
-Searches symbol filenames across all libraries. Returns up to 100 results sorted by similarity.
+Searches symbol names and tags across all libraries. Returns up to 100 results, best first: whole words, then the start of a word (4+ letters), then inside a word (5+ letters). `tests/search-queries.yaml` lists what search should find; `cargo test search_quality -- --nocapture` prints the score.
 
 **Example:**
 
