@@ -1,0 +1,630 @@
+{
+"mulberry-symbols/takeaway_chinese.png": [
+"makanan bungkus",
+"bungkus makanan",
+"nasi goreng",
+"makanan cina",
+"bungkus",
+"tapau"
+],
+"mulberry-symbols/takeaway_container.png": [
+"bekas makanan",
+"bekas bungkus",
+"tapau",
+"bungkus",
+"bekas polistirena",
+"bekas takeaway"
+],
+"mulberry-symbols/takeaway_indian.png": [
+"makanan india",
+"nasi kari",
+"kari",
+"bungkus makanan",
+"nasi dengan kari",
+"tapau"
+],
+"mulberry-symbols/takeaway_pizza.png": [
+"piza",
+"pizza",
+"kotak piza",
+"bungkus piza",
+"makanan segera"
+],
+"mulberry-symbols/talk_1_to.png": [
+"bercakap",
+"cakap",
+"bercakap dengan",
+"bual",
+"cakap-cakap",
+"bercakap sendiri"
+],
+"mulberry-symbols/talk_2_to.png": [
+"bercakap",
+"cakap",
+"kata",
+"berkata",
+"bersuara",
+"cakap dengan",
+"bual"
+],
+"mulberry-symbols/talk_3_to.png": [
+"berbual",
+"bercakap",
+"bersembang",
+"sembang",
+"cakap dengan kawan",
+"bual bicara"
+],
+"mulberry-symbols/talk_4_to.png": [
+"berbual",
+"bercakap",
+"bersembang",
+"sembang",
+"berbincang",
+"dialog",
+"bual bicara"
+],
+"mulberry-symbols/tall.png": [
+"tinggi",
+"paling tinggi",
+"ukur tinggi",
+"lebih tinggi",
+"tinggi badan"
+],
+"mulberry-symbols/tampon.png": [
+"tampon",
+"tuala wanita",
+"haid",
+"datang bulan",
+"kebersihan wanita",
+"period"
+],
+"mulberry-symbols/tap.png": [
+"paip",
+"paip air",
+"pili air",
+"air paip",
+"buka paip",
+"tap air"
+],
+"mulberry-symbols/tape_measure.png": [
+"pita pengukur",
+"pita ukur",
+"tali ukur",
+"meter pita",
+"ukur",
+"alat ukur"
+],
+"mulberry-symbols/tape_recorder.png": [
+"perakam pita",
+"perakam kaset",
+"perakam suara",
+"tape recorder",
+"rakam",
+"radio kaset"
+],
+"mulberry-symbols/tart.png": [
+"tart",
+"tart epal",
+"kek tart",
+"pai epal",
+"kuih tart",
+"pastri"
+],
+"mulberry-symbols/tartan.png": [
+"tartan",
+"corak tartan",
+"corak kotak",
+"kain kotak-kotak",
+"corak",
+"kain tartan"
+],
+"mulberry-symbols/taste_to.png": [
+"rasa",
+"merasa",
+"cuba rasa",
+"jilat",
+"rasa makanan",
+"ais krim",
+"lidah"
+],
+"mulberry-symbols/tattoo.png": [
+"tatu",
+"cacah",
+"tatu lengan",
+"lukisan badan",
+"lengan bertatu"
+],
+"mulberry-symbols/taxi.png": [
+"teksi",
+"kereta teksi",
+"teksi hitam",
+"naik teksi",
+"grab",
+"kereta sewa"
+],
+"mulberry-symbols/taxi_driver_1a.png": [
+"pemandu teksi",
+"drebar teksi",
+"pakcik teksi",
+"teksi merah",
+"lelaki",
+"pemandu"
+],
+"mulberry-symbols/taxi_driver_1b.png": [
+"pemandu teksi",
+"drebar teksi",
+"pakcik teksi",
+"teksi merah",
+"lelaki",
+"pemandu"
+],
+"mulberry-symbols/taxi_driver_1c.png": [
+"pemandu teksi",
+"drebar teksi",
+"pakcik teksi",
+"teksi kuning",
+"lelaki",
+"pemandu"
+],
+"mulberry-symbols/taxi_driver_1d.png": [
+"pemandu teksi",
+"drebar teksi",
+"pakcik teksi",
+"teksi kuning",
+"lelaki",
+"pemandu"
+],
+"mulberry-symbols/taxi_driver_2a.png": [
+"pemandu teksi",
+"drebar teksi",
+"makcik teksi",
+"teksi merah",
+"perempuan",
+"pemandu"
+],
+"mulberry-symbols/taxi_driver_2b.png": [
+"pemandu teksi",
+"drebar teksi",
+"makcik teksi",
+"teksi merah",
+"perempuan",
+"pemandu"
+],
+"mulberry-symbols/taxi_driver_2c.png": [
+"pemandu teksi",
+"drebar teksi",
+"makcik teksi",
+"teksi kuning",
+"perempuan",
+"pemandu"
+],
+"mulberry-symbols/taxi_driver_2d.png": [
+"pemandu teksi",
+"drebar teksi",
+"makcik teksi",
+"teksi kuning",
+"perempuan",
+"pemandu"
+],
+"mulberry-symbols/tea.png": [
+"teh",
+"air teh",
+"teh panas",
+"secawan teh",
+"minum teh",
+"teh o",
+"teh tarik"
+],
+"mulberry-symbols/tea_bag.png": [
+"uncang teh",
+"beg teh",
+"teh uncang",
+"teh celup",
+"teh"
+],
+"mulberry-symbols/tea_instant.png": [
+"teh segera",
+"teh segera dalam botol",
+"serbuk teh",
+"teh instan",
+"uncang teh",
+"teh",
+"botol teh"
+],
+"mulberry-symbols/tea_spoon.png": [
+"sudu teh",
+"sudu kecil",
+"sudu",
+"camca teh",
+"camca",
+"sudu minum"
+],
+"mulberry-symbols/tea_time.png": [
+"waktu minum teh",
+"minum petang",
+"minum teh",
+"teh dan biskut",
+"rehat minum",
+"minum pagi",
+"tea time"
+],
+"mulberry-symbols/tea_towel.png": [
+"kain lap pinggan",
+"tuala dapur",
+"kain lap",
+"kain pengelap",
+"kain lap pinggan mangkuk",
+"lap"
+],
+"mulberry-symbols/teacher_1a.png": [
+"cikgu",
+"guru",
+"cikgu lelaki",
+"guru lelaki",
+"pengajar",
+"papan putih",
+"mengajar"
+],
+"mulberry-symbols/teacher_1b.png": [
+"cikgu",
+"guru",
+"cikgu lelaki",
+"guru lelaki",
+"pengajar",
+"papan putih",
+"mengajar"
+],
+"mulberry-symbols/teacher_2a.png": [
+"cikgu",
+"guru",
+"cikgu perempuan",
+"guru perempuan",
+"pengajar",
+"papan putih",
+"mengajar"
+],
+"mulberry-symbols/teacher_2b.png": [
+"cikgu",
+"guru",
+"cikgu perempuan",
+"guru perempuan",
+"pengajar",
+"papan putih",
+"mengajar"
+],
+"mulberry-symbols/teapot.png": [
+"teko",
+"teko teh",
+"cerek teh",
+"teko air",
+"periuk teh",
+"teh"
+],
+"mulberry-symbols/tear_to.png": [
+"koyak",
+"carik",
+"koyakkan kertas",
+"carik kertas",
+"terkoyak",
+"robek",
+"kertas koyak"
+],
+"mulberry-symbols/technology.png": [
+"teknologi",
+"komputer",
+"telefon bimbit",
+"laptop",
+"komputer riba",
+"peranti elektronik",
+"skrin"
+],
+"mulberry-symbols/teddy_bear.png": [
+"teddy bear",
+"patung beruang",
+"beruang",
+"anak patung",
+"mainan",
+"patung"
+],
+"mulberry-symbols/teeth.png": [
+"gigi",
+"senyum",
+"gigi putih",
+"mulut",
+"bibir",
+"gigi geligi"
+],
+"mulberry-symbols/teeth_2.png": [
+"gigi",
+"senyum",
+"gigi putih",
+"mulut",
+"gusi",
+"bibir",
+"gigi geligi"
+],
+"mulberry-symbols/telephone_2_to.png": [
+"telefon",
+"telefon rumah",
+"bercakap telefon",
+"angkat telefon",
+"menelefon",
+"telefon talian tetap"
+],
+"mulberry-symbols/telephone_handset.png": [
+"telefon",
+"telefon tanpa wayar",
+"telefon rumah",
+"gagang telefon",
+"telefon pegang",
+"cordless"
+],
+"mulberry-symbols/telephone_mobile_2_to.png": [
+"telefon bimbit",
+"telefon",
+"henfon",
+"fon",
+"hp",
+"telefon pintar",
+"menelefon",
+"cakap telefon"
+],
+"mulberry-symbols/telephone_mobile_to.png": [
+"telefon bimbit",
+"telefon",
+"henfon",
+"fon",
+"hp",
+"menelefon",
+"cakap telefon",
+"panggilan telefon"
+],
+"mulberry-symbols/telephone_toy.png": [
+"telefon",
+"telefon mainan",
+"mainan telefon",
+"telefon lama",
+"telefon rumah",
+"telefon merah"
+],
+"mulberry-symbols/temple.png": [
+"kuil",
+"tokong",
+"tokong cina",
+"rumah ibadat",
+"tempat sembahyang",
+"kuil hindu"
+],
+"mulberry-symbols/ten.png": [
+"sepuluh",
+"10",
+"nombor sepuluh",
+"nombor 10",
+"angka sepuluh",
+"bilangan"
+],
+"mulberry-symbols/tennis.png": [
+"tenis",
+"main tenis",
+"raket tenis",
+"bola tenis",
+"sukan",
+"pemain tenis"
+],
+"mulberry-symbols/terracotta.png": [
+"tanah liat",
+"terakota",
+"lempung",
+"tanah liat merah",
+"tembikar",
+"doh tanah liat",
+"doh",
+"plastisin"
+],
+"mulberry-symbols/test.png": [
+"ujian",
+"peperiksaan",
+"periksa",
+"exam",
+"menduduki ujian",
+"jawab soalan",
+"kuiz"
+],
+"mulberry-symbols/test_tube.png": [
+"tabung uji",
+"tabung uji sains",
+"makmal",
+"sains",
+"uji kaji",
+"eksperimen",
+"tabung kaca"
+],
+"mulberry-symbols/text_mobile_message_to.png": [
+"hantar mesej",
+"mesej",
+"sms",
+"menaip mesej",
+"teks",
+"telefon bimbit",
+"taip sms"
+],
+"mulberry-symbols/text_phone.png": [
+"sms",
+"mesej",
+"telefon bimbit",
+"telefon papan kekunci",
+"teks",
+"hantar sms",
+"menaip"
+],
+"mulberry-symbols/theme_park.png": [
+"taman tema",
+"taman hiburan",
+"funfair",
+"pasar malam",
+"roller coaster",
+"kereta api laju",
+"bianglala",
+"tempat bermain"
+],
+"mulberry-symbols/thermometer.png": [
+"termometer",
+"pengukur suhu",
+"periksa suhu",
+"demam",
+"sakit",
+"suhu badan",
+"kotak pertolongan cemas"
+],
+"mulberry-symbols/thermometer_2.png": [
+"termometer",
+"pengukur suhu",
+"suhu",
+"suhu panas",
+"sejuk",
+"darjah"
+],
+"mulberry-symbols/thick.png": [
+"tebal",
+"tebal tipis",
+"lebih tebal",
+"besar",
+"silinder tebal",
+"ukur tebal"
+],
+"mulberry-symbols/thigh.png": [
+"paha",
+"peha",
+"kaki",
+"bahagian paha",
+"badan",
+"anggota badan"
+],
+"mulberry-symbols/thin.png": [
+"kurus",
+"langsing",
+"ramping",
+"tak gemuk",
+"badan kurus",
+"nipis"
+],
+"mulberry-symbols/thin_2.png": [
+"nipis",
+"halus",
+"kecil",
+"tipis",
+"ukur nipis",
+"silinder nipis"
+],
+"mulberry-symbols/think_to.png": [
+"fikir",
+"berfikir",
+"terfikir",
+"tengah fikir",
+"fikiran",
+"ingat",
+"teringat"
+],
+"mulberry-symbols/thirteen.png": [
+"tiga belas",
+"13",
+"nombor tiga belas",
+"nombor 13",
+"angka tiga belas",
+"bilangan"
+],
+"mulberry-symbols/thirty.png": [
+"tiga puluh",
+"30",
+"nombor tiga puluh",
+"nombor 30",
+"angka tiga puluh",
+"bilangan"
+],
+"mulberry-symbols/this_month.png": [
+"bulan ini",
+"bulan semasa",
+"bulan",
+"kalendar",
+"bulan sekarang"
+],
+"mulberry-symbols/this_week.png": [
+"minggu ini",
+"minggu semasa",
+"minggu",
+"hari persekolahan",
+"isnin hingga jumaat",
+"sekarang"
+],
+"mulberry-symbols/thousand.png": [
+"seribu",
+"1000",
+"nombor seribu",
+"nombor 1000",
+"angka seribu",
+"ribu"
+],
+"mulberry-symbols/three_dots.png": [
+"tiga titik",
+"tiga bulatan",
+"titik",
+"tiga",
+"bulatan",
+"tiga noktah",
+"tiga biji"
+],
+"mulberry-symbols/three_quarters.png": [
+"tiga suku",
+"tiga perempat",
+"3/4",
+"pecahan",
+"tiga per empat",
+"bulatan"
+],
+"mulberry-symbols/three_wise_kings.png": [
+"tiga raja",
+"tiga orang raja",
+"raja",
+"tiga raja bijaksana",
+"mahkota",
+"raja-raja",
+"tiga orang bijak"
+],
+"mulberry-symbols/throat.png": [
+"tekak",
+"kerongkong",
+"halkum",
+"leher",
+"anggota badan",
+"tekak sakit",
+"menelan"
+],
+"mulberry-symbols/through.png": [
+"menerusi",
+"tembus",
+"melalui",
+"menembusi",
+"lalu",
+"menerobos",
+"tembus ke"
+],
+"mulberry-symbols/throw_away_to.png": [
+"buang",
+"buang sampah",
+"campak",
+"buang kertas",
+"buang ke tong sampah",
+"sampah",
+"kertas renyuk"
+],
+"mulberry-symbols/thumb.png": [
+"ibu jari",
+"jempol",
+"ibu jari tangan",
+"bagus",
+"baik",
+"thumbs up",
+"tangan"
+]
+}
