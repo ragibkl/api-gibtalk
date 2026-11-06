@@ -1,0 +1,504 @@
+{
+"arasaac-symbols/drive.png": [
+"memandu",
+"pandu",
+"memandu kereta",
+"stereng",
+"pemanduan"
+],
+"arasaac-symbols/drive_1.png": [
+"memandu",
+"pandu",
+"stereng",
+"stereng kereta",
+"pegang stereng"
+],
+"arasaac-symbols/drive_2.png": [
+"bola keranjang",
+"main bola keranjang",
+"menggelecek",
+"gelecek bola",
+"basketball",
+"pertahan"
+],
+"arasaac-symbols/driver.png": [
+"pemandu",
+"drebar",
+"pemandu kereta",
+"orang memandu"
+],
+"arasaac-symbols/driver_1.png": [
+"pemandu",
+"drebar",
+"pemandu kereta",
+"pemandu perempuan"
+],
+"arasaac-symbols/driver_2.png": [
+"pemandu",
+"drebar",
+"pemandu kereta",
+"orang memandu"
+],
+"arasaac-symbols/driver_4.png": [
+"pemandu",
+"drebar",
+"pemandu lelaki",
+"pemandu kereta"
+],
+"arasaac-symbols/driver_5.png": [
+"pemandu",
+"drebar",
+"pemandu teksi",
+"pemandu bas",
+"pemandu berpakaian seragam"
+],
+"arasaac-symbols/driving licence.png": [
+"lesen memandu",
+"lesen",
+"kad lesen",
+"lesen kereta"
+],
+"arasaac-symbols/driving school.png": [
+"sekolah memandu",
+"kelas memandu",
+"belajar memandu",
+"kereta l"
+],
+"arasaac-symbols/dromedary.png": [
+"unta",
+"unta arab",
+"dromedari",
+"unta berbonggol satu"
+],
+"arasaac-symbols/dromedary_1.png": [
+"unta",
+"unta arab",
+"dromedari",
+"unta berbonggol satu"
+],
+"arasaac-symbols/drop.png": [
+"jatuhkan",
+"jatuh",
+"lepaskan",
+"letak",
+"jatuhkan bola"
+],
+"arasaac-symbols/dropper.png": [
+"penitis",
+"titis",
+"penitis ubat",
+"pipet"
+],
+"arasaac-symbols/dropper_1.png": [
+"penitis",
+"titis ubat",
+"ubat titis",
+"botol penitis",
+"pipet"
+],
+"arasaac-symbols/drops.png": [
+"titisan",
+"titik",
+"titisan air",
+"titis"
+],
+"arasaac-symbols/drops_1.png": [
+"titisan",
+"titik air",
+"titisan air",
+"titis",
+"hujan renyai"
+],
+"arasaac-symbols/drought.png": [
+"kemarau",
+"kering kontang",
+"musim kemarau",
+"kekeringan",
+"tanah kering",
+"tanah retak"
+],
+"arasaac-symbols/drove.png": [
+"kawanan babi",
+"sekawan",
+"babi",
+"kumpulan babi",
+"ternakan"
+],
+"arasaac-symbols/drown.png": [
+"lemas",
+"tenggelam",
+"mati lemas",
+"tolong"
+],
+"arasaac-symbols/drown_1.png": [
+"lemas",
+"tenggelam",
+"mati lemas",
+"tolong"
+],
+"arasaac-symbols/drug addiction.png": [
+"ketagihan dadah",
+"penagih dadah",
+"dadah",
+"suntik dadah",
+"bahaya"
+],
+"arasaac-symbols/drugs.png": [
+"dadah",
+"penagih",
+"ganja",
+"pil",
+"bahaya dadah",
+"syabu"
+],
+"arasaac-symbols/drugstore.png": [
+"farmasi",
+"kedai ubat",
+"kedai farmasi",
+"ubat"
+],
+"arasaac-symbols/drum festival.png": [
+"perayaan dram",
+"pesta dram",
+"bermain dram",
+"dram",
+"perarakan"
+],
+"arasaac-symbols/drum set.png": [
+"set dram",
+"dram",
+"drum",
+"alat muzik",
+"bermain dram"
+],
+"arasaac-symbols/drum.png": [
+"gendang",
+"dram",
+"beduk",
+"kayu dram",
+"alat muzik"
+],
+"arasaac-symbols/drum_1.png": [
+"tong",
+"tong dram",
+"drum",
+"tong minyak",
+"tong besi"
+],
+"arasaac-symbols/drum_2.png": [
+"pemain dram",
+"main dram",
+"dram",
+"gendang",
+"bermain dram",
+"muzik"
+],
+"arasaac-symbols/drunk.png": [
+"mabuk",
+"orang mabuk",
+"arak",
+"minum arak",
+"botol"
+],
+"arasaac-symbols/drunk_1.png": [
+"mabuk",
+"orang mabuk",
+"arak",
+"minum arak",
+"perempuan mabuk"
+],
+"arasaac-symbols/drunkenness.png": [
+"mabuk",
+"kemabukan",
+"minum arak",
+"arak",
+"pening"
+],
+"arasaac-symbols/drunkenness_1.png": [
+"mabuk",
+"kemabukan",
+"minum arak",
+"arak",
+"pening"
+],
+"arasaac-symbols/dry bean.png": [
+"kacang kering",
+"biji kacang",
+"kacang",
+"kekacang"
+],
+"arasaac-symbols/dry fruit.png": [
+"buah kering",
+"kacang",
+"kekacang",
+"badam",
+"walnut",
+"biji bunga matahari"
+],
+"arasaac-symbols/dry ham dish.png": [
+"daging kering",
+"ham",
+"ham kering",
+"daging dendeng",
+"hidangan ham"
+],
+"arasaac-symbols/dry leaves.png": [
+"daun kering",
+"daun gugur",
+"daun",
+"musim luruh"
+],
+"arasaac-symbols/dry.png": [
+"kering",
+"lap tangan",
+"keringkan tangan",
+"tuala",
+"tangan basah"
+],
+"arasaac-symbols/dry_1.png": [
+"jemur",
+"jemur baju",
+"kering",
+"seluar jean",
+"ampai",
+"jemuran"
+],
+"arasaac-symbols/dry_10.png": [
+"pengering rambut",
+"keringkan rambut",
+"dandan rambut",
+"hair dryer"
+],
+"arasaac-symbols/dry_11.png": [
+"pengering rambut",
+"keringkan rambut",
+"dandan rambut",
+"hair dryer"
+],
+"arasaac-symbols/dry_12.png": [
+"keringkan rambut",
+"lap rambut",
+"tuala",
+"kering"
+],
+"arasaac-symbols/dry_13.png": [
+"lap muka",
+"keringkan muka",
+"tuala",
+"kering"
+],
+"arasaac-symbols/dry_14.png": [
+"lap tangan",
+"keringkan tangan",
+"tuala",
+"kering"
+],
+"arasaac-symbols/dry_15.png": [
+"lap pinggan",
+"keringkan pinggan",
+"kain lap",
+"basuh pinggan"
+],
+"arasaac-symbols/dry_16.png": [
+"lap tangan",
+"keringkan tangan",
+"kering",
+"tisu"
+],
+"arasaac-symbols/dry_2.png": [
+"pengering rambut",
+"keringkan rambut",
+"dandan rambut",
+"hair dryer"
+],
+"arasaac-symbols/dry_3.png": [
+"lap pinggan",
+"keringkan pinggan",
+"kain lap",
+"kering"
+],
+"arasaac-symbols/dry_4.png": [
+"lap meja",
+"bersihkan meja",
+"kain lap",
+"lap"
+],
+"arasaac-symbols/dry_5.png": [
+"pengering rambut",
+"keringkan rambut",
+"dandan rambut",
+"hair dryer"
+],
+"arasaac-symbols/dry_6.png": [
+"lap badan",
+"keringkan badan",
+"tuala",
+"lepas mandi"
+],
+"arasaac-symbols/dry_7.png": [
+"lap badan",
+"keringkan badan",
+"tuala",
+"lepas mandi"
+],
+"arasaac-symbols/dry_8.png": [
+"lap badan",
+"keringkan badan",
+"tuala",
+"lepas mandi"
+],
+"arasaac-symbols/dry_9.png": [
+"jemur",
+"kering",
+"jemur kain",
+"ampai",
+"panas matahari"
+],
+"arasaac-symbols/dryer.png": [
+"mesin pengering",
+"pengering pakaian",
+"mesin dobi",
+"pengering baju",
+"kering"
+],
+"arasaac-symbols/duathlon.png": [
+"duatlon",
+"lari dan berbasikal",
+"sukan",
+"berbasikal",
+"berlari"
+],
+"arasaac-symbols/duck.png": [
+"itik",
+"itik kuning",
+"anak itik",
+"bebek"
+],
+"arasaac-symbols/duck_1.png": [
+"itik",
+"itik mallard",
+"itik jantan",
+"itik liar"
+],
+"arasaac-symbols/duck_2.png": [
+"itik",
+"itik putih",
+"itik ternakan",
+"bebek"
+],
+"arasaac-symbols/dulce de leche.png": [
+"dulce de leche",
+"karamel",
+"sapuan karamel",
+"jem susu",
+"manisan"
+],
+"arasaac-symbols/dumb.png": [
+"bisu",
+"tak boleh bercakap",
+"tidak bercakap",
+"pekak bisu",
+"dengar"
+],
+"arasaac-symbols/dumb_1.png": [
+"bisu",
+"tak boleh bercakap",
+"tidak bercakap",
+"pekak bisu",
+"dengar"
+],
+"arasaac-symbols/dump.png": [
+"sampah",
+"tempat buangan sampah",
+"buang sampah",
+"kotor",
+"busuk",
+"sampah sarap"
+],
+"arasaac-symbols/duration of activity.png": [
+"tempoh aktiviti",
+"tempoh",
+"berapa lama",
+"masa aktiviti",
+"jangka masa"
+],
+"arasaac-symbols/during.png": [
+"semasa",
+"ketika",
+"tempoh",
+"sepanjang",
+"masa"
+],
+"arasaac-symbols/during_1.png": [
+"semasa",
+"ketika",
+"antara",
+"di antara waktu",
+"masa"
+],
+"arasaac-symbols/dusk.png": [
+"senja",
+"petang",
+"matahari terbenam",
+"waktu senja",
+"maghrib",
+"malam"
+],
+"arasaac-symbols/dust.png": [
+"habuk",
+"bersihkan habuk",
+"kibas habuk",
+"sapu habuk",
+"kemoceng"
+],
+"arasaac-symbols/dust_1.png": [
+"jemur selimut",
+"kibas selimut",
+"kibas",
+"selimut",
+"tilam",
+"kemas katil"
+],
+"arasaac-symbols/dust_2.png": [
+"habuk",
+"debu",
+"kemoceng",
+"kibas habuk",
+"berhabuk"
+],
+"arasaac-symbols/dust_3.png": [
+"jemur selimut",
+"kibas selimut",
+"kibas",
+"selimut",
+"kemas katil"
+],
+"arasaac-symbols/dust_4.png": [
+"kibas selimut",
+"kibas",
+"selimut",
+"tingkap",
+"jemur"
+],
+"arasaac-symbols/dustpan.png": [
+"penyodok sampah",
+"penyodok",
+"sodok sampah",
+"kebersihan"
+],
+"arasaac-symbols/duvet.png": [
+"selimut tebal",
+"selimut",
+"duvet",
+"katil",
+"comforter"
+],
+"arasaac-symbols/dye.png": [
+"celup",
+"pewarna",
+"mewarna baju",
+"warna kain",
+"pencelup",
+"basahkan baju"
+]
+}
