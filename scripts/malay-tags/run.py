@@ -12,11 +12,11 @@ MAX = int(sys.argv[3]) if len(sys.argv) > 3 else 10**9
 HERE = pathlib.Path(__file__).parent
 OUT = HERE / "out"
 SIZE, WORKERS, COMMIT_EVERY = 75, 4, 8
-FIVE_HOUR_MAX = 50
+FIVE_HOUR_MAX = 80
 WEEK_RESET = dt.datetime(2026, 11, 7, 2, 0, tzinfo=dt.timezone.utc)
 USAGE = pathlib.Path.home() / ".claude/usage.json"
 PROMPT = (HERE / "prompt.txt").read_text()
-MAX_PER_5H = 28
+MAX_PER_5H = 55
 lock, done_since_commit, starts = threading.Lock(), [0], []
 
 
@@ -104,6 +104,9 @@ def run_batch(n, items):
 
 def main():
     WORK.mkdir(parents=True, exist_ok=True)
+    # Batches from an earlier start still count towards the 5-hour cap.
+    starts.extend(f.stat().st_mtime for f in OUT.glob("batch-*.json")
+                  if time.time() - f.stat().st_mtime < 5 * 3600)
     pilot = json.loads((OUT / "pilot.json").read_text())
     order = {"custom": 0, "tawasol-symbols": 1, "mulberry-symbols": 2, "arasaac-symbols": 3}
     todo = [s for s in json.loads((HERE / "symbols-list.json").read_text()) if s["file"] not in pilot]
