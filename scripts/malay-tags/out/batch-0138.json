@@ -1,0 +1,591 @@
+{
+"arasaac-symbols/import.png": [
+"import",
+"mengimport",
+"barang import",
+"bawa masuk",
+"hantar masuk",
+"dagangan import"
+],
+"arasaac-symbols/important.png": [
+"penting",
+"yang penting",
+"tanda penting",
+"perkara penting",
+"ditandakan"
+],
+"arasaac-symbols/improve.png": [
+"baiki",
+"tambah baik",
+"memperbaiki",
+"bertambah baik",
+"peningkatan",
+"naik",
+"bertambah maju"
+],
+"arasaac-symbols/impulse.png": [
+"dorongan",
+"menolak",
+"tolak",
+"desakan",
+"impuls",
+"ikut perasaan"
+],
+"arasaac-symbols/impulse_1.png": [
+"dorongan",
+"menolak",
+"tolak",
+"desakan",
+"impuls"
+],
+"arasaac-symbols/impulse_2.png": [
+"keadilan",
+"berkumpul",
+"hak",
+"bertindak melulu",
+"dorongan",
+"impuls"
+],
+"arasaac-symbols/in front.png": [
+"di depan",
+"depan",
+"hadapan",
+"di hadapan",
+"bulatan merah di depan"
+],
+"arasaac-symbols/in love.png": [
+"jatuh cinta",
+"cinta",
+"sayang",
+"bercinta",
+"pasangan bercinta",
+"suka"
+],
+"arasaac-symbols/in love_1.png": [
+"jatuh cinta",
+"cinta",
+"sayang",
+"bunga",
+"bercinta",
+"pasangan",
+"beri bunga"
+],
+"arasaac-symbols/in love_2.png": [
+"jatuh cinta",
+"cinta",
+"sayang",
+"dua perempuan bercinta",
+"bercinta",
+"pasangan"
+],
+"arasaac-symbols/in love_3.png": [
+"jatuh cinta",
+"cinta",
+"sayang",
+"dua lelaki bercinta",
+"bercinta",
+"beri bunga"
+],
+"arasaac-symbols/in love_4.png": [
+"jatuh cinta",
+"cinta",
+"sayang",
+"dua perempuan",
+"bercinta",
+"beri bunga"
+],
+"arasaac-symbols/in love_5.png": [
+"jatuh cinta",
+"cinta",
+"sayang",
+"angau",
+"tergila-gila",
+"muka sayang"
+],
+"arasaac-symbols/in vitro fertilization.png": [
+"persenyawaan in vitro",
+"ivf",
+"bayi tabung uji",
+"suntik sperma",
+"sel telur",
+"persenyawaan"
+],
+"arasaac-symbols/incense.png": [
+"colok",
+"dupa",
+"kemenyan",
+"bakar colok",
+"bau wangi",
+"asap"
+],
+"arasaac-symbols/include.png": [
+"masukkan",
+"sertakan",
+"termasuk",
+"libatkan",
+"ikut serta",
+"kerusi roda masuk"
+],
+"arasaac-symbols/include_1.png": [
+"masukkan",
+"sertakan",
+"termasuk",
+"libatkan",
+"inklusif",
+"kemasukan"
+],
+"arasaac-symbols/include_2.png": [
+"masukkan",
+"sertakan",
+"termasuk",
+"libatkan",
+"inklusif",
+"semua orang"
+],
+"arasaac-symbols/inclusion.png": [
+"keterangkuman",
+"inklusif",
+"kemasukan",
+"libatkan semua",
+"semua orang",
+"tak dipinggirkan"
+],
+"arasaac-symbols/income.png": [
+"pendapatan",
+"gaji",
+"duit masuk",
+"hasil",
+"pendapatan meningkat",
+"wang"
+],
+"arasaac-symbols/incomprehensible.png": [
+"tak faham",
+"tidak dapat difahami",
+"sukar difahami",
+"bingung",
+"tak paham",
+"mengarut"
+],
+"arasaac-symbols/incomprehension.png": [
+"tak faham",
+"tidak faham",
+"kekeliruan",
+"bingung",
+"tak paham",
+"sukar faham"
+],
+"arasaac-symbols/incorrect.png": [
+"salah",
+"tidak betul",
+"tak betul",
+"silap",
+"tanda salah"
+],
+"arasaac-symbols/incorrect_1.png": [
+"salah",
+"tidak betul",
+"tak betul",
+"jawapan salah",
+"silap",
+"tak boleh"
+],
+"arasaac-symbols/increase.png": [
+"tambah",
+"bertambah",
+"naik",
+"meningkat",
+"kanta pembesar",
+"membesar"
+],
+"arasaac-symbols/incubate.png": [
+"mengeram",
+"erami",
+"ayam mengeram",
+"telur",
+"menetas",
+"ayam bertelur"
+],
+"arasaac-symbols/incubator.png": [
+"inkubator",
+"bayi pramatang",
+"mesin inkubator",
+"peti bayi",
+"bayi tak cukup bulan",
+"hospital"
+],
+"arasaac-symbols/independence.png": [
+"kemerdekaan",
+"bebas",
+"berdikari",
+"berjalan sendiri",
+"kerusi roda",
+"tak perlu bantuan"
+],
+"arasaac-symbols/independent.png": [
+"berdikari",
+"bebas",
+"bergantung pada diri sendiri",
+"jalan sendiri",
+"bebas bergerak",
+"tak perlukan bantuan"
+],
+"arasaac-symbols/independent_1.png": [
+"berdikari",
+"bebas",
+"jalan sendiri",
+"alat bantu jalan",
+"bergerak sendiri",
+"tak perlukan bantuan"
+],
+"arasaac-symbols/independent_2.png": [
+"berdikari",
+"bebas",
+"jalan sendiri",
+"bergerak sendiri",
+"tak perlukan bantuan"
+],
+"arasaac-symbols/independent_3.png": [
+"berdikari",
+"bebas",
+"tali boneka",
+"tak dikawal",
+"bebas daripada kawalan",
+"dikawal"
+],
+"arasaac-symbols/index.png": [
+"bebas",
+"tidak dikawal",
+"tali boneka",
+"kerusi roda",
+"bebas kawalan",
+"berdikari"
+],
+"arasaac-symbols/indicate.png": [
+"indeks",
+"senarai",
+"kandungan",
+"senarai kandungan",
+"buku",
+"isi kandungan"
+],
+"arasaac-symbols/indicate_1.png": [
+"tunjuk",
+"menunjuk",
+"menunjukkan",
+"tuding",
+"tunjuk jari",
+"pilih"
+],
+"arasaac-symbols/indicator.png": [
+"tunjuk",
+"menunjuk",
+"tuding",
+"tunjuk arah",
+"menunjukkan"
+],
+"arasaac-symbols/indicator_1.png": [
+"penunjuk",
+"lampu isyarat",
+"lampu signal",
+"lampu kereta",
+"isyarat",
+"signal kereta",
+"lampu belakang"
+],
+"arasaac-symbols/indifference.png": [
+"papan tanda",
+"penunjuk arah",
+"tanda arah",
+"anak panah",
+"tunjuk arah",
+"penunjuk"
+],
+"arasaac-symbols/indigenous circumpolar person.png": [
+"tak peduli",
+"sikap acuh tak acuh",
+"tidak ambil peduli",
+"endah tak endah",
+"acuh tak acuh",
+"tak kisah"
+],
+"arasaac-symbols/indigenous circumpolar person_1.png": [
+"orang eskimo",
+"orang kutub",
+"orang artik",
+"baju tebal",
+"pakaian musim sejuk",
+"orang asli kutub"
+],
+"arasaac-symbols/indigenous person of Africa.png": [
+"orang eskimo",
+"orang kutub",
+"orang artik",
+"baju tebal",
+"pakaian musim sejuk",
+"budak kutub"
+],
+"arasaac-symbols/indigenous person of Africa_1.png": [
+"orang afrika",
+"lelaki afrika",
+"pakaian tradisional afrika",
+"orang asli afrika",
+"orang africa"
+],
+"arasaac-symbols/indigenous person of Asia.png": [
+"orang afrika",
+"perempuan afrika",
+"pakaian tradisional afrika",
+"orang asli afrika",
+"orang africa"
+],
+"arasaac-symbols/indigenous person of Asia_1.png": [
+"orang cina",
+"lelaki cina",
+"pakaian tradisional cina",
+"orang asia",
+"baju cina"
+],
+"arasaac-symbols/indigenous person of Asia_2.png": [
+"orang cina",
+"lelaki cina",
+"pakaian cina lama",
+"orang asia",
+"topi caping"
+],
+"arasaac-symbols/indigenous person of the Americas.png": [
+"orang india",
+"perempuan india",
+"sari",
+"pakaian tradisional india",
+"orang asia",
+"wanita india"
+],
+"arasaac-symbols/indigenous person of the Americas_1.png": [
+"orang asli amerika",
+"red indian",
+"ketua suku",
+"pakaian tradisional",
+"orang asli",
+"orang amerika"
+],
+"arasaac-symbols/indigenous person of the Americas_2.png": [
+"orang asli amerika selatan",
+"lelaki peru",
+"pakaian tradisional",
+"poncho",
+"orang asli",
+"orang amerika"
+],
+"arasaac-symbols/indigenous person of the Americas_3.png": [
+"orang asli amerika selatan",
+"perempuan peru",
+"pakaian tradisional",
+"skirt berwarna",
+"orang asli",
+"orang amerika"
+],
+"arasaac-symbols/industrial area.png": [
+"orang asli amerika",
+"red indian",
+"perempuan red indian",
+"pakaian tradisional",
+"orang asli",
+"orang amerika"
+],
+"arasaac-symbols/infirmary.png": [
+"kawasan perindustrian",
+"kilang",
+"zon perindustrian",
+"industri",
+"kawasan kilang"
+],
+"arasaac-symbols/infirmary_1.png": [
+"bilik sakit",
+"klinik",
+"palang merah",
+"pusat kesihatan",
+"rawatan kecemasan",
+"bilik rawatan"
+],
+"arasaac-symbols/infirmary_2.png": [
+"bilik sakit",
+"klinik",
+"palang merah",
+"bilik rawatan",
+"katil periksa",
+"jururawat"
+],
+"arasaac-symbols/infirmary_3.png": [
+"bilik sakit",
+"klinik",
+"bintang david",
+"bilik rawatan",
+"katil periksa"
+],
+"arasaac-symbols/inflatable castle.png": [
+"bilik sakit",
+"klinik",
+"bulan sabit merah",
+"bilik rawatan",
+"katil periksa",
+"pusat kesihatan"
+],
+"arasaac-symbols/inflatable pool.png": [
+"istana kembung",
+"istana tiup",
+"istana melantun",
+"taman permainan",
+"permainan kanak-kanak",
+"bouncy castle"
+],
+"arasaac-symbols/information.png": [
+"kolam kembung",
+"kolam tiup",
+"kolam renang kecil",
+"kolam kanak-kanak",
+"kolam mandi"
+],
+"arasaac-symbols/information_1.png": [
+"maklumat",
+"info",
+"tanda maklumat",
+"pertanyaan",
+"bahagian pertanyaan"
+],
+"arasaac-symbols/information_2.png": [
+"maklumat",
+"info",
+"kaunter pertanyaan",
+"kaunter maklumat",
+"pegawai pertanyaan",
+"lelaki"
+],
+"arasaac-symbols/information_3.png": [
+"maklumat",
+"info",
+"kaunter pertanyaan",
+"kaunter maklumat",
+"pegawai pertanyaan",
+"perempuan"
+],
+"arasaac-symbols/information_4.png": [
+"maklumat",
+"info",
+"kaunter pertanyaan",
+"kaunter maklumat",
+"pegawai pertanyaan",
+"risalah"
+],
+"arasaac-symbols/informed consent.png": [
+"maklumat",
+"info",
+"kaunter maklumat",
+"komputer",
+"pertanyaan",
+"risalah"
+],
+"arasaac-symbols/infrared thermometer.png": [
+"persetujuan termaklum",
+"tanda tangan",
+"borang persetujuan",
+"setuju",
+"borang",
+"tandatangan"
+],
+"arasaac-symbols/infusion pump.png": [
+"termometer inframerah",
+"termometer",
+"suhu badan",
+"ukur suhu",
+"demam",
+"periksa suhu"
+],
+"arasaac-symbols/infusion.png": [
+"pam infusi",
+"pam drip",
+"tiang drip",
+"drip",
+"mesin drip",
+"hospital"
+],
+"arasaac-symbols/ingenuous.png": [
+"infusi",
+"teh",
+"teh celup",
+"seduhan",
+"minuman panas",
+"air teh",
+"secawan teh"
+],
+"arasaac-symbols/ingredients.png": [
+"jujur",
+"naif",
+"polos",
+"lurus",
+"tak bersalah",
+"tak tahu apa-apa"
+],
+"arasaac-symbols/inhale.png": [
+"bahan",
+"bahan-bahan",
+"ramuan",
+"resipi",
+"salad",
+"bahan masakan"
+],
+"arasaac-symbols/inhale_1.png": [
+"tarik nafas",
+"bernafas",
+"hirup",
+"sedut udara",
+"tarik nafas masuk",
+"menarik nafas"
+],
+"arasaac-symbols/inhale_2.png": [
+"tarik nafas",
+"bernafas",
+"hirup",
+"sedut udara",
+"menarik nafas"
+],
+"arasaac-symbols/inhale_3.png": [
+"sedut ubat",
+"inhaler",
+"nebulizer",
+"tarik nafas",
+"sedut",
+"ubat sedut"
+],
+"arasaac-symbols/inhale_4.png": [
+"tarik nafas",
+"bernafas",
+"hirup",
+"sedut udara",
+"menarik nafas",
+"perempuan"
+],
+"arasaac-symbols/inhale_5.png": [
+"sedut oksigen",
+"oksigen",
+"tangki oksigen",
+"topeng oksigen",
+"tarik nafas",
+"bernafas"
+],
+"arasaac-symbols/inhale_6.png": [
+"sedut oksigen",
+"oksigen",
+"tangki oksigen",
+"topeng oksigen",
+"tarik nafas",
+"bernafas"
+],
+"arasaac-symbols/inhaled medication.png": [
+"inhaler",
+"ubat sedut",
+"ubat asma",
+"sedut ubat",
+"penyedut asma",
+"spacer"
+]
+}
