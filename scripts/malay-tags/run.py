@@ -16,7 +16,7 @@ FIVE_HOUR_MAX = 80
 WEEK_RESET = dt.datetime(2026, 11, 7, 2, 0, tzinfo=dt.timezone.utc)
 USAGE = pathlib.Path.home() / ".claude/usage.json"
 PROMPT = (HERE / "prompt.txt").read_text()
-MAX_PER_5H = 55
+MAX_PER_5H = 85
 lock, done_since_commit, starts = threading.Lock(), [0], []
 
 
