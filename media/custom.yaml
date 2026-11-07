@@ -429,3 +429,39 @@
 - name: teh-tarik-mug
   file: local/teh-tarik-mug.png
   tags: [teh tarik, tea, milk tea, mug, glass, drink, malaysian]
+
+- name: school-uniform-boy-long
+  file: local/school-uniform-boy-long.png
+  tags: [school uniform, uniform, student, school, clothes, primary school, boy, long trousers]
+
+- name: school-uniform-boy-2
+  file: local/school-uniform-boy-2.png
+  tags: [school uniform, uniform, student, school, clothes, primary school, boy]
+
+- name: school-uniform-boy-3
+  file: local/school-uniform-boy-3.png
+  tags: [school uniform, uniform, student, school, clothes, primary school, boy]
+
+- name: school-uniform-girl-kurung
+  file: local/school-uniform-girl-kurung.png
+  tags: [school uniform, uniform, student, school, clothes, primary school, girl, baju kurung]
+
+- name: school-uniform-girl-pinafore
+  file: local/school-uniform-girl-pinafore.png
+  tags: [school uniform, uniform, student, school, clothes, primary school, girl, pinafore]
+
+- name: school-uniform-girl-pinafore-2
+  file: local/school-uniform-girl-pinafore-2.png
+  tags: [school uniform, uniform, student, school, clothes, primary school, girl, pinafore]
+
+- name: secondary-uniform-boy
+  file: local/secondary-uniform-boy.png
+  tags: [school uniform, uniform, student, school, clothes, secondary school, teenager, boy]
+
+- name: secondary-uniform-girl-kurung
+  file: local/secondary-uniform-girl-kurung.png
+  tags: [school uniform, uniform, student, school, clothes, secondary school, teenager, girl, baju kurung, tudung]
+
+- name: secondary-uniform-girl-pinafore
+  file: local/secondary-uniform-girl-pinafore.png
+  tags: [school uniform, uniform, student, school, clothes, secondary school, teenager, girl, pinafore]
