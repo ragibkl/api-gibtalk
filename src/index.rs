@@ -1,5 +1,5 @@
 use serde::Deserialize;
-use std::collections::HashMap;
+use std::collections::{HashMap, HashSet};
 use std::path::Path;
 
 /// Shortest query that also matches its plural.
@@ -10,6 +10,9 @@ const MIN_PLURAL_LEN: usize = 3;
 const MIN_PREFIX_LEN: usize = 4;
 /// Shortest query that may match inside a word ("berry" → strawberry).
 const MIN_INSIDE_LEN: usize = 5;
+/// Shortest word left after taking an ending off, or either half of a joined
+/// word.
+const MIN_WORD_LEN: usize = 3;
 /// Score of a word that is a whole Malay word or English tag. Words that mean
 /// something in both languages ("air", "main") take turns from here up, so both
 /// meanings show. "water" isn't one: it only appears inside "water heater".
@@ -33,6 +36,8 @@ pub struct Symbol {
 #[derive(Debug, Clone)]
 pub struct SymbolIndex {
     symbols: Vec<Symbol>,
+    /// How many symbols use each whole word in a name, tag or Malay word.
+    words: HashMap<String, usize>,
 }
 
 /// One search result before ranking.
@@ -62,6 +67,29 @@ fn normalize(text: &str) -> String {
 /// Normalized text with a space at each end, so " cat " finds whole words.
 fn padded(text: &str) -> String {
     format!(" {} ", normalize(text))
+}
+
+/// What `word` might be without an English ending, likeliest first:
+/// "running" → "run", "whining" → "whine", "showering" → "shower".
+fn word_stems(word: &str) -> Vec<String> {
+    let mut stems = Vec::new();
+    for ending in ["ing", "ed", "es", "s"] {
+        let Some(stem) = word.strip_suffix(ending) else {
+            continue;
+        };
+        if ending == "ing" || ending == "ed" {
+            let mut letters = stem.chars().rev();
+            if let (Some(last), Some(before)) = (letters.next(), letters.next()) {
+                if last == before {
+                    stems.push(stem[..stem.len() - last.len_utf8()].to_string());
+                }
+            }
+            stems.push(format!("{stem}e"));
+        }
+        stems.push(stem.to_string());
+    }
+    stems.retain(|stem| stem.chars().count() >= MIN_WORD_LEN);
+    stems
 }
 
 /// How well `query` (normalized) fits one padded text.
@@ -183,12 +211,14 @@ impl Symbol {
         }
     }
 
-    /// Several words: 10 for each whole word found anywhere in the symbol, 5
-    /// for a part of one, so "nasi" prefers rice to "nasihat".
-    fn partial_score(&self, terms: &[Query]) -> i32 {
+    /// Several words: 10 for each whole word found anywhere in the symbol, plus
+    /// that word's rarity bonus, and 5 for a part of one, so "nasi" prefers
+    /// rice to "nasihat".
+    fn partial_score(&self, terms: &[Query], bonuses: &[i32]) -> i32 {
         terms
             .iter()
-            .map(|term| {
+            .zip(bonuses)
+            .map(|(term, bonus)| {
                 let best = [
                     fit(&self.name_text, term),
                     self.best_tag_fit(term),
@@ -200,7 +230,7 @@ impl Symbol {
                 match best {
                     Fit::None => 0,
                     Fit::Inside | Fit::Prefix => 5,
-                    _ => 10,
+                    _ => 10 + bonus,
                 }
             })
             .sum()
@@ -269,20 +299,76 @@ impl SymbolIndex {
         }
 
         tracing::info!("loaded {} symbols from {}", symbols.len(), media_dir);
-        SymbolIndex { symbols }
+        let mut words = HashMap::new();
+        for symbol in &symbols {
+            let own: HashSet<&str> = symbol
+                .tag_texts
+                .iter()
+                .chain(&symbol.malay_texts)
+                .chain([&symbol.name_text])
+                .flat_map(|text| text.split_whitespace())
+                .collect();
+            for word in own {
+                *words.entry(word.to_string()).or_insert(0) += 1;
+            }
+        }
+        SymbolIndex { symbols, words }
     }
 
     pub fn search(&self, query: &str, limit: usize) -> Vec<&Symbol> {
         let query = normalize(query);
         let results = self.search_normalized(&query, limit);
-
-        // Nothing for "dogs": try "dog".
-        match query.strip_suffix('s') {
-            Some(singular) if results.is_empty() && singular.chars().count() >= MIN_PLURAL_LEN => {
-                self.search_normalized(singular, limit)
-            }
-            _ => results,
+        if !results.is_empty() {
+            return results;
         }
+
+        // Nothing for "showering" or "makerpen": try "shower" and "maker pen".
+        match self.other_form(&query) {
+            Some(other) => self.search_normalized(&other, limit),
+            None => results,
+        }
+    }
+
+    /// A single word that isn't known, as words that are. Only whole known
+    /// words count, or a Malay word could lose an "ending" it doesn't have.
+    fn other_form(&self, query: &str) -> Option<String> {
+        if query.contains(' ') {
+            return None;
+        }
+        word_stems(query)
+            .into_iter()
+            .find(|stem| self.words.contains_key(stem))
+            .or_else(|| self.split_joined(query))
+    }
+
+    /// Extra points for a rare word, at most 4 so a symbol with more of the
+    /// words still wins: in "air kelapa", "kelapa" (coconut, a few symbols)
+    /// counts for more than "air" (water, hundreds).
+    fn rarity_bonus(&self, word: &str) -> i32 {
+        match self.words.get(word).copied().unwrap_or(0) {
+            0 => 0,
+            1..=10 => 4,
+            11..=50 => 3,
+            51..=200 => 2,
+            201..=1000 => 1,
+            _ => 0,
+        }
+    }
+
+    /// "nasilemak" → "nasi lemak". Both words must belong to one symbol, or
+    /// "youtube" would become "you tube" and find every "are you...".
+    fn split_joined(&self, query: &str) -> Option<String> {
+        let known = |word: &str| word.chars().count() >= MIN_WORD_LEN && self.words.contains_key(word);
+        let together = |first: &str, second: &str| {
+            let terms = [Query::new(first), Query::new(second)];
+            self.symbols.iter().any(|s| s.partial_score(&terms, &[0, 0]) == 20)
+        };
+        query
+            .char_indices()
+            .rev()
+            .map(|(i, _)| query.split_at(i))
+            .find(|(first, second)| known(first) && known(second) && together(first, second))
+            .map(|(first, second)| format!("{first} {second}"))
     }
 
     fn search_normalized(&self, query: &str, limit: usize) -> Vec<&Symbol> {
@@ -295,6 +381,7 @@ impl SymbolIndex {
             return Vec::new();
         }
         let phrase = Query::new(query);
+        let bonuses: Vec<i32> = terms.iter().map(|t| self.rarity_bonus(t.text)).collect();
 
         // Rank each language on its own, then let them share the top places.
         let (mut english, mut malay) = (Vec::new(), Vec::new());
@@ -316,7 +403,7 @@ impl SymbolIndex {
                     position: 0,
                 });
             } else {
-                let score = symbol.partial_score(&terms);
+                let score = symbol.partial_score(&terms, &bonuses);
                 if score > 0 {
                     english.push(Hit {
                         symbol,
@@ -373,7 +460,7 @@ mod tests {
     }
 
     /// Malay searches that must keep passing. Raise it as search improves.
-    const MS_FLOOR: usize = 96;
+    const MS_FLOOR: usize = 104;
 
     fn found(case: &Case, results: &[&Symbol]) -> bool {
         results.iter().take(5).any(|symbol| {
@@ -438,5 +525,33 @@ mod tests {
         assert!(names("???").is_empty());
         assert!(names("appl").iter().any(|n| n.starts_with("apple")));
         assert!(names("berry").iter().any(|n| n.contains("strawberry")));
+    }
+
+    #[test]
+    fn word_stems_undo_endings() {
+        assert!(word_stems("showering").contains(&"shower".to_string()));
+        assert_eq!(word_stems("running")[0], "run");
+        assert_eq!(word_stems("whining")[0], "whine");
+        assert_eq!(word_stems("dogs"), ["dog"]);
+        assert!(word_stems("as").is_empty());
+        assert_eq!(word_stems("caféééing")[0], "caféé");
+    }
+
+    #[test]
+    fn other_forms_only_use_known_words() {
+        let index = SymbolIndex::load("./media");
+
+        assert_eq!(index.other_form("showering").as_deref(), Some("shower"));
+        assert_eq!(index.other_form("nasilemak").as_deref(), Some("nasi lemak"));
+        assert_eq!(index.other_form("qqqqing"), None);
+        assert_eq!(index.other_form("youtube"), None);
+    }
+
+    #[test]
+    fn rare_words_lead_partial_matches() {
+        let index = SymbolIndex::load("./media");
+        let first = index.search("air kelapa", 5)[0].name.clone();
+        assert!(first.contains("coconut"), "air kelapa led with {first}");
+        assert_eq!(index.other_form("air kelapa"), None);
     }
 }
