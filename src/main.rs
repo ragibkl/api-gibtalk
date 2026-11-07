@@ -37,6 +37,7 @@ struct SymbolsSearchQuery {
 
 #[derive(Serialize, Deserialize, Debug)]
 struct SymbolOutput {
+    name: String,
     url: String,
 }
 
@@ -52,7 +53,10 @@ async fn symbols_search(
         .into_iter()
         .filter_map(|symbol| {
             let url = base_url.join(&symbol.file).ok()?.to_string();
-            Some(SymbolOutput { url })
+            Some(SymbolOutput {
+                name: symbol.name.clone(),
+                url,
+            })
         })
         .collect();
 

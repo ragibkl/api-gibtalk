@@ -28,8 +28,8 @@ curl "https://api.gibtalk.com/api/symbols/search/?q=apple"
 
 ```json
 [
-  { "url": "https://api.gibtalk.com/media/arasaac-symbols/apple.png" },
-  { "url": "https://api.gibtalk.com/media/mulberry-symbols/apple.png" }
+  { "name": "apple", "url": "https://api.gibtalk.com/media/arasaac-symbols/apple.png" },
+  { "name": "apple", "url": "https://api.gibtalk.com/media/mulberry-symbols/apple.png" }
 ]
 ```
 

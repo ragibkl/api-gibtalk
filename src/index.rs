@@ -14,6 +14,8 @@ const MIN_INSIDE_LEN: usize = 5;
 /// something in both languages ("air", "main") take turns from here up, so both
 /// meanings show. "water" isn't one: it only appears inside "water heater".
 const SHARED_WORD_SCORE: i32 = 60;
+/// Lowest score for a whole-word match.
+const WHOLE_WORD_SCORE: i32 = 50;
 /// Malay words for each symbol, by path under media. Remove it and search is
 /// English only.
 const MALAY_WORDS_FILE: &str = "words-ms.yaml";
@@ -161,7 +163,7 @@ impl Symbol {
             (Fit::WordsAtStart, _) => 80,
             (Fit::Words, _) => 70,
             (_, Fit::Exact) => SHARED_WORD_SCORE,
-            (_, Fit::WordsAtStart | Fit::Words) => 50,
+            (_, Fit::WordsAtStart | Fit::Words) => WHOLE_WORD_SCORE,
             (Fit::Prefix, _) => 40,
             (_, Fit::Prefix) => 35,
             (Fit::Inside, _) => 30,
@@ -174,7 +176,7 @@ impl Symbol {
     fn malay_score(fit: Fit) -> i32 {
         match fit {
             Fit::Exact => SHARED_WORD_SCORE,
-            Fit::WordsAtStart | Fit::Words => 50,
+            Fit::WordsAtStart | Fit::Words => WHOLE_WORD_SCORE,
             Fit::Prefix => 35,
             Fit::Inside => 25,
             Fit::None => 0,
@@ -325,6 +327,13 @@ impl SymbolIndex {
             }
         }
 
+        // Malay adds prefixes to words, so "beras" (rice) starts "berasap" (smoky)
+        // and "berasal" (comes from). Once a whole word is found, drop those.
+        let whole_word = |h: &Hit| h.score >= WHOLE_WORD_SCORE;
+        if english.iter().chain(&malay).any(whole_word) {
+            malay.retain(whole_word);
+        }
+
         let rank = |hits: &mut Vec<Hit>| hits.sort_by_key(|h| (-h.score, h.position));
         rank(&mut english);
         rank(&mut malay);
@@ -364,7 +373,7 @@ mod tests {
     }
 
     /// Malay searches that must keep passing. Raise it as search improves.
-    const MS_FLOOR: usize = 95;
+    const MS_FLOOR: usize = 96;
 
     fn found(case: &Case, results: &[&Symbol]) -> bool {
         results.iter().take(5).any(|symbol| {
