@@ -425,3 +425,7 @@
 - name: nasi-daun-pisang
   file: local/nasi-daun-pisang.png
   tags: [banana leaf rice, rice, curry, food, indian, malaysian]
+
+- name: teh-tarik-mug
+  file: local/teh-tarik-mug.png
+  tags: [teh tarik, tea, milk tea, mug, glass, drink, malaysian]

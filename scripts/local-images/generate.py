@@ -22,6 +22,7 @@ PICTURES = [
     # Daily food
     ("roti-canai", "Malaysian roti canai: a round golden flaky flatbread on a plate, with a small bowl of dhal curry beside it"),
     ("teh-tarik", "a Malaysian teh tarik: a person's hands pouring frothy milk tea in a long stream from one metal mug down into another"),
+    ("teh-tarik-mug", "a clear glass mug with a handle, full of light brown milk tea with a thick pale foam on top, as served in a Malaysian mamak restaurant"),
     ("nasi-goreng", "a plate of Malaysian nasi goreng: brown-red fried rice with bits of egg and vegetables, a fried egg on top, cucumber slices at the side"),
     ("mee-goreng", "a plate of Malaysian mee goreng mamak: reddish fried yellow noodles with tofu, egg and green vegetables, a lime half at the side"),
     ("laksa", "a bowl of Malaysian curry laksa: thick noodles in orange coconut curry soup, with tofu puffs, prawns and half a boiled egg"),
