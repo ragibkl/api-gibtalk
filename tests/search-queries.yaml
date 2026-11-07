@@ -16,6 +16,16 @@
 - { q: "belajar", lang: ms, expect: ["study", "learn"] }
 - { q: "kerusi", lang: ms, expect: ["chair"] }
 - { q: "nasi lemak", lang: ms, expect: ["nasi"] }
+- { q: "nasi lemak bungkus", lang: ms, expect: ["bungkus"] }
+- { q: "teh tarik", lang: ms, expect: ["tarik"] }
+- { q: "durian", lang: ms, expect: ["durian"] }
+- { q: "tandas cangkung", lang: ms, expect: ["cangkung"] }
+- { q: "gayung", lang: ms, expect: ["gayung"] }
+- { q: "baju sekolah", lang: ms, expect: ["uniform"] }
+- { q: "deepavali", lang: ms, expect: ["deepavali"] }
+- { q: "duit raya", lang: ms, expect: ["duit"] }
+- { q: "congkak", lang: ms, expect: ["congkak"] }
+- { q: "orang utan", lang: ms, expect: ["utan"] }
 - { q: "cikgu", lang: ms, expect: ["teacher"] }
 - { q: "marker pen", lang: ms, expect: ["marker"] }
 - { q: "nak", lang: ms, expect: ["want"], avoid: ["naked", "undress"] }
