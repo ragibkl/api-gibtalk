@@ -181,3 +181,251 @@
 - name: pk-different
   file: pk/different.png
   tags: [different, not the same, not equal, compare, core word]
+
+- name: nasi-lemak
+  file: local/nasi-lemak.png
+  tags: [nasi lemak, food, rice, coconut rice, breakfast, sambal, egg, anchovies, peanuts, banana leaf, malaysian]
+
+- name: nasi-lemak-bungkus
+  file: local/nasi-lemak-bungkus.png
+  tags: [nasi lemak bungkus, food, rice, takeaway, packet, breakfast, malaysian]
+
+- name: roti-canai
+  file: local/roti-canai.png
+  tags: [roti canai, roti prata, flatbread, bread, food, breakfast, malaysian]
+
+- name: teh-tarik
+  file: local/teh-tarik.png
+  tags: [teh tarik, tea, milk tea, pulled tea, drink, malaysian]
+
+- name: nasi-goreng
+  file: local/nasi-goreng.png
+  tags: [nasi goreng, fried rice, rice, food, malaysian]
+
+- name: mee-goreng
+  file: local/mee-goreng.png
+  tags: [mee goreng, fried noodles, noodles, food, malaysian]
+
+- name: laksa
+  file: local/laksa.png
+  tags: [laksa, curry noodles, noodles, soup, food, malaysian]
+
+- name: sambal
+  file: local/sambal.png
+  tags: [sambal, chilli paste, chili, spicy, food, malaysian]
+
+- name: kuih
+  file: local/kuih.png
+  tags: [kuih, malay cakes, cake, sweets, snack, food, malaysian]
+
+- name: sirap
+  file: local/sirap.png
+  tags: [sirap, rose syrup, drink, sweet drink, malaysian]
+
+- name: tosai
+  file: local/tosai.png
+  tags: [tosai, thosai, dosa, indian pancake, food, breakfast, malaysian]
+
+- name: durian
+  file: local/durian.png
+  tags: [durian, fruit, food, malaysian]
+
+- name: rambutan
+  file: local/rambutan.png
+  tags: [rambutan, fruit, food, malaysian]
+
+- name: manggis
+  file: local/manggis.png
+  tags: [mangosteen, manggis, fruit, food, malaysian]
+
+- name: cendol
+  file: local/cendol.png
+  tags: [cendol, dessert, shaved ice, sweet, food, malaysian]
+
+- name: ais-kacang
+  file: local/ais-kacang.png
+  tags: [ais kacang, abc, shaved ice, dessert, sweet, food, malaysian]
+
+- name: rendang
+  file: local/rendang.png
+  tags: [rendang, beef, curry, food, hari raya, malaysian]
+
+- name: satay
+  file: local/satay.png
+  tags: [satay, skewers, grilled meat, peanut sauce, food, malaysian]
+
+- name: tandas-cangkung
+  file: local/tandas-cangkung.png
+  tags: [squat toilet, toilet, bathroom, malaysian]
+
+- name: gayung
+  file: local/gayung.png
+  tags: [gayung, water dipper, scoop, bucket, bathroom, toilet, wash]
+
+- name: kain-batik
+  file: local/kain-batik.png
+  tags: [batik, sarong, cloth, clothes, malaysian]
+
+- name: kain-pelikat
+  file: local/kain-pelikat.png
+  tags: [kain pelikat, sarong, cloth, clothes, malaysian]
+
+- name: songkok
+  file: local/songkok.png
+  tags: [songkok, cap, hat, clothes, malay]
+
+- name: baju-kurung
+  file: local/baju-kurung.png
+  tags: [baju kurung, dress, clothes, traditional, malay, girl]
+
+- name: baju-melayu
+  file: local/baju-melayu.png
+  tags: [baju melayu, clothes, traditional, malay, boy, sampin]
+
+- name: wuduk
+  file: local/wuduk.png
+  tags: [wudu, ablution, wash, prayer, islam, muslim]
+
+- name: sahur
+  file: local/sahur.png
+  tags: [sahur, suhoor, ramadan, fasting, family, meal, islam, muslim]
+
+- name: deepavali
+  file: local/deepavali.png
+  tags: [deepavali, diwali, festival, lamps, kolam, hindu, indian, celebration]
+
+- name: hari-merdeka
+  file: local/hari-merdeka.png
+  tags: [merdeka, independence day, national day, malaysia, flag, celebration]
+
+- name: aidiladha
+  file: local/aidiladha.png
+  tags: [eid al adha, aidiladha, hari raya haji, festival, islam, muslim, celebration]
+
+- name: gawai
+  file: local/gawai.png
+  tags: [gawai, harvest festival, sarawak, iban, dayak, celebration, dance]
+
+- name: thaipusam
+  file: local/thaipusam.png
+  tags: [thaipusam, festival, hindu, indian, celebration]
+
+- name: wesak
+  file: local/wesak.png
+  tags: [wesak, vesak, buddhist, festival, lotus, celebration]
+
+- name: duit-raya
+  file: local/duit-raya.png
+  tags: [duit raya, money packet, hari raya, eid, money, gift]
+
+- name: school-uniform-boy
+  file: local/school-uniform-boy.png
+  tags: [school uniform, uniform, boy, student, school, clothes]
+
+- name: school-uniform-girl
+  file: local/school-uniform-girl.png
+  tags: [school uniform, uniform, girl, student, school, clothes, tudung]
+
+- name: pengawas
+  file: local/pengawas.png
+  tags: [prefect, school prefect, student, school]
+
+- name: pasar-malam
+  file: local/pasar-malam.png
+  tags: [night market, pasar malam, market, stalls, shopping, malaysian]
+
+- name: kedai-runcit
+  file: local/kedai-runcit.png
+  tags: [sundry shop, grocery, shop, malaysian]
+
+- name: mamak
+  file: local/mamak.png
+  tags: [mamak, restaurant, indian muslim restaurant, eat, malaysian]
+
+- name: rumah-kampung
+  file: local/rumah-kampung.png
+  tags: [kampung house, village house, wooden house, stilts, home, malay]
+
+- name: congkak
+  file: local/congkak.png
+  tags: [congkak, board game, game, traditional, malaysian]
+
+- name: sepak-takraw
+  file: local/sepak-takraw.png
+  tags: [sepak takraw, sport, rattan ball, kick, malaysian]
+
+- name: batu-seremban
+  file: local/batu-seremban.png
+  tags: [batu seremban, five stones, game, traditional, malaysian]
+
+- name: wau-bulan
+  file: local/wau-bulan.png
+  tags: [wau bulan, moon kite, kite, traditional, malaysian]
+
+- name: silat
+  file: local/silat.png
+  tags: [silat, martial arts, sport, traditional, malay]
+
+- name: orang-utan
+  file: local/orang-utan.png
+  tags: [orang utan, orangutan, ape, animal, borneo]
+
+- name: tapir
+  file: local/tapir.png
+  tags: [tapir, malayan tapir, animal]
+
+- name: kolam
+  file: local/kolam.png
+  tags: [kolam, rangoli, deepavali, pattern, indian, hindu]
+
+- name: pelita
+  file: local/pelita.png
+  tags: [oil lamp, diya, lamp, deepavali, hari raya, light]
+
+- name: sari
+  file: local/sari.png
+  tags: [sari, saree, dress, clothes, indian, woman, deepavali]
+
+- name: kurta
+  file: local/kurta.png
+  tags: [kurta, clothes, indian, boy, deepavali]
+
+- name: murukku
+  file: local/murukku.png
+  tags: [murukku, muruku, snack, deepavali, indian, food]
+
+- name: ladoo
+  file: local/ladoo.png
+  tags: [ladoo, laddu, mithai, indian sweets, sweets, deepavali, food]
+
+- name: inai
+  file: local/inai.png
+  tags: [henna, mehndi, hand, pattern, wedding, deepavali, hari raya]
+
+- name: kalungan-bunga
+  file: local/kalungan-bunga.png
+  tags: [flower garland, garland, marigold, jasmine, deepavali, indian]
+
+- name: kuil-hindu
+  file: local/kuil-hindu.png
+  tags: [hindu temple, temple, gopuram, indian, hindu, place of worship]
+
+- name: mandi-minyak
+  file: local/mandi-minyak.png
+  tags: [oil bath, deepavali, morning, sesame oil, hair, indian]
+
+- name: pottu
+  file: local/pottu.png
+  tags: [pottu, bindi, forehead, indian, girl]
+
+- name: selamat-deepavali
+  file: local/selamat-deepavali.png
+  tags: [happy deepavali, greeting, vanakkam, family, deepavali, indian]
+
+- name: nasi-daun-pisang
+  file: local/nasi-daun-pisang.png
+  tags: [banana leaf rice, rice, curry, food, indian, malaysian]
+
+- name: teh-tarik-mug
+  file: local/teh-tarik-mug.png
+  tags: [teh tarik, tea, milk tea, mug, glass, drink, malaysian]

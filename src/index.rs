@@ -364,7 +364,7 @@ mod tests {
     }
 
     /// Malay searches that must keep passing. Raise it as search improves.
-    const MS_FLOOR: usize = 84;
+    const MS_FLOOR: usize = 95;
 
     fn found(case: &Case, results: &[&Symbol]) -> bool {
         results.iter().take(5).any(|symbol| {
