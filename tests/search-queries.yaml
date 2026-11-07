@@ -133,3 +133,18 @@
 - { q: "hi", lang: en, expect: ["hi", "hello"], avoid: ["hibernate", "his"] }
 - { q: "dogs", lang: en, expect: ["dog", "dogs"] }
 - { q: "berry", lang: en, expect: ["berry"] }
+
+# Real searches that found nothing on 2026-11-07: endings and joined words.
+- { q: "showering", lang: en, expect: ["shower"] }
+- { q: "nasilemak", lang: ms, expect: ["nasi"] }
+- { q: "bajusekolah", lang: ms, expect: ["uniform"] }
+- { q: "whining", lang: en, expect: ["cry", "crying"] }
+- { q: "merengek", lang: ms, expect: ["cry", "crying"] }
+- { q: "lychee", lang: en, expect: ["lychee"] }
+- { q: "laici", lang: ms, expect: ["lychee"] }
+- { q: "air kotak", lang: ms, expect: ["drink", "tea", "milk"] }
+- { q: "air kekwa", lang: ms, expect: ["chrysanthemum"] }
+- { q: "air soya", lang: ms, expect: ["soy"] }
+- { q: "chrysanthemum", lang: en, expect: ["chrysanthemum"] }
+- { q: "air kelapa", lang: ms, expect: ["coconut"] }
+- { q: "coconut water", lang: en, expect: ["water"] }

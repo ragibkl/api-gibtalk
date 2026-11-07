@@ -33,6 +33,11 @@ PICTURES = [
     # Fruit and treats
     ("durian", "a whole spiky green durian fruit next to a split open durian showing its pale yellow flesh"),
     ("rambutan", "a small bunch of hairy red rambutan fruits, one peeled open showing the white flesh"),
+    ("lychee", "a small bunch of round red lychee fruits with bumpy skin on a twig with two green leaves, one peeled open showing the juicy white translucent flesh"),
+    ("air-kotak-laici", "a small rectangular drink box (juice box) with a white bendy straw pushed into the top corner, plain colours, NO brand name, NO words, NO logo on the box: the box is pink and white with a picture of red lychee fruits, one peeled showing white flesh"),
+    ("air-kotak-kekwa", "a small rectangular drink box (juice box) with a white bendy straw pushed into the top corner, plain colours, NO brand name, NO words, NO logo on the box: the box is yellow and green with a picture of small yellow chrysanthemum flowers"),
+    ("air-kotak-soya", "a small rectangular drink box (juice box) with a white bendy straw pushed into the top corner, plain colours, NO brand name, NO words, NO logo on the box: the box is cream and green with a picture of pale yellow soybeans and a green soybean pod"),
+    ("air-kelapa", "a Malaysian young green coconut drink: a whole green young coconut with its top cut open, a straw sticking out of it, a little clear coconut water visible inside"),
     ("manggis", "a purple mangosteen fruit with green top next to one cut open showing its white segments"),
     ("cendol", "a bowl of Malaysian cendol: shaved ice with green jelly strands, red beans, coconut milk and brown palm sugar syrup"),
     ("ais-kacang", "a bowl of Malaysian ais kacang: a tall mound of shaved ice with red and green syrup, sweet corn, red beans and jelly cubes"),

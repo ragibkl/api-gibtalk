@@ -238,6 +238,26 @@
   file: local/manggis.png
   tags: [mangosteen, manggis, fruit, food, malaysian]
 
+- name: lychee
+  file: local/lychee.png
+  tags: [lychee, litchi, fruit, food]
+
+- name: lychee-drink
+  file: local/air-kotak-laici.png
+  tags: [lychee drink, lychee, drink box, juice box, drink, malaysian]
+
+- name: chrysanthemum-tea
+  file: local/air-kotak-kekwa.png
+  tags: [chrysanthemum tea, chrysanthemum drink, chrysanthemum, drink box, juice box, drink, malaysian]
+
+- name: soy-milk
+  file: local/air-kotak-soya.png
+  tags: [soy milk, soya milk, soya bean drink, soy drink, drink box, juice box, drink, malaysian]
+
+- name: coconut-water
+  file: local/air-kelapa.png
+  tags: [coconut water, coconut drink, young coconut, coconut, drink, malaysian]
+
 - name: cendol
   file: local/cendol.png
   tags: [cendol, dessert, shaved ice, sweet, food, malaysian]

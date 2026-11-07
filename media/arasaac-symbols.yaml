@@ -10387,15 +10387,15 @@
 
 - name: cry-variant-3
   file: cry_3.png
-  tags: [cry, emotion, sad, tears, face, feeling, upset, weep, expression, unhappy]
+  tags: [cry, emotion, sad, tears, face, feeling, upset, weep, expression, unhappy, whining, whine]
 
 - name: crying
   file: crying.png
-  tags: [crying, emotion, sad, tears, face, feeling, upset, weep, expression, unhappy]
+  tags: [crying, emotion, sad, tears, face, feeling, upset, weep, expression, unhappy, whining, whine]
 
 - name: cry
   file: cry.png
-  tags: [cry, emotion, sad, tears, face, feeling, upset, weep, expression, unhappy]
+  tags: [cry, emotion, sad, tears, face, feeling, upset, weep, expression, unhappy, whining, whine]
 
 - name: crypt
   file: crypt.png
