@@ -46,7 +46,7 @@ PICTURES = [
     ("baju-kurung", "a Malay girl wearing a pink baju kurung: long loose top and long matching skirt with a small flower pattern"),
     ("baju-melayu", "a Malay boy wearing a blue baju melayu: loose long-sleeved top and matching trousers, with a short patterned sampin cloth at the waist and a black songkok"),
     # Faith and festivals
-    ("wuduk", "a Malay boy with a white cap washing his forearms under a running tap, doing wuduk ablution before prayer"),
+    ("wuduk", "a Malay boy with a white cap and rolled up sleeves washing his forearm under a water tap fixed on a tiled wall, at a Malaysian surau ablution area: no sink or basin, the water falls straight down to a tiled floor channel with a drain"),
     ("sahur", "a Malay family eating together at a table before dawn, the window behind them showing a dark sky with a crescent moon and stars"),
     ("deepavali", "Deepavali: three small lit clay oil lamps in front of a colourful round kolam floor pattern"),
     ("hari-merdeka", "Malaysian children waving small Malaysian flags and cheering on Independence Day"),
