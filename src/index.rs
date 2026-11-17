@@ -23,6 +23,8 @@ const WHOLE_WORD_SCORE: i32 = 50;
 /// words with hand edits) and Spanish (ARASAAC's own keywords). A missing file
 /// just leaves that language out.
 const TRANSLATION_FILES: [&str; 2] = ["words-ms.yaml", "words-es.yaml"];
+/// Spanish's place in TRANSLATION_FILES.
+const SPANISH: usize = 1;
 
 #[derive(Debug, Clone)]
 pub struct Symbol {
@@ -170,15 +172,20 @@ impl Symbol {
             .fold(Fit::None, |best, f| if f > best { f } else { best })
     }
 
-    /// The best-fitting Malay or Spanish word and its place in its language's
-    /// list, earliest on a tie.
-    fn best_translated_fit(&self, query: &Query) -> (Fit, usize) {
+    /// The best-fitting Malay or Spanish word, its place in its language's
+    /// list (earliest on a tie), and the language's place in TRANSLATION_FILES.
+    fn best_translated_fit(&self, query: &Query) -> (Fit, usize, usize) {
         self.translated_texts
             .iter()
-            .flat_map(|words| words.iter().enumerate())
-            .map(|(position, word)| (fit(word, query), position))
+            .enumerate()
+            .flat_map(|(language, words)| {
+                words
+                    .iter()
+                    .enumerate()
+                    .map(move |(position, word)| (fit(word, query), position, language))
+            })
             .fold(
-                (Fit::None, 0),
+                (Fit::None, 0, 0),
                 |best, next| {
                     if next.0 > best.0 {
                         next
@@ -402,10 +409,21 @@ impl SymbolIndex {
 
         // Rank each language on its own, then let them share the top places.
         let (mut english, mut malay) = (Vec::new(), Vec::new());
+        // Malaysians mix Malay and English, so "air" shows both meanings at the
+        // top. Spanish isn't mixed in like that: when the search is the name of
+        // a symbol in English, Spanish words that happen to match ("water" is
+        // also Spanish for toilet) come after the English results.
+        let english_name = self
+            .symbols
+            .iter()
+            .any(|s| fit(&s.name_text, &phrase) == Fit::Exact);
         for symbol in &self.symbols {
             let english_score = symbol.english_score(&phrase);
-            let (malay_fit, position) = symbol.best_translated_fit(&phrase);
-            let malay_score = Symbol::translated_score(malay_fit);
+            let (malay_fit, position, language) = symbol.best_translated_fit(&phrase);
+            let mut malay_score = Symbol::translated_score(malay_fit);
+            if language == SPANISH && english_name {
+                malay_score = malay_score.min(SHARED_WORD_SCORE - 1);
+            }
 
             if malay_score > english_score {
                 malay.push(Hit {
@@ -532,6 +550,33 @@ mod tests {
         assert!(bad.is_empty(), "unwanted results: {bad:?}");
         assert!(ms_passed >= MS_FLOOR, "Malay fell to {ms_passed}");
         assert!(es_passed >= ES_FLOOR, "Spanish fell to {es_passed}");
+    }
+
+    #[test]
+    fn english_names_lead_over_spanish_words() {
+        let index = SymbolIndex::load("./media");
+        let top = |q| -> Vec<String> {
+            index
+                .search(q, 100)
+                .iter()
+                .take(3)
+                .map(|s| s.name.clone())
+                .collect()
+        };
+
+        // "water" is also Spanish for toilet; "red" is Spanish for net.
+        assert!(
+            top("water").iter().all(|n| n.starts_with("water")),
+            "{:?}",
+            top("water")
+        );
+        assert!(
+            top("red").iter().all(|n| n.starts_with("red")),
+            "{:?}",
+            top("red")
+        );
+        // Spanish on its own still finds its pictures.
+        assert!(top("amigo").iter().any(|n| n.starts_with("friend")));
     }
 
     #[test]
