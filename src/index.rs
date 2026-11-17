@@ -19,9 +19,10 @@ const MIN_WORD_LEN: usize = 3;
 const SHARED_WORD_SCORE: i32 = 60;
 /// Lowest score for a whole-word match.
 const WHOLE_WORD_SCORE: i32 = 50;
-/// Malay words for each symbol, by path under media. Remove it and search is
-/// English only.
-const MALAY_WORDS_FILE: &str = "words-ms.yaml";
+/// Words in other languages for each symbol, by path under media: Malay (AI
+/// words with hand edits) and Spanish (ARASAAC's own keywords). A missing file
+/// just leaves that language out.
+const TRANSLATION_FILES: [&str; 2] = ["words-ms.yaml", "words-es.yaml"];
 
 #[derive(Debug, Clone)]
 pub struct Symbol {
@@ -30,7 +31,8 @@ pub struct Symbol {
     /// Name and tags as `padded()` text, built once at load.
     name_text: String,
     tag_texts: Vec<String>,
-    malay_texts: Vec<String>,
+    /// One list per language in TRANSLATION_FILES, main word first.
+    translated_texts: Vec<Vec<String>>,
 }
 
 #[derive(Debug, Clone)]
@@ -148,11 +150,14 @@ fn fit(text: &str, query: &Query) -> Fit {
 }
 
 impl Symbol {
-    fn new(name: String, file: String, tags: &[String], malay: &[String]) -> Self {
+    fn new(name: String, file: String, tags: &[String], translations: &[&[String]]) -> Self {
         Symbol {
             name_text: padded(&name),
             tag_texts: tags.iter().map(|tag| padded(tag)).collect(),
-            malay_texts: malay.iter().map(|word| padded(word)).collect(),
+            translated_texts: translations
+                .iter()
+                .map(|words| words.iter().map(|word| padded(word)).collect())
+                .collect(),
             name,
             file,
         }
@@ -165,11 +170,12 @@ impl Symbol {
             .fold(Fit::None, |best, f| if f > best { f } else { best })
     }
 
-    /// The best-fitting Malay word and its place in the list, earliest on a tie.
-    fn best_malay_fit(&self, query: &Query) -> (Fit, usize) {
-        self.malay_texts
+    /// The best-fitting Malay or Spanish word and its place in its language's
+    /// list, earliest on a tie.
+    fn best_translated_fit(&self, query: &Query) -> (Fit, usize) {
+        self.translated_texts
             .iter()
-            .enumerate()
+            .flat_map(|words| words.iter().enumerate())
             .map(|(position, word)| (fit(word, query), position))
             .fold(
                 (Fit::None, 0),
@@ -200,11 +206,14 @@ impl Symbol {
         }
     }
 
-    /// Malay words score the same as English tags.
-    fn malay_score(fit: Fit) -> i32 {
+    /// Malay and Spanish words score like English tags, except that a word
+    /// starting the phrase beats one inside it: "mano" (hand) finds "manos"
+    /// (hands) before "meter la mano en el pantalón".
+    fn translated_score(fit: Fit) -> i32 {
         match fit {
             Fit::Exact => SHARED_WORD_SCORE,
-            Fit::WordsAtStart | Fit::Words => WHOLE_WORD_SCORE,
+            Fit::WordsAtStart => WHOLE_WORD_SCORE + 5,
+            Fit::Words => WHOLE_WORD_SCORE,
             Fit::Prefix => 35,
             Fit::Inside => 25,
             Fit::None => 0,
@@ -222,7 +231,7 @@ impl Symbol {
                 let best = [
                     fit(&self.name_text, term),
                     self.best_tag_fit(term),
-                    self.best_malay_fit(term).0,
+                    self.best_translated_fit(term).0,
                 ]
                 .into_iter()
                 .fold(Fit::None, |best, f| if f > best { f } else { best });
@@ -250,13 +259,12 @@ fn alternate<'a>(first: &[Hit<'a>], second: &[Hit<'a>]) -> Vec<&'a Symbol> {
     merged
 }
 
-fn load_malay_words(media_path: &Path) -> HashMap<String, Vec<String>> {
-    let Ok(content) = std::fs::read_to_string(media_path.join(MALAY_WORDS_FILE)) else {
-        tracing::warn!("no {} found, search is English only", MALAY_WORDS_FILE);
+fn load_translations(media_path: &Path, file: &str) -> HashMap<String, Vec<String>> {
+    let Ok(content) = std::fs::read_to_string(media_path.join(file)) else {
+        tracing::warn!("no {} found, search leaves that language out", file);
         return HashMap::new();
     };
-    serde_yaml_ng::from_str(&content)
-        .unwrap_or_else(|_| panic!("failed to parse {}", MALAY_WORDS_FILE))
+    serde_yaml_ng::from_str(&content).unwrap_or_else(|_| panic!("failed to parse {}", file))
 }
 
 impl SymbolIndex {
@@ -264,7 +272,10 @@ impl SymbolIndex {
         let mut symbols = Vec::new();
 
         let media_path = Path::new(media_dir);
-        let malay_words = load_malay_words(media_path);
+        let translations: Vec<_> = TRANSLATION_FILES
+            .iter()
+            .map(|file| load_translations(media_path, file))
+            .collect();
         let mut entries: Vec<_> = std::fs::read_dir(media_path)
             .expect("failed to read media directory")
             .flatten()
@@ -292,9 +303,12 @@ impl SymbolIndex {
 
             for entry in entries {
                 let path = format!("{}/{}", library, entry.file);
-                let malay = malay_words.get(&path).map_or(&[][..], Vec::as_slice);
+                let words: Vec<&[String]> = translations
+                    .iter()
+                    .map(|language| language.get(&path).map_or(&[][..], Vec::as_slice))
+                    .collect();
                 let file = format!("media/{}", path);
-                symbols.push(Symbol::new(entry.name, file, &entry.tags, malay));
+                symbols.push(Symbol::new(entry.name, file, &entry.tags, &words));
             }
         }
 
@@ -304,7 +318,7 @@ impl SymbolIndex {
             let own: HashSet<&str> = symbol
                 .tag_texts
                 .iter()
-                .chain(&symbol.malay_texts)
+                .chain(symbol.translated_texts.iter().flatten())
                 .chain([&symbol.name_text])
                 .flat_map(|text| text.split_whitespace())
                 .collect();
@@ -358,10 +372,13 @@ impl SymbolIndex {
     /// "nasilemak" → "nasi lemak". Both words must belong to one symbol, or
     /// "youtube" would become "you tube" and find every "are you...".
     fn split_joined(&self, query: &str) -> Option<String> {
-        let known = |word: &str| word.chars().count() >= MIN_WORD_LEN && self.words.contains_key(word);
+        let known =
+            |word: &str| word.chars().count() >= MIN_WORD_LEN && self.words.contains_key(word);
         let together = |first: &str, second: &str| {
             let terms = [Query::new(first), Query::new(second)];
-            self.symbols.iter().any(|s| s.partial_score(&terms, &[0, 0]) == 20)
+            self.symbols
+                .iter()
+                .any(|s| s.partial_score(&terms, &[0, 0]) == 20)
         };
         query
             .char_indices()
@@ -387,8 +404,8 @@ impl SymbolIndex {
         let (mut english, mut malay) = (Vec::new(), Vec::new());
         for symbol in &self.symbols {
             let english_score = symbol.english_score(&phrase);
-            let (malay_fit, position) = symbol.best_malay_fit(&phrase);
-            let malay_score = Symbol::malay_score(malay_fit);
+            let (malay_fit, position) = symbol.best_translated_fit(&phrase);
+            let malay_score = Symbol::translated_score(malay_fit);
 
             if malay_score > english_score {
                 malay.push(Hit {
@@ -461,6 +478,8 @@ mod tests {
 
     /// Malay searches that must keep passing. Raise it as search improves.
     const MS_FLOOR: usize = 104;
+    /// Spanish searches that must keep passing.
+    const ES_FLOOR: usize = 21;
 
     fn found(case: &Case, results: &[&Symbol]) -> bool {
         results.iter().take(5).any(|symbol| {
@@ -486,12 +505,16 @@ mod tests {
         let cases: Vec<Case> = serde_yaml_ng::from_str(&text).unwrap();
 
         let (mut en_failed, mut ms_passed, mut ms_total, mut bad) = (vec![], 0, 0, vec![]);
+        let (mut es_passed, mut es_total) = (0, 0);
         for case in &cases {
             let results = index.search(&case.q, 100);
             let ok = found(case, &results);
             if case.lang == "ms" {
                 ms_total += 1;
                 ms_passed += ok as usize;
+            } else if case.lang == "es" {
+                es_total += 1;
+                es_passed += ok as usize;
             } else if !ok {
                 en_failed.push(case.q.clone());
             }
@@ -504,10 +527,11 @@ mod tests {
             }
         }
 
-        println!("Malay {ms_passed}/{ms_total}");
+        println!("Malay {ms_passed}/{ms_total}, Spanish {es_passed}/{es_total}");
         assert!(en_failed.is_empty(), "English misses: {en_failed:?}");
         assert!(bad.is_empty(), "unwanted results: {bad:?}");
         assert!(ms_passed >= MS_FLOOR, "Malay fell to {ms_passed}");
+        assert!(es_passed >= ES_FLOOR, "Spanish fell to {es_passed}");
     }
 
     #[test]

@@ -18,7 +18,7 @@ REST API backend for the [GibTalk AAC (Augmentative and Alternative Communicatio
 GET /api/symbols/search/?q={query}
 ```
 
-Searches symbol names, tags and Malay words (`media/words-ms.yaml`) across all libraries. Words with a meaning in both languages, like "air", take turns in the results. Returns up to 100 results, best first: whole words, then the start of a word (4+ letters), then inside a word (5+ letters). `tests/search-queries.yaml` lists what search should find; `cargo test search_quality -- --nocapture` prints the score. A single word that finds nothing is tried again without its English ending ("showering" → "shower") or split into two words that share a symbol ("nasilemak" → "nasi lemak").
+Searches symbol names, tags, Malay words (`media/words-ms.yaml`) and Spanish words (`media/words-es.yaml`, ARASAAC's own Spanish keywords; see `scripts/spanish-words`) across all libraries. Words with a meaning in more than one language, like "air" or "pan", take turns in the results. Returns up to 100 results, best first: whole words, then the start of a word (4+ letters), then inside a word (5+ letters). `tests/search-queries.yaml` lists what search should find; `cargo test search_quality -- --nocapture` prints the score. A single word that finds nothing is tried again without its English ending ("showering" → "shower") or split into two words that share a symbol ("nasilemak" → "nasi lemak").
 
 **Example:**
 

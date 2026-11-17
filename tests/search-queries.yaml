@@ -148,3 +148,28 @@
 - { q: "chrysanthemum", lang: en, expect: ["chrysanthemum"] }
 - { q: "air kelapa", lang: ms, expect: ["coconut"] }
 - { q: "coconut water", lang: en, expect: ["water"] }
+
+# Spanish (ARASAAC's own keywords, media/words-es.yaml). The first seven are
+# real searches from Madrid on 6-17 Nov 2026 that found nothing, each retried
+# in English straight after.
+- { q: "amigo", lang: es, expect: ["friend"] }
+- { q: "hermano", lang: es, expect: ["brother"] }
+- { q: "agosto", lang: es, expect: ["august"] }
+- { q: "abril", lang: es, expect: ["april"] }
+- { q: "bicicleta", lang: es, expect: ["bicycle", "bike"] }
+- { q: "hola", lang: es, expect: ["hello", "hi"] }
+- { q: "expresiones", lang: es, expect: ["expressions", "expression", "talk"] }
+- { q: "yo", lang: es, expect: ["i", "me"] }
+- { q: "quiero", lang: es, expect: ["want"] }
+- { q: "comer", lang: es, expect: ["eat"] }
+- { q: "beber", lang: es, expect: ["drink"] }
+- { q: "agua", lang: es, expect: ["water"] }
+- { q: "más", lang: es, expect: ["more"] }
+- { q: "baño", lang: es, expect: ["bathroom", "toilet", "bath"] }
+- { q: "ayuda", lang: es, expect: ["help"] }
+- { q: "mamá", lang: es, expect: ["mother", "mum", "mom", "mommy"] }
+- { q: "papá", lang: es, expect: ["father", "dad", "daddy"] }
+- { q: "jugar", lang: es, expect: ["play"] }
+- { q: "colegio", lang: es, expect: ["school"] }
+- { q: "perro", lang: es, expect: ["dog"] }
+- { q: "mano", lang: es, expect: ["hands", "hand"] }
