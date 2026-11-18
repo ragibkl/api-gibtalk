@@ -456,4 +456,18 @@ mod tests {
         .unwrap();
         Templates::load(dir.to_str().unwrap(), "./media");
     }
+
+    /// Boards, templates and share links already out there name pictures by
+    /// path. A picture may be added, never renamed or removed: list new ones
+    /// with scripts/list-media.sh.
+    #[test]
+    fn served_media_paths_never_disappear() {
+        let listed = std::fs::read_to_string("tests/media-paths.txt").unwrap();
+        let missing: Vec<&str> = listed
+            .lines()
+            .filter(|path| !path.is_empty())
+            .filter(|path| !std::path::Path::new("media").join(path).is_file())
+            .collect();
+        assert!(missing.is_empty(), "media files gone: {missing:?}");
+    }
 }

@@ -131,3 +131,7 @@ from a style sheet; `scripts/songs-images/` has the prompts and script. The
 made the same way, in the style of the library pictograms; see
 `scripts/pk-images/`.
 See [gibtalk.com/symbols](https://gibtalk.com/symbols/#credits) for full credits.
+
+## Pictures never move
+
+Boards in the app, templates and share links name pictures by their path under `/media/`. Add pictures freely, but never rename or remove one: `tests/media-paths.txt` lists every served picture, and the `served_media_paths_never_disappear` test (run on every PR) fails if one is gone. After adding pictures, run `scripts/list-media.sh`.
